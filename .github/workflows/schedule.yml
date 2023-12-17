@@ -39,8 +39,8 @@ jobs:
       if: steps.git-status.outputs.changed == 'true'
       run: |
         echo start push
-        git config --global user.name "filedos"
-        git config --global user.email "filedos@126.com"
+        git config --global user.name "zhaoxiaoha"
+        git config --global user.email "aowo5566@gmail.com"
         
         git add -A
         git commit -m $(date '+%Y-%m-%d')
