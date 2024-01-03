@@ -1,6 +1,12 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-03】[AntonioErdeljac / next-auth-v5-advanced-guide](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide) - 
+* 【2024-01-03】[firefly-iii / firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+* 【2024-01-03】[UdaraJay / Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
+* 【2024-01-03】[tailcallhq / tailcall](https://github.com/tailcallhq/tailcall) - A high-performance no-code GraphQL backend
+* 【2024-01-03】[ublue-os / bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs.
+* 【2024-01-03】[tiann / KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 * 【2024-01-02】[janhq / jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 * 【2024-01-02】[hack-ink / atomicalsir](https://github.com/hack-ink/atomicalsir) - 
 * 【2024-01-02】[tyxsspa / AnyText](https://github.com/tyxsspa/AnyText) - 
@@ -204,6 +210,17 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-01-03】[gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+* 【2024-01-03】[IntellectualSites / PlotSquared](https://github.com/IntellectualSites/PlotSquared) - PlotSquared - Reinventing the plotworld
+* 【2024-01-03】[MinecraftForge / MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/
+* 【2024-01-03】[LSPosed / LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
+* 【2024-01-03】[tonikelope / megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
+* 【2024-01-03】[grpc / grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
+* 【2024-01-03】[amitshekhariitbhu / android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
+* 【2024-01-03】[logisim-evolution / logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
+* 【2024-01-03】[NextAlone / Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
+* 【2024-01-03】[exteraSquad / exteraGram](https://github.com/exteraSquad/exteraGram) - Telegram client based on Android sources with new features
+* 【2024-01-03】[4ra1n / super-xray](https://github.com/4ra1n/super-xray) - Web漏洞扫描工具XRAY的GUI启动器
 * 【2024-01-02】[kumaransg / LLD](https://github.com/kumaransg/LLD) - Curated Collection of all Low level design Questions and implementation asked in major Tech companies , Get yourself prepared for the LLD round and ace the interview.
 * 【2024-01-02】[QuantumBadger / RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
 * 【2024-01-02】[AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
@@ -460,6 +477,18 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-03】[lucidrains / DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
+* 【2024-01-03】[yihong0618 / gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
+* 【2024-01-03】[frappe / erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
+* 【2024-01-03】[jekalmin / extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
+* 【2024-01-03】[langroid / langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
+* 【2024-01-03】[iam-veeramalla / aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) - AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
+* 【2024-01-03】[kholia / OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+* 【2024-01-03】[hacs / integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
+* 【2024-01-03】[Qiskit / qiskit](https://github.com/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.
+* 【2024-01-03】[SocialSisterYi / CxKitty](https://github.com/SocialSisterYi/CxKitty) - 超星学习通答题姬（视频文档观看、模拟答题，无需浏览器、无需油猴，容器/host 运行ok！
+* 【2024-01-03】[dqzg12300 / fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
+* 【2024-01-03】[Nriver / Episode-ReName](https://github.com/Nriver/Episode-ReName) - 电视剧/番剧自动化重命名工具, 一键批量改名. 可配合QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行
 * 【2024-01-02】[theOneAndOnlyOne / BeReel](https://github.com/theOneAndOnlyOne/BeReel) - Generate a custom timelapse of all your memories from BeReal
 * 【2024-01-02】[joaomdmoura / crewAI-examples](https://github.com/joaomdmoura/crewAI-examples) - 
 * 【2024-01-02】[Kanaries / pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
@@ -693,6 +722,11 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-03】[zadam / trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+* 【2024-01-03】[HabitRPG / habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
+* 【2024-01-03】[spicetify / spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+* 【2024-01-03】[DIYgod / RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+* 【2024-01-03】[leochen-g / wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘书客户端，搭配
 * 【2024-01-02】[easydiffusion / easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
 * 【2024-01-02】[processing / p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
 * 【2024-01-02】[Orange-Cyberdefense / GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
@@ -936,6 +970,18 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-03】[slackhq / nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+* 【2024-01-03】[googleapis / google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
+* 【2024-01-03】[projectdiscovery / subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
+* 【2024-01-03】[assimon / epusdt](https://github.com/assimon/epusdt) - 开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt
+* 【2024-01-03】[iawia002 / lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+* 【2024-01-03】[Jrohy / trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
+* 【2024-01-03】[projectdiscovery / katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
+* 【2024-01-03】[keybase / client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
+* 【2024-01-03】[projectdiscovery / httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+* 【2024-01-03】[gravitl / netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+* 【2024-01-03】[gravitational / teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
+* 【2024-01-03】[smartcontractkit / chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
 * 【2024-01-02】[techschool / simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go
 * 【2024-01-02】[Mrs4s / go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
 * 【2024-01-02】[rclone / rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -1184,6 +1230,15 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-01-03】[Gnucash / gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program.
+* 【2024-01-03】[0015 / ThatProject](https://github.com/0015/ThatProject) - *That Project's project repository
+* 【2024-01-03】[Ralim / IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
+* 【2024-01-03】[fastfetch-cli / fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
+* 【2024-01-03】[OpenMathLib / OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
+* 【2024-01-03】[tsoding / nobuild](https://github.com/tsoding/nobuild) - Header only library for writing build recipes in C.
+* 【2024-01-03】[nesbox / TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
+* 【2024-01-03】[raspberrypi / pico-examples](https://github.com/raspberrypi/pico-examples) - 
+* 【2024-01-03】[hackerhouse-opensource / Artillery](https://github.com/hackerhouse-opensource/Artillery) - CIA UAC bypass implementation that utilizes elevated COM object to write to System32 and an auto-elevated process to execute as administrator.
 * 【2024-01-02】[TheAlgorithms / C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 * 【2024-01-02】[BitMaker-hub / NerdMiner_v2](https://github.com/BitMaker-hub/NerdMiner_v2) - Improved version of first ESP32 NerdMiner
 * 【2024-01-02】[HansKristian-Work / vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
@@ -1380,6 +1435,14 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-01-03】[praydog / UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4/5)
+* 【2024-01-03】[endless-sky / endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
+* 【2024-01-03】[praydog / REFramework](https://github.com/praydog/REFramework) - Scripting platform, modding framework and VR support for all RE Engine games
+* 【2024-01-03】[geode-sdk / geode](https://github.com/geode-sdk/geode) - The ultimate Geometry Dash modding toolkit
+* 【2024-01-03】[ml-explore / mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
+* 【2024-01-03】[scottbez1 / smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
+* 【2024-01-03】[TobyAdd / GDH](https://github.com/TobyAdd/GDH) - Cheat menu for Geometry Dash. Powered by ImGui
+* 【2024-01-03】[transmission / transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 * 【2024-01-02】[me-no-dev / ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
 * 【2024-01-02】[dolphin-emu / dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 * 【2024-01-02】[thelastoutpostworkshop / gpio_viewer](https://github.com/thelastoutpostworkshop/gpio_viewer) - GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards
@@ -1587,6 +1650,13 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-03】[yourtablecloth / TableCloth](https://github.com/yourtablecloth/TableCloth) - 식탁보 프로젝트
+* 【2024-01-03】[leiurayer / downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+* 【2024-01-03】[OrchardCMS / OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
+* 【2024-01-03】[subhra74 / xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+* 【2024-01-03】[FNA-XNA / FNA](https://github.com/FNA-XNA/FNA) - FNA - Accuracy-focused XNA4 reimplementation for open platforms
+* 【2024-01-03】[stayintarkov / StayInTarkov.Client](https://github.com/stayintarkov/StayInTarkov.Client) - An Escape From Tarkov BepInEx module designed to be used with the SPT-Aki with the ultimate goal of "Offline" Coop
+* 【2024-01-03】[Super-Badmen-Viper / NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS（Nine Songs · Music World：九歌 · 音乐世界），open-source music software，music player
 * 【2024-01-02】[evolutionary-architecture / evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) - Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns. Go beyond the one-size-fits-all solutions and understand how to blend these approaches based on your unique needs.
 * 【2024-01-02】[openbullet / OpenBullet2](https://github.com/openbullet/OpenBullet2) - OpenBullet reinvented
 * 【2024-01-02】[lay295 / TwitchDownloader](https://github.com/lay295/TwitchDownloader) - Twitch VOD/Clip Downloader - Chat Download/Render/Replay
@@ -1786,6 +1856,11 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-03】[TandoorRecipes / recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
+* 【2024-01-03】[thedev-id / thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
+* 【2024-01-03】[ShoroukAziz / notion_widgets](https://github.com/ShoroukAziz/notion_widgets) - A set of HTML widgets that could be embedded into Notion.so https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/
+* 【2024-01-03】[akshitagupta15june / PetMe](https://github.com/akshitagupta15june/PetMe) - PetMe is an all-in-one platform that allows animals to be adopted, donated to pet lovers, and provides emergency medical care to stray animals in need. Star this repo⭐
+* 【2024-01-03】[tech2etc / Build-and-Deploy-Ecommerce-Website](https://github.com/tech2etc/Build-and-Deploy-Ecommerce-Website) - Learn How To Make Full Responsive Ecommerce Website Using HTML CSS & JavaScript. This is a free HTML CSS JavaScript Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step.
 * 【2024-01-02】[EvilCult / iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
 * 【2024-01-02】[NianBroken / Firework_Simulator](https://github.com/NianBroken/Firework_Simulator) - 烟花模拟器，一个模拟放烟花的网页，基于Firework Simulator v2的二次修改，我仅作翻译处理以及其他优化
 * 【2024-01-02】[boostorg / boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
@@ -1959,6 +2034,11 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-01-03】[saarthack / sidcup-family-golf](https://github.com/saarthack/sidcup-family-golf) - 
+* 【2024-01-03】[spicetify / spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
+* 【2024-01-03】[firtman / coffeemasters-vanilla](https://github.com/firtman/coffeemasters-vanilla) - 
+* 【2024-01-03】[Rainbell129 / Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
+* 【2024-01-03】[JAYESHBATRA / Virtuo-Learn](https://github.com/JAYESHBATRA/Virtuo-Learn) - Virtuo Learn is a platform that provides immersive learning experiences like never before. It offers simulations, 3D visualizations, customized quizzes, doubt engine, and videos, all in one place.
 * 【2024-01-02】[UndeadSec / SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
 * 【2024-01-02】[vicwomg / pikaraoke](https://github.com/vicwomg/pikaraoke) - Youtube-based Karaoke machine for Raspberry Pi, OSX, Windows, and Linux
 * 【2024-01-02】[jaysomani / firstspot](https://github.com/jaysomani/firstspot) - FirstSpot an heven for travellers who love to travel all around the world
@@ -2103,6 +2183,14 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-03】[GitHubDaily / GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+* 【2024-01-03】[kevinchwong / leetcode-intensive](https://github.com/kevinchwong/leetcode-intensive) - Leetcode Intensive tutorial and study guide generated by llama-index, networkx, scikit-learn and pydantic
+* 【2024-01-03】[DERE-ad2001 / Frida-Labs](https://github.com/DERE-ad2001/Frida-Labs) - The repo contains a series of challenges for learning Frida for Android Exploitation.
+* 【2024-01-03】[valeman / awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
+* 【2024-01-03】[WebKit / WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+* 【2024-01-03】[nahamsec / Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
+* 【2024-01-03】[kjfx / AX6000](https://github.com/kjfx/AX6000) - 小米 AX6000 科学上网，开启ssh刷机，AX6000 openwrt xiaomi shellclash
+* 【2024-01-03】[lxgw / LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
 * 【2024-01-02】[VictorEijkhout / TheArtofHPC_pdfs](https://github.com/VictorEijkhout/TheArtofHPC_pdfs) - All pdfs of Victor Eijkhout's Art of HPC books and courses
 * 【2024-01-02】[linuxadi / 40k-nuclei-templates](https://github.com/linuxadi/40k-nuclei-templates) - 40,000+ Nuclei templates for security scanning and detection across diverse web applications and services
 * 【2024-01-02】[VoronDesign / Voron-2](https://github.com/VoronDesign/Voron-2) - Voron 2 CoreXY 3D Printer design
