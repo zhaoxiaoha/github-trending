@@ -1,6 +1,13 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-06】[ChristianLempa / homelab](https://github.com/ChristianLempa/homelab) - This is my entire homelab documentation files. Here you'll find notes, setups, and configurations for infrastructure, applications, networking, and more.
+* 【2024-01-06】[llenotre / maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
+* 【2024-01-06】[zju3dv / street_gaussians](https://github.com/zju3dv/street_gaussians) - Code for "Street Gaussians for Modeling Dynamic Urban Scenes"
+* 【2024-01-06】[guoqincode / Open-AnimateAnyone](https://github.com/guoqincode/Open-AnimateAnyone) - Unofficial Implementation of Animate Anyone
+* 【2024-01-06】[puppeteer / puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
+* 【2024-01-06】[attractivechaos / plb2](https://github.com/attractivechaos/plb2) - A programming language benchmark
+* 【2024-01-06】[ktock / container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 * 【2024-01-05】[uutils / coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 * 【2024-01-05】[ali-vilab / dreamtalk](https://github.com/ali-vilab/dreamtalk) - Official implementations for paper: DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models
 * 【2024-01-05】[Frrrrrrrrank / auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.
@@ -222,6 +229,12 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-01-06】[alibaba / easyexcel](https://github.com/alibaba/easyexcel) - 快速、简洁、解决大文件内存溢出的java处理Excel工具
+* 【2024-01-06】[eazybytes / microservices](https://github.com/eazybytes/microservices) - Microservices With Spring, Docker, Kubernetes - Code Examples
+* 【2024-01-06】[projectlombok / lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
+* 【2024-01-06】[Graylog2 / graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open log management
+* 【2024-01-06】[YunaiV / yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+* 【2024-01-06】[CoderLeixiaoshuai / java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『Java八股文』Java面试套路，Java进阶学习，打破内卷拿大厂Offer，升职加薪！
 * 【2024-01-05】[apache / hadoop](https://github.com/apache/hadoop) - Apache Hadoop
 * 【2024-01-05】[thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 * 【2024-01-05】[opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
@@ -501,6 +514,18 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-06】[magic-research / magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
+* 【2024-01-06】[InternLM / tutorial](https://github.com/InternLM/tutorial) - 
+* 【2024-01-06】[microsoft / Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
+* 【2024-01-06】[pratyushasharma / laser](https://github.com/pratyushasharma/laser) - The Truth Is In There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
+* 【2024-01-06】[allenai / unified-io-2](https://github.com/allenai/unified-io-2) - 
+* 【2024-01-06】[FlagOpen / FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Dense Retrieval and Retrieval-augmented LLMs
+* 【2024-01-06】[dbt-labs / dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+* 【2024-01-06】[mlflow / mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
+* 【2024-01-06】[pre-commit / pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+* 【2024-01-06】[Fafa-DL / Image-Augmentation](https://github.com/Fafa-DL/Image-Augmentation) - Image augmentation for object detection, segmentation and classification
+* 【2024-01-06】[peasoft / NoMoreWalls](https://github.com/peasoft/NoMoreWalls) - 自动抓取合并互联网上的公开节点。
+* 【2024-01-06】[lonerge / tiktok_youtube_douyin_handling](https://github.com/lonerge/tiktok_youtube_douyin_handling) - 爬虫可视化; tiktok无水印视频; youtube无水印视频; 抖音无水印视频 视频搬运: tiktok/youtube的视频搬运到抖音; 抖音的视频搬运到tiktok获取youtube平台 搬运中的发布视频使用的selenium
 * 【2024-01-05】[InternLM / InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.
 * 【2024-01-05】[jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 * 【2024-01-05】[open-compass / opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
@@ -766,6 +791,15 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-06】[FortAwesome / Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+* 【2024-01-06】[speer-technologies / aircall](https://github.com/speer-technologies/aircall) - Frontend Hiring Challenge
+* 【2024-01-06】[goldbergyoni / javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
+* 【2024-01-06】[nolimits4web / swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
+* 【2024-01-06】[ether / etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
+* 【2024-01-06】[eslint / eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
+* 【2024-01-06】[ai / nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* 【2024-01-06】[TechForPalestine / boycott-israeli-tech-companies-dataset](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset) - 
+* 【2024-01-06】[pinojs / pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 * 【2024-01-05】[ryanmcdermott / clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - 🛁 Clean Code concepts adapted for JavaScript
 * 【2024-01-05】[rolling-scopes-school / clean-code-s1e1](https://github.com/rolling-scopes-school/clean-code-s1e1) - 
 * 【2024-01-05】[lutzroeder / netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
@@ -1036,6 +1070,16 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-06】[zeromicro / go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
+* 【2024-01-06】[qiwentaidi / Slack](https://github.com/qiwentaidi/Slack) - 一款Go Wails实现的GUI工具，功能涵盖网站扫描、端口扫描、企业信息收集、子域名暴破、空间引擎搜索、CDN识别等
+* 【2024-01-06】[cilium / ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+* 【2024-01-06】[99designs / gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
+* 【2024-01-06】[cert-manager / cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
+* 【2024-01-06】[stretchr / testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+* 【2024-01-06】[google / pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
+* 【2024-01-06】[onsi / ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
+* 【2024-01-06】[openimsdk / open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat
+* 【2024-01-06】[istio / istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 * 【2024-01-05】[hashicorp / terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 * 【2024-01-05】[zhu327 / gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
 * 【2024-01-05】[gorilla / websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
@@ -1321,6 +1365,14 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-01-06】[coturn / coturn](https://github.com/coturn/coturn) - coturn TURN server project
+* 【2024-01-06】[taosdata / TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
+* 【2024-01-06】[XProger / OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
+* 【2024-01-06】[rodarima / libwa](https://github.com/rodarima/libwa) - WhatsApp C library
+* 【2024-01-06】[stellar / stellar-core](https://github.com/stellar/stellar-core) - stellar-core is the reference implementation for the peer to peer agent that manages the Stellar network
+* 【2024-01-06】[NVIDIA / open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
+* 【2024-01-06】[redis / hiredis](https://github.com/redis/hiredis) - Minimalistic C client for Redis >= 1.2
+* 【2024-01-06】[cs50 / libcs50](https://github.com/cs50/libcs50) - This is CS50's Library for C.
 * 【2024-01-05】[fwupd / fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 * 【2024-01-05】[timescale / timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.
 * 【2024-01-05】[nginx / nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
@@ -1543,6 +1595,18 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-01-06】[apache / arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
+* 【2024-01-06】[GregoryCannon / StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
+* 【2024-01-06】[hackerhouse-opensource / Stinger](https://github.com/hackerhouse-opensource/Stinger) - CIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator.
+* 【2024-01-06】[emscripten-core / emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
+* 【2024-01-06】[J-JLucas / SCM](https://github.com/J-JLucas/SCM) - 
+* 【2024-01-06】[facebookincubator / velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
+* 【2024-01-06】[taskflow / taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System
+* 【2024-01-06】[ceph / ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
+* 【2024-01-06】[PaddlePaddle / Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+* 【2024-01-06】[google / glog](https://github.com/google/glog) - C++ implementation of the Google logging module
+* 【2024-01-06】[openxla / iree](https://github.com/openxla/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
+* 【2024-01-06】[UZ-SLAMLab / ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 * 【2024-01-05】[openvinotoolkit / openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
 * 【2024-01-05】[apache / brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC".
 * 【2024-01-05】[flutter / engine](https://github.com/flutter/engine) - The Flutter engine
@@ -1774,6 +1838,11 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-06】[oskardudycz / EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
+* 【2024-01-06】[aras-p / UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting) - Toy Gaussian Splatting visualization in Unity
+* 【2024-01-06】[microsoft / kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
+* 【2024-01-06】[dotnetcore / DotnetSpider](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework
+* 【2024-01-06】[dotnet / orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
 * 【2024-01-05】[devlooped / moq](https://github.com/devlooped/moq) - The most popular and friendly mocking framework for .NET
 * 【2024-01-05】[rnwood / smtp4dev](https://github.com/rnwood/smtp4dev) - smtp4dev - the fake smtp email server for development and testing
 * 【2024-01-05】[serilog / serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events
@@ -2000,6 +2069,13 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-06】[tjy-gitnub / win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
+* 【2024-01-06】[netease-youdao / QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
+* 【2024-01-06】[javascript-tutorial / en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
+* 【2024-01-06】[GoogleCloudPlatform / magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
+* 【2024-01-06】[google / styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+* 【2024-01-06】[Ade-mir / html-css-js-portfolio-tutorial-2](https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2) - 
+* 【2024-01-06】[alexeygrigorev / data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 * 【2024-01-05】[tpn / pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 * 【2024-01-05】[Dreamlinerm / Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video, Disney+ & Hotstar and Crunchyroll. Streaming enhanced
 * 【2024-01-05】[oxalorg / sakura](https://github.com/oxalorg/sakura) - 🌸 a minimal css framework/theme.
@@ -2187,6 +2263,9 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-01-06】[google / google-api-javascript-client](https://github.com/google/google-api-javascript-client) - Google APIs Client Library for browser JavaScript, aka gapi.
+* 【2024-01-06】[ayusharma / birthday](https://github.com/ayusharma/birthday) - A Happy Birthday animation design in CSS3, HTML5
+* 【2024-01-06】[amethystnetwork-dev / Incognito](https://github.com/amethystnetwork-dev/Incognito) - Unofficial Incognito easy deployment version with TompHTTP bare server included.
 * 【2024-01-05】[OpenClassrooms-Student-Center / P12_Front-end](https://github.com/OpenClassrooms-Student-Center/P12_Front-end) - 
 * 【2024-01-05】[carbon-design-system / carbon-tutorial-nextjs](https://github.com/carbon-design-system/carbon-tutorial-nextjs) - 
 * 【2024-01-05】[Rahulvaishnav9 / Login-Page](https://github.com/Rahulvaishnav9/Login-Page) - Follow my instagram account for more content
@@ -2350,6 +2429,11 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-06】[sbilly / awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+* 【2024-01-06】[joelparkerhenderson / architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+* 【2024-01-06】[academind / react-complete-guide-code](https://github.com/academind/react-complete-guide-code) - Code snapshots and materials for our "React - The Complete Guide" course (https://acad.link/reactjs)
+* 【2024-01-06】[geerlingguy / ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
+* 【2024-01-06】[ZGQ-inc / overthefirewall](https://github.com/ZGQ-inc/overthefirewall) - 覆盖全平台完全免费节点订阅机场推荐破解VPN软件分享
 * 【2024-01-05】[Jack-bo1220 / Awesome-Remote-Sensing-Foundation-Models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models) - 
 * 【2024-01-05】[ashishpatel26 / 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
 * 【2024-01-05】[matteocourthoud / awesome-causal-inference](https://github.com/matteocourthoud/awesome-causal-inference) - A curated list of causal inference libraries, resources, and applications.
