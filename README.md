@@ -1,6 +1,15 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-08】[swisskyrepo / PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+* 【2024-01-08】[janhq / nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI. OpenAI-compatible API
+* 【2024-01-08】[fishaudio / Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with multilingual-bert
+* 【2024-01-08】[DataTalksClub / data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
+* 【2024-01-08】[ProgrammingHero1 / portfolio-resources](https://github.com/ProgrammingHero1/portfolio-resources) - 
+* 【2024-01-08】[menyifang / En3D](https://github.com/menyifang/En3D) - Official implementation of "En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data"
+* 【2024-01-08】[ml-explore / mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
+* 【2024-01-08】[tachiyomiorg / tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
+* 【2024-01-08】[jing332 / tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
 * 【2024-01-07】[facebookresearch / audio2photoreal](https://github.com/facebookresearch/audio2photoreal) - Code and dataset for photorealistic Codec Avatars driven from audio
 * 【2024-01-07】[ubuygold / go-noss](https://github.com/ubuygold/go-noss) - 
 * 【2024-01-07】[MarkFzp / mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
@@ -242,6 +251,15 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-01-08】[kingtaeyeon / equity-calculator](https://github.com/kingtaeyeon/equity-calculator) - 权益计算框架
+* 【2024-01-08】[rememberber / WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
+* 【2024-01-08】[skinny85 / jilt](https://github.com/skinny85/jilt) - Java annotation processor for auto-generating Builder (including Type-Safe Builder) classes
+* 【2024-01-08】[rubenlagus / TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API
+* 【2024-01-08】[UniversalMediaServer / UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
+* 【2024-01-08】[react-native-video / react-native-video](https://github.com/react-native-video/react-native-video) - A <Video /> component for react-native
+* 【2024-01-08】[jenly1314 / MLKit](https://github.com/jenly1314/MLKit) - 🌝 MLKit是一个强大易用的工具包。通过ML Kit您可以很轻松的实现文字识别、条码识别、图像标记、人脸检测、对象检测等功能。
+* 【2024-01-08】[herodotus-ecosystem / dante-cloud-athena](https://github.com/herodotus-ecosystem/dante-cloud-athena) - Dante Cloud is an enterprise level Microservices architecture and service capability development platform. It is a multi tenant Microservices solution that adopts the domain driven model (DDD) design idea, fully embraces Spring Authorization Server, is based on OAuth2.1 protocol, and supports the authentication of Smart TV, IoT and other IoT device
+* 【2024-01-08】[crazyqiang / AndroidStudy](https://github.com/crazyqiang/AndroidStudy) - 🔥 Android学习知识点总结 Jetpack、MVVM、MVI、Kotlin、ViewPager2、JUC多线程等，欢迎star！
 * 【2024-01-07】[apache / iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 * 【2024-01-07】[vespa-engine / vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
 * 【2024-01-07】[dromara / hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
@@ -533,6 +551,13 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-08】[ali-vilab / i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl) - Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models
+* 【2024-01-08】[VILA-Lab / ATLAS](https://github.com/VILA-Lab/ATLAS) - A principled instruction benchmark on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171
+* 【2024-01-08】[home-assistant / operating-system](https://github.com/home-assistant/operating-system) - 🔰 Home Assistant Operating System
+* 【2024-01-08】[Lightning-AI / lit-gpt](https://github.com/Lightning-AI/lit-gpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+* 【2024-01-08】[tconbeer / harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
+* 【2024-01-08】[cleanlab / cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+* 【2024-01-08】[aicezam / SmartOnmyoji](https://github.com/aicezam/SmartOnmyoji) - 阴阳师后台代肝脚本，支持所有类似阴阳师的卡牌游戏（点点点游戏）自动找图-点击…（支持后台运行、支持多开、支持模拟器）
 * 【2024-01-07】[mosaicml / llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
 * 【2024-01-07】[jupyter / docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 * 【2024-01-07】[haotian-liu / LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
@@ -818,6 +843,14 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-08】[wukko / cobalt](https://github.com/wukko/cobalt) - save what you love
+* 【2024-01-08】[FastForwardTeam / FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
+* 【2024-01-08】[enricoros / big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
+* 【2024-01-08】[LeCoupa / awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+* 【2024-01-08】[iongpt / LLM-for-Whatsapp](https://github.com/iongpt/LLM-for-Whatsapp) - WhatsApp client with LLM integration. It support OpenAI API and also local LLMs
+* 【2024-01-08】[Expensify / App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
+* 【2024-01-08】[chetannada / Namaste-React](https://github.com/chetannada/Namaste-React) - ❤ Namaste React Live Course from Zero to Hero 🚀 by Akshay Saini(Founder of NamasteDev). This repository for Assignment & Class Notes taken during Namaste React Live Course #namaste #javascript #react
+* 【2024-01-08】[judygab / web-dev-projects](https://github.com/judygab/web-dev-projects) - Projects repo for tutorials for my YouTube Channel
 * 【2024-01-07】[gaearon / overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 * 【2024-01-07】[hiteshchoudhary / react-english](https://github.com/hiteshchoudhary/react-english) - A fun react series in future
 * 【2024-01-07】[lucide-icons / lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -1103,6 +1136,12 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-08】[filebrowser / filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+* 【2024-01-08】[rqlite / rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
+* 【2024-01-08】[ethereum-optimism / optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled.
+* 【2024-01-08】[ViRb3 / wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
+* 【2024-01-08】[HavocFramework / Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
+* 【2024-01-08】[kubernetes / dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 * 【2024-01-07】[livekit / livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 * 【2024-01-07】[prometheus-operator / prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 * 【2024-01-07】[golang-migrate / migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1406,6 +1445,14 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-01-08】[glfw / glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+* 【2024-01-08】[pbatard / rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+* 【2024-01-08】[hashcat / hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
+* 【2024-01-08】[joncampbell123 / dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
+* 【2024-01-08】[floooh / sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
+* 【2024-01-08】[cpq / bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide) - A bare metal programming guide (ARM microcontrollers)
+* 【2024-01-08】[mit-pdos / xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
+* 【2024-01-08】[id-Software / DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 * 【2024-01-07】[greenplum-db / gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
 * 【2024-01-07】[OISF / suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 * 【2024-01-07】[openwch / arduino_core_ch32](https://github.com/openwch/arduino_core_ch32) - Core library for CH32duino
@@ -1643,6 +1690,14 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-01-08】[Dr-TSNG / ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
+* 【2024-01-08】[aria2 / aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+* 【2024-01-08】[YosysHQ / yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
+* 【2024-01-08】[trustwallet / wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
+* 【2024-01-08】[yuzu-emu / yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline) - 
+* 【2024-01-08】[rathena / rathena](https://github.com/rathena/rathena) - rAthena is an open-source cross-platform MMORPG server.
+* 【2024-01-08】[StudioCherno / Walnut](https://github.com/StudioCherno/Walnut) - Walnut is a simple application framework for Vulkan and Dear ImGui apps
+* 【2024-01-08】[X-Profiler / xprofiler](https://github.com/X-Profiler/xprofiler) - 🌀An addon for node.js, which supporting output performance log and real-time profiling through sampling.
 * 【2024-01-07】[NVIDIA / TensorRT](https://github.com/NVIDIA/TensorRT) - NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.
 * 【2024-01-07】[NVIDIA / nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication
 * 【2024-01-07】[wpilibsuite / allwpilib](https://github.com/wpilibsuite/allwpilib) - Official Repository of WPILibJ and WPILibC
@@ -1890,6 +1945,11 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-08】[AssetRipper / AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
+* 【2024-01-08】[SciSharp / LLamaSharp](https://github.com/SciSharp/LLamaSharp) - Run local LLaMA/GPT model easily and fast in C#!🤗 It's also easy to integrate LLamaSharp with semantic-kernel, unity, WPF and WebApp.
+* 【2024-01-08】[akkadotnet / akka.net](https://github.com/akkadotnet/akka.net) - Canonical actor model implementation for .NET with local + distributed actors in C# and F#.
+* 【2024-01-08】[dmcxblue / SharpGhostTask](https://github.com/dmcxblue/SharpGhostTask) - A C# port from Invoke-GhostTask
+* 【2024-01-08】[goatcorp / FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) - Custom launcher for FFXIV
 * 【2024-01-07】[dotnet / maui-samples](https://github.com/dotnet/maui-samples) - Samples for .NET Multi-Platform App UI (.NET MAUI)
 * 【2024-01-07】[microsoft / teams-ai](https://github.com/microsoft/teams-ai) - SDK focused on building AI based applications and extensions for Microsoft Teams.
 * 【2024-01-07】[buybackoff / 1brc](https://github.com/buybackoff/1brc) - 
@@ -2125,6 +2185,14 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-08】[avinash201199 / Portfolio-Collection](https://github.com/avinash201199/Portfolio-Collection) - This repository contains collection of portfolio's .
+* 【2024-01-08】[HarborLibrary / Political-Science](https://github.com/HarborLibrary/Political-Science) - 政治
+* 【2024-01-08】[diminDDL / ProPico](https://github.com/diminDDL/ProPico) - An RP2040 dev board improving on aspects of the pi pico
+* 【2024-01-08】[ethen8181 / machine-learning](https://github.com/ethen8181/machine-learning) - 🌎 machine learning tutorials (mainly in Python3)
+* 【2024-01-08】[qiye45 / wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具
+* 【2024-01-08】[theNewDynamic / gohugo-theme-ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) - Ananke: A theme for Hugo Sites
+* 【2024-01-08】[gitdagray / html_course](https://github.com/gitdagray/html_course) - 
+* 【2024-01-08】[techwithtim / Flask-Web-App-Tutorial](https://github.com/techwithtim/Flask-Web-App-Tutorial) - Code for the note storing flask web app made during a YouTube video.
 * 【2024-01-07】[microsoft / dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 * 【2024-01-07】[clauswilke / dataviz](https://github.com/clauswilke/dataviz) - A book covering the fundamentals of data visualization
 * 【2024-01-07】[yangzongzhuan / RuoYi](https://github.com/yangzongzhuan/RuoYi) - 🎉 (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
@@ -2328,6 +2396,8 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-01-08】[whosmatt / uvmod](https://github.com/whosmatt/uvmod) - Web-based firmware patcher for various Quansheng radios
+* 【2024-01-08】[themepark-dev / theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 * 【2024-01-07】[rafaelmardojai / firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 * 【2024-01-07】[adamschwartz / magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
 * 【2024-01-07】[l-hammer / You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
@@ -2503,6 +2573,14 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-08】[yeahhub / Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
+* 【2024-01-08】[krishnaik06 / Roadmap-To-Become-Data-Analyst-2024](https://github.com/krishnaik06/Roadmap-To-Become-Data-Analyst-2024) - 
+* 【2024-01-08】[epiresdasilva / aws-minecraft-server](https://github.com/epiresdasilva/aws-minecraft-server) - An easy and fast way to create your own Minecraft Server.
+* 【2024-01-08】[AUK9527 / Are-u-ok](https://github.com/AUK9527/Are-u-ok) - 
+* 【2024-01-08】[zjunlp / LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read Papers on LLM Agents.
+* 【2024-01-08】[TheOneStudioLLC / Mac-Recorder](https://github.com/TheOneStudioLLC/Mac-Recorder) - Ultimate Recording App for MacOS
+* 【2024-01-08】[WeMakeDevs / roadmaps](https://github.com/WeMakeDevs/roadmaps) - This repository contains the list of communities and job portals you can join and apply to.
+* 【2024-01-08】[alexeymezenin / laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) - Laravel best practices
 * 【2024-01-07】[Ignitetechnologies / Mindmap](https://github.com/Ignitetechnologies/Mindmap) - This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them
 * 【2024-01-07】[leicemag / Javdb-Top250](https://github.com/leicemag/Javdb-Top250) - Javdb.com top 250 movies collection
 * 【2024-01-07】[llvm / llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
