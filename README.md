@@ -1,6 +1,10 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-09】[pocketbase / pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+* 【2024-01-09】[tachiyomiorg / tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
+* 【2024-01-09】[facebookresearch / habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
+* 【2024-01-09】[benman1 / generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Build large language model (LLM) apps with Python, ChatGPT and other models. This is the companion repository for the book on generative AI with LangChain.
 * 【2024-01-08】[swisskyrepo / PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 * 【2024-01-08】[janhq / nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI. OpenAI-compatible API
 * 【2024-01-08】[fishaudio / Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with multilingual-bert
@@ -251,6 +255,13 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-01-09】[Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
+* 【2024-01-09】[Eanya-Tonic / CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 央视浏览器，一款基于tv.cctv.com的简易电视直播收看软件，用于方便的在机顶盒上收看央视节目
+* 【2024-01-09】[FongMi / CatVodSpider](https://github.com/FongMi/CatVodSpider) - 
+* 【2024-01-09】[bitcoinj / bitcoinj](https://github.com/bitcoinj/bitcoinj) - A library for working with Bitcoin
+* 【2024-01-09】[DiscordSRV / DiscordSRV](https://github.com/DiscordSRV/DiscordSRV) - Discord bridging plugin for block game https://modrinth.com/plugin/discordsrv
+* 【2024-01-09】[jagrosh / MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
+* 【2024-01-09】[nextcloud / android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 * 【2024-01-08】[kingtaeyeon / equity-calculator](https://github.com/kingtaeyeon/equity-calculator) - 权益计算框架
 * 【2024-01-08】[rememberber / WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
 * 【2024-01-08】[skinny85 / jilt](https://github.com/skinny85/jilt) - Java annotation processor for auto-generating Builder (including Type-Safe Builder) classes
@@ -551,6 +562,14 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-09】[skfolio / skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn
+* 【2024-01-09】[Bing-su / adetailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model.
+* 【2024-01-09】[tinygrad / tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
+* 【2024-01-09】[reddelexc / hackerone-reports](https://github.com/reddelexc/hackerone-reports) - Top disclosed reports from HackerOne
+* 【2024-01-09】[luong-komorebi / Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
+* 【2024-01-09】[neobundy / Deep-Dive-Into-AI-With-MLX-PyTorch](https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch) - "Deep Dive into AI with MLX and PyTorch" is an educational initiative designed to help anyone interested in AI, specifically in machine learning and deep learning, using Apple's MLX and Meta's PyTorch frameworks.
+* 【2024-01-09】[stanford-oval / WikiChat](https://github.com/stanford-oval/WikiChat) - WikiChat stops the hallucination of large language models by retrieving data from Wikipedia.
+* 【2024-01-09】[ltdrdata / ComfyUI-Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) - 
 * 【2024-01-08】[ali-vilab / i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl) - Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models
 * 【2024-01-08】[VILA-Lab / ATLAS](https://github.com/VILA-Lab/ATLAS) - A principled instruction benchmark on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171
 * 【2024-01-08】[home-assistant / operating-system](https://github.com/home-assistant/operating-system) - 🔰 Home Assistant Operating System
@@ -843,6 +862,16 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-09】[simple-icons / simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+* 【2024-01-09】[bytedance / xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
+* 【2024-01-09】[adrianhajdin / docker-course](https://github.com/adrianhajdin/docker-course) - Full Modern Docker Course
+* 【2024-01-09】[SuhailTechInfo / Suhail-Md](https://github.com/SuhailTechInfo/Suhail-Md) - meet Suhail-Md, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail-Md brings a world of excitement and joy to your chats ✨🤖
+* 【2024-01-09】[MagicMirrorOrg / MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+* 【2024-01-09】[jhu-ep-coursera / fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+* 【2024-01-09】[is-a-dev / register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
+* 【2024-01-09】[keshavgbpecdelhi / Web-Development](https://github.com/keshavgbpecdelhi/Web-Development) - Here you will find different web development mini projects which are made up of HTML, CSS & little bit of JavaScript. Do you have any such small project which is not already in the List!? 😄
+* 【2024-01-09】[6dylan6 / jdpro](https://github.com/6dylan6/jdpro) - 
+* 【2024-01-09】[enzeberg / tonzhon-music](https://github.com/enzeberg/tonzhon-music) - Tonzhon.com: 免费听歌; 没有直播, 社交, 广告, 干扰; 简洁纯粹, 资源丰富, 体验独特！
 * 【2024-01-08】[wukko / cobalt](https://github.com/wukko/cobalt) - save what you love
 * 【2024-01-08】[FastForwardTeam / FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 * 【2024-01-08】[enricoros / big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
@@ -1136,6 +1165,16 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-09】[teamhanko / hanko](https://github.com/teamhanko/hanko) - Auth and user management for the passkey era
+* 【2024-01-09】[charmbracelet / huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
+* 【2024-01-09】[twpayne / chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+* 【2024-01-09】[a-h / templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
+* 【2024-01-09】[rivo / tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
+* 【2024-01-09】[p4gefau1t / trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+* 【2024-01-09】[cloudflare / cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+* 【2024-01-09】[DrDonk / unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
+* 【2024-01-09】[rebuy-de / aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
+* 【2024-01-09】[jincheng9 / go-tutorial](https://github.com/jincheng9/go-tutorial) - Go learning materials，涵盖基础、中级和高级教程
 * 【2024-01-08】[filebrowser / filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 * 【2024-01-08】[rqlite / rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 * 【2024-01-08】[ethereum-optimism / optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled.
@@ -1445,6 +1484,14 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-01-09】[rswier / swieros](https://github.com/rswier/swieros) - A tiny hand crafted CPU emulator, C compiler, and Operating System
+* 【2024-01-09】[nothings / stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
+* 【2024-01-09】[warmcat / libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
+* 【2024-01-09】[mit-pdos / xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
+* 【2024-01-09】[tsoding / musializer](https://github.com/tsoding/musializer) - Music Visualizer
+* 【2024-01-09】[Immediate-Mode-UI / Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
+* 【2024-01-09】[witnessmenow / ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
+* 【2024-01-09】[moonlight-stream / moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 * 【2024-01-08】[glfw / glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 * 【2024-01-08】[pbatard / rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 * 【2024-01-08】[hashcat / hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
@@ -1690,6 +1737,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-01-09】[rizinorg / cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
+* 【2024-01-09】[stenzek / duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
+* 【2024-01-09】[erincatto / box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 * 【2024-01-08】[Dr-TSNG / ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 * 【2024-01-08】[aria2 / aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 * 【2024-01-08】[YosysHQ / yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
@@ -1945,6 +1995,10 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-09】[blackarrowsec / Handly](https://github.com/blackarrowsec/Handly) - Abuse leaked token handles.
+* 【2024-01-09】[rogerfar / rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
+* 【2024-01-09】[dremin / RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
+* 【2024-01-09】[Valkirie / HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) - ControllerService
 * 【2024-01-08】[AssetRipper / AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 * 【2024-01-08】[SciSharp / LLamaSharp](https://github.com/SciSharp/LLamaSharp) - Run local LLaMA/GPT model easily and fast in C#!🤗 It's also easy to integrate LLamaSharp with semantic-kernel, unity, WPF and WebApp.
 * 【2024-01-08】[akkadotnet / akka.net](https://github.com/akkadotnet/akka.net) - Canonical actor model implementation for .NET with local + distributed actors in C# and F#.
@@ -2185,6 +2239,11 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-09】[nunocoracao / blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
+* 【2024-01-09】[collabnix / kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
+* 【2024-01-09】[rapid7 / metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
+* 【2024-01-09】[leaningtech / webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
+* 【2024-01-09】[cnymw / GolangStudy](https://github.com/cnymw/GolangStudy) - 《GolangStudy》：从简单到难最全总结，go基础，数据结构，算法，设计模式
 * 【2024-01-08】[avinash201199 / Portfolio-Collection](https://github.com/avinash201199/Portfolio-Collection) - This repository contains collection of portfolio's .
 * 【2024-01-08】[HarborLibrary / Political-Science](https://github.com/HarborLibrary/Political-Science) - 政治
 * 【2024-01-08】[diminDDL / ProPico](https://github.com/diminDDL/ProPico) - An RP2040 dev board improving on aspects of the pi pico
@@ -2396,6 +2455,8 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-01-09】[promptdesk / promptdesk](https://github.com/promptdesk/promptdesk) - Promptdesk is a tool designed for effectively creating, organizing, and evaluating prompts and large language models (LLMs).
+* 【2024-01-09】[PlusInsta / discord-plus](https://github.com/PlusInsta/discord-plus) - A sleek, customizable Discord theme.
 * 【2024-01-08】[whosmatt / uvmod](https://github.com/whosmatt/uvmod) - Web-based firmware patcher for various Quansheng radios
 * 【2024-01-08】[themepark-dev / theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 * 【2024-01-07】[rafaelmardojai / firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
@@ -2573,6 +2634,12 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-09】[CASRAI-CRedIT / Dictionary](https://github.com/CASRAI-CRedIT/Dictionary) - CASRAI Credit Dictionary of Elements
+* 【2024-01-09】[wearecaster / MITMonster](https://github.com/wearecaster/MITMonster) - A monster cheatsheet on MITM attacks
+* 【2024-01-09】[Nitin96Bisht / System-Design](https://github.com/Nitin96Bisht/System-Design) - System Design and Design Pattern Books
+* 【2024-01-09】[Cyfrin / foundry-full-course-f23](https://github.com/Cyfrin/foundry-full-course-f23) - 
+* 【2024-01-09】[aiboboxx / clashfree](https://github.com/aiboboxx/clashfree) - clash节点、免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅地址、clash免费节点每日更新
+* 【2024-01-09】[wangschang / web3.0](https://github.com/wangschang/web3.0) - web3.0知识整理 web3.0知识 web3.0学习资料
 * 【2024-01-08】[yeahhub / Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
 * 【2024-01-08】[krishnaik06 / Roadmap-To-Become-Data-Analyst-2024](https://github.com/krishnaik06/Roadmap-To-Become-Data-Analyst-2024) - 
 * 【2024-01-08】[epiresdasilva / aws-minecraft-server](https://github.com/epiresdasilva/aws-minecraft-server) - An easy and fast way to create your own Minecraft Server.
