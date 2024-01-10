@@ -1,6 +1,12 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-10】[ProgrammingHero1 / B9A1-New-Year-New-Mission](https://github.com/ProgrammingHero1/B9A1-New-Year-New-Mission) - 
+* 【2024-01-10】[alibaba / lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
+* 【2024-01-10】[rose-pine / neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim
+* 【2024-01-10】[mrousavy / react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
+* 【2024-01-10】[extrawurst / gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+* 【2024-01-10】[hpcaitech / ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 * 【2024-01-09】[pocketbase / pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 * 【2024-01-09】[tachiyomiorg / tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 * 【2024-01-09】[facebookresearch / habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
@@ -255,6 +261,12 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-01-10】[apache / druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
+* 【2024-01-10】[zxing / zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
+* 【2024-01-10】[brettwooldridge / HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
+* 【2024-01-10】[apache / camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
+* 【2024-01-10】[HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
+* 【2024-01-10】[xiaonuobase / Snowy](https://github.com/xiaonuobase/Snowy) - 💖Snowy是一款国内首个国密前后分离快速开发平台，采用Vue3+AntDesignVue3 + Vite+SpringBoot+Mp+HuTool+SaToken。集成国密加解密插件，在前后分离框架中，真正做到：前后分离“密”不可分；同时实现国产化机型、中间件、数据库适配，是您的不二之选；最后官网提供工作流、多租户、多数据源、Vue3表单设计器等丰富插件灵活使用。
 * 【2024-01-09】[Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 * 【2024-01-09】[Eanya-Tonic / CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 央视浏览器，一款基于tv.cctv.com的简易电视直播收看软件，用于方便的在机顶盒上收看央视节目
 * 【2024-01-09】[FongMi / CatVodSpider](https://github.com/FongMi/CatVodSpider) - 
@@ -562,6 +574,16 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-10】[onnx / onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
+* 【2024-01-10】[ymcui / Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文LLaMA-2 & Alpaca-2大模型二期项目 + 64K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs with 64K long context models)
+* 【2024-01-10】[mit-han-lab / streaming-llm](https://github.com/mit-han-lab/streaming-llm) - Efficient Streaming Language Models with Attention Sinks
+* 【2024-01-10】[psf / black](https://github.com/psf/black) - The uncompromising Python code formatter
+* 【2024-01-10】[modelscope / modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent(开源版GPTs): An agent framework connecting models in ModelScope with the world
+* 【2024-01-10】[netease-youdao / BCEmbedding](https://github.com/netease-youdao/BCEmbedding) - Netease Youdao's open-source embedding and reranker models for RAG products.
+* 【2024-01-10】[laixintao / flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
+* 【2024-01-10】[hummingbot / hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
+* 【2024-01-10】[vllm-project / vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+* 【2024-01-10】[Farama-Foundation / Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
 * 【2024-01-09】[skfolio / skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn
 * 【2024-01-09】[Bing-su / adetailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model.
 * 【2024-01-09】[tinygrad / tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
@@ -862,6 +884,18 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-10】[phaserjs / phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+* 【2024-01-10】[denysdovhan / wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
+* 【2024-01-10】[Everduin94 / better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
+* 【2024-01-10】[aquasecurity / cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
+* 【2024-01-10】[OpenCTI-Platform / opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
+* 【2024-01-10】[GAIR-NLP / MathPile](https://github.com/GAIR-NLP/MathPile) - Generative AI for Math: MathPile
+* 【2024-01-10】[mschwarzmueller / nextjs-complete-guide-course-resources](https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources) - Course resources for my "NextJS - The Complete Guide" course (https://acad.link/nextjs)
+* 【2024-01-10】[chartjs / Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag
+* 【2024-01-10】[michalsnik / aos](https://github.com/michalsnik/aos) - Animate on scroll library
+* 【2024-01-10】[carbon-design-system / carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
+* 【2024-01-10】[ShirasawaSama / CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
+* 【2024-01-10】[zhengjim / camille](https://github.com/zhengjim/camille) - 基于Frida的Android App隐私合规检测辅助工具
 * 【2024-01-09】[simple-icons / simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 * 【2024-01-09】[bytedance / xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 * 【2024-01-09】[adrianhajdin / docker-course](https://github.com/adrianhajdin/docker-course) - Full Modern Docker Course
@@ -1165,6 +1199,15 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-10】[anthdm / raptor](https://github.com/anthdm/raptor) - Create, Deploy, and Run your applications on the edge
+* 【2024-01-10】[evanw / esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
+* 【2024-01-10】[actions / actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
+* 【2024-01-10】[TykTechnologies / tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
+* 【2024-01-10】[hashicorp / vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+* 【2024-01-10】[grafana / k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+* 【2024-01-10】[expr-lang / expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
+* 【2024-01-10】[elastic / beats](https://github.com/elastic/beats) - 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+* 【2024-01-10】[hashicorp / consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 * 【2024-01-09】[teamhanko / hanko](https://github.com/teamhanko/hanko) - Auth and user management for the passkey era
 * 【2024-01-09】[charmbracelet / huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 * 【2024-01-09】[twpayne / chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -1484,6 +1527,21 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-01-10】[hrtowii / Serotonin](https://github.com/hrtowii/Serotonin) - 
+* 【2024-01-10】[open62541 / open62541](https://github.com/open62541/open62541) - Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0
+* 【2024-01-10】[peng-zhihui / Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
+* 【2024-01-10】[citusdata / citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
+* 【2024-01-10】[cc65 / cc65](https://github.com/cc65/cc65) - cc65 - a freeware C compiler for 6502 based systems
+* 【2024-01-10】[OP-TEE / optee_os](https://github.com/OP-TEE/optee_os) - Trusted side of the TEE
+* 【2024-01-10】[n0xa / m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks
+* 【2024-01-10】[sysprog21 / shecc](https://github.com/sysprog21/shecc) - A self-hosting and educational C optimizing compiler
+* 【2024-01-10】[gcc-mirror / gcc](https://github.com/gcc-mirror/gcc) - 
+* 【2024-01-10】[awslabs / amazon-kinesis-video-streams-webrtc-sdk-c](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c) - Amazon Kinesis Video Streams Webrtc SDK is for developers to install and customize realtime communication between devices and enable secure streaming of video, audio to Kinesis Video Streams.
+* 【2024-01-10】[memtest86plus / memtest86plus](https://github.com/memtest86plus/memtest86plus) - Official repo for Memtest86+
+* 【2024-01-10】[libvips / libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+* 【2024-01-10】[Cisco-Talos / clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
+* 【2024-01-10】[veo / nginx_shell](https://github.com/veo/nginx_shell) - nginx WebShell/内存马，更优雅的nignx backdoor
+* 【2024-01-10】[sqlcipher / sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
 * 【2024-01-09】[rswier / swieros](https://github.com/rswier/swieros) - A tiny hand crafted CPU emulator, C compiler, and Operating System
 * 【2024-01-09】[nothings / stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 * 【2024-01-09】[warmcat / libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
@@ -1737,6 +1795,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-01-10】[dusty-nv / jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
+* 【2024-01-10】[dmlc / xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 * 【2024-01-09】[rizinorg / cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 * 【2024-01-09】[stenzek / duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 * 【2024-01-09】[erincatto / box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
@@ -1995,6 +2055,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-10】[FastEndpoints / FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.Net 6 and newer.
+* 【2024-01-10】[Klocman / Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 * 【2024-01-09】[blackarrowsec / Handly](https://github.com/blackarrowsec/Handly) - Abuse leaked token handles.
 * 【2024-01-09】[rogerfar / rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 * 【2024-01-09】[dremin / RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
@@ -2239,6 +2301,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-10】[varadbhogayata / varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) - My Portfolio - Personal Website
+* 【2024-01-10】[Instruction-Tuning-with-GPT-4 / GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - Instruction Tuning with GPT-4
 * 【2024-01-09】[nunocoracao / blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 * 【2024-01-09】[collabnix / kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 * 【2024-01-09】[rapid7 / metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
@@ -2455,6 +2519,13 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-01-10】[zhuxinlang / zhuxinlang.github.io](https://github.com/zhuxinlang/zhuxinlang.github.io) - 
+* 【2024-01-10】[vishaltewatia / Impress-your-crush](https://github.com/vishaltewatia/Impress-your-crush) - 
+* 【2024-01-10】[Rasxtt / perdon](https://github.com/Rasxtt/perdon) - 
+* 【2024-01-10】[mingw-w64 / mingw-w64.github.io](https://github.com/mingw-w64/mingw-w64.github.io) - mingw-w64.net web page contents (The new web page)
+* 【2024-01-10】[ankitects / anki-manual](https://github.com/ankitects/anki-manual) - Anki's manual
+* 【2024-01-10】[s8sg / goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework
+* 【2024-01-10】[felipeAguiarCode / js-music-keyboard-virtual](https://github.com/felipeAguiarCode/js-music-keyboard-virtual) - A musical keyboard virtual make with JS Vanilla
 * 【2024-01-09】[promptdesk / promptdesk](https://github.com/promptdesk/promptdesk) - Promptdesk is a tool designed for effectively creating, organizing, and evaluating prompts and large language models (LLMs).
 * 【2024-01-09】[PlusInsta / discord-plus](https://github.com/PlusInsta/discord-plus) - A sleek, customizable Discord theme.
 * 【2024-01-08】[whosmatt / uvmod](https://github.com/whosmatt/uvmod) - Web-based firmware patcher for various Quansheng radios
@@ -2634,6 +2705,14 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-10】[Human3DAIGC / Make-A-Character](https://github.com/Human3DAIGC/Make-A-Character) - Official repo for Make-A-Character: High Quality Text-to-3D Character Generation within Minutes
+* 【2024-01-10】[blindma1den / Programming-Skills-Level1](https://github.com/blindma1den/Programming-Skills-Level1) - 
+* 【2024-01-10】[abhisheknaiidu / awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+* 【2024-01-10】[mbeaudru / modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+* 【2024-01-10】[TencentARC / LLaMA-Pro](https://github.com/TencentARC/LLaMA-Pro) - Progressive LLaMA with Block Expansion.
+* 【2024-01-10】[free-educa / free-livros](https://github.com/free-educa/free-livros) - Educação é um direito de todos
+* 【2024-01-10】[Ebazhanov / linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
+* 【2024-01-10】[WooooDyy / LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The paper list of the 86-page paper "The Rise and Potential of Large Language Model Based Agents: A Survey" by Zhiheng Xi et al.
 * 【2024-01-09】[CASRAI-CRedIT / Dictionary](https://github.com/CASRAI-CRedIT/Dictionary) - CASRAI Credit Dictionary of Elements
 * 【2024-01-09】[wearecaster / MITMonster](https://github.com/wearecaster/MITMonster) - A monster cheatsheet on MITM attacks
 * 【2024-01-09】[Nitin96Bisht / System-Design](https://github.com/Nitin96Bisht/System-Design) - System Design and Design Pattern Books
