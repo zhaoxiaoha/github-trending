@@ -1,6 +1,18 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-11】[wagoodman / dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+* 【2024-01-11】[tldraw / tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+* 【2024-01-11】[ThePBone / tachiyomi-extensions-revived](https://github.com/ThePBone/tachiyomi-extensions-revived) - Revival of removed source extensions for the Tachiyomi app.
+* 【2024-01-11】[mistralai / mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
+* 【2024-01-11】[excalidraw / excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+* 【2024-01-11】[magento / magento2](https://github.com/magento/magento2) - Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.
+* 【2024-01-11】[sveltejs / kit](https://github.com/sveltejs/kit) - web development, streamlined
+* 【2024-01-11】[rmcelreath / stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024) - 
+* 【2024-01-11】[Azure / azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
+* 【2024-01-11】[chakra-ui / chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+* 【2024-01-11】[rauchg / next-ai-news](https://github.com/rauchg/next-ai-news) - 
+* 【2024-01-11】[LHRUN / paint-board](https://github.com/LHRUN/paint-board) - Canvas based drawing board, including free drawing, eraser, text, select, layer, undo, redo, clear, save, drag
 * 【2024-01-10】[ProgrammingHero1 / B9A1-New-Year-New-Mission](https://github.com/ProgrammingHero1/B9A1-New-Year-New-Mission) - 
 * 【2024-01-10】[alibaba / lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 * 【2024-01-10】[rose-pine / neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim
@@ -261,6 +273,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-01-11】[allure-framework / allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
+* 【2024-01-11】[kdn251 / interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
+* 【2024-01-11】[Nepxion / Discovery](https://github.com/Nepxion/Discovery) - ☀️ Nepxion Discovery is a solution for Spring Cloud with blue green, gray, route, limitation, circuit breaker, degrade, isolation, tracing, dye, failover, active 蓝绿灰度发布、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活
 * 【2024-01-10】[apache / druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
 * 【2024-01-10】[zxing / zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 * 【2024-01-10】[brettwooldridge / HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
@@ -574,6 +589,18 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-11】[python-poetry / poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
+* 【2024-01-11】[plotly / plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python ✨ This project now includes Plotly Express!
+* 【2024-01-11】[langchain-ai / langgraph](https://github.com/langchain-ai/langgraph) - 
+* 【2024-01-11】[hpcaitech / SwiftInfer](https://github.com/hpcaitech/SwiftInfer) - Efficient AI Inference & Serving
+* 【2024-01-11】[openedx / edx-platform](https://github.com/openedx/edx-platform) - The Open edX LMS & Studio, powering education sites around the world!
+* 【2024-01-11】[kyegomez / MultiModalMamba](https://github.com/kyegomez/MultiModalMamba) - A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever.
+* 【2024-01-11】[nerfstudio-project / nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
+* 【2024-01-11】[NVIDIA / Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI
+* 【2024-01-11】[graphdeco-inria / gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+* 【2024-01-11】[WilliamStar007 / ClashX-V2Ray-TopFreeProxy](https://github.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy) - Top free VPN (ClashX & V2Ray proxy) with subscription links. [免费VPN、免费梯子、免费科学上网、免费订阅链接、免费节点、精选、ClashX & V2Ray 教程]
+* 【2024-01-11】[AtsushiSakai / PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
+* 【2024-01-11】[streamlit / streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 * 【2024-01-10】[onnx / onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 * 【2024-01-10】[ymcui / Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文LLaMA-2 & Alpaca-2大模型二期项目 + 64K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs with 64K long context models)
 * 【2024-01-10】[mit-han-lab / streaming-llm](https://github.com/mit-han-lab/streaming-llm) - Efficient Streaming Language Models with Attention Sinks
@@ -884,6 +911,10 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-11】[validatorjs / validator.js](https://github.com/validatorjs/validator.js) - String validation
+* 【2024-01-11】[langchain-ai / langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓
+* 【2024-01-11】[vuejs / vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
+* 【2024-01-11】[IsmaelMartinez / teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 * 【2024-01-10】[phaserjs / phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * 【2024-01-10】[denysdovhan / wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 * 【2024-01-10】[Everduin94 / better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
@@ -1199,6 +1230,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-11】[argoproj / argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
+* 【2024-01-11】[getkin / kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
+* 【2024-01-11】[AnalogJ / scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 * 【2024-01-10】[anthdm / raptor](https://github.com/anthdm/raptor) - Create, Deploy, and Run your applications on the edge
 * 【2024-01-10】[evanw / esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 * 【2024-01-10】[actions / actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
@@ -1527,6 +1561,13 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-01-11】[bmax121 / KernelPatch](https://github.com/bmax121/KernelPatch) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
+* 【2024-01-11】[mineek / Serotonin](https://github.com/mineek/Serotonin) - 
+* 【2024-01-11】[libjpeg-turbo / libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) - Main libjpeg-turbo repository
+* 【2024-01-11】[Xilinx / Vitis-Tutorials](https://github.com/Xilinx/Vitis-Tutorials) - Vitis In-Depth Tutorials
+* 【2024-01-11】[ossc-db / pg_rman](https://github.com/ossc-db/pg_rman) - Backup and restore management tool for PostgreSQL
+* 【2024-01-11】[FelixKratz / SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
+* 【2024-01-11】[systemd / systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 * 【2024-01-10】[hrtowii / Serotonin](https://github.com/hrtowii/Serotonin) - 
 * 【2024-01-10】[open62541 / open62541](https://github.com/open62541/open62541) - Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0
 * 【2024-01-10】[peng-zhihui / Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
@@ -2055,6 +2096,15 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-11】[BC-SECURITY / Moriarty](https://github.com/BC-SECURITY/Moriarty) - 
+* 【2024-01-11】[1357310795 / MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
+* 【2024-01-11】[nicsure / QuanshengDock](https://github.com/nicsure/QuanshengDock) - Allows the Quansheng UV-K5 radio to be controlled by a PC.
+* 【2024-01-11】[digitalinnovationone / trilha-net-poo-desafio](https://github.com/digitalinnovationone/trilha-net-poo-desafio) - 
+* 【2024-01-11】[CommunityToolkit / dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.
+* 【2024-01-11】[neuecc / UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
+* 【2024-01-11】[lisongkun / HyggeImaotai](https://github.com/lisongkun/HyggeImaotai) - i茅台app接口自动化csharp wpf实现,挂机windows服务器每日自动预约, (╯°□°）╯︵ ┻━┻ 预约启动！
+* 【2024-01-11】[digitalinnovationone / trilha-net-testes-unitarios-desafio](https://github.com/digitalinnovationone/trilha-net-testes-unitarios-desafio) - 
+* 【2024-01-11】[ShirasawaSama / CefDetector](https://github.com/ShirasawaSama/CefDetector) - Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
 * 【2024-01-10】[FastEndpoints / FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.Net 6 and newer.
 * 【2024-01-10】[Klocman / Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 * 【2024-01-09】[blackarrowsec / Handly](https://github.com/blackarrowsec/Handly) - Abuse leaked token handles.
@@ -2301,6 +2351,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-11】[fengdu78 / Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
+* 【2024-01-11】[Tacogamerman / ByeBlocker](https://github.com/Tacogamerman/ByeBlocker) - The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts)
 * 【2024-01-10】[varadbhogayata / varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) - My Portfolio - Personal Website
 * 【2024-01-10】[Instruction-Tuning-with-GPT-4 / GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - Instruction Tuning with GPT-4
 * 【2024-01-09】[nunocoracao / blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
@@ -2519,6 +2571,11 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-01-11】[Akifyss / obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
+* 【2024-01-11】[learn-co-curriculum / react-hooks-information-flow-code-along](https://github.com/learn-co-curriculum/react-hooks-information-flow-code-along) - 
+* 【2024-01-11】[opencodeiiita / Collaborative-Web-2023](https://github.com/opencodeiiita/Collaborative-Web-2023) - This project is made to showcase what OpenCode 23' is all about. Made by the contributors for the contributors.
+* 【2024-01-11】[guaguaguaxia / weekly_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
+* 【2024-01-11】[arthurbm / instapets](https://github.com/arthurbm/instapets) - 
 * 【2024-01-10】[zhuxinlang / zhuxinlang.github.io](https://github.com/zhuxinlang/zhuxinlang.github.io) - 
 * 【2024-01-10】[vishaltewatia / Impress-your-crush](https://github.com/vishaltewatia/Impress-your-crush) - 
 * 【2024-01-10】[Rasxtt / perdon](https://github.com/Rasxtt/perdon) - 
@@ -2705,6 +2762,16 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-11】[DovAmir / awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+* 【2024-01-11】[matro7sh / BypassAV](https://github.com/matro7sh/BypassAV) - This map lists the essential techniques to bypass anti-virus and EDR
+* 【2024-01-11】[ahmedbahaaeldin / From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
+* 【2024-01-11】[greatfrontend / awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design) - Curated front end system design resources for interviews and learning
+* 【2024-01-11】[yanirs / established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
+* 【2024-01-11】[EvilGreys / Hide-CobaltStrike](https://github.com/EvilGreys/Hide-CobaltStrike) - Hide your CobaltStrike PRO
+* 【2024-01-11】[LSPosed / LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) - 
+* 【2024-01-11】[google-research / tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
+* 【2024-01-11】[awesomedata / awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
+* 【2024-01-11】[github / copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 * 【2024-01-10】[Human3DAIGC / Make-A-Character](https://github.com/Human3DAIGC/Make-A-Character) - Official repo for Make-A-Character: High Quality Text-to-3D Character Generation within Minutes
 * 【2024-01-10】[blindma1den / Programming-Skills-Level1](https://github.com/blindma1den/Programming-Skills-Level1) - 
 * 【2024-01-10】[abhisheknaiidu / awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
