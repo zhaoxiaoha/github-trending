@@ -1,6 +1,15 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-12】[keiyoushi / extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Tachiyomi app.
+* 【2024-01-12】[keiyoushi / extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of the extensions for the Tachiyomi app.
+* 【2024-01-12】[atuinsh / atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+* 【2024-01-12】[Portkey-AI / gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
+* 【2024-01-12】[terraform-aws-modules / terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦
+* 【2024-01-12】[ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
+* 【2024-01-12】[u-boot / u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
+* 【2024-01-12】[ProjectNUWA / DragNUWA](https://github.com/ProjectNUWA/DragNUWA) - 
+* 【2024-01-12】[Tencent / tmagic-editor](https://github.com/Tencent/tmagic-editor) - 
 * 【2024-01-11】[wagoodman / dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 * 【2024-01-11】[tldraw / tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 * 【2024-01-11】[ThePBone / tachiyomi-extensions-revived](https://github.com/ThePBone/tachiyomi-extensions-revived) - Revival of removed source extensions for the Tachiyomi app.
@@ -273,6 +282,13 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-01-12】[qi4L / JYso](https://github.com/qi4L/JYso) - It can be either a JNDIExploit or a ysoserial. JYso是一个可以用于 jndi 注入攻击和生成反序列化数据流的工具。
+* 【2024-01-12】[apache / hive](https://github.com/apache/hive) - Apache Hive
+* 【2024-01-12】[apache / maven](https://github.com/apache/maven) - Apache Maven core
+* 【2024-01-12】[novicezk / midjourney-proxy](https://github.com/novicezk/midjourney-proxy) - 代理 MidJourney 的discord频道，实现api形式调用AI绘图
+* 【2024-01-12】[bumptech / glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
+* 【2024-01-12】[baomidou / mybatis-plus](https://github.com/baomidou/mybatis-plus) - An powerful enhanced toolkit of MyBatis for simplify development
+* 【2024-01-12】[Grt1228 / chatgpt-java](https://github.com/Grt1228/chatgpt-java) - ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4 Api Client for Java
 * 【2024-01-11】[allure-framework / allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
 * 【2024-01-11】[kdn251 / interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 * 【2024-01-11】[Nepxion / Discovery](https://github.com/Nepxion/Discovery) - ☀️ Nepxion Discovery is a solution for Spring Cloud with blue green, gray, route, limitation, circuit breaker, degrade, isolation, tracing, dye, failover, active 蓝绿灰度发布、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活
@@ -589,6 +605,17 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-12】[buaavrcg / BakedAvatar](https://github.com/buaavrcg/BakedAvatar) - Pytorch Code for "BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis"
+* 【2024-01-12】[jupyterlab / jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
+* 【2024-01-12】[HarborYuan / ovsam](https://github.com/HarborYuan/ovsam) - 
+* 【2024-01-12】[apache / airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+* 【2024-01-12】[recommenders-team / recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
+* 【2024-01-12】[mikel-brostrom / yolo_tracking](https://github.com/mikel-brostrom/yolo_tracking) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
+* 【2024-01-12】[m-bain / whisperX](https://github.com/m-bain/whisperX) - WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)
+* 【2024-01-12】[qubvel / segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) - Segmentation models with pretrained backbones. PyTorch.
+* 【2024-01-12】[Bert-JanP / Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) - KQL Queries. Defender For Endpoint and Azure Sentinel Hunting and Detection Queries in KQL. Out of the box KQL queries for: Advanced Hunting, Custom Detection, Analytics Rules & Hunting Rules.
+* 【2024-01-12】[linyiLYi / voice-assistant](https://github.com/linyiLYi/voice-assistant) - 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。
+* 【2024-01-12】[gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 * 【2024-01-11】[python-poetry / poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 * 【2024-01-11】[plotly / plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python ✨ This project now includes Plotly Express!
 * 【2024-01-11】[langchain-ai / langgraph](https://github.com/langchain-ai/langgraph) - 
@@ -911,6 +938,12 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-12】[midudev / preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react) - Preguntas típicas sobre React para entrevistas de trabajo ⚛️
+* 【2024-01-12】[necolas / react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
+* 【2024-01-12】[shaka-project / shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
+* 【2024-01-12】[brianc / node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
+* 【2024-01-12】[Dash-Industry-Forum / dash.js](https://github.com/Dash-Industry-Forum/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
+* 【2024-01-12】[prebid / Prebid.js](https://github.com/prebid/Prebid.js) - Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.
 * 【2024-01-11】[validatorjs / validator.js](https://github.com/validatorjs/validator.js) - String validation
 * 【2024-01-11】[langchain-ai / langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓
 * 【2024-01-11】[vuejs / vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
@@ -1230,6 +1263,14 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-12】[ardanlabs / service](https://github.com/ardanlabs/service) - Starter-kit for writing services in Go using Kubernetes.
+* 【2024-01-12】[deepflowio / deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
+* 【2024-01-12】[nsqio / nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
+* 【2024-01-12】[prometheus / node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
+* 【2024-01-12】[opentofu / opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
+* 【2024-01-12】[volcano-sh / volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
+* 【2024-01-12】[google / go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
+* 【2024-01-12】[cherish-chat / xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
 * 【2024-01-11】[argoproj / argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 * 【2024-01-11】[getkin / kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 * 【2024-01-11】[AnalogJ / scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
@@ -1561,6 +1602,13 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-01-12】[espeak-ng / espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
+* 【2024-01-12】[ffmpegwasm / ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
+* 【2024-01-12】[openvswitch / ovs](https://github.com/openvswitch/ovs) - Open vSwitch
+* 【2024-01-12】[espressif / esp32-camera](https://github.com/espressif/esp32-camera) - 
+* 【2024-01-12】[joexbayer / RetrOS-32](https://github.com/joexbayer/RetrOS-32) - 32bit Hobby Operatingsystem with graphics, multitasking and networking on i386 architecture.
+* 【2024-01-12】[microsoft / msquic](https://github.com/microsoft/msquic) - Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
+* 【2024-01-12】[eclipse-threadx / threadx](https://github.com/eclipse-threadx/threadx) - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
 * 【2024-01-11】[bmax121 / KernelPatch](https://github.com/bmax121/KernelPatch) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
 * 【2024-01-11】[mineek / Serotonin](https://github.com/mineek/Serotonin) - 
 * 【2024-01-11】[libjpeg-turbo / libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) - Main libjpeg-turbo repository
@@ -1836,6 +1884,12 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-01-12】[R3nzTheCodeGOD / R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
+* 【2024-01-12】[linkdd / aitoolkit](https://github.com/linkdd/aitoolkit) - Give a brain to your game's NPCs
+* 【2024-01-12】[IntelRealSense / librealsense](https://github.com/IntelRealSense/librealsense) - Intel® RealSense™ SDK
+* 【2024-01-12】[hku-mars / M-detector](https://github.com/hku-mars/M-detector) - 
+* 【2024-01-12】[AGWA / git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
+* 【2024-01-12】[redpanda-data / redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 * 【2024-01-10】[dusty-nv / jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
 * 【2024-01-10】[dmlc / xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 * 【2024-01-09】[rizinorg / cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
@@ -2096,6 +2150,13 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-12】[Cysharp / R3](https://github.com/Cysharp/R3) - The new future of dotnet/reactive and UniRx.
+* 【2024-01-12】[enisn / UraniumUI](https://github.com/enisn/UraniumUI) - Uranium is a Free & Open-Source UI Kit for MAUI.
+* 【2024-01-12】[CosmosOS / Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
+* 【2024-01-12】[mono / SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
+* 【2024-01-12】[ClosedXML / ClosedXML](https://github.com/ClosedXML/ClosedXML) - ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
+* 【2024-01-12】[lin-ycv / EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
+* 【2024-01-12】[dotnet / MQTTnet](https://github.com/dotnet/MQTTnet) - MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/.
 * 【2024-01-11】[BC-SECURITY / Moriarty](https://github.com/BC-SECURITY/Moriarty) - 
 * 【2024-01-11】[1357310795 / MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
 * 【2024-01-11】[nicsure / QuanshengDock](https://github.com/nicsure/QuanshengDock) - Allows the Quansheng UV-K5 radio to be controlled by a PC.
@@ -2351,6 +2412,12 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-12】[tabler / tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+* 【2024-01-12】[openshift / openshift-docs](https://github.com/openshift/openshift-docs) - OpenShift 3 and 4 product and community documentation
+* 【2024-01-12】[namastedev / namaste-frontend-system-design](https://github.com/namastedev/namaste-frontend-system-design) - 
+* 【2024-01-12】[ahmadbilaldev / langui](https://github.com/ahmadbilaldev/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+* 【2024-01-12】[six2dez / reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+* 【2024-01-12】[LuckyPuppy514 / Play-With-MPV](https://github.com/LuckyPuppy514/Play-With-MPV) - 使用 MPV 播放网页中的视频
 * 【2024-01-11】[fengdu78 / Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 * 【2024-01-11】[Tacogamerman / ByeBlocker](https://github.com/Tacogamerman/ByeBlocker) - The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts)
 * 【2024-01-10】[varadbhogayata / varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) - My Portfolio - Personal Website
@@ -2571,6 +2638,12 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-01-12】[creativetimofficial / argon-design-system-react](https://github.com/creativetimofficial/argon-design-system-react) - React version of Argon Design System
+* 【2024-01-12】[itscodenation / flw1-u2l2-23-24-student-exercises](https://github.com/itscodenation/flw1-u2l2-23-24-student-exercises) - 
+* 【2024-01-12】[mate-academy / react_todo-app](https://github.com/mate-academy/react_todo-app) - 
+* 【2024-01-12】[okfn / ckanext-datahub](https://github.com/okfn/ckanext-datahub) - Plugin for datahub
+* 【2024-01-12】[sindresorhus / github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
+* 【2024-01-12】[diffbot / rss-anything](https://github.com/diffbot/rss-anything) - Transform any old website with a list of links into an RSS Feed
 * 【2024-01-11】[Akifyss / obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
 * 【2024-01-11】[learn-co-curriculum / react-hooks-information-flow-code-along](https://github.com/learn-co-curriculum/react-hooks-information-flow-code-along) - 
 * 【2024-01-11】[opencodeiiita / Collaborative-Web-2023](https://github.com/opencodeiiita/Collaborative-Web-2023) - This project is made to showcase what OpenCode 23' is all about. Made by the contributors for the contributors.
@@ -2762,6 +2835,18 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-12】[cyberfascinate / ISC2-CC-Study-Material](https://github.com/cyberfascinate/ISC2-CC-Study-Material) - ISC2-CC-Study-Material
+* 【2024-01-12】[upb-lea / Inkscape_electric_Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) - Electrical symbol library for the vector graphics program Inkscape.
+* 【2024-01-12】[zbezj / HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 
+* 【2024-01-12】[LadyKerr / github-certification-guide](https://github.com/LadyKerr/github-certification-guide) - Resources to help you get GitHub certified ✨
+* 【2024-01-12】[meirwah / awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
+* 【2024-01-12】[eugeneyan / open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
+* 【2024-01-12】[nerority / Advanced-GPTs](https://github.com/nerority/Advanced-GPTs) - Custom GPT Showcase, featuring advanced workflows and operational logic.
+* 【2024-01-12】[azat-io / you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - 📚 Russian translation of "You Don't Know JS" book series
+* 【2024-01-12】[mli / paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
+* 【2024-01-12】[AobingJava / JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+* 【2024-01-12】[61bcdefg / Hikari-LLVM15](https://github.com/61bcdefg/Hikari-LLVM15) - A fork of Hikari Obfuscator [WIP]
+* 【2024-01-12】[qd-today / templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
 * 【2024-01-11】[DovAmir / awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 * 【2024-01-11】[matro7sh / BypassAV](https://github.com/matro7sh/BypassAV) - This map lists the essential techniques to bypass anti-virus and EDR
 * 【2024-01-11】[ahmedbahaaeldin / From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
