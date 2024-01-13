@@ -1,6 +1,12 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-13】[subquery / subql](https://github.com/subquery/subql) - SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.
+* 【2024-01-13】[meilisearch / meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+* 【2024-01-13】[maybe-finance / maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
+* 【2024-01-13】[morethanwords / tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
+* 【2024-01-13】[ionic-team / ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+* 【2024-01-13】[digoal / blog](https://github.com/digoal/blog) - OpenSource,Database,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
 * 【2024-01-12】[keiyoushi / extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Tachiyomi app.
 * 【2024-01-12】[keiyoushi / extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of the extensions for the Tachiyomi app.
 * 【2024-01-12】[atuinsh / atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -605,6 +611,17 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-13】[localstack / localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+* 【2024-01-13】[datamllab / LongLM](https://github.com/datamllab/LongLM) - LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning
+* 【2024-01-13】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
+* 【2024-01-13】[google / jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+* 【2024-01-13】[NVIDIA / trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM
+* 【2024-01-13】[hogan-tech / leetcode-solution](https://github.com/hogan-tech/leetcode-solution) - Explore diverse LeetCode solutions in Python, C++, JavaScript, SQL, and TypeScript. Ideal for interview prep, learning, and code practice in multiple programming languages.
+* 【2024-01-13】[mosaicml / composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
+* 【2024-01-13】[django / django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+* 【2024-01-13】[THUDM / ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+* 【2024-01-13】[TheKingOfDuck / fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) - Web Pentesting Fuzz 字典,一个就够了。
+* 【2024-01-13】[OneBST / GGanalysis](https://github.com/OneBST/GGanalysis) - 抽卡游戏概率分析工具包 A simple and efficient computing package for analysis gacha in game
 * 【2024-01-12】[buaavrcg / BakedAvatar](https://github.com/buaavrcg/BakedAvatar) - Pytorch Code for "BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis"
 * 【2024-01-12】[jupyterlab / jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
 * 【2024-01-12】[HarborYuan / ovsam](https://github.com/HarborYuan/ovsam) - 
@@ -938,6 +955,12 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-13】[evershopcommerce / evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform
+* 【2024-01-13】[leonardomso / 33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
+* 【2024-01-13】[HumanSignal / label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+* 【2024-01-13】[xenova / transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+* 【2024-01-13】[FreeTubeApp / FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
+* 【2024-01-13】[lovell / sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 * 【2024-01-12】[midudev / preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react) - Preguntas típicas sobre React para entrevistas de trabajo ⚛️
 * 【2024-01-12】[necolas / react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 * 【2024-01-12】[shaka-project / shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
@@ -1263,6 +1286,11 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-13】[anchore / syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+* 【2024-01-13】[containers / podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+* 【2024-01-13】[jaegertracing / jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
+* 【2024-01-13】[runatlantis / atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
+* 【2024-01-13】[tsenart / vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 * 【2024-01-12】[ardanlabs / service](https://github.com/ardanlabs/service) - Starter-kit for writing services in Go using Kubernetes.
 * 【2024-01-12】[deepflowio / deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
 * 【2024-01-12】[nsqio / nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -1602,6 +1630,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-01-13】[Hugobros3 / shady](https://github.com/Hugobros3/shady) - Research shading language IR
+* 【2024-01-13】[impact-eintr / LinuxC](https://github.com/impact-eintr/LinuxC) - 听说C与Linux更搭配哦～ 内容包括：C基础 C++面向对象编程 基础数据结构 linux系统编程以及一些操作系统的相关知识
 * 【2024-01-12】[espeak-ng / espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 * 【2024-01-12】[ffmpegwasm / ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 * 【2024-01-12】[openvswitch / ovs](https://github.com/openvswitch/ovs) - Open vSwitch
@@ -1884,6 +1914,10 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-01-13】[qgis / QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+* 【2024-01-13】[Tencent / MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
+* 【2024-01-13】[oneapi-src / oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
+* 【2024-01-13】[falcosecurity / falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 * 【2024-01-12】[R3nzTheCodeGOD / R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
 * 【2024-01-12】[linkdd / aitoolkit](https://github.com/linkdd/aitoolkit) - Give a brain to your game's NPCs
 * 【2024-01-12】[IntelRealSense / librealsense](https://github.com/IntelRealSense/librealsense) - Intel® RealSense™ SDK
@@ -2150,6 +2184,11 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-13】[MessagePack-CSharp / MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
+* 【2024-01-13】[microsoft / RulesEngine](https://github.com/microsoft/RulesEngine) - A Json based Rules Engine with extensive Dynamic expression support
+* 【2024-01-13】[Azure / azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker) - Azure Functions out-of-process .NET language worker
+* 【2024-01-13】[RicoSuter / NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
+* 【2024-01-13】[leeveel / GeekServer](https://github.com/leeveel/GeekServer) - 基于.Netcore的开发效率高，性能强，跨平台，持久化层透明，支持不停服热更新的游戏服务器。Best for your unity game server!
 * 【2024-01-12】[Cysharp / R3](https://github.com/Cysharp/R3) - The new future of dotnet/reactive and UniRx.
 * 【2024-01-12】[enisn / UraniumUI](https://github.com/enisn/UraniumUI) - Uranium is a Free & Open-Source UI Kit for MAUI.
 * 【2024-01-12】[CosmosOS / Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
@@ -2412,6 +2451,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-13】[Trixarian / NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch) - Unofficial Patches for NetherSX2
+* 【2024-01-13】[rust-lang / this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 * 【2024-01-12】[tabler / tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 * 【2024-01-12】[openshift / openshift-docs](https://github.com/openshift/openshift-docs) - OpenShift 3 and 4 product and community documentation
 * 【2024-01-12】[namastedev / namaste-frontend-system-design](https://github.com/namastedev/namaste-frontend-system-design) - 
@@ -2638,6 +2679,11 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-01-13】[itscodenation / int-u3l6-23-24-student-exercises](https://github.com/itscodenation/int-u3l6-23-24-student-exercises) - 
+* 【2024-01-13】[apu52 / Travel_Website](https://github.com/apu52/Travel_Website) - This repo contains my project on Travel Website✈️using HTML,CSS . It contains the landing page of a travel tour company website. If you have any front end project on this or you can add new features in the project or in this repos. You can contribute to this open source repository.🤖
+* 【2024-01-13】[kleo / evilportals](https://github.com/kleo/evilportals) - A collection of captive portals for phishing using a WiFi Pineapple
+* 【2024-01-13】[Soheil-Rasouli / internet-origin](https://github.com/Soheil-Rasouli/internet-origin) - 
+* 【2024-01-13】[houshanren / hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
 * 【2024-01-12】[creativetimofficial / argon-design-system-react](https://github.com/creativetimofficial/argon-design-system-react) - React version of Argon Design System
 * 【2024-01-12】[itscodenation / flw1-u2l2-23-24-student-exercises](https://github.com/itscodenation/flw1-u2l2-23-24-student-exercises) - 
 * 【2024-01-12】[mate-academy / react_todo-app](https://github.com/mate-academy/react_todo-app) - 
@@ -2835,6 +2881,14 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-13】[DevCaress / guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) - 
+* 【2024-01-13】[duty-machine / news](https://github.com/duty-machine/news) - 免翻墙阅读海外媒体的中文文章
+* 【2024-01-13】[vuejs / awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+* 【2024-01-13】[imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
+* 【2024-01-13】[xizhengszhang / Leetcode_company_frequency](https://github.com/xizhengszhang/Leetcode_company_frequency) - Collection of leetcode company tag problems. Periodically updating.
+* 【2024-01-13】[google / material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+* 【2024-01-13】[devcontainers / spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
+* 【2024-01-13】[yhArcadia / Yunzai-Bot-plugins-index](https://github.com/yhArcadia/Yunzai-Bot-plugins-index) - Yunzai-Bot云崽QQ机器人插件索引
 * 【2024-01-12】[cyberfascinate / ISC2-CC-Study-Material](https://github.com/cyberfascinate/ISC2-CC-Study-Material) - ISC2-CC-Study-Material
 * 【2024-01-12】[upb-lea / Inkscape_electric_Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) - Electrical symbol library for the vector graphics program Inkscape.
 * 【2024-01-12】[zbezj / HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 
