@@ -1,6 +1,10 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-16】[microsoft / autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
+* 【2024-01-16】[Stellarium / stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
+* 【2024-01-16】[tachiyomiorg / website](https://github.com/tachiyomiorg/website) - Official website for the Tachiyomi app.
+* 【2024-01-16】[calcom / cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 * 【2024-01-15】[marimo-team / marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 * 【2024-01-15】[MooreThreads / Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) - 
 * 【2024-01-15】[tachiyomiorg / extensions](https://github.com/tachiyomiorg/extensions) - Source extensions for the Tachiyomi app.
@@ -304,6 +308,11 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-01-16】[traccar / traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
+* 【2024-01-16】[linlinjava / litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+* 【2024-01-16】[AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) - 
+* 【2024-01-16】[PhilippC / keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
+* 【2024-01-16】[itwanger / paicoding](https://github.com/itwanger/paicoding) - ⭐️一款好用又强大的开源社区，基于 Spring Boot、MyBatis-Plus、MySQL、Redis、ElasticSearch、MongoDB、Docker、RabbitMQ 等主流技术栈，附详细教程，包括Java、Spring、MySQL、Redis、微服务&分布式、消息队列等核心知识点。学编程，就上技术派😁。
 * 【2024-01-15】[AndroidIDEOfficial / AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - AndroidIDE is an IDE for Android to develop full featured Android apps on Android smartphones.
 * 【2024-01-15】[shmykelsa / AAAD](https://github.com/shmykelsa/AAAD) - 
 * 【2024-01-15】[xCollateral / VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
@@ -641,6 +650,15 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-16】[josephmisiti / awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
+* 【2024-01-16】[Vozec / CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) - This repository presents a proof-of-concept of CVE-2023-7028
+* 【2024-01-16】[lazyprogrammer / machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
+* 【2024-01-16】[sherlock-project / sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+* 【2024-01-16】[HaujetZhao / CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - CapsWriter 的离线版，一个好用的 PC 端的语音输入工具
+* 【2024-01-16】[DougDougGithub / Babagaboosh](https://github.com/DougDougGithub/Babagaboosh) - App that lets you have a verbal conversation with OpenAi's GPT 4
+* 【2024-01-16】[TheR1D / shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
+* 【2024-01-16】[tony9402 / baekjoon](https://github.com/tony9402/baekjoon) - 코딩테스트 대비 문제집(Baekjoon Online Judge)
+* 【2024-01-16】[trustedsec / social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 * 【2024-01-15】[VikParuchuri / surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
 * 【2024-01-15】[mouredev / hello-sql](https://github.com/mouredev/hello-sql) - Curso para aprender los fundamentos del lenguaje SQL y bases de datos relacionales desde cero y para principiantes. Elaborado durante las emisiones en directo desde el canal de Twitch de MoureDev.
 * 【2024-01-15】[EstrellaXD / Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
@@ -1006,6 +1024,12 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-16】[poteto / hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️ Companies that don't have a broken hiring process
+* 【2024-01-16】[ltdrdata / ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - 
+* 【2024-01-16】[Starlk7 / Magiceden-Launchpad-Bot](https://github.com/Starlk7/Magiceden-Launchpad-Bot) - Bot for mint on Magiceden Launchpad in Solana and BTC networks
+* 【2024-01-16】[LNReader / lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
+* 【2024-01-16】[YouTransfer / YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
+* 【2024-01-16】[bradtraversy / proshop-v2](https://github.com/bradtraversy/proshop-v2) - ProShop ecommerce website built with MERN & Redux Toolkit
 * 【2024-01-15】[Binaryify / NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 * 【2024-01-15】[yonggekkk / Cloudflare-workers-pages-vless](https://github.com/yonggekkk/Cloudflare-workers-pages-vless) - Cf-worker-pages-vless脚本，默认支持Chatgpt，支持workers与pages两种形式部署。CF优选域名、优选反代IP多平台一键脚本
 * 【2024-01-15】[MetaMask / eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect) - Utility for detecting phishing domains targeting Web3 users
@@ -1351,6 +1375,16 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-16】[binwiederhier / ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+* 【2024-01-16】[kgretzky / evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+* 【2024-01-16】[tailscale / tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+* 【2024-01-16】[dutchcoders / transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
+* 【2024-01-16】[loxilb-io / loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps.
+* 【2024-01-16】[zero-proxy / zero-proxy](https://github.com/zero-proxy/zero-proxy) - 最轻量、高效、透明、稳定的多币种矿池代理、矿池中转。支持 BTC, ETC, RVN, NicaHash, XNA, ETHW, Ergo 等币种。自定义抽水账号及比例，高性能数据中转算法，无任何share损耗。具有高效的抽水算法，保证精确抽水。支持多端口监听及多矿池连接，同时接入3000+矿机性能稳定且不掉线。The lightest, most efficient, transparent, and stable multi-cryptocurrency mining pool proxy.
+* 【2024-01-16】[synctv-org / synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video, long-distance relationship
+* 【2024-01-16】[tmrts / go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
+* 【2024-01-16】[Azure / azqr](https://github.com/Azure/azqr) - Azure Quick Review
+* 【2024-01-16】[peak / s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 * 【2024-01-15】[kopia / kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 * 【2024-01-15】[sourcegraph / sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 * 【2024-01-15】[openziti / zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
@@ -1708,6 +1742,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-01-16】[mwpenny / portal64-still-alive](https://github.com/mwpenny/portal64-still-alive) - A demake of Portal for the Nintendo 64
+* 【2024-01-16】[TelegramMessenger / Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 * 【2024-01-15】[GPUOpen-LibrariesAndSDKs / VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library
 * 【2024-01-15】[FFmpeg / FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 * 【2024-01-15】[yshui / picom](https://github.com/yshui/picom) - A lightweight compositor for X11
@@ -1999,6 +2035,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-01-16】[PrismLauncher / PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
+* 【2024-01-16】[OpenTTD / OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
+* 【2024-01-16】[RPCSX / rpcsx](https://github.com/RPCSX/rpcsx) - 
 * 【2024-01-15】[musescore / MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 * 【2024-01-15】[polybar / polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 * 【2024-01-15】[o3de / o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
@@ -2284,6 +2323,10 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-16】[undreamai / LLMUnity](https://github.com/undreamai/LLMUnity) - Integrate LLM models in Unity!
+* 【2024-01-16】[glzr-io / glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
+* 【2024-01-16】[0xthirteen / SharpRDP](https://github.com/0xthirteen/SharpRDP) - Remote Desktop Protocol .NET Console Application for Authenticated Command Execution
+* 【2024-01-16】[GeneralLibrary / GeneralUpdate](https://github.com/GeneralLibrary/GeneralUpdate) - My ship looks old, who can help me upgrade it.
 * 【2024-01-15】[Squidex / squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub
 * 【2024-01-15】[microsoft / xbox-multiplayer-analysis-tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool) - Xbox Multiplayer Analysis Tool is a network traffic capturing tool to aid in the debugging of Xbox services issues and other network traffic from both a PC and Xbox development console.
 * 【2024-01-15】[Davidobot / BetterJoy](https://github.com/Davidobot/BetterJoy) - Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
@@ -2559,6 +2602,11 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-16】[Sha1rholder / use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
+* 【2024-01-16】[google / fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
+* 【2024-01-16】[kevin-powell / funky-nav](https://github.com/kevin-powell/funky-nav) - 
+* 【2024-01-16】[cf-pages / Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
+* 【2024-01-16】[iinc0gnit0 / BlackPhish](https://github.com/iinc0gnit0/BlackPhish) - 🔱 [ Phishing Made Easy ] 🔱 (In Beta)
 * 【2024-01-15】[Chr1skyy / Egzamin-Zawodowy-E14-EE09-INF03](https://github.com/Chr1skyy/Egzamin-Zawodowy-E14-EE09-INF03) - 
 * 【2024-01-15】[bulianglin / psub](https://github.com/bulianglin/psub) - 利用CF Worker搭建的反代订阅转换工具
 * 【2024-01-15】[EricksonAtHome / blackeye](https://github.com/EricksonAtHome/blackeye) - BLACKEYE v2.0 | New Phishing tool with localtunnel
@@ -2795,6 +2843,12 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-01-16】[andreasgrafen / cascade](https://github.com/andreasgrafen/cascade) - A responsive One-Line CSS Theme for Firefox.
+* 【2024-01-16】[moelzanaty3 / react-18-workshop](https://github.com/moelzanaty3/react-18-workshop) - The Boat you need to master React 18
+* 【2024-01-16】[KillYoy / DiscordNight](https://github.com/KillYoy/DiscordNight) - An actual Dark/Nightmode Theme for Discord/BetterDiscord
+* 【2024-01-16】[udacity / course-collaboration-travel-plans](https://github.com/udacity/course-collaboration-travel-plans) - 
+* 【2024-01-16】[Corrupteddisk / SpotifycloneWeb](https://github.com/Corrupteddisk/SpotifycloneWeb) - I'm trying to make a clone of Spotify using HTML,CSS,Javascript.
+* 【2024-01-16】[jennythinkful / pizza](https://github.com/jennythinkful/pizza) - 
 * 【2024-01-15】[vishaltewatia / Thankyoubook](https://github.com/vishaltewatia/Thankyoubook) - 
 * 【2024-01-14】[shelcia / dynamic-portfolio](https://github.com/shelcia/dynamic-portfolio) - Dynamic Portfolio helps you create simple websites by just filling out forms.
 * 【2024-01-14】[HansNewbie / hansnewbie.github.io](https://github.com/HansNewbie/hansnewbie.github.io) - My page to list stuff that I kind of make as hobby 😄
@@ -3002,6 +3056,16 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-16】[KAIST-VICLab / FMA-Net](https://github.com/KAIST-VICLab/FMA-Net) - 
+* 【2024-01-16】[Avik-Jain / 100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
+* 【2024-01-16】[Learn-with-Sumit / rnext](https://github.com/Learn-with-Sumit/rnext) - Central Code Repository - Reactive Accelerator React-Next.js course by Learn with Sumit
+* 【2024-01-16】[razetime / ngn-k-tutorial](https://github.com/razetime/ngn-k-tutorial) - An ngn/k tutorial.
+* 【2024-01-16】[tachiyomiorg / tachiyomi-preview](https://github.com/tachiyomiorg/tachiyomi-preview) - Tachiyomi preview build repo.
+* 【2024-01-16】[lfranke / TRIPS](https://github.com/lfranke/TRIPS) - 
+* 【2024-01-16】[pluja / awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+* 【2024-01-16】[daniloraisi / go-ahead](https://github.com/daniloraisi/go-ahead) - Projeto Go Ahead
+* 【2024-01-16】[skot / bitaxe](https://github.com/skot/bitaxe) - Open source ASIC Bitcoin miner hardware
+* 【2024-01-16】[Rem0o / FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 * 【2024-01-15】[lydiahallie / javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations ✨
 * 【2024-01-15】[florinpop17 / app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 * 【2024-01-15】[danielmiessler / fabric](https://github.com/danielmiessler/fabric) - An AI Augmentation framework for helping people integrate AI into their lives.
