@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-17】[bentoml / OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 * 【2024-01-16】[microsoft / autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 * 【2024-01-16】[Stellarium / stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 * 【2024-01-16】[tachiyomiorg / website](https://github.com/tachiyomiorg/website) - Official website for the Tachiyomi app.
@@ -308,6 +309,12 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-01-17】[Activiti / Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the…
+* 【2024-01-17】[testcontainers / testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+* 【2024-01-17】[scwang90 / SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+* 【2024-01-17】[spring-projects / spring-security](https://github.com/spring-projects/spring-security) - Spring Security
+* 【2024-01-17】[quarkusio / quarkus-quickstarts](https://github.com/quarkusio/quarkus-quickstarts) - Quarkus quickstart code
+* 【2024-01-17】[isHarryh / Ark-Pets](https://github.com/isHarryh/Ark-Pets) - Arknights Desktop Pets | 明日方舟桌宠
 * 【2024-01-16】[traccar / traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
 * 【2024-01-16】[linlinjava / litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 * 【2024-01-16】[AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) - 
@@ -650,6 +657,13 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-17】[microsoft / JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
+* 【2024-01-17】[unslothai / unsloth](https://github.com/unslothai/unsloth) - 5X faster 60% less memory QLoRA finetuning
+* 【2024-01-17】[testerSunshine / 12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
+* 【2024-01-17】[drunkdream / weread-exporter](https://github.com/drunkdream/weread-exporter) - 将微信读书中的书籍导出成epub、pdf、mobi等格式
+* 【2024-01-17】[BRlkl / AGI-Samantha](https://github.com/BRlkl/AGI-Samantha) - AGI has been achieved externally
+* 【2024-01-17】[imartinez / privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+* 【2024-01-17】[facebookresearch / audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 * 【2024-01-16】[josephmisiti / awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 * 【2024-01-16】[Vozec / CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) - This repository presents a proof-of-concept of CVE-2023-7028
 * 【2024-01-16】[lazyprogrammer / machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
@@ -1024,6 +1038,10 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-17】[node-red / node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
+* 【2024-01-17】[diegomura / react-pdf](https://github.com/diegomura/react-pdf) - 📄 Create PDF files using React
+* 【2024-01-17】[invertase / react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+* 【2024-01-17】[mkkellogg / GaussianSplats3D](https://github.com/mkkellogg/GaussianSplats3D) - Three.js-based implementation of 3D Gaussian splatting
 * 【2024-01-16】[poteto / hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️ Companies that don't have a broken hiring process
 * 【2024-01-16】[ltdrdata / ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - 
 * 【2024-01-16】[Starlk7 / Magiceden-Launchpad-Bot](https://github.com/Starlk7/Magiceden-Launchpad-Bot) - Bot for mint on Magiceden Launchpad in Solana and BTC networks
@@ -1375,6 +1393,13 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-17】[BishopFox / sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
+* 【2024-01-17】[hashicorp / terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager
+* 【2024-01-17】[lib / pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
+* 【2024-01-17】[go-sql-driver / mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+* 【2024-01-17】[AlexxIT / go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+* 【2024-01-17】[FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+* 【2024-01-17】[ConnectAI-E / Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
 * 【2024-01-16】[binwiederhier / ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 * 【2024-01-16】[kgretzky / evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 * 【2024-01-16】[tailscale / tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -1742,6 +1767,14 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-01-17】[meetecho / janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
+* 【2024-01-17】[limine-bootloader / limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader.
+* 【2024-01-17】[c22dev / Geranium](https://github.com/c22dev/Geranium) - LocSim, Daemon Manager, Cleaner and Superviser for TrollStore
+* 【2024-01-17】[amnezia-vpn / amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
+* 【2024-01-17】[haproxy / haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
+* 【2024-01-17】[bfengj / eBPFeXPLOIT](https://github.com/bfengj/eBPFeXPLOIT) - Exploit tool implemented using ebpf.
+* 【2024-01-17】[libgit2 / libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
+* 【2024-01-17】[ClemensElflein / OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 * 【2024-01-16】[mwpenny / portal64-still-alive](https://github.com/mwpenny/portal64-still-alive) - A demake of Portal for the Nintendo 64
 * 【2024-01-16】[TelegramMessenger / Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 * 【2024-01-15】[GPUOpen-LibrariesAndSDKs / VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library
@@ -2035,6 +2068,17 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-01-17】[Wh04m1001 / CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656) - 
+* 【2024-01-17】[ThePhD / sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
+* 【2024-01-17】[interpretml / interpret](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
+* 【2024-01-17】[microsoft / LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+* 【2024-01-17】[v8 / v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
+* 【2024-01-17】[minetest / minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
+* 【2024-01-17】[OpenAtomFoundation / pika](https://github.com/OpenAtomFoundation/pika) - Pika is a Redis-Compatible database developed by Qihoo's infrastructure team.
+* 【2024-01-17】[Alinshans / MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C++11
+* 【2024-01-17】[UniversalRobots / Universal_Robots_ROS_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS_Driver) - Universal Robots ROS driver supporting CB3 and e-Series
+* 【2024-01-17】[oatpp / oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
+* 【2024-01-17】[fwsGonzo / rvscript](https://github.com/fwsGonzo/rvscript) - Fast RISC-V-based scripting backend for game engines
 * 【2024-01-16】[PrismLauncher / PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 * 【2024-01-16】[OpenTTD / OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 * 【2024-01-16】[RPCSX / rpcsx](https://github.com/RPCSX/rpcsx) - 
@@ -2323,6 +2367,13 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-17】[gui-cs / Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
+* 【2024-01-17】[lucasg / Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
+* 【2024-01-17】[ariacom / Seal-Report](https://github.com/ariacom/Seal-Report) - Open Database Reporting Tool (.Net)
+* 【2024-01-17】[DeEpinGh0st / WindowsBaselineAssistant](https://github.com/DeEpinGh0st/WindowsBaselineAssistant) - Windows安全基线核查加固助手
+* 【2024-01-17】[Adamant-im / adamant-notificationService](https://github.com/Adamant-im/adamant-notificationService) - ADAMANT push Notification Service for iOS Messenger app
+* 【2024-01-17】[ZGGSONG / STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-use, ready-to-go translation tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译工具
+* 【2024-01-17】[Yizzii / YizziCamModV2](https://github.com/Yizzii/YizziCamModV2) - A simple camera mod with in game UI.
 * 【2024-01-16】[undreamai / LLMUnity](https://github.com/undreamai/LLMUnity) - Integrate LLM models in Unity!
 * 【2024-01-16】[glzr-io / glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
 * 【2024-01-16】[0xthirteen / SharpRDP](https://github.com/0xthirteen/SharpRDP) - Remote Desktop Protocol .NET Console Application for Authenticated Command Execution
@@ -2602,6 +2653,11 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-17】[Xilinx / embeddedsw](https://github.com/Xilinx/embeddedsw) - Xilinx Embedded Software (embeddedsw) Development
+* 【2024-01-17】[LianjiaTech / BELLE](https://github.com/LianjiaTech/BELLE) - BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）
+* 【2024-01-17】[BitgetLimited / v3-bitget-api-sdk](https://github.com/BitgetLimited/v3-bitget-api-sdk) - 
+* 【2024-01-17】[cursoemvideo / cursoemvideo-html5](https://github.com/cursoemvideo/cursoemvideo-html5) - Material do Curso de HTML5 e CSS3 do Curso em Vídeo
+* 【2024-01-17】[Mr-xn / Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) - 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
 * 【2024-01-16】[Sha1rholder / use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
 * 【2024-01-16】[google / fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 * 【2024-01-16】[kevin-powell / funky-nav](https://github.com/kevin-powell/funky-nav) - 
@@ -2843,6 +2899,13 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-01-17】[Screenly / Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
+* 【2024-01-17】[codedamn-classrooms / react-vite-playground](https://github.com/codedamn-classrooms/react-vite-playground) - 
+* 【2024-01-17】[Sriparno08 / Openpedia](https://github.com/Sriparno08/Openpedia) - The Open Source Guide!
+* 【2024-01-17】[swarnade / webdesign-switch](https://github.com/swarnade/webdesign-switch) - An Website Where Develop can Copy The Design Of Various Button And Implement It In Their Site
+* 【2024-01-17】[dchristl / esp32_nat_router_extended](https://github.com/dchristl/esp32_nat_router_extended) - a simple ESP32 NAT Router with some additional features
+* 【2024-01-17】[Jagroop2001 / AcmeRockets](https://github.com/Jagroop2001/AcmeRockets) - Acme Rocket
+* 【2024-01-17】[VladilenItStep / maket](https://github.com/VladilenItStep/maket) - 
 * 【2024-01-16】[andreasgrafen / cascade](https://github.com/andreasgrafen/cascade) - A responsive One-Line CSS Theme for Firefox.
 * 【2024-01-16】[moelzanaty3 / react-18-workshop](https://github.com/moelzanaty3/react-18-workshop) - The Boat you need to master React 18
 * 【2024-01-16】[KillYoy / DiscordNight](https://github.com/KillYoy/DiscordNight) - An actual Dark/Nightmode Theme for Discord/BetterDiscord
@@ -3056,6 +3119,12 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-17】[danieldurnea / FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
+* 【2024-01-17】[Haxxnet / Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
+* 【2024-01-17】[SurviveSJTU / SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/
+* 【2024-01-17】[Wechat-ggGitHub / Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
+* 【2024-01-17】[mxssl / sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide
+* 【2024-01-17】[PetalsOnaWet / lizhi](https://github.com/PetalsOnaWet/lizhi) - 李志所有歌曲下载地址
 * 【2024-01-16】[KAIST-VICLab / FMA-Net](https://github.com/KAIST-VICLab/FMA-Net) - 
 * 【2024-01-16】[Avik-Jain / 100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 * 【2024-01-16】[Learn-with-Sumit / rnext](https://github.com/Learn-with-Sumit/rnext) - Central Code Repository - Reactive Accelerator React-Next.js course by Learn with Sumit
