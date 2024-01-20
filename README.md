@@ -1,6 +1,19 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-20】[ejoy / ant](https://github.com/ejoy/ant) - Ant game engine
+* 【2024-01-20】[spatie / holidays](https://github.com/spatie/holidays) - Calculate which days you don't have to work!
+* 【2024-01-20】[google-deepmind / alphageometry](https://github.com/google-deepmind/alphageometry) - 
+* 【2024-01-20】[kparc / ksimple](https://github.com/kparc/ksimple) - bare minimum atw-style interpreter for learning purposes
+* 【2024-01-20】[alura-es-cursos / 2034-logica-programacion-1](https://github.com/alura-es-cursos/2034-logica-programacion-1) - Curso de lógica de programación 1 - Alura Latam
+* 【2024-01-20】[VRSEN / agency-swarm](https://github.com/VRSEN/agency-swarm) - 
+* 【2024-01-20】[sgl-project / sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable.
+* 【2024-01-20】[Vaibhavs10 / open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) - 
+* 【2024-01-20】[apple / ml-aim](https://github.com/apple/ml-aim) - This repository provides the code and model checkpoints of the research paper: Scalable Pre-training of Large Autoregressive Image Models
+* 【2024-01-20】[suyalcinkaya / onur.dev](https://github.com/suyalcinkaya/onur.dev) - ✦ My personal website built using Next.js, Tailwind CSS, shadcn/ui, Contentful, Raindrop, Supabase and deployed on Vercel.
+* 【2024-01-20】[toeverything / AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+* 【2024-01-20】[lizhipay / acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
+* 【2024-01-20】[toly1994328 / FlutterUnit](https://github.com/toly1994328/FlutterUnit) - 【Flutter 集录指南 App】The unity of flutter, The unity of coder.
 * 【2024-01-19】[mihonapp / mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 * 【2024-01-19】[dair-ai / Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 * 【2024-01-19】[RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
@@ -324,6 +337,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-01-20】[apache / parquet-mr](https://github.com/apache/parquet-mr) - Apache Parquet
+* 【2024-01-20】[houbb / sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
+* 【2024-01-20】[mymagicpower / AIAS](https://github.com/mymagicpower/AIAS) - AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。
 * 【2024-01-19】[Netflix / conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
 * 【2024-01-19】[mainpropath / AI-SmartFuse-Framework](https://github.com/mainpropath/AI-SmartFuse-Framework) - 
 * 【2024-01-19】[wiremock / wiremock](https://github.com/wiremock/wiremock) - A tool for mocking HTTP services
@@ -681,6 +697,14 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-20】[Ciphey / Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+* 【2024-01-20】[ZHO-ZHO-ZHO / ComfyUI-PhotoMaker](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker) - Unofficial implementation of PhotoMaker for ComfyUI
+* 【2024-01-20】[msd0pe-1 / cve-maker](https://github.com/msd0pe-1/cve-maker) - Tool to find CVEs and Exploits.
+* 【2024-01-20】[hitsz-ids / synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator) - 专注于结构化表格数据快速生成合成数据的组件
+* 【2024-01-20】[KasperskyLab / iShutdown](https://github.com/KasperskyLab/iShutdown) - 
+* 【2024-01-20】[pytorch-labs / gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
+* 【2024-01-20】[prs-eth / Marigold](https://github.com/prs-eth/Marigold) - Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
+* 【2024-01-20】[GreyDGL / PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 * 【2024-01-19】[gnuboard / g6](https://github.com/gnuboard/g6) - 
 * 【2024-01-19】[wagtail / wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 * 【2024-01-19】[can-kat / cstealer](https://github.com/can-kat/cstealer) - [BIG UPDATE] A discord token grabber, crypto wallet stealer, cookie stealer, password stealer, file stealer etc. app written in Python.
@@ -1075,6 +1099,11 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-20】[31b4 / Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
+* 【2024-01-20】[import-js / eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
+* 【2024-01-20】[studio-freight / lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
+* 【2024-01-20】[aFarkas / lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+* 【2024-01-20】[nhn / tui.image-editor](https://github.com/nhn/tui.image-editor) - 🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
 * 【2024-01-19】[kleampa / not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 * 【2024-01-19】[Shopify / eng-intern-assessment-react](https://github.com/Shopify/eng-intern-assessment-react) - A Starter repo for Shopify React Intern assessments
 * 【2024-01-19】[SchemaStore / schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
@@ -1446,6 +1475,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-20】[yeasy / docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
+* 【2024-01-20】[fluxcd / flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+* 【2024-01-20】[bufbuild / protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate
 * 【2024-01-19】[arpitbbhayani / database-fundamentals](https://github.com/arpitbbhayani/database-fundamentals) - Prototype implementations of database internal concepts and algorithms.
 * 【2024-01-19】[nicocha30 / ligolo-ng](https://github.com/nicocha30/ligolo-ng) - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 * 【2024-01-19】[kffl / speedbump](https://github.com/kffl/speedbump) - TCP proxy for simulating variable, yet predictable network latency 🌐⏳
@@ -1834,6 +1866,11 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-01-20】[janoglezcampos / llvm-yx-callobfuscator](https://github.com/janoglezcampos/llvm-yx-callobfuscator) - LLVM plugin to transparently apply stack spoofing and indirect syscalls to Windows x64 native calls at compile time.
+* 【2024-01-20】[ipxe / ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
+* 【2024-01-20】[pgbackrest / pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
+* 【2024-01-20】[riscv-collab / riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) - GNU toolchain for RISC-V, including GCC
+* 【2024-01-20】[google / sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * 【2024-01-19】[sched-ext / scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
 * 【2024-01-19】[SecWiki / windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) - windows-kernel-exploits Windows平台提权漏洞集合
 * 【2024-01-19】[buzzm / postgresbson](https://github.com/buzzm/postgresbson) - postgres support for BSON
@@ -2147,6 +2184,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-01-20】[inferflow / inferflow](https://github.com/inferflow/inferflow) - Inferflow is an efficient and highly configurable inference engine for large language models (LLMs).
 * 【2024-01-19】[apple / foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 * 【2024-01-19】[weidai11 / cryptopp](https://github.com/weidai11/cryptopp) - free C++ class library of cryptographic schemes
 * 【2024-01-19】[capnproto / capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
@@ -2459,6 +2497,11 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-20】[HaveIBeenPwned / PwnedPasswordsDownloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) - A tool to download all Pwned Passwords hash ranges and save them offline so they can be used without a dependency on the k-anonymity API
+* 【2024-01-20】[Sophia-Community / SophiApp](https://github.com/Sophia-Community/SophiApp) - ⚡ The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+* 【2024-01-20】[CodeMazeBlog / CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides) - The main repository for all the Code Maze guides
+* 【2024-01-20】[dotnet / Silk.NET](https://github.com/dotnet/Silk.NET) - The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.
+* 【2024-01-20】[HangfireIO / Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 * 【2024-01-19】[Scighost / Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo - 米家游戏启动器
 * 【2024-01-18】[bflattened / bflat](https://github.com/bflattened/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
 * 【2024-01-18】[goatcorp / Dalamud](https://github.com/goatcorp/Dalamud) - FFXIV plugin framework and API
@@ -2752,6 +2795,12 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-20】[MiyakoYakota / search.0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks) - 
+* 【2024-01-20】[bmacGTPM / 361-Spring-2024](https://github.com/bmacGTPM/361-Spring-2024) - 
+* 【2024-01-20】[x-dr / chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
+* 【2024-01-20】[samber / awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
+* 【2024-01-20】[OCA / project](https://github.com/OCA/project) - Odoo Project Management and Services Company Addons
+* 【2024-01-20】[Ylianst / MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 * 【2024-01-19】[OWASP / www-project-ai-security-and-privacy-guide](https://github.com/OWASP/www-project-ai-security-and-privacy-guide) - OWASP Foundation Web Respository
 * 【2024-01-19】[rvaidun / befake](https://github.com/rvaidun/befake) - view bereals without posting your own :)
 * 【2024-01-19】[cstate / cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
@@ -3006,6 +3055,14 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-01-20】[msys2 / msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
+* 【2024-01-20】[UPay-USDT / USDT-Payment-Gateway](https://github.com/UPay-USDT/USDT-Payment-Gateway) - UPay - USDT Payment Gateway (USDT 收款支付网关)
+* 【2024-01-20】[Comfy-Themes / Discord](https://github.com/Comfy-Themes/Discord) - Stay comfy while talking to your friends
+* 【2024-01-20】[openscholar / starterkit](https://github.com/openscholar/starterkit) - starterkit
+* 【2024-01-20】[LearnOpenGL-CN / LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) - http://learnopengl.com 系列教程的简体中文翻译
+* 【2024-01-20】[Abhinav-26 / DevOps-Projects](https://github.com/Abhinav-26/DevOps-Projects) - The repository contains beginner friendly DevOps projects for automating stuffs using DevOps concepts.
+* 【2024-01-20】[creativetimofficial / argon-dashboard-asp-net](https://github.com/creativetimofficial/argon-dashboard-asp-net) - Start your development with a Bootstrap 4 Admin Dashboard built for ASP.NET Core framework, the newest go-to technology from Microsoft for top companies.
+* 【2024-01-20】[liangjingkanji / DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
 * 【2024-01-19】[CodeSpace-Academy / sdf-student-projects](https://github.com/CodeSpace-Academy/sdf-student-projects) - 
 * 【2024-01-19】[monstrousdev / themes](https://github.com/monstrousdev/themes) - Discord themes
 * 【2024-01-18】[KubeDev / kube-news](https://github.com/KubeDev/kube-news) - 
@@ -3237,6 +3294,13 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-20】[Lucaslhm / Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
+* 【2024-01-20】[xiaohucode / yidaRule](https://github.com/xiaohucode/yidaRule) - yida规则仓库
+* 【2024-01-20】[ashishps1 / awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - This repository contains tips and resources to prepare for behavioral interviews.
+* 【2024-01-20】[HumanAIGC / VividTalk](https://github.com/HumanAIGC/VividTalk) - VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior
+* 【2024-01-20】[alsyundawy / Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer & Activited Microsoft Office For MacOS
+* 【2024-01-20】[guiqui / k8Studio](https://github.com/guiqui/k8Studio) - K8 Studio
+* 【2024-01-20】[forthespada / Awsome-Courses](https://github.com/forthespada/Awsome-Courses) - 😏国内外计算机的优秀课程，包含MIT、CMU等世界CS名校，🔥🔥其中包含计算机基础学科（操作系统、计算机网络、编译器、数据库、数据结构与算法等）以及人工智能&AI等高级科目，欢迎通过PR形式贡献！
 * 【2024-01-19】[e2b-dev / awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 * 【2024-01-19】[Ostorlab / KEV](https://github.com/Ostorlab/KEV) - Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.
 * 【2024-01-19】[quoctinnguyen8 / Clean-Code---Tieng-Viet](https://github.com/quoctinnguyen8/Clean-Code---Tieng-Viet) - Clean Code Tiếng Việt: Bản dịch 6 chương đầu từ quyển "Clean Code - A Handbook of Agile Software Craftsmanship" - Robert C. Martin et. al.
