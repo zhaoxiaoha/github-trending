@@ -1,6 +1,14 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-23】[apernet / OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
+* 【2024-01-23】[majacinka / crewai-experiments](https://github.com/majacinka/crewai-experiments) - Experiments with local as well as models available through an api
+* 【2024-01-23】[n8n-io / n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+* 【2024-01-23】[thijsvanloef / palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
+* 【2024-01-23】[jammsen / docker-palworld-dedicated-server](https://github.com/jammsen/docker-palworld-dedicated-server) - Docker container to easily provision and manage Palworld Forest Dedicated Server
+* 【2024-01-23】[jonbarron / camp_zipnerf](https://github.com/jonbarron/camp_zipnerf) - 
+* 【2024-01-23】[Avaiga / taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+* 【2024-01-23】[hiddify / hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 * 【2024-01-22】[rustdesk / rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 * 【2024-01-22】[mingrammer / diagrams](https://github.com/mingrammer/diagrams) - 🎨 Diagram as Code for prototyping cloud system architectures
 * 【2024-01-22】[refinedev / refine](https://github.com/refinedev/refine) - A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -348,6 +356,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-01-23】[spring-guides / gs-rest-service](https://github.com/spring-guides/gs-rest-service) - Building a RESTful Web Service :: Learn how to create a RESTful web service with Spring.
+* 【2024-01-23】[xspanger3770 / GlobalQuake](https://github.com/xspanger3770/GlobalQuake) - Experimental application for monitoring earthquakes world-wide in near real time. Capable of issuing its own earthquake early warnings (EEW).
 * 【2024-01-22】[FabricMC / fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
 * 【2024-01-22】[signalapp / Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
 * 【2024-01-22】[dromara / hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster, prometheus-like and agentless.
@@ -716,6 +726,13 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-23】[father-bot / chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 
+* 【2024-01-23】[facefusion / facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
+* 【2024-01-23】[huggingface / nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
+* 【2024-01-23】[gabrielchua / RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Visualise and explore your RAG documents
+* 【2024-01-23】[IncomeStreamSurfer / chatgptassistantautoblogger](https://github.com/IncomeStreamSurfer/chatgptassistantautoblogger) - This autoblogger uses the GPT assistant's API to autoblog on ecommerce websites
+* 【2024-01-23】[huggingface / datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
+* 【2024-01-23】[krishnaik06 / Google-Gemini-Crash-Course](https://github.com/krishnaik06/Google-Gemini-Crash-Course) - 
 * 【2024-01-22】[FDX100 / Auto_Tor_IP_changer](https://github.com/FDX100/Auto_Tor_IP_changer) - change your Ip address automatically This tool based on tor project
 * 【2024-01-22】[karpathy / minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 * 【2024-01-22】[TencentARC / GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
@@ -1131,6 +1148,11 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-23】[openspeedtest / Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
+* 【2024-01-23】[beefproject / beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
+* 【2024-01-23】[sindresorhus / execa](https://github.com/sindresorhus/execa) - Process execution for humans
+* 【2024-01-23】[sahandghavidel / mern-blog](https://github.com/sahandghavidel/mern-blog) - MERN blog using tailwind css
+* 【2024-01-23】[mdn / dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 * 【2024-01-22】[LiteLoaderQQNT / LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
 * 【2024-01-22】[quarkape / free-canvas](https://github.com/quarkape/free-canvas) - 一键免费下载在线LOGO设计网站的高清无水印海报或LOGO，支持裁剪功能
 * 【2024-01-21】[JC144 / EDF_Simulateur_Prix](https://github.com/JC144/EDF_Simulateur_Prix) - Un outil pour simuler les différents Tarifs EDF depuis un export de la consommation.
@@ -1515,6 +1537,13 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-23】[emirpasic / gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
+* 【2024-01-23】[singchia / geminio](https://github.com/singchia/geminio) - ♊️ An application layer networking framework with rpc, bidirectional-rpc, multiplexer, raw-io and client-server consistency. 一个Go的应用层网络编程库，支持消息和确认、RPC、双向RPC、多路复用、多会话管理等
+* 【2024-01-23】[hay-kot / homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
+* 【2024-01-23】[ropnop / kerbrute](https://github.com/ropnop/kerbrute) - A tool to perform Kerberos pre-auth bruteforcing
+* 【2024-01-23】[ffuf / ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+* 【2024-01-23】[bazelbuild / bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
+* 【2024-01-23】[teivah / 100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 * 【2024-01-22】[iyear / tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang
 * 【2024-01-22】[tmc / langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
 * 【2024-01-22】[traefik / traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -2239,6 +2268,11 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-01-23】[async-profiler / async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
+* 【2024-01-23】[AlexandreRouma / SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
+* 【2024-01-23】[hzeller / rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
+* 【2024-01-23】[AHXR / ghost](https://github.com/AHXR/ghost) - 👻 RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware
+* 【2024-01-23】[SivanLaai / rime-pure](https://github.com/SivanLaai/rime-pure) - 【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼音\小鹤双拼\极品五笔\QQ五笔\徐码\郑码】
 * 【2024-01-22】[telegramdesktop / tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 * 【2024-01-22】[WebAssembly / wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 * 【2024-01-22】[flyinghead / flycast](https://github.com/flyinghead/flycast) - Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator
@@ -2565,6 +2599,13 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-23】[Flow-Launcher / Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - 🔍 Quick file search & app launcher for Windows with community-made plugins
+* 【2024-01-23】[ohmcodes / WindowsGSM.Palworld](https://github.com/ohmcodes/WindowsGSM.Palworld) - 🧩WindowsGSM plugin that provides Palworld Dedicated server
+* 【2024-01-23】[Stability-AI / StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
+* 【2024-01-23】[IcyRelic / LethalMenu](https://github.com/IcyRelic/LethalMenu) - 
+* 【2024-01-23】[Norbyte / lslib](https://github.com/Norbyte/lslib) - Tools for manipulating Divinity Original Sin and Baldur's Gate 3 files
+* 【2024-01-23】[UnigramDev / Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
+* 【2024-01-23】[Codeusa / Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.
 * 【2024-01-22】[nilaoda / BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 * 【2024-01-22】[BartoszCichecki / LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
 * 【2024-01-22】[0xDrMoe / TownofHost-Enhanced](https://github.com/0xDrMoe/TownofHost-Enhanced) - TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!
@@ -2875,6 +2916,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-23】[cipher387 / osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 * 【2024-01-22】[alura-es-cursos / js-curso-2](https://github.com/alura-es-cursos/js-curso-2) - 
 * 【2024-01-22】[nicknochnack / MLTradingBot](https://github.com/nicknochnack/MLTradingBot) - 
 * 【2024-01-21】[Null-byte-00 / LOTL](https://github.com/Null-byte-00/LOTL) - Living Off The Land (LOTL) persistent Reverse shell
@@ -3384,6 +3426,14 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-23】[gijsdev / ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) - uBlock Origin filter list to hide YouTube Shorts
+* 【2024-01-23】[iam-veeramalla / Azure-zero-to-hero](https://github.com/iam-veeramalla/Azure-zero-to-hero) - Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.
+* 【2024-01-23】[tramcar / awesome-job-boards](https://github.com/tramcar/awesome-job-boards) - 
+* 【2024-01-23】[akullpp / awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+* 【2024-01-23】[academind / react-native-practical-guide-code](https://github.com/academind/react-native-practical-guide-code) - Course code & attachments for our "React Native - The Practical Guide" (https://acad.link/react-native) course.
+* 【2024-01-23】[SatoshiVM / svm-pioneer-airdrop](https://github.com/SatoshiVM/svm-pioneer-airdrop) - 
+* 【2024-01-23】[Yule718 / Yule718](https://github.com/Yule718/Yule718) - Config files for my GitHub profile.
+* 【2024-01-23】[52CV / CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers) - 
 * 【2024-01-22】[a16z-infra / llm-app-stack](https://github.com/a16z-infra/llm-app-stack) - 
 * 【2024-01-22】[WadQamar10 / My-Hunting-Methodology-](https://github.com/WadQamar10/My-Hunting-Methodology-) - My Private Bug Hunting Methodology
 * 【2024-01-22】[CodingChallegesFYI / SharedSolutions](https://github.com/CodingChallegesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
