@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-24】[lucidrains / self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch) - Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI
+* 【2024-01-24】[chuzhixin / vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 * 【2024-01-23】[apernet / OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
 * 【2024-01-23】[majacinka / crewai-experiments](https://github.com/majacinka/crewai-experiments) - Experiments with local as well as models available through an api
 * 【2024-01-23】[n8n-io / n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -356,6 +358,10 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-01-24】[apache / commons-lang](https://github.com/apache/commons-lang) - Apache Commons Lang
+* 【2024-01-24】[nayuki / QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
+* 【2024-01-24】[hapifhir / hapi-fhir](https://github.com/hapifhir/hapi-fhir) - 🔥 HAPI FHIR - Java API for HL7 FHIR Clients and Servers
+* 【2024-01-24】[material-components / material-components-android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android
 * 【2024-01-23】[spring-guides / gs-rest-service](https://github.com/spring-guides/gs-rest-service) - Building a RESTful Web Service :: Learn how to create a RESTful web service with Spring.
 * 【2024-01-23】[xspanger3770 / GlobalQuake](https://github.com/xspanger3770/GlobalQuake) - Experimental application for monitoring earthquakes world-wide in near real time. Capable of issuing its own earthquake early warnings (EEW).
 * 【2024-01-22】[FabricMC / fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
@@ -726,6 +732,12 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-24】[MzeroMiko / VMamba](https://github.com/MzeroMiko/VMamba) - VMamba: Visual State Space Models
+* 【2024-01-24】[GloriousEggroll / ULWGL](https://github.com/GloriousEggroll/ULWGL) - Unified Linux Wine Game Launcher
+* 【2024-01-24】[OrionStarAI / Orion](https://github.com/OrionStarAI/Orion) - Orion-14B is a family of models includes a 14B foundation LLM, and a series of models: a chat model, a long context model, a quantized model, a RAG fine-tuned model, and an Agent fine-tuned model. Orion-14B 系列模型包括一个具有140亿参数的多语言基座大模型以及一系列相关的衍生模型，包括对话模型，长文本模型，量化模型，RAG微调模型，Agent微调模型等。
+* 【2024-01-24】[bentoml / BentoML](https://github.com/bentoml/BentoML) - Build Production-Grade AI Applications
+* 【2024-01-24】[pjialin / py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
+* 【2024-01-24】[foyoux / aligo](https://github.com/foyoux/aligo) - 🔥简单、易用、可扩展的阿里云盘 API 接口库🚀
 * 【2024-01-23】[father-bot / chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 
 * 【2024-01-23】[facefusion / facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 * 【2024-01-23】[huggingface / nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
@@ -1148,6 +1160,15 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-24】[tj / commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+* 【2024-01-24】[TheAlgorithms / JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
+* 【2024-01-24】[openlayers / openlayers](https://github.com/openlayers/openlayers) - OpenLayers
+* 【2024-01-24】[huanghanzhilian / c-shopping](https://github.com/huanghanzhilian/c-shopping) - A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. 基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台
+* 【2024-01-24】[artilleryio / artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
+* 【2024-01-24】[facefusion / facefusion-pinokio](https://github.com/facefusion/facefusion-pinokio) - Next generation face swapper and enhancer
+* 【2024-01-24】[NaiboWang / EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+* 【2024-01-24】[Yuyz0112 / vx.dev](https://github.com/Yuyz0112/vx.dev) - An open-source alternative to v0.dev. Cost-effective, highly customizable, and seamlessly integrated within GitHub.
+* 【2024-01-24】[Leaflet / Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 * 【2024-01-23】[openspeedtest / Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
 * 【2024-01-23】[beefproject / beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 * 【2024-01-23】[sindresorhus / execa](https://github.com/sindresorhus/execa) - Process execution for humans
@@ -1537,6 +1558,12 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-24】[qax-os / excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+* 【2024-01-24】[goravel / goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
+* 【2024-01-24】[trufflesecurity / trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
+* 【2024-01-24】[prometheus / alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
+* 【2024-01-24】[uber-go / zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
+* 【2024-01-24】[GoogleContainerTools / kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 * 【2024-01-23】[emirpasic / gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
 * 【2024-01-23】[singchia / geminio](https://github.com/singchia/geminio) - ♊️ An application layer networking framework with rpc, bidirectional-rpc, multiplexer, raw-io and client-server consistency. 一个Go的应用层网络编程库，支持消息和确认、RPC、双向RPC、多路复用、多会话管理等
 * 【2024-01-23】[hay-kot / homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
@@ -1943,6 +1970,12 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-01-24】[neutrinolabs / xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
+* 【2024-01-24】[eclipse-cyclonedds / cyclonedds](https://github.com/eclipse-cyclonedds/cyclonedds) - Eclipse Cyclone DDS project
+* 【2024-01-24】[audacity / audacity](https://github.com/audacity/audacity) - Audio Editor
+* 【2024-01-24】[FreeRTOS / FreeRTOS](https://github.com/FreeRTOS/FreeRTOS) - 'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.
+* 【2024-01-24】[openucx / ucx](https://github.com/openucx/ucx) - Unified Communication X (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
+* 【2024-01-24】[telekom-security / tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Honeypot Platform 🐝
 * 【2024-01-22】[mgba-emu / mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
 * 【2024-01-22】[Awesome-HarmonyOS / HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 * 【2024-01-21】[AnonymousAAArdvark / qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
@@ -2268,6 +2301,12 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-01-24】[Maplespe / DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add blur effect to global system title bar, support win10 and win11.
+* 【2024-01-24】[ossrs / srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
+* 【2024-01-24】[PX4 / PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software
+* 【2024-01-24】[UE4SS-RE / RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) - Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games
+* 【2024-01-24】[google / skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+* 【2024-01-24】[scylladb / seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 * 【2024-01-23】[async-profiler / async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
 * 【2024-01-23】[AlexandreRouma / SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 * 【2024-01-23】[hzeller / rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
@@ -2599,6 +2638,13 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-24】[confluentinc / confluent-kafka-dotnet](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's Apache Kafka .NET client
+* 【2024-01-24】[Mapsui / Mapsui](https://github.com/Mapsui/Mapsui) - Mapsui is a .NET Map component for: MAUI, WPF, Avalonia, Uno, Blazor, WinUI, Xamarin and Eto
+* 【2024-01-24】[t1m0thyj / WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows 10
+* 【2024-01-24】[mattpannella / pupdate](https://github.com/mattpannella/pupdate) - Pupdate - A thing for updating your Analogue Pocket
+* 【2024-01-24】[TheAlgorithms / C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - All algorithms implemented in C#.
+* 【2024-01-24】[UnrealSharp / UnrealSharp](https://github.com/UnrealSharp/UnrealSharp) - UnrealSharp is a plugin to Unreal Engine 5, which enables developers to create games using C# with Hot Reload
+* 【2024-01-24】[JamesNK / Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
 * 【2024-01-23】[Flow-Launcher / Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - 🔍 Quick file search & app launcher for Windows with community-made plugins
 * 【2024-01-23】[ohmcodes / WindowsGSM.Palworld](https://github.com/ohmcodes/WindowsGSM.Palworld) - 🧩WindowsGSM plugin that provides Palworld Dedicated server
 * 【2024-01-23】[Stability-AI / StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -2916,6 +2962,10 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-24】[Ayushparikh-code / Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!
+* 【2024-01-24】[xxlllq / system_architect](https://github.com/xxlllq/system_architect) - 💯2024年系统架构设计师（软考高级）备考资料。
+* 【2024-01-24】[expressjs / expressjs.com](https://github.com/expressjs/expressjs.com) - 
+* 【2024-01-24】[argyleink / open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 * 【2024-01-23】[cipher387 / osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 * 【2024-01-22】[alura-es-cursos / js-curso-2](https://github.com/alura-es-cursos/js-curso-2) - 
 * 【2024-01-22】[nicknochnack / MLTradingBot](https://github.com/nicknochnack/MLTradingBot) - 
@@ -3181,6 +3231,14 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-01-24】[alura-es-cursos / 2035-logica-programacion-2](https://github.com/alura-es-cursos/2035-logica-programacion-2) - Curso de lógica de programación 2 - Alura Latam
+* 【2024-01-24】[100xdevs-cohort-2 / paytm](https://github.com/100xdevs-cohort-2/paytm) - 
+* 【2024-01-24】[eliyantosarage / font-awesome-pro](https://github.com/eliyantosarage/font-awesome-pro) - CDN Font Awesome Pro v6.5.1 for Dekstop & Web
+* 【2024-01-24】[stevebauman / curlwind](https://github.com/stevebauman/curlwind) - Generate Tailwind utility stylesheets on demand.
+* 【2024-01-24】[github / codespaces-flask](https://github.com/github/codespaces-flask) - 
+* 【2024-01-24】[LoykDago / amparibe-3D](https://github.com/LoykDago/amparibe-3D) - An interactive way to visit our church FJKM Amparibe Famonjena
+* 【2024-01-24】[dailydotdev / docs](https://github.com/dailydotdev/docs) - The official product docs of daily.dev
+* 【2024-01-24】[ai / easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
 * 【2024-01-22】[rime / home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 * 【2024-01-22】[ykdojo / OpenStream](https://github.com/ykdojo/OpenStream) - OpenStream is an open-source project for creating a free tool that records screen and webcam footage simultaneously. It's designed for content creators and developed collaboratively through our community on Discord.
 * 【2024-01-22】[TryGhost / Casper](https://github.com/TryGhost/Casper) - The default theme for Ghost
@@ -3426,6 +3484,13 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-24】[CollabCodeTech / backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
+* 【2024-01-24】[karan / Projects](https://github.com/karan/Projects) - 📃 A list of practical projects that anyone can solve in any programming language.
+* 【2024-01-24】[mozilla / platform-tilt](https://github.com/mozilla/platform-tilt) - Tracking issues which disadvantage Firefox relative to first-party browsers on major software platforms.
+* 【2024-01-24】[aigc3d / motionshop](https://github.com/aigc3d/motionshop) - MotionShop: An application of replacing the human motion in the video with a virtual 3D human
+* 【2024-01-24】[DaoD / INTERS](https://github.com/DaoD/INTERS) - This is the repository for our paper "INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning"
+* 【2024-01-24】[Coder-World04 / Tech-Interview-Important-Topics-and-Techniques](https://github.com/Coder-World04/Tech-Interview-Important-Topics-and-Techniques) - This repository contains everything you need to become tech interview Ready with most important tips and techniques
+* 【2024-01-24】[flydoos / DingTalkRevokeMsgPatcher](https://github.com/flydoos/DingTalkRevokeMsgPatcher) - 钉钉消息防撤回补丁PC版（原名：钉钉电脑版防撤回插件，也叫：钉钉防撤回补丁、钉钉消息防撤回补丁）由“吾乐吧软件站”开发制作，本程序用于钉钉电脑版6.0以上版本，主要功能如下：1、支持文字消息防撤回 2、支持图片消息防撤回，支持查看高清原图 3、支持文件识别、URL识别、卡片回复消息识别等 4、支持富文本消息防撤回 5、支持个人消息防撤回，以及群主或管理员消息防撤回 6、支持自己发送的消息防撤回 7、文字消息或富文本消息，允许重新编辑或查看 8、支持语音消息防撤回（复制到浏览器打开） 9、支持钉钉多开 10、支持撤回消息提醒 11、支持消息永不已读 12、支持屏蔽钉钉升级
 * 【2024-01-23】[gijsdev / ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) - uBlock Origin filter list to hide YouTube Shorts
 * 【2024-01-23】[iam-veeramalla / Azure-zero-to-hero](https://github.com/iam-veeramalla/Azure-zero-to-hero) - Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.
 * 【2024-01-23】[tramcar / awesome-job-boards](https://github.com/tramcar/awesome-job-boards) - 
