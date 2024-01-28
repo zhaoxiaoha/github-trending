@@ -1,6 +1,10 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-28】[andrewnguonly / Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
+* 【2024-01-28】[tiny-craft / tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+* 【2024-01-28】[lencx / Noi](https://github.com/lencx/Noi) - 🦄 AI + Tools + Plugins + Community
+* 【2024-01-28】[denoland / deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 * 【2024-01-27】[goenning / google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 * 【2024-01-27】[zed-industries / zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 * 【2024-01-26】[YangLing0818 / RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster) - Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG)
@@ -377,6 +381,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-01-28】[assertj / assertj](https://github.com/assertj/assertj) - AssertJ is a library providing easy to use rich typed assertions
 * 【2024-01-27】[Ishan-sinha / DSA-for-SDE-interview](https://github.com/Ishan-sinha/DSA-for-SDE-interview) - This repository is aimed to contain all the questions required for SDE interview preparation from data structures and algorithms.
 * 【2024-01-27】[netty / netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 * 【2024-01-27】[hazelcast / hazelcast](https://github.com/hazelcast/hazelcast) - Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.
@@ -765,6 +770,10 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-28】[spla-tam / SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM
+* 【2024-01-28】[cheahjs / palworld-save-tools](https://github.com/cheahjs/palworld-save-tools) - Tools for converting PalWorld .sav files to JSON and back
+* 【2024-01-28】[ihebski / DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
+* 【2024-01-28】[Mihaiii / llm_steer](https://github.com/Mihaiii/llm_steer) - Steer LLM outputs towards a certain topic/subject and enhance response capabilities using activation engineering by adding steering vectors
 * 【2024-01-27】[microsoft / promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 * 【2024-01-27】[state-spaces / mamba](https://github.com/state-spaces/mamba) - 
 * 【2024-01-27】[assafelovic / gpt-newspaper](https://github.com/assafelovic/gpt-newspaper) - 
@@ -1207,6 +1216,11 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-28】[gchq / CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+* 【2024-01-28】[bpmn-io / bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
+* 【2024-01-28】[slackapi / slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action!
+* 【2024-01-28】[TheBeastLT / torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper) - 
+* 【2024-01-28】[Keywos / rule](https://github.com/Keywos/rule) - Surge or Loon JavaScript
 * 【2024-01-27】[typicode / husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 * 【2024-01-27】[AlreadyBored / node-nodejs-basics](https://github.com/AlreadyBored/node-nodejs-basics) - 
 * 【2024-01-27】[zotero / zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
@@ -1624,6 +1638,14 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-28】[eosphoros-ai / liteio](https://github.com/eosphoros-ai/liteio) - LiteIO is a cloud-native block device service that uses multiple storage engines, including SPDK and LVM, to achieve high performance. It is specifically designed for Kubernetes in a hyper-converged architecture, allowing for block device provisioning across the entire cluster.
+* 【2024-01-28】[dagger / dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+* 【2024-01-28】[argoproj / argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
+* 【2024-01-28】[inconshreveable / ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+* 【2024-01-28】[gorcon / rcon-cli](https://github.com/gorcon/rcon-cli) - RCON client for executing queries on game server.
+* 【2024-01-28】[flyteorg / flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+* 【2024-01-28】[projectdiscovery / interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
+* 【2024-01-28】[noovertime7 / kubemanage](https://github.com/noovertime7/kubemanage) - kubemanage是使用go+vue3开发的一款云原生运维平台，功能包括但不限于Kubernetes多集群管理、CMDB、Devops，可作为企业二次开发的模板，新手入门的学习项目
 * 【2024-01-27】[GoogleCloudPlatform / terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 * 【2024-01-27】[fullstorydev / grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 * 【2024-01-27】[go-admin-team / go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro
@@ -2051,6 +2073,11 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-01-28】[spdk / spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit
+* 【2024-01-28】[microsoft / mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
+* 【2024-01-28】[bilibili / ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+* 【2024-01-28】[henrypp / memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
+* 【2024-01-28】[rhboot / shim](https://github.com/rhboot/shim) - UEFI shim loader
 * 【2024-01-27】[floesen / EventLogCrasher](https://github.com/floesen/EventLogCrasher) - 
 * 【2024-01-27】[libdriver / bmp280](https://github.com/libdriver/bmp280) - BMP280 full function driver library for general MCU and Linux.
 * 【2024-01-27】[google / AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer
@@ -2403,6 +2430,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-01-28】[zodiacon / QuickAsm](https://github.com/zodiacon/QuickAsm) - 
+* 【2024-01-28】[valhalla / valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 * 【2024-01-27】[localcc / PalworldModdingKit](https://github.com/localcc/PalworldModdingKit) - A modding kit for Palworld
 * 【2024-01-27】[NVIDIA / cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
 * 【2024-01-27】[facebook / hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
@@ -2750,6 +2779,10 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-28】[rmcrackan / Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
+* 【2024-01-28】[setchi / FancyScrollView](https://github.com/setchi/FancyScrollView) - [Unity] Scroll view component that can implement highly flexible animations.
+* 【2024-01-28】[microsoft / testfx](https://github.com/microsoft/testfx) - MSTest framework and adapter
+* 【2024-01-28】[danielgerlag / workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
 * 【2024-01-27】[shr670377723 / CommunityServer-master](https://github.com/shr670377723/CommunityServer-master) - 
 * 【2024-01-27】[SnaffCon / Snaffler](https://github.com/SnaffCon/Snaffler) - a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4_hax )
 * 【2024-01-27】[bitwarden / mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
@@ -3093,6 +3126,9 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-28】[Shivraj-Chavan / DigitalAnalogCLock](https://github.com/Shivraj-Chavan/DigitalAnalogCLock) - 
+* 【2024-01-28】[addyosmani / essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns) - Repo for my 'Learning JavaScript Design Patterns' book
+* 【2024-01-28】[vidio-boy / Eaglercraft1.8.8](https://github.com/vidio-boy/Eaglercraft1.8.8) - Eaglercraft 1.8.8 javascript runtime. Multiplayer worlds available. Customizable profile, skins, settings, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available.
 * 【2024-01-27】[lumiere-video / lumiere-video.github.io](https://github.com/lumiere-video/lumiere-video.github.io) - 
 * 【2024-01-27】[swyxio / ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.
 * 【2024-01-27】[Corgea / retriever](https://github.com/Corgea/retriever) - Secure secret sharing through the browser using web crypto. No server required!
@@ -3372,6 +3408,10 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-01-28】[tcmmichaelb139 / obsidian-tokyonight](https://github.com/tcmmichaelb139/obsidian-tokyonight) - Tokyo Night theme for Obsidian
+* 【2024-01-28】[Ritwika-14 / CoupEarn](https://github.com/Ritwika-14/CoupEarn) - Earn by selling your unused coupons.
+* 【2024-01-28】[calcom / font](https://github.com/calcom/font) - The home for our Cal Sans font.
+* 【2024-01-28】[NightProxy / Night](https://github.com/NightProxy/Night) - Night is a speeding proxy with several customizable features and easy deployment.
 * 【2024-01-27】[shr670377723 / CMSSYSTEM](https://github.com/shr670377723/CMSSYSTEM) - 
 * 【2024-01-27】[devcows / hugo-universal-theme](https://github.com/devcows/hugo-universal-theme) - Universal theme for Hugo, it stands out with its clean design and elegant typography.
 * 【2024-01-27】[ironhack-labs / lab-js-countdown](https://github.com/ironhack-labs/lab-js-countdown) - 
@@ -3635,6 +3675,9 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-28】[burpheart / Palworld-Reverse-Note](https://github.com/burpheart/Palworld-Reverse-Note) - Palworld SAVE Reverse Note / 幻兽帕鲁逆向笔记
+* 【2024-01-28】[passivestar / godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme) - Godot minimal editor theme
+* 【2024-01-28】[mozilla / gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 * 【2024-01-27】[Anil-matcha / Top-GPTs](https://github.com/Anil-matcha/Top-GPTs) - Run popular GPTs without the need for ChatGPT Plus subscription
 * 【2024-01-27】[anderspitman / awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 * 【2024-01-27】[microsoft / AI-Chat-App-Hack](https://github.com/microsoft/AI-Chat-App-Hack) - HackTogether: The Microsoft Python Chatbot Hack | Register, Hack, Win
