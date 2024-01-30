@@ -1,6 +1,14 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-30】[farcasterxyz / fc-polls](https://github.com/farcasterxyz/fc-polls) - 
+* 【2024-01-30】[FuelLabs / fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
+* 【2024-01-30】[KaisenAmin / c_std](https://github.com/KaisenAmin/c_std) - Implementation of C++ standard libraries in C
+* 【2024-01-30】[danielmiessler / SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+* 【2024-01-30】[vizia / vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
+* 【2024-01-30】[FuelLabs / fuels-ts](https://github.com/FuelLabs/fuels-ts) - Fuel Network Typescript SDK
+* 【2024-01-30】[nvim-lua / kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
+* 【2024-01-30】[zedeus / nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 * 【2024-01-29】[leptonai / search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 * 【2024-01-29】[rasbt / LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
 * 【2024-01-29】[bevyengine / bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -390,6 +398,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-01-30】[frohoff / ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
+* 【2024-01-30】[MuntashirAkon / AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
+* 【2024-01-30】[stick-i / scblogs](https://github.com/stick-i/scblogs) - 🎉校园博客，基于微服务架构且前后端分离的博客社区系统。项目后端技术栈：JDK17+SpringBoot + SpringCloud + Mybatis-Plus + Nacos + MySQL + Redis + MQ + ElasticSearch + Docker。前端主要是基于Vue2和ElementUI进行开发的。
 * 【2024-01-29】[ViaVersion / ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 * 【2024-01-29】[hkhcoder / vprofile-project](https://github.com/hkhcoder/vprofile-project) - 
 * 【2024-01-29】[darbyluv2code / spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners) - Source code for the course: Spring Boot 3, Spring 6 and Hibernate for Beginners
@@ -783,6 +794,13 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-30】[Fanghua-Yu / SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild
+* 【2024-01-30】[Mikubill / sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
+* 【2024-01-30】[aitrepreneur / INSTID](https://github.com/aitrepreneur/INSTID) - 
+* 【2024-01-30】[video-db / StreamRAG](https://github.com/video-db/StreamRAG) - Video Search and Streaming Agent 🕵️‍♂️
+* 【2024-01-30】[sczhou / CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
+* 【2024-01-30】[wxywb / history_rag](https://github.com/wxywb/history_rag) - 
+* 【2024-01-30】[HibiKier / zhenxun_bot](https://github.com/HibiKier/zhenxun_bot) - 基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot
 * 【2024-01-29】[simonw / llm](https://github.com/simonw/llm) - Access large language models from the command-line
 * 【2024-01-29】[mealie-recipes / mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
 * 【2024-01-29】[RsaCtfTool / RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data
@@ -1238,6 +1256,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-30】[0x648 / luna-ai](https://github.com/0x648/luna-ai) - Luna AI - 全自动的 AI 直播系统
+* 【2024-01-30】[getsomecat / GetSomeCats](https://github.com/getsomecat/GetSomeCats) - 
 * 【2024-01-29】[amin4139 / share_file](https://github.com/amin4139/share_file) - 
 * 【2024-01-29】[chrisgoringe / cg-use-everywhere](https://github.com/chrisgoringe/cg-use-everywhere) - 
 * 【2024-01-29】[BretFisher / udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery) - Docker Mastery Udemy course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
@@ -1665,6 +1685,13 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-30】[deanxv / coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理discord-bot，api调用coze-bot
+* 【2024-01-30】[loft-sh / devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+* 【2024-01-30】[aandrew-me / tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+* 【2024-01-30】[markbates / goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
+* 【2024-01-30】[opusb / tpclash2](https://github.com/opusb/tpclash2) - 
+* 【2024-01-30】[bjdgyc / anylink](https://github.com/bjdgyc/anylink) - AnyLink是一个企业级远程办公 ssl vpn 软件，可以支持多人同时在线使用。基于 openconnect 协议开发，并且借鉴了 ocserv 的开发思路，可以完全兼容 AnyConnect 客户端。
+* 【2024-01-30】[vdjagilev / nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter.
 * 【2024-01-29】[Hoshinonyaruko / palworld-go](https://github.com/Hoshinonyaruko/palworld-go) - Pal World all-in-one webui for pc and mobile devices.
 * 【2024-01-29】[gwuhaolin / lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
 * 【2024-01-29】[harness / gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
@@ -2104,6 +2131,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-01-30】[OpenIntelWireless / itlwm](https://github.com/OpenIntelWireless/itlwm) - Intel Wi-Fi Drivers for macOS
+* 【2024-01-30】[qemu / qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 * 【2024-01-29】[aircrack-ng / aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) - WiFi security auditing tools suite
 * 【2024-01-29】[duck-sec / CVE-2023-28252-Compiled-exe](https://github.com/duck-sec/CVE-2023-28252-Compiled-exe) - A modification to fortra's CVE-2023-28252 exploit, compiled to exe
 * 【2024-01-29】[amd / xdna-driver](https://github.com/amd/xdna-driver) - 
@@ -2464,6 +2493,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-01-30】[cp-algorithms / cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
 * 【2024-01-29】[XRPLF / rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
 * 【2024-01-29】[SourMesen / Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, PCE, SMS/GG) for Windows, Linux and macOS
 * 【2024-01-29】[MAZHARMIK / Interview_DS_Algo](https://github.com/MAZHARMIK/Interview_DS_Algo) - Super Repository for Coding Interview Preperation
@@ -2820,6 +2850,11 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-30】[MonoGame / MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
+* 【2024-01-30】[am1goo / bloodseeker-unity](https://github.com/am1goo/bloodseeker-unity) - Easy-as-dumb toolkit to prevent any malicious injections in your Android app. Beware of cheaters!
+* 【2024-01-30】[pwntester / ysoserial.net](https://github.com/pwntester/ysoserial.net) - Deserialization payload generator for a variety of .NET formatters
+* 【2024-01-30】[jaquadro / NBTExplorer](https://github.com/jaquadro/NBTExplorer) - A graphical NBT editor for all Minecraft NBT data sources
+* 【2024-01-30】[Orbmu2k / nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - 
 * 【2024-01-29】[QL-Win / QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 * 【2024-01-28】[rmcrackan / Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
 * 【2024-01-28】[setchi / FancyScrollView](https://github.com/setchi/FancyScrollView) - [Unity] Scroll view component that can implement highly flexible animations.
@@ -3168,6 +3203,13 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-30】[vnglst / pong-wars](https://github.com/vnglst/pong-wars) - 
+* 【2024-01-30】[twitter / twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
+* 【2024-01-30】[arttoolkit / arttoolkit.github.io](https://github.com/arttoolkit/arttoolkit.github.io) - A RedTeam Toolkit
+* 【2024-01-30】[bitcoinbook / bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
+* 【2024-01-30】[filip-michalsky / SalesGPT](https://github.com/filip-michalsky/SalesGPT) - Context-aware AI Sales Agent to automate sales outreach.
+* 【2024-01-30】[rg35xx-cfw / rg35xx-cfw.github.io](https://github.com/rg35xx-cfw/rg35xx-cfw.github.io) - RG35XX Custom Firmware Documentation
+* 【2024-01-30】[builtbybel / CoMachina](https://github.com/builtbybel/CoMachina) - 🤖🔥Your everyday local companion (inspired by Microsoft Copilot)
 * 【2024-01-29】[kanton-bern / hellodata-be](https://github.com/kanton-bern/hellodata-be) - The Open-Source Enterprise Data Platform in a single Portal
 * 【2024-01-29】[nota-lang / bene](https://github.com/nota-lang/bene) - An EPUB Reading System
 * 【2024-01-29】[wangzhiye-tiancai / mysupervisor_save](https://github.com/wangzhiye-tiancai/mysupervisor_save) - 收集“导师评价”相关资源，及原“导师评价网”存档数据
@@ -3453,6 +3495,8 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-01-30】[refact0r / midnight-discord](https://github.com/refact0r/midnight-discord) - A dark, rounded discord theme.
+* 【2024-01-30】[smolnp / IPTVru](https://github.com/smolnp/IPTVru) - IPTV лист на русском
 * 【2024-01-29】[kepano / flexoki-obsidian](https://github.com/kepano/flexoki-obsidian) - An inky color scheme for Obsidian
 * 【2024-01-29】[kenngigz / App-For-PC](https://github.com/kenngigz/App-For-PC) - App For Edit Photo And Video
 * 【2024-01-28】[tcmmichaelb139 / obsidian-tokyonight](https://github.com/tcmmichaelb139/obsidian-tokyonight) - Tokyo Night theme for Obsidian
@@ -3722,6 +3766,14 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-30】[ibraheemdev / modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+* 【2024-01-30】[Coder-World04 / Complete-Data-Analytics-with-Projects](https://github.com/Coder-World04/Complete-Data-Analytics-with-Projects) - This repository contains everything you need to become proficient in Data Analytics
+* 【2024-01-30】[sorrycc / awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+* 【2024-01-30】[BrodyYoung / awesome-admin](https://github.com/BrodyYoung/awesome-admin) - Awesome Admin Template. 优秀的后台管理框架
+* 【2024-01-30】[ssantosv / WSL-Handbook](https://github.com/ssantosv/WSL-Handbook) - Guía definitiva para Windows Subsystem for Linux
+* 【2024-01-30】[karnotxyz / avail-campaign-listing](https://github.com/karnotxyz/avail-campaign-listing) - 
+* 【2024-01-30】[quozd / awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
+* 【2024-01-30】[afshinea / stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
 * 【2024-01-29】[s2underground / GhostNet](https://github.com/s2underground/GhostNet) - GhostNet
 * 【2024-01-29】[londonappbrewery / Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
 * 【2024-01-29】[gaganode / gaga_android_sdk](https://github.com/gaganode/gaga_android_sdk) - gaga_android_sdk
