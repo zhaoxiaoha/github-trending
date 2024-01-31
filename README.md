@@ -1,6 +1,10 @@
 ### Github热门项目
 ## All language
 
+* 【2024-01-31】[InkboxSoftware / excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
+* 【2024-01-31】[saagarjha / Ensemble](https://github.com/saagarjha/Ensemble) - Cast Mac windows to visionOS
+* 【2024-01-31】[facebookresearch / codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
+* 【2024-01-31】[FuelLabs / sway](https://github.com/FuelLabs/sway) - 🌴 Empowering everyone to build reliable and efficient smart contracts.
 * 【2024-01-30】[farcasterxyz / fc-polls](https://github.com/farcasterxyz/fc-polls) - 
 * 【2024-01-30】[FuelLabs / fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
 * 【2024-01-30】[KaisenAmin / c_std](https://github.com/KaisenAmin/c_std) - Implementation of C++ standard libraries in C
@@ -398,6 +402,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-01-31】[theonedev / onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
+* 【2024-01-31】[jwtk / jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
 * 【2024-01-30】[frohoff / ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 * 【2024-01-30】[MuntashirAkon / AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 * 【2024-01-30】[stick-i / scblogs](https://github.com/stick-i/scblogs) - 🎉校园博客，基于微服务架构且前后端分离的博客社区系统。项目后端技术栈：JDK17+SpringBoot + SpringCloud + Mybatis-Plus + Nacos + MySQL + Redis + MQ + ElasticSearch + Docker。前端主要是基于Vue2和ElementUI进行开发的。
@@ -794,6 +800,10 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-01-31】[kyegomez / MORPHEUS-1](https://github.com/kyegomez/MORPHEUS-1) - Implementation of "MORPHEUS-1" from Prophetic AI and "The world’s first multi-modal generative ultrasonic transformer designed to induce and stabilize lucid dreams. "
+* 【2024-01-31】[getmoto / moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
+* 【2024-01-31】[explodinggradients / ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
+* 【2024-01-31】[sshuttle / sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
 * 【2024-01-30】[Fanghua-Yu / SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild
 * 【2024-01-30】[Mikubill / sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 * 【2024-01-30】[aitrepreneur / INSTID](https://github.com/aitrepreneur/INSTID) - 
@@ -1256,6 +1266,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-01-31】[open-telemetry / opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io) - The OpenTelemetry website and documentation
 * 【2024-01-30】[0x648 / luna-ai](https://github.com/0x648/luna-ai) - Luna AI - 全自动的 AI 直播系统
 * 【2024-01-30】[getsomecat / GetSomeCats](https://github.com/getsomecat/GetSomeCats) - 
 * 【2024-01-29】[amin4139 / share_file](https://github.com/amin4139/share_file) - 
@@ -1685,6 +1696,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-01-31】[inancgumus / learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 * 【2024-01-30】[deanxv / coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理discord-bot，api调用coze-bot
 * 【2024-01-30】[loft-sh / devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 * 【2024-01-30】[aandrew-me / tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
@@ -2131,6 +2143,10 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-01-31】[SchedMD / slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
+* 【2024-01-31】[analogdevicesinc / linux](https://github.com/analogdevicesinc/linux) - Linux kernel variant from Analog Devices; see README.md for details
+* 【2024-01-31】[Cracked5pider / Stardust](https://github.com/Cracked5pider/Stardust) - A modern 64-bit position independent implant template
+* 【2024-01-31】[tianocore / edk2-platforms](https://github.com/tianocore/edk2-platforms) - EDK II sample platform branches and tags
 * 【2024-01-30】[OpenIntelWireless / itlwm](https://github.com/OpenIntelWireless/itlwm) - Intel Wi-Fi Drivers for macOS
 * 【2024-01-30】[qemu / qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 * 【2024-01-29】[aircrack-ng / aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) - WiFi security auditing tools suite
@@ -2493,6 +2509,10 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-01-31】[mltframework / shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
+* 【2024-01-31】[typesense / typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+* 【2024-01-31】[microsoft / IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
+* 【2024-01-31】[AlibabaResearch / AdvancedLiterateMachinery](https://github.com/AlibabaResearch/AdvancedLiterateMachinery) - A collection of original, innovative ideas and algorithms towards Advanced Literate Machinery. This project is maintained by the OCR Team in the Language Technology Lab, Alibaba DAMO Academy.
 * 【2024-01-30】[cp-algorithms / cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
 * 【2024-01-29】[XRPLF / rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
 * 【2024-01-29】[SourMesen / Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, PCE, SMS/GG) for Windows, Linux and macOS
@@ -2850,6 +2870,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-01-31】[rasta-mouse / CsWhispers](https://github.com/rasta-mouse/CsWhispers) - Source generator to add D/Invoke and indirect syscall methods to a C# project.
 * 【2024-01-30】[MonoGame / MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 * 【2024-01-30】[am1goo / bloodseeker-unity](https://github.com/am1goo/bloodseeker-unity) - Easy-as-dumb toolkit to prevent any malicious injections in your Android app. Beware of cheaters!
 * 【2024-01-30】[pwntester / ysoserial.net](https://github.com/pwntester/ysoserial.net) - Deserialization payload generator for a variety of .NET formatters
@@ -3203,6 +3224,9 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-01-31】[luizdepra / hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
+* 【2024-01-31】[alura-cursos / DIA5-Imersao-Alura-2024](https://github.com/alura-cursos/DIA5-Imersao-Alura-2024) - 
+* 【2024-01-31】[javascript-tutorial / zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 * 【2024-01-30】[vnglst / pong-wars](https://github.com/vnglst/pong-wars) - 
 * 【2024-01-30】[twitter / twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 * 【2024-01-30】[arttoolkit / arttoolkit.github.io](https://github.com/arttoolkit/arttoolkit.github.io) - A RedTeam Toolkit
@@ -3495,6 +3519,11 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-01-31】[HoanghoDev / slider_1](https://github.com/HoanghoDev/slider_1) - 
+* 【2024-01-31】[pglombardo / PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐 An application to securely communicate passwords over the web. Passwords automatically expire after a certain number of views and/or time has passed. Track who, what and when.
+* 【2024-01-31】[MakerSpace-FRI-UTAustin / App2-HelloWorld](https://github.com/MakerSpace-FRI-UTAustin/App2-HelloWorld) - 
+* 【2024-01-31】[HashimThePassionate / django-for-absolute-beginners](https://github.com/HashimThePassionate/django-for-absolute-beginners) - Step by Step to Master Django
+* 【2024-01-31】[suruibuas / eui](https://github.com/suruibuas/eui) - eui（原eadmin） - 极致用户体验与极简开发并存的开箱即用的后台UI框架，预览版账号：eui，密码：888888
 * 【2024-01-30】[refact0r / midnight-discord](https://github.com/refact0r/midnight-discord) - A dark, rounded discord theme.
 * 【2024-01-30】[smolnp / IPTVru](https://github.com/smolnp/IPTVru) - IPTV лист на русском
 * 【2024-01-29】[kepano / flexoki-obsidian](https://github.com/kepano/flexoki-obsidian) - An inky color scheme for Obsidian
@@ -3766,6 +3795,18 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-01-31】[xlucn / oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
+* 【2024-01-31】[yuankong666 / Ultimate-RAT-Collection](https://github.com/yuankong666/Ultimate-RAT-Collection) - For educational purposes only, samples of old & new malware builders including screenshots!
+* 【2024-01-31】[HowProgrammingWorks / SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
+* 【2024-01-31】[joonspk-research / generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
+* 【2024-01-31】[minar09 / awesome-virtual-try-on](https://github.com/minar09/awesome-virtual-try-on) - A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.
+* 【2024-01-31】[infosecn1nja / AD-Attack-Defense](https://github.com/infosecn1nja/AD-Attack-Defense) - Attack and defend active directory using modern post exploitation adversary tradecraft activity
+* 【2024-01-31】[MoienTajik / AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2024
+* 【2024-01-31】[joshnh / Git-Commands](https://github.com/joshnh/Git-Commands) - A list of commonly used Git commands
+* 【2024-01-31】[qianguyihao / Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
+* 【2024-01-31】[ddd-crew / ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) - If you're new to DDD and not sure where to start, this process will guide you step-by-step
+* 【2024-01-31】[coderdost / full-stack-dev-2023](https://github.com/coderdost/full-stack-dev-2023) - Full Stack Developer Course 2023 - CoderDost Youtube channel
+* 【2024-01-31】[meirwah / awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 * 【2024-01-30】[ibraheemdev / modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 * 【2024-01-30】[Coder-World04 / Complete-Data-Analytics-with-Projects](https://github.com/Coder-World04/Complete-Data-Analytics-with-Projects) - This repository contains everything you need to become proficient in Data Analytics
 * 【2024-01-30】[sorrycc / awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
