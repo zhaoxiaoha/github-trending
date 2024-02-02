@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-02】[webprodigies / plura-production](https://github.com/webprodigies/plura-production) - 
+* 【2024-02-02】[ExOK / Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2)
+* 【2024-02-02】[skyzh / mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week!
 * 【2024-02-01】[nrwl / nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 * 【2024-02-01】[all-in-aigc / aicover](https://github.com/all-in-aigc/aicover) - ai cover generator
 * 【2024-02-01】[PKU-YuanGroup / MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) - Mixture-of-Experts for Large Vision-Language Models
@@ -410,6 +413,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-02-02】[xuchengsheng / wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - wx-dump-4j是一款基于Java开发的微信数据分析工具。它不仅可以准确显示您的好友数、群聊数和当日的消息总量，还提供了过去15天内的每日消息统计功能，让您清晰了解自己的社交活跃度。此外它还能够识别并展示最近一个月内与您互动最频繁的前10位联系人。它还支持导出微信的聊天记录、联系人和群聊信息，甚至可以查看超过三天限制的朋友圈历史记录。
 * 【2024-02-01】[mockito / mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
 * 【2024-02-01】[mqttsnet / thinglinks](https://github.com/mqttsnet/thinglinks) - a high-performance, high-throughput, and highly scalable IoT platform! A single instance can support millions of connections. It offers powerful custom extension capabilities. Built with Netty as the communication layer component, it supports plugin-based development and integration!
 * 【2024-01-31】[theonedev / onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
@@ -810,6 +814,12 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-02】[PaddlePaddle / PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
+* 【2024-02-02】[bridgecrewio / checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+* 【2024-02-02】[pytorch / pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+* 【2024-02-02】[microsoft / TransformerCompression](https://github.com/microsoft/TransformerCompression) - For releasing code related to compression methods for transformers, accompanying our publications
+* 【2024-02-02】[X-PLUG / MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
+* 【2024-02-02】[SuperDuperDB / superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalable model training and vector search.
 * 【2024-02-01】[ray-project / ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 * 【2024-02-01】[ultralytics / ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
@@ -1280,6 +1290,12 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-02】[the-code-crusader / ValentinesSite](https://github.com/the-code-crusader/ValentinesSite) - Quick little static site I created to ask a girl to be my valentine!
+* 【2024-02-02】[DataDog / documentation](https://github.com/DataDog/documentation) - The source for Datadog's documentation site.
+* 【2024-02-02】[novnc / noVNC](https://github.com/novnc/noVNC) - VNC client web application
+* 【2024-02-02】[yarnpkg / yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
+* 【2024-02-02】[dequelabs / axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
+* 【2024-02-02】[transloadit / uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers 🐶
 * 【2024-02-01】[toolkit-for-ynab / toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 * 【2024-02-01】[cookpete / react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
@@ -1714,6 +1730,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-02】[valyala / fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+* 【2024-02-02】[rancher / rke2](https://github.com/rancher/rke2) - 
+* 【2024-02-02】[uptrace / bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 * 【2024-02-01】[stefanprodan / podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 * 【2024-02-01】[sashabaranov / go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
@@ -2165,6 +2184,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-02】[eggert / tz](https://github.com/eggert/tz) - Time zone database and code
+* 【2024-02-02】[inspektor-gadget / inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
 * 【2024-02-01】[chrismaltby / gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 * 【2024-02-01】[ttttupup / wxhelper](https://github.com/ttttupup/wxhelper) - Hook WeChat / 微信逆向
 * 【2024-02-01】[boku7 / azureOutlookC2](https://github.com/boku7/azureOutlookC2) - Azure Outlook Command & Control (C2) - Remotely control a compromised Windows Device from your Outlook mailbox. Threat Emulation Tool for North Korean APT InkySquid / ScarCruft / APT37. TTP: Use Microsoft Graph API for C2 Operations.
@@ -2534,6 +2555,11 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-02】[timeplus-io / proton](https://github.com/timeplus-io/proton) - A streaming SQL engine, a fast and lightweight alternative to Apache Flink, 🚀 powered by ClickHouse.
+* 【2024-02-02】[RyuZhihao123 / CoralRugosity](https://github.com/RyuZhihao123/CoralRugosity) - A C++ software for coral rugosity computation (made for HKUST VGD).
+* 【2024-02-02】[ton-blockchain / ton](https://github.com/ton-blockchain/ton) - Main TON monorepo
+* 【2024-02-02】[notepad-plus-plus / notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
+* 【2024-02-02】[google / or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 * 【2024-02-01】[VeroFess / PalWorld-Server-Unoffical-Api](https://github.com/VeroFess/PalWorld-Server-Unoffical-Api) - A PalWorld Server API like minecraft bukkit, not finish yet
 * 【2024-02-01】[microsoft / vcpkg-tool](https://github.com/microsoft/vcpkg-tool) - Components of microsoft/vcpkg's binary.
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
@@ -2899,6 +2925,9 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-02-02】[Xabaril / AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
+* 【2024-02-02】[FosterFramework / Foster](https://github.com/FosterFramework/Foster) - A small C# game framework
+* 【2024-02-02】[xljiulang / KestrelApp](https://github.com/xljiulang/KestrelApp) - 基于Kestrel的网络编程应用示例
 * 【2024-02-01】[KirosHan / Palworld-server-protector-DotNet](https://github.com/KirosHan/Palworld-server-protector-DotNet) - Palworld幻兽帕鲁服务端守护+存档备份+内存监控+优雅重启+Rcon指令
 * 【2024-02-01】[elastic / apm-agent-dotnet](https://github.com/elastic/apm-agent-dotnet) - Elastic APM .NET Agent
 * 【2024-02-01】[EsotericSoftware / spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes) - 2D skeletal animation runtimes for Spine.
@@ -3259,6 +3288,10 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-02-02】[hilmanski / freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
+* 【2024-02-02】[DataDog / system-tests](https://github.com/DataDog/system-tests) - Test framework for libraries and agents.
+* 【2024-02-02】[kenzok8 / small](https://github.com/kenzok8/small) - ssr passwall bypass依赖
+* 【2024-02-02】[OWASP / ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
 * 【2024-02-01】[Syknapse / Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.
 * 【2024-02-01】[KhronosGroup / glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 * 【2024-01-31】[luizdepra / hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
@@ -3556,6 +3589,10 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-02-02】[professica / box-model-common-props](https://github.com/professica/box-model-common-props) - Starter files for the CSS box model and common properties activity in GIT215
+* 【2024-02-02】[space-wizards / docs](https://github.com/space-wizards/docs) - Documentation side for Space Station 14 and RobustToolbox
+* 【2024-02-02】[avnibilgin / dotfiles](https://github.com/avnibilgin/dotfiles) - My config files
+* 【2024-02-02】[apna-college / Delta-Projects](https://github.com/apna-college/Delta-Projects) - All Delta students can create a PR to this repo to merge their projects.
 * 【2024-02-01】[Qihoo360 / WatchAD2.0](https://github.com/Qihoo360/WatchAD2.0) - WatchAD2.0是一款针对域威胁的日志分析与监控系统
 * 【2024-02-01】[AsmrProg-YT / Responsive-Music-Website](https://github.com/AsmrProg-YT/Responsive-Music-Website) - AsmrProg Youtube Channel Responsive Music Platform Design Source Code
 * 【2024-02-01】[TykTechnologies / tyk-dev-portal-quickstart](https://github.com/TykTechnologies/tyk-dev-portal-quickstart) - 
@@ -3837,6 +3874,12 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-02】[familiar / Bedwars-Bot](https://github.com/familiar/Bedwars-Bot) - A Bedwars Bot made for Hypixel, compatibility with Fours, Dreams, (and Castles) modes. Has resource sharing, defense, failsafes, and requeuing. Coded in Macro / Keybind mod for 1.12.2 Liteloader + Forge.
+* 【2024-02-02】[dipjul / Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions) - Grokking the Coding Interview: Patterns for Coding Questions Alternative
+* 【2024-02-02】[EthicalML / awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+* 【2024-02-02】[node-dojo / dojo-recursive-bins](https://github.com/node-dojo/dojo-recursive-bins) - 3d printable bin generator using blender geometry nodes
+* 【2024-02-02】[reprise99 / Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries
+* 【2024-02-02】[lensapp / lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 * 【2024-02-01】[zksync / credo](https://github.com/zksync/credo) - 
 * 【2024-02-01】[redskycyber / Cloud-Security](https://github.com/redskycyber/Cloud-Security) - This Repo serves as a collection of shared security and penetration testing resources for the cloud.
 * 【2024-02-01】[Elfiinaa / ConfigFiles](https://github.com/Elfiinaa/ConfigFiles) - 
