@@ -1,6 +1,13 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-03】[code100x / daily-code](https://github.com/code100x/daily-code) - 
+* 【2024-02-03】[AILab-CVC / YOLO-World](https://github.com/AILab-CVC/YOLO-World) - Real-Time Open-Vocabulary Object Detection
+* 【2024-02-03】[actions / runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
+* 【2024-02-03】[wasp-lang / open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
+* 【2024-02-03】[argmaxinc / WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native speech recognition on-device for iOS and macOS applications.
+* 【2024-02-03】[TrueCarry / JettonGramGpuMiner](https://github.com/TrueCarry/JettonGramGpuMiner) - 
+* 【2024-02-03】[felipemotarocha / fullstackweek-barber](https://github.com/felipemotarocha/fullstackweek-barber) - 
 * 【2024-02-02】[webprodigies / plura-production](https://github.com/webprodigies/plura-production) - 
 * 【2024-02-02】[ExOK / Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2)
 * 【2024-02-02】[skyzh / mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week!
@@ -413,6 +420,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-02-03】[open-telemetry / opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) - OpenTelemetry auto-instrumentation and instrumentation libraries for Java
 * 【2024-02-02】[xuchengsheng / wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - wx-dump-4j是一款基于Java开发的微信数据分析工具。它不仅可以准确显示您的好友数、群聊数和当日的消息总量，还提供了过去15天内的每日消息统计功能，让您清晰了解自己的社交活跃度。此外它还能够识别并展示最近一个月内与您互动最频繁的前10位联系人。它还支持导出微信的聊天记录、联系人和群聊信息，甚至可以查看超过三天限制的朋友圈历史记录。
 * 【2024-02-01】[mockito / mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
 * 【2024-02-01】[mqttsnet / thinglinks](https://github.com/mqttsnet/thinglinks) - a high-performance, high-throughput, and highly scalable IoT platform! A single instance can support millions of connections. It offers powerful custom extension capabilities. Built with Netty as the communication layer component, it supports plugin-based development and integration!
@@ -814,6 +822,11 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-03】[lich0821 / WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信逆向，微信机器人，可接入 ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook WeChat.
+* 【2024-02-03】[zaigie / palworld-server-tool](https://github.com/zaigie/palworld-server-tool) - 基于Level.sav存档解析和RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse Level.sav and RCON, visual interface management PalWorld dedicated server.
+* 【2024-02-03】[getredash / redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+* 【2024-02-03】[pytorch / vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision
+* 【2024-02-03】[ScottSloan / Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 下载 Bilibili 视频/番剧/电影/纪录片 等资源
 * 【2024-02-02】[PaddlePaddle / PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
 * 【2024-02-02】[bridgecrewio / checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 * 【2024-02-02】[pytorch / pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
@@ -1290,6 +1303,9 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-03】[handsontable / handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
+* 【2024-02-03】[elementor / elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
+* 【2024-02-03】[adrianhajdin / project_hoobank](https://github.com/adrianhajdin/project_hoobank) - Modern UI/UX website using React.js & Tailwind CSS
 * 【2024-02-02】[the-code-crusader / ValentinesSite](https://github.com/the-code-crusader/ValentinesSite) - Quick little static site I created to ask a girl to be my valentine!
 * 【2024-02-02】[DataDog / documentation](https://github.com/DataDog/documentation) - The source for Datadog's documentation site.
 * 【2024-02-02】[novnc / noVNC](https://github.com/novnc/noVNC) - VNC client web application
@@ -1730,6 +1746,11 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-03】[mikefarah / yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+* 【2024-02-03】[Telmate / terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
+* 【2024-02-03】[blast-io / blast](https://github.com/blast-io/blast) - 
+* 【2024-02-03】[owncloud / ocis](https://github.com/owncloud/ocis) - ⚛️ ownCloud Infinite Scale Stack
+* 【2024-02-03】[aws / aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
 * 【2024-02-02】[valyala / fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 * 【2024-02-02】[rancher / rke2](https://github.com/rancher/rke2) - 
 * 【2024-02-02】[uptrace / bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
@@ -2184,6 +2205,11 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-03】[snyk / leaky-vessels-dynamic-detector](https://github.com/snyk/leaky-vessels-dynamic-detector) - Leaky Vessels Dynamic Detector
+* 【2024-02-03】[grafana / beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of HTTP and HTTPS services
+* 【2024-02-03】[GNOME / libxml2](https://github.com/GNOME/libxml2) - Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2
+* 【2024-02-03】[wolfSSL / wolfssl](https://github.com/wolfSSL/wolfssl) - The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud. wolfSSL supports up to TLS 1.3!
+* 【2024-02-03】[redeflesq / firewall-bypass](https://github.com/redeflesq/firewall-bypass) - Download data from the internet bypassing the firewall using process injection
 * 【2024-02-02】[eggert / tz](https://github.com/eggert/tz) - Time zone database and code
 * 【2024-02-02】[inspektor-gadget / inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
 * 【2024-02-01】[chrismaltby / gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
@@ -2555,6 +2581,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-03】[bpftrace / bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
+* 【2024-02-03】[recastnavigation / recastnavigation](https://github.com/recastnavigation/recastnavigation) - Industry-standard navigation-mesh toolset for games
 * 【2024-02-02】[timeplus-io / proton](https://github.com/timeplus-io/proton) - A streaming SQL engine, a fast and lightweight alternative to Apache Flink, 🚀 powered by ClickHouse.
 * 【2024-02-02】[RyuZhihao123 / CoralRugosity](https://github.com/RyuZhihao123/CoralRugosity) - A C++ software for coral rugosity computation (made for HKUST VGD).
 * 【2024-02-02】[ton-blockchain / ton](https://github.com/ton-blockchain/ton) - Main TON monorepo
@@ -2925,6 +2953,14 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-02-03】[vallettasoftware / boilerplate-dotnet](https://github.com/vallettasoftware/boilerplate-dotnet) - A multifunctional enterprise HTTP API project template based on modern approaches and the latest version of .NET 8.
+* 【2024-02-03】[dotnet / docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API documentation.
+* 【2024-02-03】[dotnet / samples](https://github.com/dotnet/samples) - Sample code referenced by the .NET documentation
+* 【2024-02-03】[mbdavid / LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
+* 【2024-02-03】[grpc / grpc-dotnet](https://github.com/grpc/grpc-dotnet) - gRPC for .NET
+* 【2024-02-03】[quartznet / quartznet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
+* 【2024-02-03】[gerardog / gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
+* 【2024-02-03】[skydevil88 / XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PS、NS、EA app & Origin、战网国际服、Epic、育碧、Riot Games下载加速。
 * 【2024-02-02】[Xabaril / AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
 * 【2024-02-02】[FosterFramework / Foster](https://github.com/FosterFramework/Foster) - A small C# game framework
 * 【2024-02-02】[xljiulang / KestrelApp](https://github.com/xljiulang/KestrelApp) - 基于Kestrel的网络编程应用示例
@@ -3874,6 +3910,9 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-03】[RawChat / RawChat](https://github.com/RawChat/RawChat) - 
+* 【2024-02-03】[taowen / awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
+* 【2024-02-03】[microsoft / microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
 * 【2024-02-02】[familiar / Bedwars-Bot](https://github.com/familiar/Bedwars-Bot) - A Bedwars Bot made for Hypixel, compatibility with Fours, Dreams, (and Castles) modes. Has resource sharing, defense, failsafes, and requeuing. Coded in Macro / Keybind mod for 1.12.2 Liteloader + Forge.
 * 【2024-02-02】[dipjul / Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions) - Grokking the Coding Interview: Patterns for Coding Questions Alternative
 * 【2024-02-02】[EthicalML / awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
