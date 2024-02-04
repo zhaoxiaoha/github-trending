@@ -1,6 +1,15 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-04】[OpenBMB / MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforms Llama2-13B.
+* 【2024-02-04】[allenai / OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
+* 【2024-02-04】[Sanster / IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+* 【2024-02-04】[devfullcycle / imersao17](https://github.com/devfullcycle/imersao17) - 
+* 【2024-02-04】[bclswl0827 / ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
+* 【2024-02-04】[Lightning-AI / pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
+* 【2024-02-04】[lyswhut / lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
+* 【2024-02-04】[snyk / leaky-vessels-static-detector](https://github.com/snyk/leaky-vessels-static-detector) - Static detection tool for runc and Docker "Leaky Vessels" vulnerabilities
+* 【2024-02-04】[soybeanjs / soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 * 【2024-02-03】[code100x / daily-code](https://github.com/code100x/daily-code) - 
 * 【2024-02-03】[AILab-CVC / YOLO-World](https://github.com/AILab-CVC/YOLO-World) - Real-Time Open-Vocabulary Object Detection
 * 【2024-02-03】[actions / runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
@@ -420,6 +429,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-02-04】[JabRef / jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and biblatex (.bib) databases
+* 【2024-02-04】[AlmasB / FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
+* 【2024-02-04】[liyupi / yuzi-generator](https://github.com/liyupi/yuzi-generator) - 基于 React + Spring Boot + Picocli + 对象存储的代码生成器共享平台，又分为 3 个循序渐进的子项目：基于命令行的本地代码生成器 + 代码生成器制作工具 + 在线代码生成器平台。实践 Java 命令行应用开发、FreeMarker 模板引擎、多种设计模式、对象存储、十几种优化方法、复杂业务的拆解和系统设计、分布式任务调度系统、Vert.x 响应式编程等
 * 【2024-02-03】[open-telemetry / opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) - OpenTelemetry auto-instrumentation and instrumentation libraries for Java
 * 【2024-02-02】[xuchengsheng / wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - wx-dump-4j是一款基于Java开发的微信数据分析工具。它不仅可以准确显示您的好友数、群聊数和当日的消息总量，还提供了过去15天内的每日消息统计功能，让您清晰了解自己的社交活跃度。此外它还能够识别并展示最近一个月内与您互动最频繁的前10位联系人。它还支持导出微信的聊天记录、联系人和群聊信息，甚至可以查看超过三天限制的朋友圈历史记录。
 * 【2024-02-01】[mockito / mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
@@ -822,6 +834,12 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-04】[g1879 / DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
+* 【2024-02-04】[PromtEngineer / localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+* 【2024-02-04】[Slowerzs / ThievingFox](https://github.com/Slowerzs/ThievingFox) - 
+* 【2024-02-04】[caronc / apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
+* 【2024-02-04】[iperov / DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
+* 【2024-02-04】[krau / kmua-bot](https://github.com/krau/kmua-bot) - 🍥✨ A 💕 Telegram❄️ Bot🍰
 * 【2024-02-03】[lich0821 / WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信逆向，微信机器人，可接入 ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook WeChat.
 * 【2024-02-03】[zaigie / palworld-server-tool](https://github.com/zaigie/palworld-server-tool) - 基于Level.sav存档解析和RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse Level.sav and RCON, visual interface management PalWorld dedicated server.
 * 【2024-02-03】[getredash / redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -1303,6 +1321,14 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-04】[sunner / ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+* 【2024-02-04】[openwrt / luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
+* 【2024-02-04】[alphagov / govuk-frontend](https://github.com/alphagov/govuk-frontend) - GOV.UK Frontend contains the code you need to start building a user interface for government platforms and services.
+* 【2024-02-04】[josStorer / chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
+* 【2024-02-04】[mattboldt / typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
+* 【2024-02-04】[Aylur / dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
+* 【2024-02-04】[therealgliz / blooket-hacks](https://github.com/therealgliz/blooket-hacks) - Multiple game hacks to use so the game become easier to play!
+* 【2024-02-04】[m3u8playlist / dp](https://github.com/m3u8playlist/dp) - 
 * 【2024-02-03】[handsontable / handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 * 【2024-02-03】[elementor / elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 * 【2024-02-03】[adrianhajdin / project_hoobank](https://github.com/adrianhajdin/project_hoobank) - Modern UI/UX website using React.js & Tailwind CSS
@@ -1746,6 +1772,10 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-04】[glasskube / glasskube](https://github.com/glasskube/glasskube) - 🧊 The missing Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and get automatic updates via a central public package repository.
+* 【2024-02-04】[seaweedfs / seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+* 【2024-02-04】[gofireflyio / aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
+* 【2024-02-04】[authzed / spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained access control for customer applications
 * 【2024-02-03】[mikefarah / yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
 * 【2024-02-03】[Telmate / terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
 * 【2024-02-03】[blast-io / blast](https://github.com/blast-io/blast) - 
@@ -2205,6 +2235,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-04】[codeplea / genann](https://github.com/codeplea/genann) - simple neural network library in ANSI C
+* 【2024-02-04】[dgllghr / stanchion](https://github.com/dgllghr/stanchion) - A SQLite extension that brings column-oriented tables to SQLite
+* 【2024-02-04】[xCuri0 / ReBarUEFI](https://github.com/xCuri0/ReBarUEFI) - Resizable BAR for (almost) any UEFI system
 * 【2024-02-03】[snyk / leaky-vessels-dynamic-detector](https://github.com/snyk/leaky-vessels-dynamic-detector) - Leaky Vessels Dynamic Detector
 * 【2024-02-03】[grafana / beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of HTTP and HTTPS services
 * 【2024-02-03】[GNOME / libxml2](https://github.com/GNOME/libxml2) - Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2
@@ -2581,6 +2614,10 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-04】[WasmEdge / WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+* 【2024-02-04】[versatica / mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
+* 【2024-02-04】[oceanbase / oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
+* 【2024-02-04】[huihut / interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation…
 * 【2024-02-03】[bpftrace / bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
 * 【2024-02-03】[recastnavigation / recastnavigation](https://github.com/recastnavigation/recastnavigation) - Industry-standard navigation-mesh toolset for games
 * 【2024-02-02】[timeplus-io / proton](https://github.com/timeplus-io/proton) - A streaming SQL engine, a fast and lightweight alternative to Apache Flink, 🚀 powered by ClickHouse.
@@ -2953,6 +2990,10 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-02-04】[jamesmh / coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
+* 【2024-02-04】[Unity-Technologies / UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) - Unity C# reference source code.
+* 【2024-02-04】[npgsql / npgsql](https://github.com/npgsql/npgsql) - Npgsql is the .NET data provider for PostgreSQL.
+* 【2024-02-04】[VeriorPies / ParrelSync](https://github.com/VeriorPies/ParrelSync) - (Unity3D) Test multiplayer without building
 * 【2024-02-03】[vallettasoftware / boilerplate-dotnet](https://github.com/vallettasoftware/boilerplate-dotnet) - A multifunctional enterprise HTTP API project template based on modern approaches and the latest version of .NET 8.
 * 【2024-02-03】[dotnet / docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API documentation.
 * 【2024-02-03】[dotnet / samples](https://github.com/dotnet/samples) - Sample code referenced by the .NET documentation
@@ -3324,6 +3365,13 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-02-04】[QuiteAFancyEmerald / Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker is a web proxy service that helps you access websites that may be blocked by your network or browser. It does this securely and with additional features. [MOVED TO A NEW REPO]
+* 【2024-02-04】[cirosantilli / china-dictatorship](https://github.com/cirosantilli/china-dictatorship) - 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police might pay you a visit. Home to the mega-FAQ, news compilation, restaurant and music recommen…
+* 【2024-02-04】[lukin / keywind](https://github.com/lukin/keywind) - Keywind is a component-based Keycloak Login Theme built with Tailwind CSS
+* 【2024-02-04】[Lerist / FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location
+* 【2024-02-04】[codrops / StickySections](https://github.com/codrops/StickySections) - Some ideas of how sticky sections can be animated while exiting the viewport.
+* 【2024-02-04】[tc39 / proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
+* 【2024-02-04】[paulgp / applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
 * 【2024-02-02】[hilmanski / freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
 * 【2024-02-02】[DataDog / system-tests](https://github.com/DataDog/system-tests) - Test framework for libraries and agents.
 * 【2024-02-02】[kenzok8 / small](https://github.com/kenzok8/small) - ssr passwall bypass依赖
@@ -3625,6 +3673,14 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-02-04】[Helpmecoder6655 / valentine-day-card](https://github.com/Helpmecoder6655/valentine-day-card) - 
+* 【2024-02-04】[itscodenation / int-u3-project-23-24-starter-code](https://github.com/itscodenation/int-u3-project-23-24-starter-code) - 
+* 【2024-02-04】[fabiorochafg / joomla-3-blank-template](https://github.com/fabiorochafg/joomla-3-blank-template) - A blank template for Joomla 3.0.
+* 【2024-02-04】[EricFormar / clima-app](https://github.com/EricFormar/clima-app) - Proyecto creado con React y Typescript que obtiene los datos del clima de una API. To Formar with ❤️
+* 【2024-02-04】[rutuja091 / car-rental-and-booking-system-Group-project-1-ICP-7](https://github.com/rutuja091/car-rental-and-booking-system-Group-project-1-ICP-7) - 
+* 【2024-02-04】[benaston / buttons.css](https://github.com/benaston/buttons.css) - CSS3 button experiments.
+* 【2024-02-04】[creativetimofficial / black-dashboard-django](https://github.com/creativetimofficial/black-dashboard-django) - Black Dashboard - Open-source Django Template | Creative-Tim
+* 【2024-02-04】[sssain / simple-portfolio](https://github.com/sssain/simple-portfolio) - 📃 a simple portfolio template.
 * 【2024-02-02】[professica / box-model-common-props](https://github.com/professica/box-model-common-props) - Starter files for the CSS box model and common properties activity in GIT215
 * 【2024-02-02】[space-wizards / docs](https://github.com/space-wizards/docs) - Documentation side for Space Station 14 and RobustToolbox
 * 【2024-02-02】[avnibilgin / dotfiles](https://github.com/avnibilgin/dotfiles) - My config files
@@ -3910,6 +3966,11 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-04】[cmhungsteve / Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
+* 【2024-02-04】[goldcoders / DSA](https://github.com/goldcoders/DSA) - Free Premium Books For Learning Data Structure and Algorithm
+* 【2024-02-04】[shengcaishizhan / kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
+* 【2024-02-04】[iggredible / Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
+* 【2024-02-04】[Tgo1014 / GridLauncher](https://github.com/Tgo1014/GridLauncher) - 
 * 【2024-02-03】[RawChat / RawChat](https://github.com/RawChat/RawChat) - 
 * 【2024-02-03】[taowen / awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 * 【2024-02-03】[microsoft / microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
