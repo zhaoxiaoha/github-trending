@@ -1,6 +1,12 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-07】[mitsuhiko / rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
+* 【2024-02-07】[huggingface / chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
+* 【2024-02-07】[google / oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
+* 【2024-02-07】[maybe-finance / maybe-archive](https://github.com/maybe-finance/maybe-archive) - 
+* 【2024-02-07】[mui / mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
+* 【2024-02-07】[ethereum-lists / chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 * 【2024-02-06】[clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 * 【2024-02-06】[illacloud / illa-builder](https://github.com/illacloud/illa-builder) - Create AI-Driven Apps like Assembling Blocks
 * 【2024-02-06】[superbeyone / JetBrainsActiveCode](https://github.com/superbeyone/JetBrainsActiveCode) - Jetbrains Active Code
@@ -440,6 +446,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-02-07】[GoogleCloudPlatform / java-docs-samples](https://github.com/GoogleCloudPlatform/java-docs-samples) - Java and Kotlin Code samples used on cloud.google.com
+* 【2024-02-07】[TechEmpower / FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 * 【2024-02-06】[MirnaGama / hospital-management-api](https://github.com/MirnaGama/hospital-management-api) - Hospital Management API built in Spring Boot
 * 【2024-02-06】[EssentialsX / Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 * 【2024-02-06】[IrisShaders / Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
@@ -850,6 +858,15 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-07】[FujiwaraChoki / MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviepPy.
+* 【2024-02-07】[segmind / segmoe](https://github.com/segmind/segmoe) - 
+* 【2024-02-07】[d60 / twikit](https://github.com/d60/twikit) - Twitter API wrapper for Python with **no API key required** | Without api key | Free | Twitter scraper | Twitter Bot
+* 【2024-02-07】[octaviovillegas / Curso_de_ingreso_PYTHON](https://github.com/octaviovillegas/Curso_de_ingreso_PYTHON) - Curso de ingreso en PYTHON
+* 【2024-02-07】[iam-veeramalla / Jenkins-Zero-To-Hero](https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero) - Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD in GitOps way.
+* 【2024-02-07】[Flagsmith / flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
+* 【2024-02-07】[NVIDIA / Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
+* 【2024-02-07】[intelligent-machine-learning / dlrover](https://github.com/intelligent-machine-learning/dlrover) - DLRover: An Automatic Distributed Deep Learning System
+* 【2024-02-07】[Stock-Fund / XCrawler](https://github.com/Stock-Fund/XCrawler) - 轻量型A股爬虫项目
 * 【2024-02-06】[arcee-ai / mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 * 【2024-02-06】[Open-Wine-Components / ULWGL-launcher](https://github.com/Open-Wine-Components/ULWGL-launcher) - 
 * 【2024-02-06】[mementum / backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
@@ -1350,6 +1367,11 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-07】[videojs / video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+* 【2024-02-07】[GovindCodes / ValentineWish](https://github.com/GovindCodes/ValentineWish) - Wish Valentine's Day to Your loved ones like a Nerd.
+* 【2024-02-07】[givanz / VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
+* 【2024-02-07】[4ian / GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform game engine designed to be used by everyone.
+* 【2024-02-07】[gulpjs / gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 * 【2024-02-06】[agalwood / Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 * 【2024-02-06】[burakorkmez / mern-chat-app](https://github.com/burakorkmez/mern-chat-app) - Real Time Chat App | MERN && Socket.io && JWT
 * 【2024-02-06】[iptv-org / database](https://github.com/iptv-org/database) - User editable database for TV channels.
@@ -1807,6 +1829,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-07】[gabotechs / dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
 * 【2024-02-06】[qdm12 / gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 * 【2024-02-06】[wal-g / wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 * 【2024-02-06】[fyne-io / fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
@@ -2278,6 +2301,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-07】[stacksmashing / pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) - A simple, very experimental TPM sniffer for LPC bus
+* 【2024-02-07】[ARM-software / arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A
+* 【2024-02-07】[umutsevdi / wear-pico](https://github.com/umutsevdi/wear-pico) - An open source Smartwatch firmware written in C for the Raspberry Pi Pico
 * 【2024-02-06】[veracrypt / VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 * 【2024-02-06】[Cyan4973 / xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 * 【2024-02-05】[dankamongmen / notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
@@ -2663,6 +2689,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-07】[libjxl / libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
+* 【2024-02-07】[cmderdev / cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+* 【2024-02-07】[simdjson / simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, WatermelonDB, Apache Doris, Milvus, StarRocks
 * 【2024-02-06】[ExpressLRS / ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications
 * 【2024-02-05】[finalburnneo / FBNeo](https://github.com/finalburnneo/FBNeo) - FinalBurn Neo - We are Team FBNeo.
 * 【2024-02-05】[mumble-voip / mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
@@ -3042,6 +3071,9 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-02-07】[dotnet / interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
+* 【2024-02-07】[Azure / azure-functions-host](https://github.com/Azure/azure-functions-host) - The host/runtime that powers Azure Functions
+* 【2024-02-07】[izhaorui / Zr.Admin.NET](https://github.com/izhaorui/Zr.Admin.NET) - 🎉ZR.Admin.NET是一款前后端分离的、跨平台基于RBAC的通用权限管理后台。ORM采用SqlSugar。前端采用Vue、AntDesign，支持多租户、缓存、任务调度、支持统一异常处理、接口限流、支持一键生成前后端代码，支持动态国际化翻译(Vue3)，等诸多黑科技，代码简洁易懂、易扩展让开发更简单、更通用。
 * 【2024-02-06】[stakira / OpenUtau](https://github.com/stakira/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
 * 【2024-02-06】[AlianBlank / GameFrameX](https://github.com/AlianBlank/GameFrameX) - Unity前后端+管理端一体化解决方案-HybridCLR+YooAssets+LuBan+Xlua+ProtoBuff+MessagePack+FairyGUI+DoTween+GameAnalytics+LitJson+UniTask+GameFramework+GeekServer+Admin.Net。
 * 【2024-02-06】[duplicati / duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
@@ -3735,6 +3767,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-02-07】[Kalvium-Program / to-do-app-boilerplate](https://github.com/Kalvium-Program/to-do-app-boilerplate) - 
 * 【2024-02-06】[hiteshchoudhary / fun-with-tailwind](https://github.com/hiteshchoudhary/fun-with-tailwind) - A fun repo to play with tailwind
 * 【2024-02-06】[Naezr / ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 * 【2024-02-06】[aafifr / Flower](https://github.com/aafifr/Flower) - 
@@ -4034,6 +4067,15 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-07】[majidrezarahnavard / way_of_freedom](https://github.com/majidrezarahnavard/way_of_freedom) - methods to access free internet
+* 【2024-02-07】[krishnadey30 / LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
+* 【2024-02-07】[yaelwrites / Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
+* 【2024-02-07】[JeffSackmann / tennis_atp](https://github.com/JeffSackmann/tennis_atp) - ATP Tennis Rankings, Results, and Stats
+* 【2024-02-07】[ann-afame / DEVOPS-WORLD](https://github.com/ann-afame/DEVOPS-WORLD) - 
+* 【2024-02-07】[web-platform-tests / interop](https://github.com/web-platform-tests/interop) - web-platform-tests Interop project
+* 【2024-02-07】[cncf / curriculum](https://github.com/cncf/curriculum) - 📚Open Source Curriculum for CNCF Certification Courses
+* 【2024-02-07】[BetterBench / BetterBench-Shop](https://github.com/BetterBench/BetterBench-Shop) - BetterBench 的面包多小店
+* 【2024-02-07】[zhengjim / Chinese-Security-RSS](https://github.com/zhengjim/Chinese-Security-RSS) - 网络安全资讯的RSS订阅，网络安全博客的RSS订阅，网络安全公众号的RSS订阅
 * 【2024-02-06】[3b1b / captions](https://github.com/3b1b/captions) - transcripts and captions for 3blue1brown videos
 * 【2024-02-06】[W01fh4cker / LearnJavaMemshellFromZero](https://github.com/W01fh4cker/LearnJavaMemshellFromZero) - 【原创】完全零基础从0到1掌握Java内存马，公众号：追梦信安
 * 【2024-02-06】[G-U-N / AnimateLCM](https://github.com/G-U-N/AnimateLCM) - AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning
