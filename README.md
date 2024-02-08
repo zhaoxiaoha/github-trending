@@ -1,6 +1,15 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-08】[zanfranceschi / rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
+* 【2024-02-08】[logseq / logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+* 【2024-02-08】[thu-vu92 / local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance) - In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.
+* 【2024-02-08】[tauri-apps / tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+* 【2024-02-08】[netbox-community / netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+* 【2024-02-08】[atopile / atopile](https://github.com/atopile/atopile) - A tool to create electronic circuit boards with code. Find our docs here: https://atopile.io/getting-started/
+* 【2024-02-08】[backstage / backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+* 【2024-02-08】[reqable / re-editor](https://github.com/reqable/re-editor) - Re-Editor is a powerful lightweight text and code editor widget.
+* 【2024-02-08】[divyam234 / teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
 * 【2024-02-07】[mitsuhiko / rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
 * 【2024-02-07】[huggingface / chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 * 【2024-02-07】[google / oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
@@ -446,6 +455,10 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-02-08】[GlassyAmadeus / CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) - The Poc for CVE-2024-20931
+* 【2024-02-08】[langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) - 
+* 【2024-02-08】[apache / fineract](https://github.com/apache/fineract) - Apache Fineract
+* 【2024-02-08】[ytyht226 / taskflow](https://github.com/ytyht226/taskflow) - taskflow是一款轻量、简单易用、可灵活扩展的通用任务编排框架，基于有向无环图(DAG)的方式实现，框架提供了组件复用、同步/异步编排、条件判断、分支选择等能力，可以根据不同的业务场景对任意的业务流程进行编排
 * 【2024-02-07】[GoogleCloudPlatform / java-docs-samples](https://github.com/GoogleCloudPlatform/java-docs-samples) - Java and Kotlin Code samples used on cloud.google.com
 * 【2024-02-07】[TechEmpower / FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 * 【2024-02-06】[MirnaGama / hospital-management-api](https://github.com/MirnaGama/hospital-management-api) - Hospital Management API built in Spring Boot
@@ -858,6 +871,14 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-08】[kevingduck / ChatGPT-phone](https://github.com/kevingduck/ChatGPT-phone) - Demo of twilio
+* 【2024-02-08】[dvcoolarun / web2pdf](https://github.com/dvcoolarun/web2pdf) - 🔄 CLI to convert Webpages to PDFs 🚀
+* 【2024-02-08】[narfindustries / http-garden](https://github.com/narfindustries/http-garden) - Differential testing and fuzzing of HTTP servers and proxies
+* 【2024-02-08】[Doubiiu / DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter) - DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors
+* 【2024-02-08】[apple / ml-mgie](https://github.com/apple/ml-mgie) - 
+* 【2024-02-08】[defog-ai / sql-eval](https://github.com/defog-ai/sql-eval) - Code for sql generation evaluation
+* 【2024-02-08】[phidatahq / phidata](https://github.com/phidatahq/phidata) - Build AI Assistants using function calling
+* 【2024-02-08】[aws-samples / aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 * 【2024-02-07】[FujiwaraChoki / MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviepPy.
 * 【2024-02-07】[segmind / segmoe](https://github.com/segmind/segmoe) - 
 * 【2024-02-07】[d60 / twikit](https://github.com/d60/twikit) - Twitter API wrapper for Python with **no API key required** | Without api key | Free | Twitter scraper | Twitter Bot
@@ -1367,6 +1388,12 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-08】[stdlib-js / stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
+* 【2024-02-08】[typescript-cheatsheets / react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
+* 【2024-02-08】[AsmrProg-YT / 100-days-of-javascript](https://github.com/AsmrProg-YT/100-days-of-javascript) - AsmrProg Youtube Channel 100 days of javascript codes collection
+* 【2024-02-08】[jinenge / tvbox](https://github.com/jinenge/tvbox) - TVBox(进恩哥版)，内置源，随时更新内置源，不必担心不能用
+* 【2024-02-08】[namdosanwannabe / be-my-valentine](https://github.com/namdosanwannabe/be-my-valentine) - Simple JavaScript Project
+* 【2024-02-08】[safak / next-animated-portfolio](https://github.com/safak/next-animated-portfolio) - 
 * 【2024-02-07】[videojs / video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 * 【2024-02-07】[GovindCodes / ValentineWish](https://github.com/GovindCodes/ValentineWish) - Wish Valentine's Day to Your loved ones like a Nerd.
 * 【2024-02-07】[givanz / VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
@@ -1829,6 +1856,10 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-08】[pressly / goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
+* 【2024-02-08】[dymensionxyz / dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
+* 【2024-02-08】[getsops / sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
+* 【2024-02-08】[docker / cli](https://github.com/docker/cli) - The Docker CLI
 * 【2024-02-07】[gabotechs / dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
 * 【2024-02-06】[qdm12 / gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 * 【2024-02-06】[wal-g / wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
@@ -2301,6 +2332,11 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-08】[xroche / httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository)
+* 【2024-02-08】[citusdata / pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
+* 【2024-02-08】[capstone-engine / capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), BPF, Ethereum VM, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.
+* 【2024-02-08】[hfiref0x / UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
+* 【2024-02-08】[libexpat / libexpat](https://github.com/libexpat/libexpat) - 🌿 Fast streaming XML parser written in C99 with >90% test coverage; moved from SourceForge to GitHub
 * 【2024-02-07】[stacksmashing / pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) - A simple, very experimental TPM sniffer for LPC bus
 * 【2024-02-07】[ARM-software / arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A
 * 【2024-02-07】[umutsevdi / wear-pico](https://github.com/umutsevdi/wear-pico) - An open source Smartwatch firmware written in C for the Raspberry Pi Pico
@@ -2689,6 +2725,12 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-08】[tenstorrent-metal / tt-metal](https://github.com/tenstorrent-metal/tt-metal) - ttnn - a python API and OP library. TT-Metalium - a low level kernel programming model.
+* 【2024-02-08】[OneLoneCoder / olcUTIL_Geometry2D](https://github.com/OneLoneCoder/olcUTIL_Geometry2D) - A Single-Header 2D Geometry Analysis Library
+* 【2024-02-08】[OpenGene / fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...)
+* 【2024-02-08】[RibShark / SafeDiscShim](https://github.com/RibShark/SafeDiscShim) - SafeDiscShim is a compatibility tool that allows for SafeDisc protected games which utilize the insecure Macrovision Security Driver ("secdrv.sys") to run on modern versions of Windows .
+* 【2024-02-08】[llvm / torch-mlir](https://github.com/llvm/torch-mlir) - The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.
+* 【2024-02-08】[osquery / osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 * 【2024-02-07】[libjxl / libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
 * 【2024-02-07】[cmderdev / cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 * 【2024-02-07】[simdjson / simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, WatermelonDB, Apache Doris, Milvus, StarRocks
@@ -3071,6 +3113,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-02-08】[Giorgi / EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) - Entity Framework Core queries debugger visualizer.
+* 【2024-02-08】[shalzuth / PalWorldAntiCheat](https://github.com/shalzuth/PalWorldAntiCheat) - palworld anticheat for dedicated servers
 * 【2024-02-07】[dotnet / interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
 * 【2024-02-07】[Azure / azure-functions-host](https://github.com/Azure/azure-functions-host) - The host/runtime that powers Azure Functions
 * 【2024-02-07】[izhaorui / Zr.Admin.NET](https://github.com/izhaorui/Zr.Admin.NET) - 🎉ZR.Admin.NET是一款前后端分离的、跨平台基于RBAC的通用权限管理后台。ORM采用SqlSugar。前端采用Vue、AntDesign，支持多租户、缓存、任务调度、支持统一异常处理、接口限流、支持一键生成前后端代码，支持动态国际化翻译(Vue3)，等诸多黑科技，代码简洁易懂、易扩展让开发更简单、更通用。
@@ -3455,6 +3499,9 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-02-08】[zanfranceschi / rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
+* 【2024-02-08】[rajaprerak / rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
+* 【2024-02-08】[Tikam02 / DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 * 【2024-02-06】[jgm / djot](https://github.com/jgm/djot) - A light markup language
 * 【2024-02-06】[pdf2htmlEX / pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 * 【2024-02-06】[knative / docs](https://github.com/knative/docs) - User documentation for Knative components.
@@ -3767,6 +3814,10 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-02-08】[echelon-theme / echelon](https://github.com/echelon-theme/echelon) - A old Mozilla Firefox theme for Firefox 115 ESR.
+* 【2024-02-08】[cli-guidelines / cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
+* 【2024-02-08】[ironhack-labs / lab-react-iron-travels](https://github.com/ironhack-labs/lab-react-iron-travels) - 
+* 【2024-02-08】[elipapa / markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 * 【2024-02-07】[Kalvium-Program / to-do-app-boilerplate](https://github.com/Kalvium-Program/to-do-app-boilerplate) - 
 * 【2024-02-06】[hiteshchoudhary / fun-with-tailwind](https://github.com/hiteshchoudhary/fun-with-tailwind) - A fun repo to play with tailwind
 * 【2024-02-06】[Naezr / ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
@@ -4067,6 +4118,11 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-08】[QwenLM / Qwen1.5](https://github.com/QwenLM/Qwen1.5) - Qwen1.5 is the improved version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
+* 【2024-02-08】[perixtar / 2024-Tech-OA](https://github.com/perixtar/2024-Tech-OA) - List of Tech Company OAs. Save your time from finding them all over the internet.
+* 【2024-02-08】[aws / aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) - AWS SDK for C++
+* 【2024-02-08】[sudheerj / angular-interview-questions](https://github.com/sudheerj/angular-interview-questions) - List of 300 Angular Interview Questions and answers
+* 【2024-02-08】[HuskyDG / magisk-files](https://github.com/HuskyDG/magisk-files) - 
 * 【2024-02-07】[majidrezarahnavard / way_of_freedom](https://github.com/majidrezarahnavard/way_of_freedom) - methods to access free internet
 * 【2024-02-07】[krishnadey30 / LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
 * 【2024-02-07】[yaelwrites / Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
