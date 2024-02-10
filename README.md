@@ -1,6 +1,15 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-10】[GoogleCloudPlatform / localllm](https://github.com/GoogleCloudPlatform/localllm) - 
+* 【2024-02-10】[MatthiasGrandl / loungy](https://github.com/MatthiasGrandl/loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
+* 【2024-02-10】[bluesky-social / social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
+* 【2024-02-10】[rocketseat-education / nlw-expert-react-native](https://github.com/rocketseat-education/nlw-expert-react-native) - A food delivery mobile app
+* 【2024-02-10】[rocketseat-education / nlw-expert-nodejs](https://github.com/rocketseat-education/nlw-expert-nodejs) - Real-time voting system built with Node.js
+* 【2024-02-10】[rocketseat-education / nlw-expert-react](https://github.com/rocketseat-education/nlw-expert-react) - Automatic convert audio notes to text with React
+* 【2024-02-10】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
+* 【2024-02-10】[RustPython / RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+* 【2024-02-10】[qqqkoko123 / qianghongbao](https://github.com/qqqkoko123/qianghongbao) - 本插件适用： 1.8.0.45最新版的微信红包，收到红包AI智能播报，抢完并回复“感谢老板”； 2.V8.9.23的QQ普通红包，拼手气红包以及口令红包，在抢完的同时自动发送"感谢老板"防封； 3.支付宝10.3.26.8210最新版支付宝拼手气红包； 4.适用最新版钉钉6.5.55.6拼手气红包。 5.适用4.0.20的最新版企业微信 6.适用23.5.0的最新版抖音红包
 * 【2024-02-09】[0xacme / ERC404](https://github.com/0xacme/ERC404) - 
 * 【2024-02-09】[lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 * 【2024-02-09】[ejoy / vaststars](https://github.com/ejoy/vaststars) - A game demo for Ant engine
@@ -461,6 +470,11 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-02-10】[Slimefun / Slimefun4](https://github.com/Slimefun/Slimefun4) - Slimefun 4 - A unique Spigot/Paper plugin that looks and feels like a modpack. We've been giving you backpacks, jetpacks, reactors and much more since 2013.
+* 【2024-02-10】[rocketseat-education / nlw-expert-java](https://github.com/rocketseat-education/nlw-expert-java) - 
+* 【2024-02-10】[diffplug / spotless](https://github.com/diffplug/spotless) - Keep your code spotless
+* 【2024-02-10】[jithrew / PantryMate](https://github.com/jithrew/PantryMate) - PantryMate is an application designed for efficient and user-friendly management of household pantries, aimed at reducing food waste and improving organization.
+* 【2024-02-10】[wildfly / wildfly](https://github.com/wildfly/wildfly) - WildFly Application Server
 * 【2024-02-09】[line / armeria](https://github.com/line/armeria) - Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies, including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard.
 * 【2024-02-09】[confluentinc / kafka-rest](https://github.com/confluentinc/kafka-rest) - Confluent REST Proxy for Kafka
 * 【2024-02-08】[GlassyAmadeus / CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) - The Poc for CVE-2024-20931
@@ -879,6 +893,13 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-10】[cpacker / MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
+* 【2024-02-10】[time-series-foundation-models / lag-llama](https://github.com/time-series-foundation-models/lag-llama) - 
+* 【2024-02-10】[Vahe1994 / AQLM](https://github.com/Vahe1994/AQLM) - Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf
+* 【2024-02-10】[alexmolas / microsearch](https://github.com/alexmolas/microsearch) - 
+* 【2024-02-10】[MrForExample / ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack) - An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
+* 【2024-02-10】[WillianFuks / tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) - Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.
+* 【2024-02-10】[rocketseat-education / nlw-expert-python](https://github.com/rocketseat-education/nlw-expert-python) - A barcode generator
 * 【2024-02-09】[deepseek-ai / DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math) - 
 * 【2024-02-09】[metavoiceio / metavoice-src](https://github.com/metavoiceio/metavoice-src) - AI for human-level speech intelligence
 * 【2024-02-09】[AnythingInAnyScene / anything_in_anyscene](https://github.com/AnythingInAnyScene/anything_in_anyscene) - 
@@ -1401,6 +1422,14 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-10】[snyk-workshops / EH-Patch-Todo-App](https://github.com/snyk-workshops/EH-Patch-Todo-App) - 
+* 【2024-02-10】[midudev / tailwind-animations](https://github.com/midudev/tailwind-animations) - Easy peasy animations for your Tailwind project
+* 【2024-02-10】[TheOdinProject / curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
+* 【2024-02-10】[MorpheusAIs / Morpheus](https://github.com/MorpheusAIs/Morpheus) - Morpheus - A Network For Powering Smart Agents - Compute + Code + Capital + Community
+* 【2024-02-10】[canove / whaticket-community](https://github.com/canove/whaticket-community) - A very simple Ticket System based on WhatsApp messages, that allow multi-users in same WhatsApp account.
+* 【2024-02-10】[BlueWallet / BlueWallet](https://github.com/BlueWallet/BlueWallet) - Bitcoin wallet for iOS & Android. Built with React Native
+* 【2024-02-10】[hagopj13 / node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
+* 【2024-02-10】[PaPerseller / chn-iplist](https://github.com/PaPerseller/chn-iplist) - Chnroutes rules for routers、Shadowrocket、Quantumult、acl、v2rayNG、v2rayN、pac、Qv2ray、NekoRay、Nekobox、v2rayA、RouterOS、sing-box、v2ray config file.
 * 【2024-02-09】[rocketseat-education / nlw-expert-html-css-js](https://github.com/rocketseat-education/nlw-expert-html-css-js) - A quiz to test your knowledge
 * 【2024-02-09】[rollup / rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 * 【2024-02-09】[OCA / web](https://github.com/OCA/web) - Odoo web client UI related addons
@@ -1872,6 +1901,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-10】[google / wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
+* 【2024-02-10】[ahmetb / kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
+* 【2024-02-10】[prometheus / blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 * 【2024-02-09】[kubewharf / kubeadmiral](https://github.com/kubewharf/kubeadmiral) - Multi-Cluster Kubernetes Orchestration
 * 【2024-02-09】[naiba / nezha](https://github.com/naiba/nezha) - Self-hosted, lightweight server and website monitoring and O&M tool
 * 【2024-02-08】[pressly / goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
@@ -2350,6 +2382,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-10】[Xre0uS / MultiDump](https://github.com/Xre0uS/MultiDump) - MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly.
+* 【2024-02-10】[riscv-software-src / riscv-isa-sim](https://github.com/riscv-software-src/riscv-isa-sim) - Spike, a RISC-V ISA Simulator
+* 【2024-02-10】[agvxov / cursed_c](https://github.com/agvxov/cursed_c) - An attempt to create the worst C program ever by repeatedly abusing obscure features. See c.c for the core code. Note that there were no version restraints imposed and extensions are also included.
 * 【2024-02-09】[tsoding / raylib.js](https://github.com/tsoding/raylib.js) - Unofficial Implementation of Subset of Raylib API in JavaScript
 * 【2024-02-09】[apache / age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 * 【2024-02-09】[npurson / vscode-server-toolchain-workaround](https://github.com/npurson/vscode-server-toolchain-workaround) - Workaround for the raised toolchain requirements of VS Code Server 1.86+
@@ -2752,6 +2787,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-10】[geoffdavis / esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection
 * 【2024-02-09】[stacksmashing / LPCClocklessAnalyzer](https://github.com/stacksmashing/LPCClocklessAnalyzer) - A Saleae Analyzer for TPM traffic that only requires the LADD & LFRAME signals, no clock.
 * 【2024-02-09】[CN-annotation-team / leveldb-chinese-annotated](https://github.com/CN-annotation-team/leveldb-chinese-annotated) - leveldb chinese annotation
 * 【2024-02-09】[Lyall / GBFRelinkFix](https://github.com/Lyall/GBFRelinkFix) - A fix for Granblue Fantasy: Relink that adds support for custom resolutions, ultrawide and more.
@@ -3540,6 +3576,9 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-02-10】[nikhilmwarrier / jee-2024-scraper](https://github.com/nikhilmwarrier/jee-2024-scraper) - Generate a scorecard for JEE using NTA's answer keys
+* 【2024-02-10】[CUHK-TCSS1089 / 2023PolyU-Astron-project](https://github.com/CUHK-TCSS1089/2023PolyU-Astron-project) - 
+* 【2024-02-10】[markodenic / web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 * 【2024-02-09】[OCA / sale-workflow](https://github.com/OCA/sale-workflow) - Odoo Sales, Workflow and Organization
 * 【2024-02-09】[drshahizan / learn-github](https://github.com/drshahizan/learn-github) - A step-by-step guide to getting started with Git and GitHub for beginners.
 * 【2024-02-09】[git-disl / PokeLLMon](https://github.com/git-disl/PokeLLMon) - PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models
@@ -3860,6 +3899,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-02-10】[diydiagnostics / App2-HelloWorld2024](https://github.com/diydiagnostics/App2-HelloWorld2024) - 
 * 【2024-02-09】[vishaltewatia / Rose-Day](https://github.com/vishaltewatia/Rose-Day) - 
 * 【2024-02-09】[MTM6201-Web-Dev-II / Picture-This](https://github.com/MTM6201-Web-Dev-II/Picture-This) - Starter files for the MTM6201 - Web Dev II - Picture This assignment
 * 【2024-02-09】[yforku / template](https://github.com/yforku/template) - Template
@@ -4167,6 +4207,13 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-10】[ruesandora / mangata-AVS](https://github.com/ruesandora/mangata-AVS) - 
+* 【2024-02-10】[speedyapply / swe-college-jobs](https://github.com/speedyapply/swe-college-jobs) - The most comprehensive SWE internship & new graduate job list on GitHub.
+* 【2024-02-10】[dwisiswant0 / awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips.
+* 【2024-02-10】[cursedpkt / MITMonster](https://github.com/cursedpkt/MITMonster) - A monster cheatsheet on MITM attacks
+* 【2024-02-10】[bsovs / Fall2024-Internships](https://github.com/bsovs/Fall2024-Internships) - Collection of Fall 2023 tech internships!
+* 【2024-02-10】[lukasz-madon / awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+* 【2024-02-10】[DropsOfZut / awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) - 网络安全类公众号推荐，欢迎大家推荐
 * 【2024-02-09】[dymensionxyz / chain-registry](https://github.com/dymensionxyz/chain-registry) - 
 * 【2024-02-09】[microsoft / api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 * 【2024-02-09】[farcasterxyz / protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
