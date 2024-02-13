@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-13】[skiff-org / skiff-apps](https://github.com/skiff-org/skiff-apps) - Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.
 * 【2024-02-12】[microsoft / sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 * 【2024-02-12】[projectx-codehagen / projectx](https://github.com/projectx-codehagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
 * 【2024-02-12】[odin-lang / Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
@@ -486,6 +487,10 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-02-13】[AppliedEnergistics / Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world..
+* 【2024-02-13】[670848654 / SakuraAnime](https://github.com/670848654/SakuraAnime) - 使用jsoup爬取樱花动漫(Yhdm)、嘶哩嘶哩(SiliSili)部分内容编写的第三方Android客户端。
+* 【2024-02-13】[Etar-Group / Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
+* 【2024-02-13】[camunda / zeebe](https://github.com/camunda/zeebe) - Distributed Workflow Engine for Microservices Orchestration
 * 【2024-02-12】[NekoX-Dev / NekoX](https://github.com/NekoX-Dev/NekoX) - A third-party Telegram android app.
 * 【2024-02-12】[dunwu / db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
 * 【2024-02-12】[syncthing / syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
@@ -919,6 +924,11 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-13】[karpathy / ng-video-lecture](https://github.com/karpathy/ng-video-lecture) - 
+* 【2024-02-13】[biopython / biopython](https://github.com/biopython/biopython) - Official git repository for Biopython (originally converted from CVS)
+* 【2024-02-13】[LAION-AI / natural_voice_assistant](https://github.com/LAION-AI/natural_voice_assistant) - 
+* 【2024-02-13】[aniketrajnish / MultiWindowSync-PyQt](https://github.com/aniketrajnish/MultiWindowSync-PyQt) - Windows GUI multiple window synchronization using pyqtSignal
+* 【2024-02-13】[MustardChef / WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 * 【2024-02-12】[LondheShubham153 / 90DaysOfDevOps](https://github.com/LondheShubham153/90DaysOfDevOps) - This repository is a Challenge for the DevOps Community to get stronger in DevOps. This challenge starts on the 1st January 2023 and in the next 90 Days we promise ourselves to become better at DevOps. The reason for making this Public is so that others can learn from the community and help each other grow.
 * 【2024-02-12】[EvanZhuang / MetaTree](https://github.com/EvanZhuang/MetaTree) - Official implementation of MetaTree: Learning a Decision Tree Algorithm with Transformers
 * 【2024-02-12】[Stability-AI / stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation
@@ -1464,6 +1474,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-13】[Maxsoll159 / proyectoSanValentin](https://github.com/Maxsoll159/proyectoSanValentin) - 
+* 【2024-02-13】[bia-pain-bache / BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment configs
 * 【2024-02-12】[kunaltyagi9 / MERN-Stack-Projects](https://github.com/kunaltyagi9/MERN-Stack-Projects) - 
 * 【2024-02-12】[jellyfin / jellyfin-web](https://github.com/jellyfin/jellyfin-web) - Web Client for Jellyfin
 * 【2024-02-12】[google / zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1952,6 +1964,10 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-13】[apple / pkl-go-examples](https://github.com/apple/pkl-go-examples) - Examples for using Pkl within Go applications
+* 【2024-02-13】[apple / pkl-go](https://github.com/apple/pkl-go) - Pkl bindings for the Go programming language
+* 【2024-02-13】[apache / incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.
+* 【2024-02-13】[OffchainLabs / arbitrum-classic](https://github.com/OffchainLabs/arbitrum-classic) - Powers fast, private, decentralized applications
 * 【2024-02-12】[inoxlang / inox](https://github.com/inoxlang/inox) - 🛡️ Inox is your shield against complexity in full-stack development.
 * 【2024-02-12】[YouROK / TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 * 【2024-02-12】[google / gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
@@ -2441,6 +2457,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-13】[i3 / i3](https://github.com/i3/i3) - A tiling window manager for X11
+* 【2024-02-13】[wojciech-graj / doom-ascii](https://github.com/wojciech-graj/doom-ascii) - DooM in the terminal!
+* 【2024-02-13】[blackmagic-debug / blackmagic](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 * 【2024-02-12】[openshwprojects / OpenBK7231T_App](https://github.com/openshwprojects/OpenBK7231T_App) - Open source firmware (Tasmota/Esphome replacement) for BK7231T, BK7231N, BL2028N, T34, XR809, W800/W801, W600/W601 and BL602
 * 【2024-02-12】[branc116 / brplot](https://github.com/branc116/brplot) - +256,000,000 points per plot, +60 Fps on shity laptop. Only limit is the size of your RAM.
 * 【2024-02-12】[termux / termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application.
@@ -2851,6 +2870,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-13】[livinamuk / Hell2024](https://github.com/livinamuk/Hell2024) - 
+* 【2024-02-13】[godotengine / godot-cpp](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API
+* 【2024-02-13】[nasa / fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
 * 【2024-02-12】[hyprwm / hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a blazing fast wayland wallpaper utility with IPC controls.
 * 【2024-02-12】[ValveSoftware / openvr](https://github.com/ValveSoftware/openvr) - OpenVR SDK
 * 【2024-02-12】[google / sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
@@ -3255,6 +3277,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-02-13】[Readarr / Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
+* 【2024-02-13】[skiff-org / skiff-windows-app](https://github.com/skiff-org/skiff-windows-app) - Skiff's Windows app for privacy-first, end-to-end encrypted Mail, Drive, Calendar, and Pages.
 * 【2024-02-12】[unity3d-jp / Project_TCC](https://github.com/unity3d-jp/Project_TCC) - TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.
 * 【2024-02-12】[microsoft / CsWin32](https://github.com/microsoft/CsWin32) - A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project.
 * 【2024-02-12】[davidfowl / TodoApi](https://github.com/davidfowl/TodoApi) - Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication
@@ -3661,6 +3685,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-02-13】[mabelolivera10 / salvalentin](https://github.com/mabelolivera10/salvalentin) - 
+* 【2024-02-13】[faridrashidi / kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions) - 🏅 Collection of Kaggle Solutions and Ideas 🏅
 * 【2024-02-12】[andriipaziuk / valentine](https://github.com/andriipaziuk/valentine) - 
 * 【2024-02-12】[Bionus / imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 * 【2024-02-11】[AeolusUX / ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS) - Community Maintained Image of ArkOS for the RetroBox Console / Game Station / Game Consoie R35S / R36S / PowKiddy RGB20S
@@ -3989,6 +4015,11 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-02-13】[picocss / pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
+* 【2024-02-13】[availproject / availproject.github.io](https://github.com/availproject/availproject.github.io) - Official Documentation for the Avail Project.
+* 【2024-02-13】[practicehealth / spotify-clone-assignment](https://github.com/practicehealth/spotify-clone-assignment) - 
+* 【2024-02-13】[Technigo / project-chatbot](https://github.com/Technigo/project-chatbot) - 
+* 【2024-02-13】[shoqqan / valentine-day-invitation](https://github.com/shoqqan/valentine-day-invitation) - Valentine's Day Invitation💝:
 * 【2024-02-12】[Narmis-E / hyprland-dots](https://github.com/Narmis-E/hyprland-dots) - My dotfiles for my hyprland installs
 * 【2024-02-11】[heryyy / bunga-buat-gift](https://github.com/heryyy/bunga-buat-gift) - Virtual flowers
 * 【2024-02-11】[JessicaaSun / randomly-moving-button](https://github.com/JessicaaSun/randomly-moving-button) - 
@@ -4303,6 +4334,10 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-13】[jivoi / awesome-osint](https://github.com/jivoi/awesome-osint) - 😱 A curated list of amazingly awesome OSINT
+* 【2024-02-13】[binance / binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams
+* 【2024-02-13】[AkmmusAI / LLM-Prompt-Engineering-Simplified-Book](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) - LLM Prompting Engineering Simplified Book
+* 【2024-02-13】[octocat / Hello-World](https://github.com/octocat/Hello-World) - My first repository on GitHub!
 * 【2024-02-12】[TekkenOverlay / TekkenOverlay](https://github.com/TekkenOverlay/TekkenOverlay) - 
 * 【2024-02-12】[Dimbreath / StarRailData](https://github.com/Dimbreath/StarRailData) - Repository containing the data for the game Honkai: Star Rail.
 * 【2024-02-12】[Abdess / retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
