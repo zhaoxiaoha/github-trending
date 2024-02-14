@@ -1,6 +1,12 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-14】[gitbutlerapp / gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+* 【2024-02-14】[ashishpatel26 / LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning) - LLM Finetuning with peft
+* 【2024-02-14】[nushell / nushell](https://github.com/nushell/nushell) - A new type of shell
+* 【2024-02-14】[Pandora-Labs-Org / erc404](https://github.com/Pandora-Labs-Org/erc404) - 
+* 【2024-02-14】[WithSecureLabs / lolcerts](https://github.com/WithSecureLabs/lolcerts) - A repository of code signing certificates known to have been leaked or stolen, then abused by threat actors
+* 【2024-02-14】[continuedev / continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
 * 【2024-02-13】[skiff-org / skiff-apps](https://github.com/skiff-org/skiff-apps) - Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.
 * 【2024-02-12】[microsoft / sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 * 【2024-02-12】[projectx-codehagen / projectx](https://github.com/projectx-codehagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
@@ -487,6 +493,12 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-02-14】[helidon-io / helidon](https://github.com/helidon-io/helidon) - Java libraries for writing microservices
+* 【2024-02-14】[osmandapp / OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
+* 【2024-02-14】[pinterest / psc](https://github.com/pinterest/psc) - PubSubClient (PSC)
+* 【2024-02-14】[HuanCheng65 / TiebaLite](https://github.com/HuanCheng65/TiebaLite) - 贴吧 Lite
+* 【2024-02-14】[x-falcon / Virtual-Hosts](https://github.com/x-falcon/Virtual-Hosts) - hosts for android,implement by vpn mode,supports wildcard DNS records
+* 【2024-02-14】[carlrobertoh / CodeGPT](https://github.com/carlrobertoh/CodeGPT) - JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Code Llama, and others, all for free
 * 【2024-02-13】[AppliedEnergistics / Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world..
 * 【2024-02-13】[670848654 / SakuraAnime](https://github.com/670848654/SakuraAnime) - 使用jsoup爬取樱花动漫(Yhdm)、嘶哩嘶哩(SiliSili)部分内容编写的第三方Android客户端。
 * 【2024-02-13】[Etar-Group / Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
@@ -924,6 +936,16 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-14】[pantsbuild / pants](https://github.com/pantsbuild/pants) - The Pants Build System
+* 【2024-02-14】[ocrmypdf / OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+* 【2024-02-14】[Textualize / toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
+* 【2024-02-14】[0x999-x / jsluicepp](https://github.com/0x999-x/jsluicepp) - jsluice++ is a Burp Suite extension designed for passive and active scanning of JavaScript traffic using the CLI tool jsluice
+* 【2024-02-14】[AXiX-official / CrossCore-Internationalizer](https://github.com/AXiX-official/CrossCore-Internationalizer) - 一个使用官方资源帮助你访问交错战线(CrossCore)的国际服资源的非官方工具。
+* 【2024-02-14】[cubiq / ComfyUI_InstantID](https://github.com/cubiq/ComfyUI_InstantID) - 
+* 【2024-02-14】[kozmer / log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc) - A Proof-Of-Concept for the CVE-2021-44228 vulnerability.
+* 【2024-02-14】[CopilotC-Nvim / CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
+* 【2024-02-14】[OWASP / CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+* 【2024-02-14】[Soulter / AstrBot](https://github.com/Soulter/AstrBot) - QQ、QQ 频道、Telegram 上的 ChatGPT, Claude, HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT
 * 【2024-02-13】[karpathy / ng-video-lecture](https://github.com/karpathy/ng-video-lecture) - 
 * 【2024-02-13】[biopython / biopython](https://github.com/biopython/biopython) - Official git repository for Biopython (originally converted from CVS)
 * 【2024-02-13】[LAION-AI / natural_voice_assistant](https://github.com/LAION-AI/natural_voice_assistant) - 
@@ -1474,6 +1496,12 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-14】[zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
+* 【2024-02-14】[discuitnet / discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
+* 【2024-02-14】[11ty / eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+* 【2024-02-14】[devcontainers / images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers
+* 【2024-02-14】[blocklistproject / Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
+* 【2024-02-14】[vercel / pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 * 【2024-02-13】[Maxsoll159 / proyectoSanValentin](https://github.com/Maxsoll159/proyectoSanValentin) - 
 * 【2024-02-13】[bia-pain-bache / BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment configs
 * 【2024-02-12】[kunaltyagi9 / MERN-Stack-Projects](https://github.com/kunaltyagi9/MERN-Stack-Projects) - 
@@ -1964,6 +1992,10 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-14】[DATA-DOG / go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
+* 【2024-02-14】[docker / buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
+* 【2024-02-14】[letsencrypt / boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
+* 【2024-02-14】[Masterminds / squirrel](https://github.com/Masterminds/squirrel) - Fluent SQL generation for golang
 * 【2024-02-13】[apple / pkl-go-examples](https://github.com/apple/pkl-go-examples) - Examples for using Pkl within Go applications
 * 【2024-02-13】[apple / pkl-go](https://github.com/apple/pkl-go) - Pkl bindings for the Go programming language
 * 【2024-02-13】[apache / incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.
@@ -2457,6 +2489,10 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-14】[reveng007 / DarkWidow](https://github.com/reveng007/DarkWidow) - Indirect Dynamic Syscall, SSN + Syscall address sorting via Modified TartarusGate approach + Remote Process Injection via APC Early Bird + Spawns a sacrificial Process as target process + (ACG+BlockDll) mitigation policy on spawned process + PPID spoofing + Api resolving from TIB + API hashing
+* 【2024-02-14】[portapack-mayhem / mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2
+* 【2024-02-14】[opa334 / Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
+* 【2024-02-14】[jgamblin / Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 * 【2024-02-13】[i3 / i3](https://github.com/i3/i3) - A tiling window manager for X11
 * 【2024-02-13】[wojciech-graj / doom-ascii](https://github.com/wojciech-graj/doom-ascii) - DooM in the terminal!
 * 【2024-02-13】[blackmagic-debug / blackmagic](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
@@ -2870,6 +2906,12 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-14】[willem-pennings / balancing-cube](https://github.com/willem-pennings/balancing-cube) - A cube that balances itself in a corner or edge using reaction wheels
+* 【2024-02-14】[arplaboratory / learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.
+* 【2024-02-14】[e2002 / yoradio](https://github.com/e2002/yoradio) - Web-radio based on ESP32-audioI2S library
+* 【2024-02-14】[doxygen / doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
+* 【2024-02-14】[wolfpld / tracy](https://github.com/wolfpld/tracy) - Frame profiler
+* 【2024-02-14】[BnuuySolutions / OculusAmeliorated](https://github.com/BnuuySolutions/OculusAmeliorated) - Clean & revitalize your Oculus PCVR experience with Oculus Ameliorated, a minimal Oculus PCVR installation package.
 * 【2024-02-13】[livinamuk / Hell2024](https://github.com/livinamuk/Hell2024) - 
 * 【2024-02-13】[godotengine / godot-cpp](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API
 * 【2024-02-13】[nasa / fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
@@ -3277,6 +3319,11 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-02-14】[fiddyschmitt / SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using the one monitor, mouse and keyboard
+* 【2024-02-14】[vchelaru / FlatRedBall](https://github.com/vchelaru/FlatRedBall) - Cross-platform 2D game engine focused on ultimate productivity built in .NET
+* 【2024-02-14】[ZiggyCreatures / FusionCache](https://github.com/ZiggyCreatures/FusionCache) - FusionCache is an easy to use, fast and robust cache with advanced resiliency features and an optional distributed 2nd level.
+* 【2024-02-14】[kannagi0303 / yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) - Windows GUI for yt-dlp
+* 【2024-02-14】[SixLabors / ImageSharp](https://github.com/SixLabors/ImageSharp) - 📷 A modern, cross-platform, 2D Graphics library for .NET
 * 【2024-02-13】[Readarr / Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
 * 【2024-02-13】[skiff-org / skiff-windows-app](https://github.com/skiff-org/skiff-windows-app) - Skiff's Windows app for privacy-first, end-to-end encrypted Mail, Drive, Calendar, and Pages.
 * 【2024-02-12】[unity3d-jp / Project_TCC](https://github.com/unity3d-jp/Project_TCC) - TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.
@@ -3685,6 +3732,11 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-02-14】[byquangthanh / valentine.github.io](https://github.com/byquangthanh/valentine.github.io) - Will you be my valentine project for my girlfriend
+* 【2024-02-14】[balta-io / carnacode-balta-2024-desafio-01](https://github.com/balta-io/carnacode-balta-2024-desafio-01) - 
+* 【2024-02-14】[noob-hackers / seeu](https://github.com/noob-hackers/seeu) - SeeU is a camera hacking tool which is used to hack selfie camera of devices....
+* 【2024-02-14】[w3c / aria-practices](https://github.com/w3c/aria-practices) - WAI-ARIA Authoring Practices Guide (APG)
+* 【2024-02-14】[fool2fish / dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
 * 【2024-02-13】[mabelolivera10 / salvalentin](https://github.com/mabelolivera10/salvalentin) - 
 * 【2024-02-13】[faridrashidi / kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions) - 🏅 Collection of Kaggle Solutions and Ideas 🏅
 * 【2024-02-12】[andriipaziuk / valentine](https://github.com/andriipaziuk/valentine) - 
@@ -4015,6 +4067,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-02-14】[AlexxAdrian / heart_letter](https://github.com/AlexxAdrian/heart_letter) - letter of hearts to give as a gift
 * 【2024-02-13】[picocss / pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 * 【2024-02-13】[availproject / availproject.github.io](https://github.com/availproject/availproject.github.io) - Official Documentation for the Avail Project.
 * 【2024-02-13】[practicehealth / spotify-clone-assignment](https://github.com/practicehealth/spotify-clone-assignment) - 
@@ -4334,6 +4387,17 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-14】[KathanP19 / HowToHunt](https://github.com/KathanP19/HowToHunt) - Collection of methodology and test case for various web vulnerabilities.
+* 【2024-02-14】[khangich / machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
+* 【2024-02-14】[andrewekhalel / MLQuestions](https://github.com/andrewekhalel/MLQuestions) - Machine Learning and Computer Vision Engineer - Technical Interview Questions
+* 【2024-02-14】[rockerBOO / awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+* 【2024-02-14】[ReactNativeNews / React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps. Curation curtesy of
+* 【2024-02-14】[bjrjk / CVE-2022-4262](https://github.com/bjrjk/CVE-2022-4262) - Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.
+* 【2024-02-14】[MiRO92 / uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - The best tweak for the YouTube app
+* 【2024-02-14】[keon / awesome-nlp](https://github.com/keon/awesome-nlp) - 📖 A curated list of resources dedicated to Natural Language Processing (NLP)
+* 【2024-02-14】[dylanraga / win11hdr-srgb-to-gamma2.2-icm](https://github.com/dylanraga/win11hdr-srgb-to-gamma2.2-icm) - Transform Windows 11's virtual SDR-in-HDR curve from piecewise sRGB to Gamma 2.2
+* 【2024-02-14】[tiimgreen / github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+* 【2024-02-14】[microsoft / EntraIDGovernance-Training](https://github.com/microsoft/EntraIDGovernance-Training) - Microsoft Entra ID Governance Training and Learning Resources
 * 【2024-02-13】[jivoi / awesome-osint](https://github.com/jivoi/awesome-osint) - 😱 A curated list of amazingly awesome OSINT
 * 【2024-02-13】[binance / binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams
 * 【2024-02-13】[AkmmusAI / LLM-Prompt-Engineering-Simplified-Book](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) - LLM Prompting Engineering Simplified Book
