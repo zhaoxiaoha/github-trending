@@ -1,6 +1,13 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-16】[Stability-AI / StableCascade](https://github.com/Stability-AI/StableCascade) - 
+* 【2024-02-16】[vosen / ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
+* 【2024-02-16】[Nutlope / notesGPT](https://github.com/Nutlope/notesGPT) - Record voice notes & transcribe, summarize, and get tasks
+* 【2024-02-16】[alireza0 / s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
+* 【2024-02-16】[matter-labs / zksync-era](https://github.com/matter-labs/zksync-era) - zkSync era
+* 【2024-02-16】[mvdan / sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+* 【2024-02-16】[dotnet / core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 * 【2024-02-15】[BCG-X-Official / agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
 * 【2024-02-15】[Lunakepio / Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
 * 【2024-02-15】[Vectorized / dn404](https://github.com/Vectorized/dn404) - Implementation of a co-joined ERC20 and ERC721 pair.
@@ -500,6 +507,11 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-02-16】[LibrePDF / OpenPDF](https://github.com/LibrePDF/OpenPDF) - OpenPDF is a free Java library for creating and editing PDF files, with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository. ⛺
+* 【2024-02-16】[Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
+* 【2024-02-16】[plantuml / plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
+* 【2024-02-16】[beemdevelopment / Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+* 【2024-02-16】[opensearch-project / security](https://github.com/opensearch-project/security) - 🔐 Secure your cluster with TLS, numerous authentication backends, data masking, audit logging as well as role-based access control on indices, documents, and fields
 * 【2024-02-15】[Chipppppppppp / LIME](https://github.com/Chipppppppppp/LIME) - 
 * 【2024-02-15】[json-path / JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
 * 【2024-02-14】[helidon-io / helidon](https://github.com/helidon-io/helidon) - Java libraries for writing microservices
@@ -945,6 +957,13 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-16】[Marker-Inc-Korea / AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - RAG AutoML Tool - Find optimal RAG pipeline for your own data.
+* 【2024-02-16】[getsentry / sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
+* 【2024-02-16】[ibis-project / ibis](https://github.com/ibis-project/ibis) - The flexibility of Python with the scale and performance of modern SQL.
+* 【2024-02-16】[mwaskom / seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
+* 【2024-02-16】[mindsdb / mindsdb](https://github.com/mindsdb/mindsdb) - The middleware for building custom AI, enabling smarter organizations.
+* 【2024-02-16】[DataDog / dd-trace-py](https://github.com/DataDog/dd-trace-py) - Datadog Python APM Client
+* 【2024-02-16】[blacklanternsecurity / bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 * 【2024-02-15】[justakazh / sicat](https://github.com/justakazh/sicat) - The useful exploit finder
 * 【2024-02-15】[ncbi / GeneGPT](https://github.com/ncbi/GeneGPT) - Code and data for GeneGPT.
 * 【2024-02-15】[pandas-dev / pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
@@ -1509,6 +1528,13 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-16】[semantic-release / semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
+* 【2024-02-16】[ircfspace / fragment](https://github.com/ircfspace/fragment) - توسط ابزار فرگمنت می‌تونین دامنه‌های مرده‌تون رو مجدد زنده کنید! / Using the Fragment tool, you can revive your dead domains!
+* 【2024-02-16】[Hypfer / Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
+* 【2024-02-16】[Germey / ValentinesDay](https://github.com/Germey/ValentinesDay) - My LOVE
+* 【2024-02-16】[sidorares / node-mysql2](https://github.com/sidorares/node-mysql2) - ⚡ fast mysqljs/mysql compatible mysql driver for node.js
+* 【2024-02-16】[quarto-dev / quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
+* 【2024-02-16】[HeyPuter / terminal](https://github.com/HeyPuter/terminal) - Web-based terminal in pure JavaScript 🔥🚀
 * 【2024-02-15】[DzarelDeveloper / HappyValentine](https://github.com/DzarelDeveloper/HappyValentine) - 
 * 【2024-02-15】[Dogfalo / materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 * 【2024-02-15】[preactjs / preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
@@ -2009,6 +2035,10 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-16】[hashicorp / terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
+* 【2024-02-16】[kubernetes / kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
+* 【2024-02-16】[jfjallid / go-secdump](https://github.com/jfjallid/go-secdump) - Tool to remotely dump secrets from the Windows registry
+* 【2024-02-16】[DataDog / terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Terraform Datadog provider
 * 【2024-02-15】[tektoncd / pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 * 【2024-02-15】[projectcalico / calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 * 【2024-02-15】[marcel-dempers / docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
@@ -2510,6 +2540,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-16】[hades-emu / Hades](https://github.com/hades-emu/Hades) - 🔥 A Nintendo Game Boy Advance Emulator
+* 【2024-02-16】[ElementsProject / lightning](https://github.com/ElementsProject/lightning) - Core Lightning — Lightning Network implementation focusing on spec compliance and performance
 * 【2024-02-15】[Perfare / Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper) - Using Zygisk to dump il2cpp data at runtime
 * 【2024-02-15】[earlephilhower / arduino-pico](https://github.com/earlephilhower/arduino-pico) - Raspberry Pi Pico Arduino core, for all RP2040 boards
 * 【2024-02-15】[NLnetLabs / unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
@@ -2931,6 +2963,11 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-16】[doctest / doctest](https://github.com/doctest/doctest) - The fastest feature-rich C++11/14/17/20/23 single-header testing framework
+* 【2024-02-16】[darkluar / cosmic-station](https://github.com/darkluar/cosmic-station) - 🧪Exclusive Android Sony Playstation 2 emulator, from scratch, using Kotlin, C++ 20, OpenGLES, Vulkan, and Cubes
+* 【2024-02-16】[Vita3K / Vita3K-Android](https://github.com/Vita3K/Vita3K-Android) - Public releases and CI for the Vita3K Android app
+* 【2024-02-16】[CGAL / cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
+* 【2024-02-16】[Vita3K / Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
 * 【2024-02-15】[SteveMacenski / slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS
 * 【2024-02-14】[willem-pennings / balancing-cube](https://github.com/willem-pennings/balancing-cube) - A cube that balances itself in a corner or edge using reaction wheels
 * 【2024-02-14】[arplaboratory / learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.
@@ -3345,6 +3382,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-02-16】[Azure / iotedge](https://github.com/Azure/iotedge) - The IoT Edge OSS project
 * 【2024-02-15】[builtbybel / BloatynosyAI](https://github.com/builtbybel/BloatynosyAI) - The Copilot rebel
 * 【2024-02-14】[fiddyschmitt / SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using the one monitor, mouse and keyboard
 * 【2024-02-14】[vchelaru / FlatRedBall](https://github.com/vchelaru/FlatRedBall) - Cross-platform 2D game engine focused on ultimate productivity built in .NET
@@ -3759,6 +3797,9 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-02-16】[clong / DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
+* 【2024-02-16】[Skoolgq / Polaris](https://github.com/Skoolgq/Polaris) - The professional unblocked games site. 𝗣𝗹𝗲𝗮𝘀𝗲 𝘀𝘁𝗮𝗿 𝗶𝗳 𝘆𝗼𝘂 𝗳𝗼𝗿𝗸, 𝘁𝗵𝗮𝗻𝗸𝘀!
+* 【2024-02-16】[trickest / cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 * 【2024-02-15】[amankapilak / Ask-Her-Out](https://github.com/amankapilak/Ask-Her-Out) - 
 * 【2024-02-15】[asynchronousJavascriptor / level2](https://github.com/asynchronousJavascriptor/level2) - 
 * 【2024-02-15】[TheAlgorithms / TheAlgorithms.github.io](https://github.com/TheAlgorithms/TheAlgorithms.github.io) - This website is deprecated. The new website is https://the-algorithms.com. You can see the old website by going to https://thealgorithms.github.io/index-old.html
@@ -4097,6 +4138,11 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-02-16】[gevendra2004 / gevstack](https://github.com/gevendra2004/gevstack) - All Gevstack projects
+* 【2024-02-16】[Geeks-edu / Valentinka](https://github.com/Geeks-edu/Valentinka) - 
+* 【2024-02-16】[kat9897 / Virtual-Valentine-Card](https://github.com/kat9897/Virtual-Valentine-Card) - A small cute project using HTML, CSS, and JS to send to a loved one on Valentine's Day.
+* 【2024-02-16】[roxsross / terraform-level100](https://github.com/roxsross/terraform-level100) - Laboratorios Terraform nivel Fundamental [100] by RoxsRoss
+* 【2024-02-16】[chriskempson / tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
 * 【2024-02-15】[mabelolivera10 / floresamarillasycorazones](https://github.com/mabelolivera10/floresamarillasycorazones) - 
 * 【2024-02-15】[mabelolivera10 / cartaprogramadores](https://github.com/mabelolivera10/cartaprogramadores) - 
 * 【2024-02-15】[KiKaraage / ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look from Windows to Firefox. No waitlist, no registration needed ✨
@@ -4425,6 +4471,18 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-16】[mediazona / data-wanted](https://github.com/mediazona/data-wanted) - Data for research of the Russian wanted list
+* 【2024-02-16】[tornetworks / darknet-markets](https://github.com/tornetworks/darknet-markets) - Verified List of Dark Web Sites
+* 【2024-02-16】[dotnet / announcements](https://github.com/dotnet/announcements) - Subscribe to this repo to be notified of Announcements and changes in .NET Core.
+* 【2024-02-16】[remote-es / remotes](https://github.com/remote-es/remotes) - This is a repository listing companies which offer full-time remote jobs with Spanish contracts
+* 【2024-02-16】[fastfire / deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
+* 【2024-02-16】[pi0 / config-dir](https://github.com/pi0/config-dir) - 📁 A proposal for the .config/ directory.
+* 【2024-02-16】[zeeblaze / Melodio-SelfMate](https://github.com/zeeblaze/Melodio-SelfMate) - Your Ultimate Portable Music Companion For Home Automation.
+* 【2024-02-16】[fhdm-dev / scoppy](https://github.com/fhdm-dev/scoppy) - Use your Rasperry Pi Pico and Android Phone as an Oscilloscope and Logic Analyzer
+* 【2024-02-16】[JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
+* 【2024-02-16】[liferay / liferay-portal](https://github.com/liferay/liferay-portal) - 
+* 【2024-02-16】[PeterFanFan / Emospeaker_code](https://github.com/PeterFanFan/Emospeaker_code) - 
+* 【2024-02-16】[fenwii / huaweimind](https://github.com/fenwii/huaweimind) - 华为视角看世界，任总思维看问题，华为任正非思想之路，Huawei Renzhengfei speech,email& article,整理自1994年开始的讲话稿，涉及财经、人力资源、战略、内控与公共关系，从交换机、通讯设备、移动终端到人工智能、物联网，从2G、3G到4G、5G，从物理学、化学、数学到心理学、哲学，是创业，学习的标杆素材。
 * 【2024-02-15】[thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 * 【2024-02-15】[daveshap / PostLaborEconomics](https://github.com/daveshap/PostLaborEconomics) - Collaborative book to promote the idea of Post Labor Economics
 * 【2024-02-15】[Nothing-Developer-Programme / Glyph-Developer-Kit](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit) - 
