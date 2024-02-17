@@ -1,6 +1,14 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-17】[kijai / ComfyUI-DiffusersStableCascade](https://github.com/kijai/ComfyUI-DiffusersStableCascade) - Simple inference with StableCascade using diffusers in ComfyUI
+* 【2024-02-17】[reorproject / reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
+* 【2024-02-17】[gptscript-ai / gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
+* 【2024-02-17】[microsoft / UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
+* 【2024-02-17】[succinctlabs / sp1](https://github.com/succinctlabs/sp1) - A performant, 100% open-source, contributor-friendly zkVM.
+* 【2024-02-17】[ajeetdsouza / zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+* 【2024-02-17】[LargeWorldModel / LWM](https://github.com/LargeWorldModel/LWM) - 
+* 【2024-02-17】[facebookresearch / segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 * 【2024-02-16】[Stability-AI / StableCascade](https://github.com/Stability-AI/StableCascade) - 
 * 【2024-02-16】[vosen / ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 * 【2024-02-16】[Nutlope / notesGPT](https://github.com/Nutlope/notesGPT) - Record voice notes & transcribe, summarize, and get tasks
@@ -507,6 +515,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-02-17】[swagger-api / swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 * 【2024-02-16】[LibrePDF / OpenPDF](https://github.com/LibrePDF/OpenPDF) - OpenPDF is a free Java library for creating and editing PDF files, with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository. ⛺
 * 【2024-02-16】[Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 * 【2024-02-16】[plantuml / plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
@@ -957,6 +966,10 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-17】[mage-ai / mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
+* 【2024-02-17】[czbag / starknet](https://github.com/czbag/starknet) - 
+* 【2024-02-17】[snarfed / bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
+* 【2024-02-17】[ultralytics / yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
 * 【2024-02-16】[Marker-Inc-Korea / AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - RAG AutoML Tool - Find optimal RAG pipeline for your own data.
 * 【2024-02-16】[getsentry / sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 * 【2024-02-16】[ibis-project / ibis](https://github.com/ibis-project/ibis) - The flexibility of Python with the scale and performance of modern SQL.
@@ -1528,6 +1541,10 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-17】[WebGoat / WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
+* 【2024-02-17】[brianpetro / obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.
+* 【2024-02-17】[dimdenGD / OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Returns old TweetDeck, for free!
+* 【2024-02-17】[xcanwin / KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
 * 【2024-02-16】[semantic-release / semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 * 【2024-02-16】[ircfspace / fragment](https://github.com/ircfspace/fragment) - توسط ابزار فرگمنت می‌تونین دامنه‌های مرده‌تون رو مجدد زنده کنید! / Using the Fragment tool, you can revive your dead domains!
 * 【2024-02-16】[Hypfer / Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
@@ -2035,6 +2052,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-17】[weaveworks / weave-gitops-enterprise](https://github.com/weaveworks/weave-gitops-enterprise) - This repo provides the enterprise level features for the weave-gitops product, including CAPI cluster creation and team workspaces.
+* 【2024-02-17】[drk1wi / Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
+* 【2024-02-17】[grafana / agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
 * 【2024-02-16】[hashicorp / terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
 * 【2024-02-16】[kubernetes / kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
 * 【2024-02-16】[jfjallid / go-secdump](https://github.com/jfjallid/go-secdump) - Tool to remotely dump secrets from the Windows registry
@@ -2540,6 +2560,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-17】[Wind4 / vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
+* 【2024-02-17】[webserver-llc / angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
+* 【2024-02-17】[jcs / progman](https://github.com/jcs/progman) - progman.exe^H^H^H^H
 * 【2024-02-16】[hades-emu / Hades](https://github.com/hades-emu/Hades) - 🔥 A Nintendo Game Boy Advance Emulator
 * 【2024-02-16】[ElementsProject / lightning](https://github.com/ElementsProject/lightning) - Core Lightning — Lightning Network implementation focusing on spec compliance and performance
 * 【2024-02-15】[Perfare / Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper) - Using Zygisk to dump il2cpp data at runtime
@@ -2963,6 +2986,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-17】[jesyspa / linear-cpp](https://github.com/jesyspa/linear-cpp) - An attempt at a C++ tutorial.
+* 【2024-02-17】[MalwareTech / EDR-Preloader](https://github.com/MalwareTech/EDR-Preloader) - An EDR bypass that prevents EDRs from hooking or loading DLLs into our process by hijacking the AppVerifier layer
 * 【2024-02-16】[doctest / doctest](https://github.com/doctest/doctest) - The fastest feature-rich C++11/14/17/20/23 single-header testing framework
 * 【2024-02-16】[darkluar / cosmic-station](https://github.com/darkluar/cosmic-station) - 🧪Exclusive Android Sony Playstation 2 emulator, from scratch, using Kotlin, C++ 20, OpenGLES, Vulkan, and Cubes
 * 【2024-02-16】[Vita3K / Vita3K-Android](https://github.com/Vita3K/Vita3K-Android) - Public releases and CI for the Vita3K Android app
@@ -3382,6 +3407,9 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-02-17】[wh0amitz / SharpADWS](https://github.com/wh0amitz/SharpADWS) - Active Directory reconnaissance and exploitation for Red Teams via the Active Directory Web Services (ADWS).
+* 【2024-02-17】[VerifyTests / Verify](https://github.com/VerifyTests/Verify) - Verify is a snapshot tool that simplifies the assertion of complex data models and documents.
+* 【2024-02-17】[RazTools / Studio](https://github.com/RazTools/Studio) - Modded AssetStudio with new features
 * 【2024-02-16】[Azure / iotedge](https://github.com/Azure/iotedge) - The IoT Edge OSS project
 * 【2024-02-15】[builtbybel / BloatynosyAI](https://github.com/builtbybel/BloatynosyAI) - The Copilot rebel
 * 【2024-02-14】[fiddyschmitt / SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using the one monitor, mouse and keyboard
@@ -3797,6 +3825,10 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-02-17】[HomoEfficio / dev-tips](https://github.com/HomoEfficio/dev-tips) - 개발하다 마주쳤던 작은 문제들과 해결 방법 정리
+* 【2024-02-17】[Linux-CN / archive](https://github.com/Linux-CN/archive) - Linux.cn Archive
+* 【2024-02-17】[builtbybel / WhyNotWinAI](https://github.com/builtbybel/WhyNotWinAI) - Check if your system can handle the new AI-powered features.
+* 【2024-02-17】[department-of-veterans-affairs / va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team) - Public resources for building on and in support of VA.gov. Visit complete Knowledge Hub:
 * 【2024-02-16】[clong / DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
 * 【2024-02-16】[Skoolgq / Polaris](https://github.com/Skoolgq/Polaris) - The professional unblocked games site. 𝗣𝗹𝗲𝗮𝘀𝗲 𝘀𝘁𝗮𝗿 𝗶𝗳 𝘆𝗼𝘂 𝗳𝗼𝗿𝗸, 𝘁𝗵𝗮𝗻𝗸𝘀!
 * 【2024-02-16】[trickest / cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
@@ -4138,6 +4170,9 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-02-17】[patriksm / 10b_JavasScript_3D](https://github.com/patriksm/10b_JavasScript_3D) - 3D game using plain JavaScript
+* 【2024-02-17】[mmdmrishabh / Coding-assessment-l2-Boilerplate-code](https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code) - 
+* 【2024-02-17】[diydiagnostics / App3-coldorallergy](https://github.com/diydiagnostics/App3-coldorallergy) - App 3 assignment base repository
 * 【2024-02-16】[gevendra2004 / gevstack](https://github.com/gevendra2004/gevstack) - All Gevstack projects
 * 【2024-02-16】[Geeks-edu / Valentinka](https://github.com/Geeks-edu/Valentinka) - 
 * 【2024-02-16】[kat9897 / Virtual-Valentine-Card](https://github.com/kat9897/Virtual-Valentine-Card) - A small cute project using HTML, CSS, and JS to send to a loved one on Valentine's Day.
@@ -4471,6 +4506,13 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-17】[mztacat / Kyoto-Chain](https://github.com/mztacat/Kyoto-Chain) - Kyoto chain on Arbitrum
+* 【2024-02-17】[keep-starknet-strange / awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) - A curated list of awesome StarkNet resources, libraries, tools and more
+* 【2024-02-17】[eliaszon / Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
+* 【2024-02-17】[microsoft / Hack-Together-Fabric-AI](https://github.com/microsoft/Hack-Together-Fabric-AI) - Hack Together: The Microsoft Fabric Global AI Hack
+* 【2024-02-17】[starknet-io / provisions-data](https://github.com/starknet-io/provisions-data) - Lists of eligible identities for Starknet provisions.
+* 【2024-02-17】[KRALYN / PositronV3](https://github.com/KRALYN/PositronV3) - A upside-down, fast, portable, and compact 3D printer
+* 【2024-02-17】[shinezyy / micro-arch-training](https://github.com/shinezyy/micro-arch-training) - How to make undergraduates or new graduates ready for advanced computer architecture research or modern CPU design
 * 【2024-02-16】[mediazona / data-wanted](https://github.com/mediazona/data-wanted) - Data for research of the Russian wanted list
 * 【2024-02-16】[tornetworks / darknet-markets](https://github.com/tornetworks/darknet-markets) - Verified List of Dark Web Sites
 * 【2024-02-16】[dotnet / announcements](https://github.com/dotnet/announcements) - Subscribe to this repo to be notified of Announcements and changes in .NET Core.
