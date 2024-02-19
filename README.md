@@ -1,6 +1,12 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-19】[google / magika](https://github.com/google/magika) - Detect file content types with deep learning
+* 【2024-02-19】[ros-perception / image_pipeline](https://github.com/ros-perception/image_pipeline) - An image processing pipeline for ROS.
+* 【2024-02-19】[mastodon / mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+* 【2024-02-19】[adrianhajdin / ai_saas_app](https://github.com/adrianhajdin/ai_saas_app) - Build a REAL Software-as-a-Service app with AI features and payments & credits system that you might even turn into a side income or business idea using Next.js 14, Clerk, MongoDB, Cloudinary AI, and Stripe.
+* 【2024-02-19】[facebookresearch / DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
+* 【2024-02-19】[misskey-dev / misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 * 【2024-02-18】[astral-sh / uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 * 【2024-02-18】[google / generative-ai-dart](https://github.com/google/generative-ai-dart) - Google AI SDK for Dart
 * 【2024-02-18】[ChatGPTNextWeb / ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
@@ -970,6 +976,12 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-19】[xaitax / CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) - Microsoft-Outlook-Remote-Code-Execution-Vulnerability
+* 【2024-02-19】[maurosoria / dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+* 【2024-02-19】[yize8888 / maotai](https://github.com/yize8888/maotai) - i茅台，葫芦娃预约脚本
+* 【2024-02-19】[disposable-email-domains / disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
+* 【2024-02-19】[Wilson-ZheLin / Streamline-Analyst](https://github.com/Wilson-ZheLin/Streamline-Analyst) - An AI agent powered by LLMs that streamlines the entire process of data analysis. 🚀
+* 【2024-02-19】[w1770946466 / Auto_proxy](https://github.com/w1770946466/Auto_proxy) - Automatic acquisition of TG channel proxy information
 * 【2024-02-18】[adap / flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
 * 【2024-02-18】[facebookresearch / jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video.
 * 【2024-02-18】[dagster-io / dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
@@ -1551,6 +1563,16 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-19】[malvinval / scammer-revenge](https://github.com/malvinval/scammer-revenge) - 
+* 【2024-02-19】[xxxily / hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
+* 【2024-02-19】[thoughtbot / administrate](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard.
+* 【2024-02-19】[munris-vlad / wallet-checker](https://github.com/munris-vlad/wallet-checker) - 
+* 【2024-02-19】[hakimel / reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+* 【2024-02-19】[quanru / obsidian-example-LifeOS](https://github.com/quanru/obsidian-example-LifeOS) - 
+* 【2024-02-19】[monkeyWie / gopeed-extension-baiduwp](https://github.com/monkeyWie/gopeed-extension-baiduwp) - Gopeed 百度网盘下载扩展。
+* 【2024-02-19】[uBlockOrigin / uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
+* 【2024-02-19】[artiebits / fake-git-history](https://github.com/artiebits/fake-git-history) - Generate Git commits.
+* 【2024-02-19】[ValveSoftware / counter-strike](https://github.com/ValveSoftware/counter-strike) - CS:GO
 * 【2024-02-18】[zed-industries / extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
 * 【2024-02-18】[iamkun / dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 * 【2024-02-18】[hammerjs / hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
@@ -2065,6 +2087,15 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-19】[ehang-io / nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+* 【2024-02-19】[bepass-org / bepass](https://github.com/bepass-org/bepass) - A simple DPI bypass tool written in go
+* 【2024-02-19】[caddyserver / caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+* 【2024-02-19】[gofiber / recipes](https://github.com/gofiber/recipes) - 📁 Examples for 🚀 Fiber
+* 【2024-02-19】[schollz / croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another 🐊 📦
+* 【2024-02-19】[blushft / go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
+* 【2024-02-19】[marcoshuck / todo](https://github.com/marcoshuck/todo) - A production-grade todo app applying the following technologies: Go, gRPC, Docker, Kubernetes, Zap, Jaeger, Prometheus, Grafana and more
+* 【2024-02-19】[metal3-io / ip-address-manager](https://github.com/metal3-io/ip-address-manager) - IP address Manager for Cluster API Provider Metal3
+* 【2024-02-19】[helm / chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts
 * 【2024-02-18】[dexidp / dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 * 【2024-02-18】[vmware-tanzu / velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 * 【2024-02-18】[temporalio / temporal](https://github.com/temporalio/temporal) - Temporal service
@@ -2578,6 +2609,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-19】[icyguider / UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza) - Collection of UAC Bypass Techniques Weaponized as BOFs
 * 【2024-02-18】[vedderb / bldc](https://github.com/vedderb/bldc) - The VESC motor control firmware
 * 【2024-02-18】[wireshark / wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark.⚠️GitHub won't let us disable pull requests.⚠️THEY WILL BE IGNORED HERE⚠️Upload them at GitLab instead.
 * 【2024-02-18】[jasonporritt / rg351_m8c](https://github.com/jasonporritt/rg351_m8c) - m8 headless for rg351 devices
@@ -3007,6 +3039,10 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-19】[ArthurSonzogni / FTXUI](https://github.com/ArthurSonzogni/FTXUI) - 💻 C++ Functional Terminal User Interface. ❤️
+* 【2024-02-19】[xenia-project / xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
+* 【2024-02-19】[arvidn / libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
+* 【2024-02-19】[Norbyte / bg3se](https://github.com/Norbyte/bg3se) - Baldur's Gate 3 Script Extender
 * 【2024-02-18】[dosbox-staging / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 * 【2024-02-18】[taichi-dev / taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 * 【2024-02-17】[jesyspa / linear-cpp](https://github.com/jesyspa/linear-cpp) - An attempt at a C++ tutorial.
@@ -3430,6 +3466,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-02-19】[nilaoda / N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
+* 【2024-02-19】[GhostPack / Certify](https://github.com/GhostPack/Certify) - Active Directory certificate abuse.
 * 【2024-02-18】[milanm / DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse) - Most common Design Patterns you need to know, with examples in C#.
 * 【2024-02-18】[JasperFx / wolverine](https://github.com/JasperFx/wolverine) - Next Generation .NET Command and Message Bus
 * 【2024-02-18】[a1xd / rawaccel](https://github.com/a1xd/rawaccel) - kernel mode mouse accel
@@ -3853,6 +3891,10 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-02-19】[dupontgu / qr-file-share](https://github.com/dupontgu/qr-file-share) - Share small files from an offline source using only a QR code
+* 【2024-02-19】[netology-code / git-homeworks-neuro-merge](https://github.com/netology-code/git-homeworks-neuro-merge) - 
+* 【2024-02-19】[comfyanonymous / ComfyUI_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
+* 【2024-02-19】[solygambas / html-css-javascript-projects](https://github.com/solygambas/html-css-javascript-projects) - 100+ mini web projects using HTML, CSS and JavaScript.
 * 【2024-02-18】[observablehq / plot](https://github.com/observablehq/plot) - Observable Plot: a concise API for exploratory data visualization
 * 【2024-02-18】[dmtrKovalenko / cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
 * 【2024-02-18】[hemansnation / 7-Day-AI-ML-Fundamentals-Workshop](https://github.com/hemansnation/7-Day-AI-ML-Fundamentals-Workshop) - 7 Day AI ML Fundamentals Workshop The purpose of this FREE workshop is 1. To give you a boost of getting started with AI. 2. A life-long community with a similar mindset. 3. strong grip on fundamentals that the advanced concepts will be easy to understand.
@@ -4202,6 +4244,12 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-02-19】[bmFtZQ / edge-frfox](https://github.com/bmFtZQ/edge-frfox) - A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge.
+* 【2024-02-19】[atisawd / boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
+* 【2024-02-19】[Zarbalou / ilyass-port](https://github.com/Zarbalou/ilyass-port) - 
+* 【2024-02-19】[SoftUni / Programming-Basics-Book-Python-BG](https://github.com/SoftUni/Programming-Basics-Book-Python-BG) - Textbook for the "Programming Basics" course @ SoftUni (Python, Bulgarian)
+* 【2024-02-19】[zeeoneofficial / my-rest-api](https://github.com/zeeoneofficial/my-rest-api) - Rest api using NodeJS + MongoDB, and User Authentication (login & register)
+* 【2024-02-19】[joeroe / risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 * 【2024-02-18】[lighthouse-labs / tweeter-react](https://github.com/lighthouse-labs/tweeter-react) - This is the starter code for converting Tweeter into a React project.
 * 【2024-02-18】[artsyfriedchicken / EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr) - Firefox Userchrome and sidebery style
 * 【2024-02-18】[learn-co-curriculum / phase-0-css-graffiti-lab](https://github.com/learn-co-curriculum/phase-0-css-graffiti-lab) - 
@@ -4541,6 +4589,13 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-19】[goatfungus / NMSSaveEditor](https://github.com/goatfungus/NMSSaveEditor) - No Man's Sky - Save Editor
+* 【2024-02-19】[cristopherRR / cristopherRR1](https://github.com/cristopherRR/cristopherRR1) - 1
+* 【2024-02-19】[SeoYoungHo / SeoYoungHo1](https://github.com/SeoYoungHo/SeoYoungHo1) - 1
+* 【2024-02-19】[VijayGunturu / VijayGunturu1](https://github.com/VijayGunturu/VijayGunturu1) - 1
+* 【2024-02-19】[DonMcD / ultimate-plex-stack](https://github.com/DonMcD/ultimate-plex-stack) - 
+* 【2024-02-19】[zs-A / zs-A1](https://github.com/zs-A/zs-A1) - 1
+* 【2024-02-19】[2508932142 / Voicemod-Pro](https://github.com/2508932142/Voicemod-Pro) - 1
 * 【2024-02-18】[MakeYourPet / hexapod](https://github.com/MakeYourPet/hexapod) - 
 * 【2024-02-18】[ChanChiChoi / awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) - papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;
 * 【2024-02-18】[vavkamil / awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools
