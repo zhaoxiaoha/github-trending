@@ -1,6 +1,10 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-22】[charlax / professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+* 【2024-02-22】[GopeedLab / gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms. Built with Golang and Flutter.
+* 【2024-02-22】[Kalabasa / htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
+* 【2024-02-22】[QuivrHQ / quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
 * 【2024-02-21】[karpathy / minbpe](https://github.com/karpathy/minbpe) - Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 * 【2024-02-21】[CorsixTH / CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 * 【2024-02-21】[mut-ex / gligen-gui](https://github.com/mut-ex/gligen-gui) - An intuitive GUI for GLIGEN that uses ComfyUI in the backend
@@ -528,6 +532,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-02-22】[longerye / im-chat](https://github.com/longerye/im-chat) - Fake wechat chat
+* 【2024-02-22】[pytorch / serve](https://github.com/pytorch/serve) - Serve, optimize and scale PyTorch models in production
 * 【2024-02-17】[swagger-api / swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 * 【2024-02-16】[LibrePDF / OpenPDF](https://github.com/LibrePDF/OpenPDF) - OpenPDF is a free Java library for creating and editing PDF files, with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository. ⛺
 * 【2024-02-16】[Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
@@ -979,6 +985,10 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-22】[lm-sys / FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
+* 【2024-02-22】[MIC-DKFZ / nnUNet](https://github.com/MIC-DKFZ/nnUNet) - 
+* 【2024-02-22】[nyaoouo / GBFR-ACT](https://github.com/nyaoouo/GBFR-ACT) - A combat data track and analytic mod, suchas dps tracking
+* 【2024-02-22】[vvbbnn00 / WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 * 【2024-02-21】[FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 * 【2024-02-21】[microsoft / DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 * 【2024-02-21】[dreamhunter2333 / python_PlateRecogntion](https://github.com/dreamhunter2333/python_PlateRecogntion) - python opencv 车牌识别 PlateRecogntion
@@ -1569,6 +1579,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-22】[ScratchAddons / ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) - All-in-one browser extension for Scratch.
+* 【2024-02-22】[jackocnr / intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers
 * 【2024-02-21】[catsats / backpack_exchange](https://github.com/catsats/backpack_exchange) - backpack 刷交易量 JavaScript 只刷sol/usdc
 * 【2024-02-21】[nextcloud / spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
 * 【2024-02-21】[marktext / marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -2097,6 +2109,10 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-22】[shirou / gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
+* 【2024-02-22】[cockroachdb / swiss](https://github.com/cockroachdb/swiss) - Go port of Google's Swiss Table hash table
+* 【2024-02-22】[prometheus-community / windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
+* 【2024-02-22】[go-resty / resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 * 【2024-02-21】[bitmagnet-io / bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 * 【2024-02-21】[loft-sh / vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
 * 【2024-02-21】[INotGreen / XiebroC2](https://github.com/INotGreen/XiebroC2) - Go编写的多人运动渗透测试图形化框架、支持lua插件扩展、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能
@@ -2625,6 +2641,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-22】[BojanJurca / Esp32_oscilloscope](https://github.com/BojanJurca/Esp32_oscilloscope) - ESP32 oscilloscope - see the signals through Web browser the way ESP32 sees them
+* 【2024-02-22】[google / security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 * 【2024-02-21】[microsoft / Sora](https://github.com/microsoft/Sora) - The Microsoft Research Software Radio (Sora) is a programmable software radio platform based on the commodity multicore CPU in a host PC. The SDK provides the drivers, user mode 802.11a/b/n samples, and a debug plot tool.
 * 【2024-02-21】[ImageMagick / ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 * 【2024-02-19】[icyguider / UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza) - Collection of UAC Bypass Techniques Weaponized as BOFs
@@ -3057,6 +3075,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-22】[InfpPointPlus / Raptor](https://github.com/InfpPointPlus/Raptor) - 第三方阿里云盘桌面应用客户端
+* 【2024-02-22】[hyprwm / hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 * 【2024-02-21】[lballabio / QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C++ library
 * 【2024-02-21】[opencv / opencv_contrib](https://github.com/opencv/opencv_contrib) - Repository for OpenCV's extra modules
 * 【2024-02-21】[changkun / modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
@@ -3489,6 +3509,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-02-22】[MadMax1960 / Femc-Reloaded-Project](https://github.com/MadMax1960/Femc-Reloaded-Project) - Repo for Femc Reloaded Project
+* 【2024-02-22】[AppsFlyerSDK / appsflyer-unity-plugin](https://github.com/AppsFlyerSDK/appsflyer-unity-plugin) - AppsFlyer Unity Plugin
 * 【2024-02-21】[molenzwiebel / Deceive](https://github.com/molenzwiebel/Deceive) - 🎩 Appear offline for the League of Legends client.
 * 【2024-02-21】[xuzeyu91 / AntSK](https://github.com/xuzeyu91/AntSK) - 基于.Net8+AntBlazor+SemanticKernel 打造的AI知识库/智能体
 * 【2024-02-21】[msdart / solana-sniper-bot](https://github.com/msdart/solana-sniper-bot) - Solana sniper bot, is a software tool created to snipe tokens on DEX
@@ -3921,6 +3943,10 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-02-22】[VDIGPKU / GALA3D](https://github.com/VDIGPKU/GALA3D) - 
+* 【2024-02-22】[zapll / chatgpt-next-share](https://github.com/zapll/chatgpt-next-share) - 
+* 【2024-02-22】[davideuler / architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+* 【2024-02-22】[divanov11 / StudyBud](https://github.com/divanov11/StudyBud) - 
 * 【2024-02-21】[gustavoguanabara / javascript](https://github.com/gustavoguanabara/javascript) - Curso de JavaScript
 * 【2024-02-21】[IsraC0d33 / Proyecto1Marcas](https://github.com/IsraC0d33/Proyecto1Marcas) - Esta pagina es un Trabajo/Proyecto en equipo que busca replicar la página que se muestra abajo, con todos los conocimientos adquiridos en la asignatura de Lenguaje De Marcas.
 * 【2024-02-20】[capjamesg / cv-book-svg](https://github.com/capjamesg/cv-book-svg) - Turn an image of a bookshelf into an interactive SVG.
@@ -4277,6 +4303,12 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-02-22】[boolean-uk / js-dom-greengrocers](https://github.com/boolean-uk/js-dom-greengrocers) - 
+* 【2024-02-22】[kazemnejad / jekyll-course-website-template](https://github.com/kazemnejad/jekyll-course-website-template) - Feature-rich and easy-to-use Jekyll website template for academic courses
+* 【2024-02-22】[orderedlist / minimal](https://github.com/orderedlist/minimal) - A Theme for GitHub Pages
+* 【2024-02-22】[bgao / express-boilerplate](https://github.com/bgao/express-boilerplate) - Express boilerplate integrated Passport, Nodemailer and Initializr(Bootstrap)
+* 【2024-02-22】[SkylineCommunications / dataminer-docs-connectors](https://github.com/SkylineCommunications/dataminer-docs-connectors) - 
+* 【2024-02-22】[sidd-harth / mule4-mcd-level2](https://github.com/sidd-harth/mule4-mcd-level2) - This repo contains solutions for all hands-on exercises
 * 【2024-02-21】[csstools / postcss-plugins](https://github.com/csstools/postcss-plugins) - PostCSS Tools and Plugins
 * 【2024-02-21】[XNM1 / linux-nixos-hyprland-config-dotfiles](https://github.com/XNM1/linux-nixos-hyprland-config-dotfiles) - Linux 🐧 configuration based on NixOS ❄️, Hyprland, and Catppuccin Macchiato theme 😸 for a consistent, complete, and customizable experience. 🚀
 * 【2024-02-21】[bgola / bikeanjo](https://github.com/bgola/bikeanjo) - source code for sistema.bikeanjo.com.br
@@ -4626,6 +4658,9 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-22】[Mastodon-DE / blocklists](https://github.com/Mastodon-DE/blocklists) - Work in progress - created hastily for the February 15th Fedi Spam Attacks
+* 【2024-02-22】[pennyliang / ciku](https://github.com/pennyliang/ciku) - 
+* 【2024-02-22】[andkret / Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 * 【2024-02-21】[didicodes / javascript-dev-bookmarks](https://github.com/didicodes/javascript-dev-bookmarks) - A collection of articles that will help you get better at JavaScript.
 * 【2024-02-21】[Ignitetechnologies / BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester) - This cheatsheet is built for the Bug Bounty Hunters and penetration testers in order to help them hunt the vulnerabilities from P4 to P1 solely and completely with "BurpSuite".
 * 【2024-02-20】[scroll-tech / contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) - This repository guides developers wanting to contribute to the Scroll ecosystem.
