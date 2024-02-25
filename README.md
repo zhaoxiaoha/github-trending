@@ -1,6 +1,15 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-25】[WongKinYiu / yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
+* 【2024-02-25】[google / gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
+* 【2024-02-25】[google-deepmind / gemma](https://github.com/google-deepmind/gemma) - Open weights LLM from Google DeepMind.
+* 【2024-02-25】[google / gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
+* 【2024-02-25】[SoraWebui / SoraWebui](https://github.com/SoraWebui/SoraWebui) - SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.
+* 【2024-02-25】[NoteProtocol / NoteWallet](https://github.com/NoteProtocol/NoteWallet) - A Command Line Wallet to Send/Receive BTC and NOTE Tokens
+* 【2024-02-25】[apache / echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+* 【2024-02-25】[MegaManSec / SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
+* 【2024-02-25】[lowRISC / opentitan](https://github.com/lowRISC/opentitan) - OpenTitan: Open source silicon root of trust
 * 【2024-02-23】[levihsu / OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - Official implementation of OOTDiffusion
 * 【2024-02-23】[Speykious / cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 * 【2024-02-23】[systemdesign42 / system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet
@@ -541,6 +550,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-02-25】[smart-cloud / smart-cloud](https://github.com/smart-cloud/smart-cloud) - 基于springboot && springcloud的脚手架，支持服务合并部署与拆分部署、接口加解密签名、日志数据 脱敏、接口数据mock、接口文档自动生成、请求幂等校验、接口日志&&sql日志切面打印、分表分库分布式事务、国际化语言等
 * 【2024-02-22】[longerye / im-chat](https://github.com/longerye/im-chat) - Fake wechat chat
 * 【2024-02-22】[pytorch / serve](https://github.com/pytorch/serve) - Serve, optimize and scale PyTorch models in production
 * 【2024-02-17】[swagger-api / swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
@@ -994,6 +1004,14 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-25】[soufianetahiri / Anxun-isoon](https://github.com/soufianetahiri/Anxun-isoon) - I-SOON/Anxun leak related stuff
+* 【2024-02-25】[galaxyproject / galaxy](https://github.com/galaxyproject/galaxy) - Data intensive science for everyone.
+* 【2024-02-25】[feast-dev / feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning
+* 【2024-02-25】[openai / guided-diffusion](https://github.com/openai/guided-diffusion) - 
+* 【2024-02-25】[PostHog / posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+* 【2024-02-25】[Stability-AI / generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
+* 【2024-02-25】[Azure / PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
+* 【2024-02-25】[Sitoi / dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
 * 【2024-02-23】[Vchitect / Latte](https://github.com/Vchitect/Latte) - Latte: Latent Diffusion Transformer for Video Generation.
 * 【2024-02-23】[encode / httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 * 【2024-02-23】[pre-commit / pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
@@ -1596,6 +1614,10 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-25】[nightwatchjs / nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
+* 【2024-02-25】[Maher-Zubair / SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) - A Premium Whatsapp Bot Loaded With Features
+* 【2024-02-25】[fal-ai / sdxl-lightning-demo-app](https://github.com/fal-ai/sdxl-lightning-demo-app) - A demo application using fal.realtime and the lightning fast SDXL API provided by fal
+* 【2024-02-25】[localtunnel / localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 * 【2024-02-23】[souravkl11 / raganork-md](https://github.com/souravkl11/raganork-md) - Multi-functional WhatsApp bot project
 * 【2024-02-23】[AIGODLIKE / AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation) - A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc
 * 【2024-02-23】[openchatai / OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
@@ -2130,6 +2152,10 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-25】[TwiN / gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+* 【2024-02-25】[ory / hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
+* 【2024-02-25】[kubernetes / test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
+* 【2024-02-25】[TheTNB / panel](https://github.com/TheTNB/panel) - 耗子 Linux 面板 - GO 开发的轻量 Linux 面板
 * 【2024-02-23】[tidwall / gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 * 【2024-02-23】[go-fuego / fuego](https://github.com/go-fuego/fuego) - Golang Fuego - web framework generating OpenAPI 3 spec from source code
 * 【2024-02-23】[json-iterator / go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
@@ -2665,6 +2691,11 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-25】[RIOT-OS / RIOT](https://github.com/RIOT-OS/RIOT) - RIOT - The friendly OS for IoT
+* 【2024-02-25】[openzfs / zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
+* 【2024-02-25】[nihui / ruapu](https://github.com/nihui/ruapu) - Detect CPU features with single-file
+* 【2024-02-25】[libfuse / libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
+* 【2024-02-25】[cfenollosa / os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 * 【2024-02-23】[tvlad1234 / linux-ch32v003](https://github.com/tvlad1234/linux-ch32v003) - Linux on a $0.15 RISC-V microcontroller
 * 【2024-02-23】[fw876 / helloworld](https://github.com/fw876/helloworld) - 
 * 【2024-02-23】[flightlessmango / MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
@@ -3102,6 +3133,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-25】[open-telemetry / opentelemetry-cpp](https://github.com/open-telemetry/opentelemetry-cpp) - The OpenTelemetry C++ Client
+* 【2024-02-25】[veyon / veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management
+* 【2024-02-25】[raknet-python / raknet-python](https://github.com/raknet-python/raknet-python) - Python bindings for RakNet, a cross-platform networking engine for game programmers.
 * 【2024-02-23】[ValveSoftware / steam-audio](https://github.com/ValveSoftware/steam-audio) - Steam Audio
 * 【2024-02-23】[0voice / introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual) - 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。
 * 【2024-02-23】[geeksblabla / blanat](https://github.com/geeksblabla/blanat) - Blanat: BlaBlaConf 2024 Coding Challenge
@@ -3540,6 +3574,9 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-02-25】[Humanizr / Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+* 【2024-02-25】[octokit / octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
+* 【2024-02-25】[2394425147 / maipaddx](https://github.com/2394425147/maipaddx) - 
 * 【2024-02-23】[DynamoDS / Dynamo](https://github.com/DynamoDS/Dynamo) - Open Source Graphical Programming for Design
 * 【2024-02-23】[GlitchEnzo / NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
 * 【2024-02-23】[mlcsec / FormThief](https://github.com/mlcsec/FormThief) - Spoofing desktop login applications with WinForms and WPF
@@ -3978,6 +4015,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-02-25】[kagisearch / smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
+* 【2024-02-25】[formkit / drag-and-drop](https://github.com/formkit/drag-and-drop) - 
 * 【2024-02-23】[bradtraversy / property-pulse](https://github.com/bradtraversy/property-pulse) - Next.js app for listing and searching rental properties
 * 【2024-02-23】[Shploop / Blooket-Cheats](https://github.com/Shploop/Blooket-Cheats) - The best blooket hacks you could find! (Repost of 05Konz’s pls no hate). https://05konz.github.io/Blooket-Cheats/
 * 【2024-02-22】[VDIGPKU / GALA3D](https://github.com/VDIGPKU/GALA3D) - 
@@ -4340,6 +4379,10 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-02-25】[NewFuture / CV](https://github.com/NewFuture/CV) - A resume template written in Markdown,Yaml JSON auto generates github-pages website & PDF by Jekyll. 在线简历生成模板(超高兼容可导PDF)
+* 【2024-02-25】[AkashKobal / web-development](https://github.com/AkashKobal/web-development) - This repository enables learners to perform front-end full stack development, with emphasis on employability skills. The repository covers key technologies and architectures that enable the learners to design and implement front-end. On successful completion of this repository, the student shall be able to pursue a career in full-stack developement
+* 【2024-02-25】[creativetimofficial / blk-design-system-react](https://github.com/creativetimofficial/blk-design-system-react) - React version of BLK Design System:
+* 【2024-02-25】[OpenClassrooms-Student-Center / GameOn-website-FR](https://github.com/OpenClassrooms-Student-Center/GameOn-website-FR) - Code du projet 4 de développeur front-end V2
 * 【2024-02-23】[ros-planning / moveit2_tutorials](https://github.com/ros-planning/moveit2_tutorials) - A sphinx-based centralized documentation repo for MoveIt 2
 * 【2024-02-23】[HyperPlay-Gaming / hyperplay-desktop-client](https://github.com/HyperPlay-Gaming/hyperplay-desktop-client) - The HyperPlay desktop app
 * 【2024-02-23】[caracal-js / Incognito](https://github.com/caracal-js/Incognito) - Source code.
@@ -4700,6 +4743,12 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-25】[ronibandini / reggaetonBeGone](https://github.com/ronibandini/reggaetonBeGone) - detects reggaeton style with Machine Learning and sends packets to disable BT speakers (hopefully)
+* 【2024-02-25】[ByteSnipers / awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
+* 【2024-02-25】[ippscan / ippscanTEAM](https://github.com/ippscan/ippscanTEAM) - 
+* 【2024-02-25】[aws-samples / aws-customer-playbook-framework](https://github.com/aws-samples/aws-customer-playbook-framework) - This repository provides sample templates for security playbooks against various scenarios when using Amazon Web Services.
+* 【2024-02-25】[mhadidg / software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
+* 【2024-02-25】[hudiemon / cloud189](https://github.com/hudiemon/cloud189) - 🔒 天翼云盘-签到、抽奖
 * 【2024-02-23】[whlzy / FiT](https://github.com/whlzy/FiT) - FiT: Flexible Vision Transformer for Diffusion Model
 * 【2024-02-23】[armankhondker / best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources) - This repository contains Leetcode resources to help ace your coding interviews and learn Leetcode Patterns.
 * 【2024-02-23】[imwsl / ZeroCostTools](https://github.com/imwsl/ZeroCostTools) - 零成本的互联网产品或工具，帮助大家快速实现自己的想法!
