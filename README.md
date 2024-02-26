@@ -1,6 +1,10 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-26】[laurent22 / joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+* 【2024-02-26】[radix-vue / radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
+* 【2024-02-26】[facebook / react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets
+* 【2024-02-26】[zdz / ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
 * 【2024-02-25】[WongKinYiu / yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 * 【2024-02-25】[google / gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
 * 【2024-02-25】[google-deepmind / gemma](https://github.com/google-deepmind/gemma) - Open weights LLM from Google DeepMind.
@@ -550,6 +554,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-02-26】[Enndfp / code-generator](https://github.com/Enndfp/code-generator) - 基于 React + Spring Boot + Picocli + 对象存储的代码生成器共享平台，又分为 3 个循序渐进的子项目：基于命令行的本地代码生成器 + 代码生成器制作工具 + 在线代码生成器平台。实践 Java 命令行应用开发、FreeMarker 模板引擎、多种设计模式、对象存储、十几种优化方法、复杂业务的拆解和系统设计、分布式任务调度系统、Vert.x 响应式编程等
 * 【2024-02-25】[smart-cloud / smart-cloud](https://github.com/smart-cloud/smart-cloud) - 基于springboot && springcloud的脚手架，支持服务合并部署与拆分部署、接口加解密签名、日志数据 脱敏、接口数据mock、接口文档自动生成、请求幂等校验、接口日志&&sql日志切面打印、分表分库分布式事务、国际化语言等
 * 【2024-02-22】[longerye / im-chat](https://github.com/longerye/im-chat) - Fake wechat chat
 * 【2024-02-22】[pytorch / serve](https://github.com/pytorch/serve) - Serve, optimize and scale PyTorch models in production
@@ -1004,6 +1009,10 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-26】[OpenCodeInterpreter / OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter) - 
+* 【2024-02-26】[tin-ka / Prometheus](https://github.com/tin-ka/Prometheus) - Very powerful stealer + miner + rat + keylogger
+* 【2024-02-26】[docker / genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
+* 【2024-02-26】[wilsonfreitas / awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 * 【2024-02-25】[soufianetahiri / Anxun-isoon](https://github.com/soufianetahiri/Anxun-isoon) - I-SOON/Anxun leak related stuff
 * 【2024-02-25】[galaxyproject / galaxy](https://github.com/galaxyproject/galaxy) - Data intensive science for everyone.
 * 【2024-02-25】[feast-dev / feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning
@@ -1614,6 +1623,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-26】[rolling-scopes-school / news-JS](https://github.com/rolling-scopes-school/news-JS) - 
 * 【2024-02-25】[nightwatchjs / nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
 * 【2024-02-25】[Maher-Zubair / SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) - A Premium Whatsapp Bot Loaded With Features
 * 【2024-02-25】[fal-ai / sdxl-lightning-demo-app](https://github.com/fal-ai/sdxl-lightning-demo-app) - A demo application using fal.realtime and the lightning fast SDXL API provided by fal
@@ -2152,6 +2162,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-26】[ra2web / ra2web-proxy](https://github.com/ra2web/ra2web-proxy) - 网页红警边缘合规安全网关，用于对Chronodivide官方客户端进行转发，并对代码和内容动态注入，实现区域合规要求
+* 【2024-02-26】[go-jet / jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
+* 【2024-02-26】[ledgerwatch / erigon](https://github.com/ledgerwatch/erigon) - Ethereum implementation on the efficiency frontier
 * 【2024-02-25】[TwiN / gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 * 【2024-02-25】[ory / hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
 * 【2024-02-25】[kubernetes / test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
@@ -2691,6 +2704,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-26】[pret / pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
 * 【2024-02-25】[RIOT-OS / RIOT](https://github.com/RIOT-OS/RIOT) - RIOT - The friendly OS for IoT
 * 【2024-02-25】[openzfs / zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 * 【2024-02-25】[nihui / ruapu](https://github.com/nihui/ruapu) - Detect CPU features with single-file
@@ -3133,6 +3147,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-26】[pierotofy / OpenSplat](https://github.com/pierotofy/OpenSplat) - Free and open source 3D gaussian splatting in C++ 💦
+* 【2024-02-26】[cms-sw / cmssw](https://github.com/cms-sw/cmssw) - CMS Offline Software
+* 【2024-02-26】[root-project / root](https://github.com/root-project/root) - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
 * 【2024-02-25】[open-telemetry / opentelemetry-cpp](https://github.com/open-telemetry/opentelemetry-cpp) - The OpenTelemetry C++ Client
 * 【2024-02-25】[veyon / veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management
 * 【2024-02-25】[raknet-python / raknet-python](https://github.com/raknet-python/raknet-python) - Python bindings for RakNet, a cross-platform networking engine for game programmers.
@@ -3574,6 +3591,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-02-26】[oculus-samples / Unity-CrypticCabinet](https://github.com/oculus-samples/Unity-CrypticCabinet) - Cryptic Cabinet is a short Mixed Reality (MR) experience for Meta Quest headsets. It will demonstrate the possibilities of MR through gameplay, narrative, and aesthetics. The app adapts to your room (big or small) to create a unique experience for everyone.
 * 【2024-02-25】[Humanizr / Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 * 【2024-02-25】[octokit / octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 * 【2024-02-25】[2394425147 / maipaddx](https://github.com/2394425147/maipaddx) - 
@@ -4015,6 +4033,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-02-26】[codewithsadee / anon-ecommerce-website](https://github.com/codewithsadee/anon-ecommerce-website) - Fully responsive ecommerce website, built using HTML CSS and JavaScript.
+* 【2024-02-26】[YoYoGames / GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) - Repository for GameMaker's FMOD Extension
 * 【2024-02-25】[kagisearch / smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 * 【2024-02-25】[formkit / drag-and-drop](https://github.com/formkit/drag-and-drop) - 
 * 【2024-02-23】[bradtraversy / property-pulse](https://github.com/bradtraversy/property-pulse) - Next.js app for listing and searching rental properties
@@ -4743,6 +4763,9 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-26】[analoguejb / Analogue-Duo-JB](https://github.com/analoguejb/Analogue-Duo-JB) - 
+* 【2024-02-26】[warpdotdev / Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+* 【2024-02-26】[ThePBone / awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 * 【2024-02-25】[ronibandini / reggaetonBeGone](https://github.com/ronibandini/reggaetonBeGone) - detects reggaeton style with Machine Learning and sends packets to disable BT speakers (hopefully)
 * 【2024-02-25】[ByteSnipers / awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
 * 【2024-02-25】[ippscan / ippscanTEAM](https://github.com/ippscan/ippscanTEAM) - 
