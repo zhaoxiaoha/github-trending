@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-27】[massgravel / Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+* 【2024-02-27】[huntabyte / shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 * 【2024-02-26】[laurent22 / joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 * 【2024-02-26】[radix-vue / radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 * 【2024-02-26】[facebook / react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets
@@ -554,6 +556,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-02-27】[airbnb / lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
 * 【2024-02-26】[Enndfp / code-generator](https://github.com/Enndfp/code-generator) - 基于 React + Spring Boot + Picocli + 对象存储的代码生成器共享平台，又分为 3 个循序渐进的子项目：基于命令行的本地代码生成器 + 代码生成器制作工具 + 在线代码生成器平台。实践 Java 命令行应用开发、FreeMarker 模板引擎、多种设计模式、对象存储、十几种优化方法、复杂业务的拆解和系统设计、分布式任务调度系统、Vert.x 响应式编程等
 * 【2024-02-25】[smart-cloud / smart-cloud](https://github.com/smart-cloud/smart-cloud) - 基于springboot && springcloud的脚手架，支持服务合并部署与拆分部署、接口加解密签名、日志数据 脱敏、接口数据mock、接口文档自动生成、请求幂等校验、接口日志&&sql日志切面打印、分表分库分布式事务、国际化语言等
 * 【2024-02-22】[longerye / im-chat](https://github.com/longerye/im-chat) - Fake wechat chat
@@ -1009,6 +1012,11 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-27】[czbag / scroll](https://github.com/czbag/scroll) - Скрипт по работе со Scroll
+* 【2024-02-27】[Frimkron / mud-pi](https://github.com/Frimkron/mud-pi) - A simple MUD server in Python, for teaching purposes, which could be run on a Raspberry Pi
+* 【2024-02-27】[Eladlev / AutoPrompt](https://github.com/Eladlev/AutoPrompt) - A framework for prompt tuning using Intent-based Prompt Calibration
+* 【2024-02-27】[dnakov / r2d2](https://github.com/dnakov/r2d2) - 🤖🏴‍☠️ radare2 plugin for GPT-4 🦜. Solve crackmes automatically 🪄
+* 【2024-02-27】[hoochanlon / hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 * 【2024-02-26】[OpenCodeInterpreter / OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter) - 
 * 【2024-02-26】[tin-ka / Prometheus](https://github.com/tin-ka/Prometheus) - Very powerful stealer + miner + rat + keylogger
 * 【2024-02-26】[docker / genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
@@ -1623,6 +1631,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-27】[rahuldkjain / github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 * 【2024-02-26】[rolling-scopes-school / news-JS](https://github.com/rolling-scopes-school/news-JS) - 
 * 【2024-02-25】[nightwatchjs / nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
 * 【2024-02-25】[Maher-Zubair / SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) - A Premium Whatsapp Bot Loaded With Features
@@ -2162,6 +2171,12 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-27】[shraddhaag / 1brc](https://github.com/shraddhaag/1brc) - Solution to One Billion Rows Challenge in Golang.
+* 【2024-02-27】[QuilibriumNetwork / ceremonyclient](https://github.com/QuilibriumNetwork/ceremonyclient) - Mirror of Quilibrium git repo: ceremonyclient
+* 【2024-02-27】[tulir / whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
+* 【2024-02-27】[gokcehan / lf](https://github.com/gokcehan/lf) - Terminal file manager
+* 【2024-02-27】[Jguer / yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+* 【2024-02-27】[anacrolix / torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 * 【2024-02-26】[ra2web / ra2web-proxy](https://github.com/ra2web/ra2web-proxy) - 网页红警边缘合规安全网关，用于对Chronodivide官方客户端进行转发，并对代码和内容动态注入，实现区域合规要求
 * 【2024-02-26】[go-jet / jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
 * 【2024-02-26】[ledgerwatch / erigon](https://github.com/ledgerwatch/erigon) - Ethereum implementation on the efficiency frontier
@@ -2704,6 +2719,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-27】[greatscottgadgets / hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
+* 【2024-02-27】[armink / SFUD](https://github.com/armink/SFUD) - An using JEDEC's SFDP standard serial (SPI) flash universal driver library | 一款使用 JEDEC SFDP 标准的串行 (SPI) Flash 通用驱动库
 * 【2024-02-26】[pret / pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
 * 【2024-02-25】[RIOT-OS / RIOT](https://github.com/RIOT-OS/RIOT) - RIOT - The friendly OS for IoT
 * 【2024-02-25】[openzfs / zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
@@ -3147,6 +3164,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-27】[dail8859 / NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 * 【2024-02-26】[pierotofy / OpenSplat](https://github.com/pierotofy/OpenSplat) - Free and open source 3D gaussian splatting in C++ 💦
 * 【2024-02-26】[cms-sw / cmssw](https://github.com/cms-sw/cmssw) - CMS Offline Software
 * 【2024-02-26】[root-project / root](https://github.com/root-project/root) - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
@@ -3591,6 +3609,10 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-02-27】[AliveverCom / WinBrowserCrawler](https://github.com/AliveverCom/WinBrowserCrawler) - 
+* 【2024-02-27】[ResetXPDR / MSFS2020_AutoFPS](https://github.com/ResetXPDR/MSFS2020_AutoFPS) - 
+* 【2024-02-27】[Perfare / Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
+* 【2024-02-27】[Nereziel / cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints) - 
 * 【2024-02-26】[oculus-samples / Unity-CrypticCabinet](https://github.com/oculus-samples/Unity-CrypticCabinet) - Cryptic Cabinet is a short Mixed Reality (MR) experience for Meta Quest headsets. It will demonstrate the possibilities of MR through gameplay, narrative, and aesthetics. The app adapts to your room (big or small) to create a unique experience for everyone.
 * 【2024-02-25】[Humanizr / Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 * 【2024-02-25】[octokit / octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
@@ -4399,6 +4421,9 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-02-27】[datawhalechina / hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent) - A tutorial to quickly help you understand the concept of agent and muti-agent and get started with coding development
+* 【2024-02-27】[K-Daksh / Exitlag](https://github.com/K-Daksh/Exitlag) - 
+* 【2024-02-27】[Perseus333 / One-Fox](https://github.com/Perseus333/One-Fox) - A CSS for firefox and Floorp that provides a simple yet convenient single line UI
 * 【2024-02-25】[NewFuture / CV](https://github.com/NewFuture/CV) - A resume template written in Markdown,Yaml JSON auto generates github-pages website & PDF by Jekyll. 在线简历生成模板(超高兼容可导PDF)
 * 【2024-02-25】[AkashKobal / web-development](https://github.com/AkashKobal/web-development) - This repository enables learners to perform front-end full stack development, with emphasis on employability skills. The repository covers key technologies and architectures that enable the learners to design and implement front-end. On successful completion of this repository, the student shall be able to pursue a career in full-stack developement
 * 【2024-02-25】[creativetimofficial / blk-design-system-react](https://github.com/creativetimofficial/blk-design-system-react) - React version of BLK Design System:
@@ -4763,6 +4788,10 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-27】[academic / awesome-datascience](https://github.com/academic/awesome-datascience) - 📝 An awesome Data Science repository to learn and apply for real world problems.
+* 【2024-02-27】[joseadanof / awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
+* 【2024-02-27】[geeeeeeeek / code_products](https://github.com/geeeeeeeek/code_products) - 毕业设计，python/django，java/springboot，vue
+* 【2024-02-27】[osurf / pzdy](https://github.com/osurf/pzdy) - 翻墙部落-翻墙软件 翻墙工具 自由门 无界 安卓 vpn
 * 【2024-02-26】[analoguejb / Analogue-Duo-JB](https://github.com/analoguejb/Analogue-Duo-JB) - 
 * 【2024-02-26】[warpdotdev / Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 * 【2024-02-26】[ThePBone / awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
