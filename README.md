@@ -1,6 +1,14 @@
 ### Github热门项目
 ## All language
 
+* 【2024-02-29】[Lissy93 / web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+* 【2024-02-29】[pmndrs / uikit](https://github.com/pmndrs/uikit) - 📱 user interfaces for react-three-fiber
+* 【2024-02-29】[dockur / windows](https://github.com/dockur/windows) - Windows in a Docker container.
+* 【2024-02-29】[SciPhi-AI / R2R](https://github.com/SciPhi-AI/R2R) - A framework for rapid development and deployment of production-ready RAG systems
+* 【2024-02-29】[myshell-ai / MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
+* 【2024-02-29】[krishnaik06 / Data-Science-Projects-For-Resumes](https://github.com/krishnaik06/Data-Science-Projects-For-Resumes) - 
+* 【2024-02-29】[polyfillpolyfill / polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
+* 【2024-02-29】[nvm-sh / nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 * 【2024-02-28】[tigerbeetle / tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
 * 【2024-02-28】[FuelLabs / fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
 * 【2024-02-28】[MDK8888 / GPTFast](https://github.com/MDK8888/GPTFast) - Accelerate your Hugging Face Transformers 6-7x. Native to Hugging Face and PyTorch.
@@ -563,6 +571,14 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-02-29】[software-mansion / react-native-svg](https://github.com/software-mansion/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
+* 【2024-02-29】[FasterXML / jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s)
+* 【2024-02-29】[exadel-inc / CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
+* 【2024-02-29】[elunez / eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+* 【2024-02-29】[react-native-google-signin / google-signin](https://github.com/react-native-google-signin/google-signin) - Google Sign-in for your React Native applications
+* 【2024-02-29】[flyway / flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
+* 【2024-02-29】[Faceplugin-ltd / FacePlugin-FaceSDK-Android](https://github.com/Faceplugin-ltd/FacePlugin-FaceSDK-Android) - Face Recognition Android SDK (Face Detection, Face Landmarks, Face Liveness Detection, Face Pose, Face Expression, Eye Closeness, Age, Gender and Face Recognition)
+* 【2024-02-29】[junixapp / XPopup](https://github.com/junixapp/XPopup) - 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup vi…
 * 【2024-02-28】[SuperMarioYL / trouve](https://github.com/SuperMarioYL/trouve) - trouve : A built-in integrated service discovery, service registration, and service forwarding general component for Spring projects
 * 【2024-02-28】[dromara / Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
 * 【2024-02-28】[lenve / vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
@@ -1022,6 +1038,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-02-29】[mistralai / client-python](https://github.com/mistralai/client-python) - Python client library for Mistral AI platform
+* 【2024-02-29】[Clouditera / SecGPT](https://github.com/Clouditera/SecGPT) - SecGPT网络安全大模型
+* 【2024-02-29】[rany2 / edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
 * 【2024-02-28】[jasonyzhang / RayDiffusion](https://github.com/jasonyzhang/RayDiffusion) - Code for "Cameras as Rays"
 * 【2024-02-28】[jaymody / picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 * 【2024-02-28】[DLR-RM / stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
@@ -1646,6 +1665,11 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-02-29】[jason5ng32 / OhEarningsCal](https://github.com/jason5ng32/OhEarningsCal) - 使用日历软件订阅美股的财报日期
+* 【2024-02-29】[polyfillpolyfill / polyfill-library](https://github.com/polyfillpolyfill/polyfill-library) - NodeJS module to create polyfill bundles tailored to individual user-agents.
+* 【2024-02-29】[bradtraversy / vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+* 【2024-02-29】[scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
+* 【2024-02-29】[eKoopmans / html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
 * 【2024-02-28】[bittu1040 / JavaScript-Coding-and-Notes](https://github.com/bittu1040/JavaScript-Coding-and-Notes) - You can find here all JavaScript core concept with example and basic coding challenge
 * 【2024-02-28】[mozilla / readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 * 【2024-02-28】[ninjas-code-official / food-delivery-multivendor](https://github.com/ninjas-code-official/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
@@ -2192,6 +2216,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-02-29】[kubernetes-sigs / gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+* 【2024-02-29】[ethstorage / es-node](https://github.com/ethstorage/es-node) - Golang implementation of the EthStorage node.
+* 【2024-02-29】[axllent / mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 * 【2024-02-28】[weaviate / weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
 * 【2024-02-28】[aws / copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 * 【2024-02-28】[open-telemetry / opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector
@@ -2744,6 +2771,10 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-02-29】[open-quantum-safe / liboqs](https://github.com/open-quantum-safe/liboqs) - C library for prototyping and experimenting with quantum-resistant cryptography
+* 【2024-02-29】[nginx / unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes.
+* 【2024-02-29】[FRRouting / frr](https://github.com/FRRouting/frr) - The FRRouting Protocol Suite
+* 【2024-02-29】[TelegramMessenger / MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
 * 【2024-02-28】[checkpoint-restore / criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 * 【2024-02-28】[kamailio / kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
 * 【2024-02-28】[skyfloogle / red-viper](https://github.com/skyfloogle/red-viper) - A Virtual Boy emulator for the 3DS
@@ -3193,6 +3224,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-29】[raulmur / ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+* 【2024-02-29】[sddm / sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
 * 【2024-02-28】[finos / perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 * 【2024-02-28】[zeromq / cppzmq](https://github.com/zeromq/cppzmq) - Header-only C++ binding for libzmq
 * 【2024-02-28】[NVIDIA / FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
@@ -3642,6 +3675,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-02-29】[mono / mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
 * 【2024-02-28】[immense / Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 8, Blazor, and SignalR.
 * 【2024-02-27】[AliveverCom / WinBrowserCrawler](https://github.com/AliveverCom/WinBrowserCrawler) - 
 * 【2024-02-27】[ResetXPDR / MSFS2020_AutoFPS](https://github.com/ResetXPDR/MSFS2020_AutoFPS) - 
@@ -4089,6 +4123,10 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-02-29】[tensorchord / ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) - This is a landscape of the infrastructure that powers the generative AI ecosystem
+* 【2024-02-29】[stellarkey / 912_project](https://github.com/stellarkey/912_project) - 清华大学计算机系考研攻略 Guidance for postgraduate entrance examination in Department of Computer Science and Technology, Tsinghua University
+* 【2024-02-29】[gethyas / doks](https://github.com/gethyas/doks) - Build beautiful, accessible, high-performance documentation websites
+* 【2024-02-29】[Consensys / smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
 * 【2024-02-28】[taniagd / Ejercicios-Intro-CSS-CH38](https://github.com/taniagd/Ejercicios-Intro-CSS-CH38) - 
 * 【2024-02-28】[google / material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 * 【2024-02-26】[codewithsadee / anon-ecommerce-website](https://github.com/codewithsadee/anon-ecommerce-website) - Fully responsive ecommerce website, built using HTML CSS and JavaScript.
@@ -4457,6 +4495,9 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-02-29】[janily / background-erase](https://github.com/janily/background-erase) - Remove background in seconds.
+* 【2024-02-29】[MariiaH1 / todo-app-starter](https://github.com/MariiaH1/todo-app-starter) - 
+* 【2024-02-29】[microsoft / SmartHotel360-Website](https://github.com/microsoft/SmartHotel360-Website) - SmartHotel360 Webiste
 * 【2024-02-28】[kallewoof / bitcoin-faucet](https://github.com/kallewoof/bitcoin-faucet) - Bitcoin Faucet
 * 【2024-02-28】[textmate / themes.tmbundle](https://github.com/textmate/themes.tmbundle) - Themes (for grammars and command output)
 * 【2024-02-28】[curio-lesmateriaal / storingapp](https://github.com/curio-lesmateriaal/storingapp) - 
@@ -4828,6 +4869,11 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-02-29】[sina-moradbakhti / hiddify-wow-config](https://github.com/sina-moradbakhti/hiddify-wow-config) - 
+* 【2024-02-29】[HFUT-CHEATER / HFUTCheaterCollection](https://github.com/HFUT-CHEATER/HFUTCheaterCollection) - HFUT-Cheater-Collection 合肥工业大学作弊学生名单、行政包庇人员名单——合肥工业大学作弊封神榜
+* 【2024-02-29】[techiescamp / kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
+* 【2024-02-29】[M-3LAB / awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) - Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。
+* 【2024-02-29】[coder2gwy / coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 * 【2024-02-28】[ctanujit / lecture-notes](https://github.com/ctanujit/lecture-notes) - 
 * 【2024-02-28】[wsargent / docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 * 【2024-02-28】[payloadbox / xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
