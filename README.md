@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-03-03】[memorysafety / river](https://github.com/memorysafety/river) - This repository is the future home of the River reverse proxy application, based on the pingora library from Cloudflare.
 * 【2024-03-02】[cloudflare / pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 * 【2024-03-02】[kyegomez / BitNet](https://github.com/kyegomez/BitNet) - Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch
 * 【2024-03-02】[redis / ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
@@ -579,6 +580,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-03-03】[ionic-team / capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
+* 【2024-03-03】[CeuiLiSA / Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) - Pixiv第三方Android客户端
 * 【2024-03-02】[flowable / flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
 * 【2024-03-02】[ityouknow / spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
 * 【2024-03-01】[tronprotocol / java-tron](https://github.com/tronprotocol/java-tron) - Java implementation of the Tron whitepaper
@@ -1051,6 +1054,14 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-03-03】[allenai / fm-cheatsheet](https://github.com/allenai/fm-cheatsheet) - Website for hosting the Open Foundation Models Cheat Sheet.
+* 【2024-03-03】[maszhongming / Multi-LoRA-Composition](https://github.com/maszhongming/Multi-LoRA-Composition) - Repository for the Paper "Multi-LoRA Composition for Image Generation"
+* 【2024-03-03】[PaddlePaddle / PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification, 🔍 Neural Search, ❓ Question Answering, ℹ️ Information Extraction, 📄 Document Intelligence, 💌 Sentiment Analysis etc.
+* 【2024-03-03】[jhao104 / proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
+* 【2024-03-03】[kijai / ComfyUI-SUPIR](https://github.com/kijai/ComfyUI-SUPIR) - SUPIR upscaling wrapper for ComfyUI
+* 【2024-03-03】[oppia / oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
+* 【2024-03-03】[Z4nzu / hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+* 【2024-03-03】[pydantic / FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 * 【2024-03-02】[mbzuai-oryx / MobiLlama](https://github.com/mbzuai-oryx/MobiLlama) - MobiLlama : Small Language Model tailored for edge devices
 * 【2024-03-02】[fluencelabs / dev-rewards](https://github.com/fluencelabs/dev-rewards) - 
 * 【2024-03-02】[bigcode-project / starcoder2](https://github.com/bigcode-project/starcoder2) - Home of StarCoder2!
@@ -1696,6 +1707,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-03-03】[ltlittlekk / OTTO](https://github.com/ltlittlekk/OTTO) - 电棍游戏
+* 【2024-03-03】[yjs / yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 * 【2024-03-02】[HumanAIGC / emote-portrait-alive](https://github.com/HumanAIGC/emote-portrait-alive) - 
 * 【2024-03-02】[polyfillpolyfill / fetch](https://github.com/polyfillpolyfill/fetch) - A window.fetch JavaScript polyfill.
 * 【2024-03-02】[Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
@@ -2256,6 +2269,10 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-03-03】[jovandeginste / workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
+* 【2024-03-03】[version-fox / vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+* 【2024-03-03】[openfga / openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
+* 【2024-03-03】[siderolabs / omni](https://github.com/siderolabs/omni) - SaaS-simple deployment of Kubernetes - on your own hardware.
 * 【2024-03-02】[runreveal / pql](https://github.com/runreveal/pql) - Pipelined Query Language
 * 【2024-03-02】[go-telegram-bot-api / telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
@@ -2817,6 +2834,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-03-03】[shauninman / MinUI](https://github.com/shauninman/MinUI) - A custom launcher and libretro frontend for the RGB30, M17 (early revs), Trimui Smart (and Pro), Miyoo Mini (and Plus), and Anbernic RG35XX (and Plus) with more to come...
+* 【2024-03-03】[guanzhi / GmSSL](https://github.com/guanzhi/GmSSL) - 支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱
+* 【2024-03-03】[WiringPi / WiringPi](https://github.com/WiringPi/WiringPi) - The arguably fastest GPIO Library for the Raspberry Pi
 * 【2024-03-02】[arcsysu / SYsU-lang2](https://github.com/arcsysu/SYsU-lang2) - 中山大学编译原理课程实验（完全重构版本）
 * 【2024-03-02】[mackron / miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 * 【2024-03-01】[analogdevicesinc / no-OS](https://github.com/analogdevicesinc/no-OS) - Software drivers in C for systems without an operating system
@@ -3275,6 +3295,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-03-03】[owasp-modsecurity / ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
+* 【2024-03-03】[thorvg / thorvg](https://github.com/thorvg/thorvg) - Thor Vector Graphics is a lightweight portable library used for drawing vector-based scenes and animations including SVG and Lottie. It can be freely utilized across various software platforms and applications to visualize graphical contents.
 * 【2024-03-02】[PointCloudLibrary / pcl](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library (PCL)
 * 【2024-03-02】[COVESA / vsomeip](https://github.com/COVESA/vsomeip) - An implementation of Scalable service-Oriented MiddlewarE over IP
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
@@ -3731,6 +3753,10 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-03-03】[Cysharp / SimdLinq](https://github.com/Cysharp/SimdLinq) - Drop-in replacement of LINQ aggregation operations extremely faster with SIMD.
+* 【2024-03-03】[microsoft / azure-openai-dev-skills-orchestrator](https://github.com/microsoft/azure-openai-dev-skills-orchestrator) - Building a set of semantic kernel skills to act as a virtual developer team
+* 【2024-03-03】[MoaidHathot / Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's.
+* 【2024-03-03】[hardkoded / puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp) - Headless Chrome .NET API
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 * 【2024-03-01】[gregsdennis / json-everything](https://github.com/gregsdennis/json-everything) - System.Text.Json-based support for all of your JSON needs.
 * 【2024-03-01】[moom825 / xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, and much much more!
@@ -4184,6 +4210,9 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-03-03】[The-Japan-DataScientist-Society / 100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess) - データサイエンス100本ノック（構造化データ加工編）
+* 【2024-03-03】[mthcht / ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) - Awesome list of keywords and artefacts for Threat Hunting sessions
+* 【2024-03-03】[RayTracing / raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 * 【2024-03-02】[markmead / hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 * 【2024-03-02】[acgeospatial / awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - A curated list of awesome tools, tutorials, code, projects, links, stuff about Earth Observation, Geospatial Satellite Imagery
 * 【2024-03-01】[abhivaikar / howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
@@ -4561,6 +4590,11 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-03-03】[ShaifArfan / one-page-website-html-css-project](https://github.com/ShaifArfan/one-page-website-html-css-project) - This project is for html & css practice. We made this for youtube tutorial purpose.
+* 【2024-03-03】[pinceladasdaweb / Frontend-Snippets](https://github.com/pinceladasdaweb/Frontend-Snippets) - A set of Front End Snippets for improve your development.
+* 【2024-03-03】[nurilanwaralabsory / laravel-pustik](https://github.com/nurilanwaralabsory/laravel-pustik) - 
+* 【2024-03-03】[nigelpoulton / gsd](https://github.com/nigelpoulton/gsd) - Files for Getting Started with Docker video training course
+* 【2024-03-03】[zDyanTB / HyprNova](https://github.com/zDyanTB/HyprNova) - Dot files for my Fedora with Hyprland
 * 【2024-03-02】[bluenex / baansuan_prannok](https://github.com/bluenex/baansuan_prannok) - 
 * 【2024-03-02】[felipethomas / site-portfolio](https://github.com/felipethomas/site-portfolio) - Site que representa o portfólio de Felipe Thomas
 * 【2024-03-01】[patrickloeber / chatbot-deployment](https://github.com/patrickloeber/chatbot-deployment) - Deployment of PyTorch chatbot with Flask
@@ -4940,6 +4974,10 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-03-03】[lichao-sun / SoraReview](https://github.com/lichao-sun/SoraReview) - The official GitHub page for the review paper "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models".
+* 【2024-03-03】[h9-tect / Arabic_NLP_resources](https://github.com/h9-tect/Arabic_NLP_resources) - 
+* 【2024-03-03】[afatcoder / LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
+* 【2024-03-03】[forthespada / CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
 * 【2024-03-02】[layerdiffusion / LayerDiffusion](https://github.com/layerdiffusion/LayerDiffusion) - Transparent Image Layer Diffusion using Latent Transparency
 * 【2024-03-02】[amusi / CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
 * 【2024-03-02】[blast-io / deployment](https://github.com/blast-io/deployment) - 
