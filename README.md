@@ -1,6 +1,10 @@
 ### Github热门项目
 ## All language
 
+* 【2024-03-08】[VAST-AI-Research / TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
+* 【2024-03-08】[Crimson-Hawk / suyu](https://github.com/Crimson-Hawk/suyu) - 
+* 【2024-03-08】[yuzu-mirror / yuzu-downloads](https://github.com/yuzu-mirror/yuzu-downloads) - Archived releases of yuzu (not part of the original organization)
+* 【2024-03-08】[snipe / snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 * 【2024-03-07】[yuzu-mirror / yuzu](https://github.com/yuzu-mirror/yuzu) - Nintendo Switch emulator (unofficial mirror fork)
 * 【2024-03-07】[PabloMK7 / citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator
 * 【2024-03-07】[Ryujinx / release-channel-master](https://github.com/Ryujinx/release-channel-master) - Ryujinx's Release channel: master
@@ -605,6 +609,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-03-08】[react-native-linear-gradient / react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - A <LinearGradient /> component for react-native
 * 【2024-03-07】[linkedin / openhouse](https://github.com/linkedin/openhouse) - Open Control Plane for Tables in Data Lakehouse
 * 【2024-03-07】[TheBeastofwar / JenkinsExploit-GUI](https://github.com/TheBeastofwar/JenkinsExploit-GUI) - 一款Jenkins的综合漏洞利用工具
 * 【2024-03-06】[OpenEMS / openems](https://github.com/OpenEMS/openems) - OpenEMS - Open Source Energy Management System
@@ -1093,6 +1098,12 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-03-08】[KimMeen / Time-LLM](https://github.com/KimMeen/Time-LLM) - [ICLR 2024] Official implementation of " 🦙 Time-LLM: Time Series Forecasting by Reprogramming Large Language Models"
+* 【2024-03-08】[traceloop / openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
+* 【2024-03-08】[flowtyone / ComfyUI-Flowty-TripoSR](https://github.com/flowtyone/ComfyUI-Flowty-TripoSR) - TripoSR custom node for comfyui
+* 【2024-03-08】[tobymao / sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
+* 【2024-03-08】[mianayang / chromego_merge](https://github.com/mianayang/chromego_merge) - 绵羊的金属精炼器
+* 【2024-03-08】[apple / ml-mobileclip](https://github.com/apple/ml-mobileclip) - This repository contains the official implementation of the research paper, "MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training" CVPR 2024
 * 【2024-03-07】[PrometheusStealer / Prometheus](https://github.com/PrometheusStealer/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
 * 【2024-03-07】[hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora) - Building your own video generation model like OpenAI's Sora
 * 【2024-03-07】[anthropics / anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) - 
@@ -1770,6 +1781,11 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-03-08】[npm / cli](https://github.com/npm/cli) - the package manager for JavaScript
+* 【2024-03-08】[nksaraf / vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
+* 【2024-03-08】[sampotts / plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+* 【2024-03-08】[philc / vimium](https://github.com/philc/vimium) - The hacker's browser.
+* 【2024-03-08】[moment / luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 * 【2024-03-07】[HeyPuter / puter](https://github.com/HeyPuter/puter) - The Internet OS!
 * 【2024-03-07】[openai-translator / bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
 * 【2024-03-07】[sweetalert2 / sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
@@ -2347,6 +2363,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-03-08】[prometheus-community / postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 * 【2024-03-07】[trap-bytes / 403jump](https://github.com/trap-bytes/403jump) - HTTP 403 bypass tool
 * 【2024-03-07】[AndreyMashukov / go-crypto-bot](https://github.com/AndreyMashukov/go-crypto-bot) - Multithread crypto bot implemented on Golang
 * 【2024-03-07】[argoproj-labs / argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD
@@ -2929,6 +2946,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-03-08】[google / boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
+* 【2024-03-08】[strongswan / strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
+* 【2024-03-08】[neobrain / citra](https://github.com/neobrain/citra) - Nintendo 3DS emulator/debugger
 * 【2024-03-07】[CTCaer / hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
 * 【2024-03-07】[Lovepreet-Singh-LPSK / MultiThreadedProxyServerClient](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient) - 
 * 【2024-03-07】[ithewei / libhv](https://github.com/ithewei/libhv) - 🔥 比libevent/libuv/asio更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.
@@ -3401,6 +3421,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-03-08】[yuzu-mirror / yuzu-mainline](https://github.com/yuzu-mirror/yuzu-mainline) - (unofficial mirror fork)
+* 【2024-03-08】[aidanmcb1 / Citra](https://github.com/aidanmcb1/Citra) - Reupload of 3DS emulator citra because it might die with Yuzu
+* 【2024-03-08】[squid-cache / squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
 * 【2024-03-07】[android / ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
 * 【2024-03-07】[wheremyfoodat / Panda3DS](https://github.com/wheremyfoodat/Panda3DS) - HLE 3DS emulator
 * 【2024-03-07】[amwatson / CitraVR](https://github.com/amwatson/CitraVR) - Port of the leading 3DS emulator, Citra — designed for playing 3DS homebrew and personal game backups in 3D on the go with your Quest.
@@ -3874,6 +3897,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-03-08】[ravendb / ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
 * 【2024-03-07】[amakvana / SwitchEmuModDownloader](https://github.com/amakvana/SwitchEmuModDownloader) - SwitchEmuModDownloader - A Cross-Platform One-Click Games Mod Downloader for Switch emulators. Formerly YuzuModDownloader.
 * 【2024-03-06】[cq-panda / Vue.NetCore](https://github.com/cq-panda/Vue.NetCore) - (已支持sqlsugar).NetCore、.Net6、Vue2、Vue3、Element plus+uniapp前后端分离，全自动生成代码；支持移动端(ios/android/h5/微信小程序。http://www.volcore.xyz/
 * 【2024-03-06】[chenxuuu / llcom](https://github.com/chenxuuu/llcom) - 🛠功能强大的串口工具。支持Lua自动化处理、串口调试、串口监听、串口曲线、TCP测试、MQTT测试、编码转换、乱码恢复等功能
@@ -4338,6 +4362,10 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-03-08】[citra-emu / citra-web](https://github.com/citra-emu/citra-web) - Citra website source code
+* 【2024-03-08】[Guyungy / damaihelper](https://github.com/Guyungy/damaihelper) - 支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本
+* 【2024-03-08】[istio / istio.io](https://github.com/istio/istio.io) - Source for the istio.io site
+* 【2024-03-08】[EAGLECRAFTARCHIVE / EagleCraft-Download](https://github.com/EAGLECRAFTARCHIVE/EagleCraft-Download) - EagleCraft Archived
 * 【2024-03-07】[osumatu / terorist-quiz](https://github.com/osumatu/terorist-quiz) - teroristini dogru tani turkiye
 * 【2024-03-07】[hundredblocks / transcription_demo](https://github.com/hundredblocks/transcription_demo) - 
 * 【2024-03-07】[GoulartNogueira / BadUI](https://github.com/GoulartNogueira/BadUI) - Inspired by r/badUIbattles (a joke subreddit for intentionally bad UI designs). This repository aggregates all best (or worst?) bad-UI designs.
@@ -4728,6 +4756,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-03-08】[LemmyNet / lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
 * 【2024-03-07】[pineappleEA / pineappleEA.github.io](https://github.com/pineappleEA/pineappleEA.github.io) - Website made to store EA links for Yuzu
 * 【2024-03-07】[shuhongfan / sl-express](https://github.com/shuhongfan/sl-express) - 神领物流 黑马 物流项目 神领物流系统类似顺丰速运，是向C端用户提供快递服务的系统。竞品有：顺丰、中通、圆通、京东快递等。 项目产品主要有4端产品： - 用户端：基于微信小程序开发，外部客户使用，可以寄件、查询物流信息等。 - 快递员端：基于安卓开发的手机APP，公司内部的快递员使用，可以接收取派件任务等。 - 司机端：基于安卓开发的手机APP，公司内部的司机使用，可以接收运输任务、上报位置信息等。 - 后台系统管理：基于vue开发，PC端使用，公司内部管理员用户使用，可以进行基础数据维护、订单管理、运单管理等。
 * 【2024-03-07】[marcgarciamo / entrega05-m8-uf5](https://github.com/marcgarciamo/entrega05-m8-uf5) - 
@@ -5128,6 +5157,13 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-03-08】[josejesusguzman / acordeon-sc900](https://github.com/josejesusguzman/acordeon-sc900) - Acordeón para pasar la certificación SC-900 e iniciar tu camino en la ciberseguridad
+* 【2024-03-08】[RemoteWLB / remote-jobs](https://github.com/RemoteWLB/remote-jobs) - A project for collecting remote jobs, updated daily 👩‍💻
+* 【2024-03-08】[spring-office-hours / resources-learning-spring](https://github.com/spring-office-hours/resources-learning-spring) - Resources for Learning Spring
+* 【2024-03-08】[datawhalechina / so-large-lm](https://github.com/datawhalechina/so-large-lm) - 大模型理论基础
+* 【2024-03-08】[PKU-YuanGroup / ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型
+* 【2024-03-08】[microsoft / WSA](https://github.com/microsoft/WSA) - Developer-related issues and feature requests for Windows Subsystem for Android
+* 【2024-03-08】[rshipp / awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
 * 【2024-03-07】[Ryujinx / Ryujinx-Games-List](https://github.com/Ryujinx/Ryujinx-Games-List) - List of games & demos tested on Ryujinx
 * 【2024-03-07】[wdndev / llm_interview_note](https://github.com/wdndev/llm_interview_note) - 大模型面试题及答案，大模型八股文
 * 【2024-03-07】[Meituan-AutoML / VisionLLaMA](https://github.com/Meituan-AutoML/VisionLLaMA) - 
