@@ -1,6 +1,11 @@
 ### Github热门项目
 ## All language
 
+* 【2024-03-10】[jiaweizzhao / GaLore](https://github.com/jiaweizzhao/GaLore) - 
+* 【2024-03-10】[dortania / OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
+* 【2024-03-10】[ProjectDreamland / area51](https://github.com/ProjectDreamland/area51) - Source code for Area 51 (2005)
+* 【2024-03-10】[Whomane / Whomane](https://github.com/Whomane/Whomane) - An open source wearable with camera
+* 【2024-03-10】[FuelLabs / sway-farm](https://github.com/FuelLabs/sway-farm) - Farm 🍅 on the Fuel network.
 * 【2024-03-09】[emoisback / Helldivers-2-Internal-Hack-Dll-Proxy-PoC](https://github.com/emoisback/Helldivers-2-Internal-Hack-Dll-Proxy-PoC) - Proof of Concept Internal Hack Using Dll Proxy for Helldivers 2
 * 【2024-03-09】[boxyhq / saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 * 【2024-03-09】[google / maxtext](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM!
@@ -618,6 +623,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-03-10】[spring-cloud / spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway) - An API Gateway built on Spring Framework and Spring Boot providing routing and more.
+* 【2024-03-10】[kby-ai / FaceLivenessDetection-Android](https://github.com/kby-ai/FaceLivenessDetection-Android) - This is a demo project for 3D passive face liveness detection, which is an anti-spoofing technology.
 * 【2024-03-09】[supertokens / supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 * 【2024-03-08】[react-native-linear-gradient / react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - A <LinearGradient /> component for react-native
 * 【2024-03-07】[linkedin / openhouse](https://github.com/linkedin/openhouse) - Open Control Plane for Tables in Data Lakehouse
@@ -1108,6 +1115,12 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-03-10】[weaviate / Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
+* 【2024-03-10】[W01fh4cker / CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE) - CVE-2024-27198 & CVE-2024-27199 Authentication Bypass --> RCE in JetBrains TeamCity Pre-2023.11.4
+* 【2024-03-10】[prometheusdevel / Prometheus](https://github.com/prometheusdevel/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
+* 【2024-03-10】[TobikoData / sqlmesh](https://github.com/TobikoData/sqlmesh) - Efficient data transformation and modeling framework that is backwards compatible with dbt.
+* 【2024-03-10】[UpstageAI / dataverse](https://github.com/UpstageAI/dataverse) - The Universe of Data. All about data, data science, and data engineering
+* 【2024-03-10】[alibaba / data-juicer](https://github.com/alibaba/data-juicer) - A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs! 🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷为大语言模型提供更高质量、更丰富、更易”消化“的数据！
 * 【2024-03-09】[google-deepmind / alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
 * 【2024-03-09】[taojy123 / KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 * 【2024-03-09】[WZMIAOMIAO / deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) - deep learning for image processing including classification and object-detection etc.
@@ -1795,6 +1808,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-03-10】[xxxily / h5player](https://github.com/xxxily/h5player) - 视频增强脚本，支持所有H5视频网站，例如：B站、抖音、腾讯视频、优酷、爱奇艺、西瓜视频、油管（YouTube）、微博视频、知乎视频、搜狐视频、网易公开课、百度网盘、阿里云盘、ted、instagram、twitter等。全程快捷键控制，支持：倍速播放/加速播放、视频画面截图、画中画、网页全屏、调节亮度、饱和度、对比度、自定义配置功能增强等功能，为你提供愉悦的在线视频播放体验。还有视频广告快进、在线教程/教育视频倍速快学等能力
+* 【2024-03-10】[gorisanson / pikachu-volleyball](https://github.com/gorisanson/pikachu-volleyball) - Pikachu Volleyball implemented into JavaScript by reverse engineering the original game
 * 【2024-03-09】[mayfer / claude-app-generator-demo](https://github.com/mayfer/claude-app-generator-demo) - This app was generated by Claude 3 Opus in one go without help
 * 【2024-03-09】[plankanban / planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 * 【2024-03-09】[redphx / better-xcloud](https://github.com/redphx/better-xcloud) - Userscript to improve Xbox Cloud Gaming (xCloud) and Remote Play experiences on web browsers
@@ -2380,6 +2395,11 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-03-10】[earthly / earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
+* 【2024-03-10】[buger / goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+* 【2024-03-10】[libp2p / go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
+* 【2024-03-10】[googleforgames / agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
+* 【2024-03-10】[knative / serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 * 【2024-03-09】[alacleaker / apple-music-alac-downloader](https://github.com/alacleaker/apple-music-alac-downloader) - Apple Music ALAC Downloader
 * 【2024-03-09】[ko-build / ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 * 【2024-03-08】[prometheus-community / postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
@@ -2965,6 +2985,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-03-10】[lifehackerhansol / FBI](https://github.com/lifehackerhansol/FBI) - Open source title manager for the 3DS. (Archive)
+* 【2024-03-10】[MatthewKuKanich / FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an effective tracking device, compatible with both Apple AirTag and Samsung SmartTag. It uses the BLE beacon to broadcast, allowing users to clone existing tags, generate OpenHaystack key pairs for Apple's FindMy network, and customize beacon intervals and transmit power.
 * 【2024-03-09】[ldpreload / BlackLotus](https://github.com/ldpreload/BlackLotus) - BlackLotus UEFI Windows Bootkit
 * 【2024-03-09】[containers / crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 * 【2024-03-08】[google / boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
@@ -3442,6 +3464,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-03-10】[sudachi-emu / sudachi](https://github.com/sudachi-emu/sudachi) - 
+* 【2024-03-10】[davisking / dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
+* 【2024-03-10】[CLIUtils / CLI11](https://github.com/CLIUtils/CLI11) - CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
 * 【2024-03-09】[microsoft / DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples) - This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
 * 【2024-03-08】[yuzu-mirror / yuzu-mainline](https://github.com/yuzu-mirror/yuzu-mainline) - (unofficial mirror fork)
 * 【2024-03-08】[aidanmcb1 / Citra](https://github.com/aidanmcb1/Citra) - Reupload of 3DS emulator citra because it might die with Yuzu
@@ -3919,6 +3944,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-03-10】[microsoft / perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
+* 【2024-03-10】[icsharpcode / ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 * 【2024-03-09】[ArduPilot / MissionPlanner](https://github.com/ArduPilot/MissionPlanner) - Mission Planner Ground Control Station for ArduPilot (c# .net)
 * 【2024-03-08】[ravendb / ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
 * 【2024-03-07】[amakvana / SwitchEmuModDownloader](https://github.com/amakvana/SwitchEmuModDownloader) - SwitchEmuModDownloader - A Cross-Platform One-Click Games Mod Downloader for Switch emulators. Formerly YuzuModDownloader.
@@ -4385,6 +4412,9 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-03-10】[AndrewVeee / nucleo-ai](https://github.com/AndrewVeee/nucleo-ai) - An AI assistant beyond the chat box.
+* 【2024-03-10】[TeamStuQ / skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
+* 【2024-03-10】[ZYYO666 / homepage](https://github.com/ZYYO666/homepage) - 我的个人主页，homepage,个人引导页,简约主页,个人导航
 * 【2024-03-09】[microsoft / python-sample-vscode-flask-tutorial](https://github.com/microsoft/python-sample-vscode-flask-tutorial) - Sample code for the Flask tutorial in the VS Code documentation
 * 【2024-03-09】[ColorlibHQ / gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 * 【2024-03-09】[CyC2018 / Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) - ⭐️ Markdown 简历模版
@@ -4782,6 +4812,10 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-03-10】[McShelby / hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) - A theme for Hugo designed for documentation
+* 【2024-03-10】[fauzan1892 / pos-kasir-php](https://github.com/fauzan1892/pos-kasir-php) - Source Code Aplikasi Penjualan Barang (Kasir) dengan PHP MYSQL
+* 【2024-03-10】[agicto / agi-proxy](https://github.com/agicto/agi-proxy) - 
+* 【2024-03-10】[Workintech / fsweb-s7-challenge-pizza](https://github.com/Workintech/fsweb-s7-challenge-pizza) - 
 * 【2024-03-09】[brainsum / cookieconsent](https://github.com/brainsum/cookieconsent) - A Javascript based solution for blocking/allowing even 3rd party cookies to comply with GDPR
 * 【2024-03-09】[naumen-student / naumen.scala.course.2024.spring](https://github.com/naumen-student/naumen.scala.course.2024.spring) - Naumen Scala Весна 2024
 * 【2024-03-08】[LemmyNet / lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
@@ -5185,6 +5219,14 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-03-10】[atlassian / pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
+* 【2024-03-10】[osintbrazuca / osint-brazuca](https://github.com/osintbrazuca/osint-brazuca) - Repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil.
+* 【2024-03-10】[moonbitlang / core](https://github.com/moonbitlang/core) - MoonBit's standard library
+* 【2024-03-10】[techiescamp / devops-tools](https://github.com/techiescamp/devops-tools) - Curated List of Best DevOps Tools
+* 【2024-03-10】[polymerdevs / Quest-Into-The-Polyverse-Phase-1](https://github.com/polymerdevs/Quest-Into-The-Polyverse-Phase-1) - All information related to phase 1 of the polymer incentivized testnet (PIT)
+* 【2024-03-10】[dezem / SAK](https://github.com/dezem/SAK) - Switch Army Knife (SAK)
+* 【2024-03-10】[HackerNews / API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
+* 【2024-03-10】[viraptor / reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 * 【2024-03-09】[chromium / chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 * 【2024-03-09】[0voice / linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 * 【2024-03-09】[XiaoxinHe / Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) - A collection of AWESOME things about Graph-Related LLMs.
