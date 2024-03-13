@@ -1,6 +1,11 @@
 ### Github热门项目
 ## All language
 
+* 【2024-03-13】[altsem / gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
+* 【2024-03-13】[microsoft / qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+* 【2024-03-13】[elixir-lang / elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+* 【2024-03-13】[ScoopInstaller / Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
+* 【2024-03-13】[WhiteMinds / LiveAutoRecord](https://github.com/WhiteMinds/LiveAutoRecord) - 基于 Electron 的多平台直播自动录制软件
 * 【2024-03-12】[rolldown / rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
 * 【2024-03-12】[gleam-lang / gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 * 【2024-03-11】[rolldown-rs / rolldown](https://github.com/rolldown-rs/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
@@ -635,6 +640,11 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-03-13】[reactor / reactor-netty](https://github.com/reactor/reactor-netty) - TCP/HTTP/UDP/QUIC client/server with Reactor over Netty
+* 【2024-03-13】[lukas-krecan / ShedLock](https://github.com/lukas-krecan/ShedLock) - Distributed lock for your scheduled tasks
+* 【2024-03-13】[junit-team / junit5](https://github.com/junit-team/junit5) - ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
+* 【2024-03-13】[plantegg / programmer_case](https://github.com/plantegg/programmer_case) - 程序员案例集锦
+* 【2024-03-13】[smartboot / smart-mqtt](https://github.com/smartboot/smart-mqtt) - 一款开源的云原生分布式 MQTT Broker 服务器，支持海量物联网设备互联互通。
 * 【2024-03-12】[RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - The API and the developer guide for Shizuku and Sui.
 * 【2024-03-12】[mcMMO-Dev / mcMMO](https://github.com/mcMMO-Dev/mcMMO) - The RPG Lover's Mod!
 * 【2024-03-11】[mywalkb / LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
@@ -1130,6 +1140,11 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-03-13】[python / mypy](https://github.com/python/mypy) - Optional static typing for Python
+* 【2024-03-13】[elebumm / RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
+* 【2024-03-13】[Misaka-blog / chromego_merge](https://github.com/Misaka-blog/chromego_merge) - test
+* 【2024-03-13】[KhoomeiK / LlamaGym](https://github.com/KhoomeiK/LlamaGym) - Fine-tune LLM agents with online reinforcement learning
+* 【2024-03-13】[jackhawks / rectg](https://github.com/jackhawks/rectg) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
 * 【2024-03-12】[SethBling / cbscript](https://github.com/SethBling/cbscript) - CBScript for Minecraft
 * 【2024-03-12】[3b1b / manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 * 【2024-03-12】[mathialo / bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
@@ -1833,6 +1848,12 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-03-13】[jerosoler / Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
+* 【2024-03-13】[Hacker0x01 / react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
+* 【2024-03-13】[colin-scott / interactive_latencies](https://github.com/colin-scott/interactive_latencies) - Jeff Dean's latency numbers plotted over time
+* 【2024-03-13】[kby-ai / facecapture-web](https://github.com/kby-ai/facecapture-web) - This repository is the KBY-AI Face SDK JavaScript implementation to run on web front-end
+* 【2024-03-13】[AMAI-GmbH / AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
+* 【2024-03-13】[thuservices / thuservices](https://github.com/thuservices/thuservices) - https://thu.services
 * 【2024-03-12】[apsdehal / awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
 * 【2024-03-12】[salmanytofficial / XLICON-V3-MD](https://github.com/salmanytofficial/XLICON-V3-MD) - XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by Salman Ahamed. It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 * 【2024-03-11】[safak / react-estate-ui](https://github.com/safak/react-estate-ui) - 
@@ -2425,6 +2446,11 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-03-13】[gruntwork-io / terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+* 【2024-03-13】[awslabs / diagram-as-code](https://github.com/awslabs/diagram-as-code) - Diagram-as-code for AWS architecture.
+* 【2024-03-13】[golang / crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
+* 【2024-03-13】[devploit / nomore403](https://github.com/devploit/nomore403) - Tool to bypass 403/40X response codes.
+* 【2024-03-13】[dream-mo / prom-elastic-alert](https://github.com/dream-mo/prom-elastic-alert) - Prometheus & Alerting With ElasticSearch
 * 【2024-03-12】[coredns / coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 * 【2024-03-12】[pwh-pwh / aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
 * 【2024-03-12】[nntaoli-project / goex](https://github.com/nntaoli-project/goex) - Cryptocurrency Exchange Rest API SDK For Golang Wrapper Support okx,huobi,binance
@@ -3020,6 +3046,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-03-13】[Next-Flip / Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper firmware
+* 【2024-03-13】[SysRay / psOff_public](https://github.com/SysRay/psOff_public) - Playstation 4 Windows Emulator
+* 【2024-03-13】[davatorium / rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 * 【2024-03-12】[SoftEtherVPN / SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 * 【2024-03-11】[Kitware / CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
 * 【2024-03-11】[StevenBaby / onix](https://github.com/StevenBaby/onix) - Onix - 操作系统实现
@@ -3502,6 +3531,10 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-03-13】[Const-me / Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+* 【2024-03-13】[suyu-emu / suyu](https://github.com/suyu-emu/suyu) - suyu, pronounced "sue-you" (wink wink) is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
+* 【2024-03-13】[TrenchBroom / TrenchBroom](https://github.com/TrenchBroom/TrenchBroom) - Cross-Platform Level Editor
+* 【2024-03-13】[zama-ai / concrete](https://github.com/zama-ai/concrete) - Concrete: TFHE Compiler that converts python programs into FHE equivalent
 * 【2024-03-12】[lightvector / KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
 * 【2024-03-12】[fxsound2 / fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
 * 【2024-03-12】[keepassxreboot / keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -3988,6 +4021,9 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-03-13】[leftp / BackupCreds](https://github.com/leftp/BackupCreds) - A C# implementation of dumping credentials from Windows Credential Manager
+* 【2024-03-13】[chronoxor / NetCoreServer](https://github.com/chronoxor/NetCoreServer) - Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
+* 【2024-03-13】[lasgauti / AncientMonkey](https://github.com/lasgauti/AncientMonkey) - 
 * 【2024-03-12】[yaobus / SIPAM](https://github.com/yaobus/SIPAM) - IP地址分配管理系统
 * 【2024-03-11】[MzHmO / Parasite-Invoke](https://github.com/MzHmO/Parasite-Invoke) - Hide your P/Invoke signatures through other people's signed assemblies
 * 【2024-03-11】[shaked6540 / YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
@@ -4462,6 +4498,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-03-13】[xz / new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
+* 【2024-03-13】[Tailus-UI / ada-html](https://github.com/Tailus-UI/ada-html) - Modern html landing page built with tailus themer
 * 【2024-03-12】[mrchoke / workshop-portal](https://github.com/mrchoke/workshop-portal) - ส่งงาน
 * 【2024-03-12】[antonmedv / finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
 * 【2024-03-11】[BugBearer / GPT-INT](https://github.com/BugBearer/GPT-INT) - An extension for Visual Studio Code that integrates the power of OpenAI's GPT models into VSCode.
@@ -4866,6 +4904,11 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-03-13】[BingyanStudio / LapisCV](https://github.com/BingyanStudio/LapisCV) - 📃 开箱即用的 Obsidian / Typora 简历
+* 【2024-03-13】[TheBridge-FullStackDeveloper / ejercicio-useState](https://github.com/TheBridge-FullStackDeveloper/ejercicio-useState) - 
+* 【2024-03-13】[Web-programming-4022 / css-Gaming-website](https://github.com/Web-programming-4022/css-Gaming-website) - Second practice - including CSS attributes.
+* 【2024-03-13】[Chimoney / Community-Website](https://github.com/Chimoney/Community-Website) - Chimoney Community Website
+* 【2024-03-13】[PolarExpress / marketplace-frontend](https://github.com/PolarExpress/marketplace-frontend) - 
 * 【2024-03-12】[florinsdistortedvision / silverfox](https://github.com/florinsdistortedvision/silverfox) - A 2012 Chrome theme for Firefox 115ESR
 * 【2024-03-12】[Shina-SG / Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
 * 【2024-03-11】[MafernandaMeneses / login](https://github.com/MafernandaMeneses/login) - practica de login
@@ -5276,6 +5319,13 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-03-13】[shashankrustagi / DSA-IITD-NaveenGarg](https://github.com/shashankrustagi/DSA-IITD-NaveenGarg) - DSA notes of Dr Naveen Garg, IIT Delhi, NPTEL
+* 【2024-03-13】[pilcrowOnPaper / copenhagen](https://github.com/pilcrowOnPaper/copenhagen) - A basic guideline on implementing auth for the web
+* 【2024-03-13】[PixArt-alpha / PixArt-sigma](https://github.com/PixArt-alpha/PixArt-sigma) - New PixArt Model, Faster, Stronger, Better
+* 【2024-03-13】[wangzhiwubigdata / God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) - 专注大数据学习面试，大数据成神之路开启。Flink/Spark/Hadoop/Hbase/Hive...
+* 【2024-03-13】[arthurspk / guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacionada a tecnologia.
+* 【2024-03-13】[kby-ai / IDCardRecognition-Android](https://github.com/kby-ai/IDCardRecognition-Android) - ID card recognition Android
+* 【2024-03-13】[ahmetb / kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 * 【2024-03-12】[jbhuang0604 / awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 * 【2024-03-12】[nenalukic / free-datasets-APIs](https://github.com/nenalukic/free-datasets-APIs) - 
 * 【2024-03-12】[ruesandora / Polymer](https://github.com/ruesandora/Polymer) - 
