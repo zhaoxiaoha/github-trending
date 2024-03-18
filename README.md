@@ -1,6 +1,11 @@
 ### Github热门项目
 ## All language
 
+* 【2024-03-18】[amazon-science / chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
+* 【2024-03-18】[AntonioErdeljac / next14-duolingo-clone](https://github.com/AntonioErdeljac/next14-duolingo-clone) - 
+* 【2024-03-18】[neovim / neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+* 【2024-03-18】[StefanTheCode / dotnet_interview_questions](https://github.com/StefanTheCode/dotnet_interview_questions) - 
+* 【2024-03-18】[catppuccin / tmux](https://github.com/catppuccin/tmux) - 💽 Soothing pastel theme for Tmux!
 * 【2024-03-17】[slint-ui / slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 * 【2024-03-17】[Unity-Technologies / megacity-metro](https://github.com/Unity-Technologies/megacity-metro) - Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, demonstrating how to craft engaging multiplayer games.
 * 【2024-03-17】[Skyvern-AI / skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
@@ -667,6 +672,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-03-18】[Sab1e-GitHub / BadAppleJuice](https://github.com/Sab1e-GitHub/BadAppleJuice) - 参考自EvilAppleJuice的项目，用于在安卓设备上发送广播包，唤起iPhone设备的弹窗。
+* 【2024-03-18】[ItsMadruga / MdgWa](https://github.com/ItsMadruga/MdgWa) - Um módulo Xposed para personalizar seu WhatsApp.
+* 【2024-03-18】[crate / crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 * 【2024-03-17】[marcushellberg / java-ai-playground](https://github.com/marcushellberg/java-ai-playground) - 
 * 【2024-03-15】[confluentinc / schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
 * 【2024-03-15】[liyupi / yu-rpc](https://github.com/liyupi/yu-rpc) - 从 0 到 1，带你开发自己的 RPC 框架
@@ -1172,6 +1180,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-03-18】[TransformerOptimus / SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+* 【2024-03-18】[philz1337x / clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 
+* 【2024-03-18】[fofr / cog-face-to-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy
 * 【2024-03-17】[zurdi15 / romm](https://github.com/zurdi15/romm) - A beautiful, powerful, self-hosted rom manager
 * 【2024-03-17】[ZiqiaoPeng / SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk) - [CVPR 2024] This is the official source for our paper "SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis"
 * 【2024-03-17】[tiangolo / sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -1904,6 +1915,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-03-18】[adrianhajdin / iphone](https://github.com/adrianhajdin/iphone) - Recreate the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects. From custom animations to animated 3D models, this tutorial covers it all.
+* 【2024-03-18】[solotop999 / auto_trade_backpack_exchange](https://github.com/solotop999/auto_trade_backpack_exchange) - auto_trade on Backpack exchange typescript
 * 【2024-03-17】[randyisback / ask-for-a-date](https://github.com/randyisback/ask-for-a-date) - Js project troll.
 * 【2024-03-17】[Rob--W / cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 * 【2024-03-17】[sxei / chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
@@ -2513,6 +2526,12 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-03-18】[missingstudio / gateway](https://github.com/missingstudio/gateway) - 🌈 A Reliable AI Gateway - Core infrastructure stack for building your AI workforce
+* 【2024-03-18】[scratchdata / scratchdata](https://github.com/scratchdata/scratchdata) - Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse.
+* 【2024-03-18】[SleepingBag945 / dddd](https://github.com/SleepingBag945/dddd) - 一款高可拓展的指纹识别、供应链漏洞探测工具。支持从Hunter、Fofa批量拉取目标。
+* 【2024-03-18】[ThePrimeagen / fem-htmx-proj](https://github.com/ThePrimeagen/fem-htmx-proj) - 
+* 【2024-03-18】[hybridgroup / mechanoid](https://github.com/hybridgroup/mechanoid) - Mechanoid is a framework for WebAssembly applications on embedded systems.
+* 【2024-03-18】[jetpack-io / devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 * 【2024-03-17】[yusufcanb / tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 * 【2024-03-17】[envoyproxy / gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 * 【2024-03-17】[basecamp / thruster](https://github.com/basecamp/thruster) - 
@@ -3126,6 +3145,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-03-18】[lmarzen / esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
+* 【2024-03-18】[stm32duino / Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
+* 【2024-03-18】[xemu-project / xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 * 【2024-03-17】[enjoy-digital / litex](https://github.com/enjoy-digital/litex) - Build your hardware, easily!
 * 【2024-03-15】[Syllo / nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 * 【2024-03-15】[tumuyan / RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, nearest, bilinear, bicubic, AVIR.
@@ -3619,6 +3641,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-03-18】[Hagrid29 / CVE-2024-2432-PaloAlto-GlobalProtect-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP) - 
 * 【2024-03-17】[0x36 / Pixel_GPU_Exploit](https://github.com/0x36/Pixel_GPU_Exploit) - Android 14 kernel exploit for Pixel7/8 Pro
 * 【2024-03-16】[flox / flox](https://github.com/flox/flox) - Developer environments you can take with you
 * 【2024-03-16】[nmslib / hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
@@ -4118,6 +4141,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-03-18】[WistfulHopes / gbfrelink.utility.manager](https://github.com/WistfulHopes/gbfrelink.utility.manager) - Mod management utility for Granblue Fantasy Relink using Reloaded II
 * 【2024-03-17】[openiddict / openiddict-core](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
 * 【2024-03-16】[Vietsens / hisnguonmo](https://github.com/Vietsens/hisnguonmo) - His nguồn mở
 * 【2024-03-16】[oleg-shilo / wixsharp](https://github.com/oleg-shilo/wixsharp) - Framework for building a complete MSI or WiX source code by using script files written with C# syntax.
@@ -4606,6 +4630,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-03-18】[iOS17 / Jailbreak](https://github.com/iOS17/Jailbreak) - iOS 17 Jailbreak Tools, Cydia/Sileo/Zebra Tweaks & Jailbreak Related News Updates
 * 【2024-03-17】[chiphuyen / ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
 * 【2024-03-15】[wuhobin / blog-home](https://github.com/wuhobin/blog-home) - 一个干净简洁的个人作品集合主页
 * 【2024-03-14】[midudev / eloquent-javascript-es](https://github.com/midudev/eloquent-javascript-es) - Traducción del libro Eloquent JavaScript en Español
@@ -5020,6 +5045,10 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-03-18】[adityanavgurukul / clothing-ecommerce-group2](https://github.com/adityanavgurukul/clothing-ecommerce-group2) - 
+* 【2024-03-18】[artemsheludko / flexible-jekyll](https://github.com/artemsheludko/flexible-jekyll) - Flexible-Jekyll is a simple and clean theme for Jekyll
+* 【2024-03-18】[neu-info7500-spring-04 / bitcoin-explorer](https://github.com/neu-info7500-spring-04/bitcoin-explorer) - 
+* 【2024-03-18】[eillarra / countertest](https://github.com/eillarra/countertest) - 
 * 【2024-03-17】[milk-v / milkv.io](https://github.com/milk-v/milkv.io) - 
 * 【2024-03-17】[dajianihao / helldivers-2-cheat](https://github.com/dajianihao/helldivers-2-cheat) - New updated cheat for Helldivers 2!
 * 【2024-03-17】[alexbates / Tamari](https://github.com/alexbates/Tamari) - A fully-featured recipe manager web application built using Python and the Flask Framework.
@@ -5458,6 +5487,12 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-03-18】[maximal / http-267](https://github.com/maximal/http-267) - HTTP 267 Doubtful But Okay
+* 【2024-03-18】[ihmily / ip-info-api](https://github.com/ihmily/ip-info-api) - Free IP information query APIs / 免费IP信息查询API接口
+* 【2024-03-18】[mayuelala / FollowYourClick](https://github.com/mayuelala/FollowYourClick) - [arXiv 2024] Follow-Your-Click: This repo is the official implementation of "Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts"
+* 【2024-03-18】[web1n / wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak) - Flatpak 打包微信 Linux Universal 版
+* 【2024-03-18】[JeoJay127 / RapidEFI-Tool](https://github.com/JeoJay127/RapidEFI-Tool) - An excellent one-click EFI configuration tool based on OpenCore
+* 【2024-03-18】[chihanshipin / dizhifabu](https://github.com/chihanshipin/dizhifabu) - 
 * 【2024-03-17】[ianand / spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need) - 
 * 【2024-03-17】[linaruqi / StratiCounterGUI](https://github.com/linaruqi/StratiCounterGUI) - a GUI
 * 【2024-03-17】[darius-khll / golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
