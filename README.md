@@ -1,6 +1,10 @@
 ### Github热门项目
 ## All language
 
+* 【2024-03-19】[openai / grok](https://github.com/openai/grok) - 
+* 【2024-03-19】[codediodeio / rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial) - a simple webapp with rembg
+* 【2024-03-19】[the-mirror-gdp / the-mirror](https://github.com/the-mirror-gdp/the-mirror) - The open-source Roblox & UEFN alternative giving you freedom to own what you create. An all-in-one, real-time, collaborative game development platform built on Godot.
+* 【2024-03-19】[OpenDevin / OpenDevin](https://github.com/OpenDevin/OpenDevin) - 
 * 【2024-03-18】[amazon-science / chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
 * 【2024-03-18】[AntonioErdeljac / next14-duolingo-clone](https://github.com/AntonioErdeljac/next14-duolingo-clone) - 
 * 【2024-03-18】[neovim / neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -672,6 +676,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-03-19】[javaparser / javaparser](https://github.com/javaparser/javaparser) - Java 1-17 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+* 【2024-03-19】[racoonman2 / ReTerraForged](https://github.com/racoonman2/ReTerraForged) - a 1.19+ port of https://github.com/TerraForged/TerraForged
 * 【2024-03-18】[Sab1e-GitHub / BadAppleJuice](https://github.com/Sab1e-GitHub/BadAppleJuice) - 参考自EvilAppleJuice的项目，用于在安卓设备上发送广播包，唤起iPhone设备的弹窗。
 * 【2024-03-18】[ItsMadruga / MdgWa](https://github.com/ItsMadruga/MdgWa) - Um módulo Xposed para personalizar seu WhatsApp.
 * 【2024-03-18】[crate / crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
@@ -1180,6 +1186,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-03-19】[yoheinakajima / mindgraph](https://github.com/yoheinakajima/mindgraph) - proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai
+* 【2024-03-19】[almandin / fuxploider](https://github.com/almandin/fuxploider) - File upload vulnerability scanner and exploitation tool.
+* 【2024-03-19】[CognitionAI / devin-swebench-results](https://github.com/CognitionAI/devin-swebench-results) - Cognition's results and methodology on SWE-bench
 * 【2024-03-18】[TransformerOptimus / SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 * 【2024-03-18】[philz1337x / clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 
 * 【2024-03-18】[fofr / cog-face-to-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy
@@ -1915,6 +1924,10 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-03-19】[JavaScript-Mastery-Pro / gsap-cc-starter](https://github.com/JavaScript-Mastery-Pro/gsap-cc-starter) - Starter Repository of GSAP Crash Course
+* 【2024-03-19】[developersdigest / llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Groq, Mixtral, Langchain, Brave & OpenAI
+* 【2024-03-19】[pmndrs / gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
+* 【2024-03-19】[DominikDoom / a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) - Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI
 * 【2024-03-18】[adrianhajdin / iphone](https://github.com/adrianhajdin/iphone) - Recreate the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects. From custom animations to animated 3D models, this tutorial covers it all.
 * 【2024-03-18】[solotop999 / auto_trade_backpack_exchange](https://github.com/solotop999/auto_trade_backpack_exchange) - auto_trade on Backpack exchange typescript
 * 【2024-03-17】[randyisback / ask-for-a-date](https://github.com/randyisback/ask-for-a-date) - Js project troll.
@@ -2526,6 +2539,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-03-19】[supabase / gotrue](https://github.com/supabase/gotrue) - A JWT based API for managing users and issuing JWT tokens
+* 【2024-03-19】[burrowers / garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 * 【2024-03-18】[missingstudio / gateway](https://github.com/missingstudio/gateway) - 🌈 A Reliable AI Gateway - Core infrastructure stack for building your AI workforce
 * 【2024-03-18】[scratchdata / scratchdata](https://github.com/scratchdata/scratchdata) - Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse.
 * 【2024-03-18】[SleepingBag945 / dddd](https://github.com/SleepingBag945/dddd) - 一款高可拓展的指纹识别、供应链漏洞探测工具。支持从Hunter、Fofa批量拉取目标。
@@ -3145,6 +3160,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-03-19】[SentientArt / TheBasement](https://github.com/SentientArt/TheBasement) - 
 * 【2024-03-18】[lmarzen / esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 * 【2024-03-18】[stm32duino / Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
 * 【2024-03-18】[xemu-project / xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
@@ -3641,6 +3657,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-03-19】[harfbuzz / harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
+* 【2024-03-19】[hluk / CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+* 【2024-03-19】[Provenance-Emu / Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started: https://wiki.provenance-emu.com |
 * 【2024-03-18】[Hagrid29 / CVE-2024-2432-PaloAlto-GlobalProtect-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP) - 
 * 【2024-03-17】[0x36 / Pixel_GPU_Exploit](https://github.com/0x36/Pixel_GPU_Exploit) - Android 14 kernel exploit for Pixel7/8 Pro
 * 【2024-03-16】[flox / flox](https://github.com/flox/flox) - Developer environments you can take with you
@@ -4141,6 +4160,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-03-19】[DevToys-app / DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 * 【2024-03-18】[WistfulHopes / gbfrelink.utility.manager](https://github.com/WistfulHopes/gbfrelink.utility.manager) - Mod management utility for Granblue Fantasy Relink using Reloaded II
 * 【2024-03-17】[openiddict / openiddict-core](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
 * 【2024-03-16】[Vietsens / hisnguonmo](https://github.com/Vietsens/hisnguonmo) - His nguồn mở
@@ -4630,6 +4650,9 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-03-19】[niikhiljha / Impressing-your-crush](https://github.com/niikhiljha/Impressing-your-crush) - 
+* 【2024-03-19】[Mojang / bedrock-protocol-docs](https://github.com/Mojang/bedrock-protocol-docs) - Documentation of the Bedrock network protocol. Protocol is subject to change release over release.
+* 【2024-03-19】[coreui / coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
 * 【2024-03-18】[iOS17 / Jailbreak](https://github.com/iOS17/Jailbreak) - iOS 17 Jailbreak Tools, Cydia/Sileo/Zebra Tweaks & Jailbreak Related News Updates
 * 【2024-03-17】[chiphuyen / ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
 * 【2024-03-15】[wuhobin / blog-home](https://github.com/wuhobin/blog-home) - 一个干净简洁的个人作品集合主页
@@ -5045,6 +5068,9 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-03-19】[beeper / themes](https://github.com/beeper/themes) - Community Themes
+* 【2024-03-19】[Abhishekyadav450 / CipherGuard](https://github.com/Abhishekyadav450/CipherGuard) - 
+* 【2024-03-19】[Phillip-England / templ-quickstart](https://github.com/Phillip-England/templ-quickstart) - Scaffold an http server using Go, HTMX, Templ, and Tailwind quick and easy.
 * 【2024-03-18】[adityanavgurukul / clothing-ecommerce-group2](https://github.com/adityanavgurukul/clothing-ecommerce-group2) - 
 * 【2024-03-18】[artemsheludko / flexible-jekyll](https://github.com/artemsheludko/flexible-jekyll) - Flexible-Jekyll is a simple and clean theme for Jekyll
 * 【2024-03-18】[neu-info7500-spring-04 / bitcoin-explorer](https://github.com/neu-info7500-spring-04/bitcoin-explorer) - 
@@ -5487,6 +5513,10 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-03-19】[Code4GovTech / C4GT](https://github.com/Code4GovTech/C4GT) - C4GT has been conceptualised as a summer coding program to create a community that can build and contribute to global digital public goods.
+* 【2024-03-19】[Deeksha2501 / Data-Structures-and-Algorithms-Notes](https://github.com/Deeksha2501/Data-Structures-and-Algorithms-Notes) - It contains all the data structures and computer fundamentals notes I made while preparing for placements.
+* 【2024-03-19】[crisbusquets / aprende-diseno-uxui](https://github.com/crisbusquets/aprende-diseno-uxui) - Este repositorio contiene una lista seleccionada de recursos para ayudarte a aprender sobre el diseño de interfaces y de experiencia del usuario. Incluye recursos como artículos, tutoriales, vídeos y cursos. Todo en español :)
+* 【2024-03-19】[laylavish / uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of sites that contain AI generated content for uBlock Origin & uBlacklist.
 * 【2024-03-18】[maximal / http-267](https://github.com/maximal/http-267) - HTTP 267 Doubtful But Okay
 * 【2024-03-18】[ihmily / ip-info-api](https://github.com/ihmily/ip-info-api) - Free IP information query APIs / 免费IP信息查询API接口
 * 【2024-03-18】[mayuelala / FollowYourClick](https://github.com/mayuelala/FollowYourClick) - [arXiv 2024] Follow-Your-Click: This repo is the official implementation of "Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts"
