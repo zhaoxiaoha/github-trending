@@ -1,6 +1,11 @@
 ### Github热门项目
 ## All language
 
+* 【2024-03-25】[face-hh / griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
+* 【2024-03-25】[mshumer / gpt-investor](https://github.com/mshumer/gpt-investor) - 
+* 【2024-03-25】[lichao-sun / Mora](https://github.com/lichao-sun/Mora) - Mora: More like Sora for Generalist Video Generation
+* 【2024-03-25】[jasonppy / VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
+* 【2024-03-25】[ziglang / zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 * 【2024-03-24】[stitionai / devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.
 * 【2024-03-24】[OpenInterpreter / 01](https://github.com/OpenInterpreter/01) - The open-source language model computer
 * 【2024-03-24】[mshumer / gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
@@ -711,6 +716,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-03-25】[labilibili / labilibili](https://github.com/labilibili/labilibili) - 仿bilibili前后端实现
 * 【2024-03-24】[graphhopper / graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
 * 【2024-03-24】[raphw / byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
 * 【2024-03-24】[GoogleContainerTools / jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
@@ -1234,6 +1240,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-03-25】[twitter / communitynotes](https://github.com/twitter/communitynotes) - Documentation and source code powering Twitter's Community Notes
 * 【2024-03-24】[TarlogicSecurity / BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - 
 * 【2024-03-24】[scipy / scipy](https://github.com/scipy/scipy) - SciPy library main repository
 * 【2024-03-24】[jiji262 / MediaCrawler-new](https://github.com/jiji262/MediaCrawler-new) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
@@ -1987,6 +1994,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-03-25】[jayofelony / pwnagotchi](https://github.com/jayofelony/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 * 【2024-03-24】[xfgryujk / blivechat](https://github.com/xfgryujk/blivechat) - 用于OBS的仿YouTube风格的bilibili直播评论栏
 * 【2024-03-24】[highlightjs / highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 * 【2024-03-24】[huanghanzhilian / c-shopping-rn](https://github.com/huanghanzhilian/c-shopping-rn) - This is a complete App developed by React Native (Expo). It is a beautiful e-commerce shopping application. 这个是一个React Native(Expo) 开发的完整App应用，是一个精美的电商购物应用。
@@ -2626,6 +2634,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-03-25】[gotenberg / gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 * 【2024-03-24】[benthosdev / benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 * 【2024-03-23】[evmos / evmos](https://github.com/evmos/evmos) - Evmos is the first decentralized EVM chain on the Cosmos Network. It's implementing the first EVM stack focused on native, cross-chain applications. Evmos is the flagship implementation of Ethermint, an EVM library built for the Cosmos Network by the Evmos Core Developement Team.
 * 【2024-03-23】[abiosoft / colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -3258,6 +3267,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-03-25】[placeholderkv / placeholderkv](https://github.com/placeholderkv/placeholderkv) - A new project to resume development on the formerly open-source Redis project. Name is placeholder.
+* 【2024-03-25】[zevv / bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
 * 【2024-03-24】[sustainable-computing-io / kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics
 * 【2024-03-24】[phdlee / uvk5cec](https://github.com/phdlee/uvk5cec) - Adds various experimental features to the uvk5 radio
 * 【2024-03-24】[wendy512 / iec61850](https://github.com/wendy512/iec61850) - GoLang IEC61850 library
@@ -3771,6 +3782,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-03-25】[PetoiCamp / OpenCat](https://github.com/PetoiCamp/OpenCat) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.
 * 【2024-03-24】[leethomason / tinyxml2](https://github.com/leethomason/tinyxml2) - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
 * 【2024-03-24】[vesoft-inc / nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 * 【2024-03-24】[microsoft / cpprestsdk](https://github.com/microsoft/cpprestsdk) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
@@ -4289,6 +4301,9 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-03-25】[KonataDev / Lagrange.Core](https://github.com/KonataDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
+* 【2024-03-25】[Preeaaw / Aviator-Predictor-FULL](https://github.com/Preeaaw/Aviator-Predictor-FULL) - Aviator Predictor is a tool designed for predicting multipliers in the Aviator betting game, helping players secure their earnings.
+* 【2024-03-25】[daleao / modular-overhaul](https://github.com/daleao/modular-overhaul) - 
 * 【2024-03-24】[Cysharp / MagicOnion](https://github.com/Cysharp/MagicOnion) - Unified Realtime/API framework for .NET platform and Unity.
 * 【2024-03-24】[whuanle / maomi](https://github.com/whuanle/maomi) - Maomi 框架是一个简单的、简洁的开发框架，处理框架本身提供的功能之外，Maomi 还作为一个易于阅读的开源项目，能够给开发者提供设计框架的思路和代码。
 * 【2024-03-24】[StackExchange / StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
@@ -4794,6 +4809,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-03-25】[una / better-faster-stronger-web-ui](https://github.com/una/better-faster-stronger-web-ui) - Better Faster Stronger Web UI Talk
 * 【2024-03-24】[TheLargestHiddenWiki / uncensored-onion-links](https://github.com/TheLargestHiddenWiki/uncensored-onion-links) - The Hidden Wiki
 * 【2024-03-24】[HiddenStrawberry / Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China) - Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户
 * 【2024-03-24】[anan1213095357 / Blueprint](https://github.com/anan1213095357/Blueprint) - 
@@ -5222,6 +5238,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-03-25】[EngRobot33 / ZED](https://github.com/EngRobot33/ZED) - A minimal clone of Twitter
 * 【2024-03-24】[Darshika-Mishra / CBTCIP-2](https://github.com/Darshika-Mishra/CBTCIP-2) - 
 * 【2024-03-24】[diydiagnostics / App6-HTML5-Canvas](https://github.com/diydiagnostics/App6-HTML5-Canvas) - 
 * 【2024-03-24】[christian7gonzalez / davinci-resolve-studio-18-download](https://github.com/christian7gonzalez/davinci-resolve-studio-18-download) - 
@@ -5687,6 +5704,12 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-03-25】[mahidarling / Kubernetes-Mock-Exams](https://github.com/mahidarling/Kubernetes-Mock-Exams) - 
+* 【2024-03-25】[kimcrowing / IPTV](https://github.com/kimcrowing/IPTV) - IPTV直播源
+* 【2024-03-25】[CIS-Team / UI-UX-Roadmap-2023](https://github.com/CIS-Team/UI-UX-Roadmap-2023) - UI/UX Squad Roadmap
+* 【2024-03-25】[chxm1023 / Rewrite](https://github.com/chxm1023/Rewrite) - 
+* 【2024-03-25】[WallKiller-glitch / V2raySSSSRShare](https://github.com/WallKiller-glitch/V2raySSSSRShare) - 科学上网，vpn机场推荐，支持shadowrocket，ss, ssr, v2ray, trojan, clash,clashr,需要自取（每日更新）
+* 【2024-03-25】[ddgksf2013 / Rewrite](https://github.com/ddgksf2013/Rewrite) - 
 * 【2024-03-24】[jakubtomsu / awesome-odin](https://github.com/jakubtomsu/awesome-odin) - A collection of awesome Odin libraries, bindings, software and resources 🧙‍♂️✨
 * 【2024-03-24】[jaywcjlove / DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
 * 【2024-03-24】[zorazrw / awesome-tool-llm](https://github.com/zorazrw/awesome-tool-llm) - 
