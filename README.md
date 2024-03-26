@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2024-03-26】[ubicloud / ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
+* 【2024-03-26】[mistralai-sf24 / hackathon](https://github.com/mistralai-sf24/hackathon) - 
+* 【2024-03-26】[linkwarden / linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
 * 【2024-03-25】[face-hh / griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
 * 【2024-03-25】[mshumer / gpt-investor](https://github.com/mshumer/gpt-investor) - 
 * 【2024-03-25】[lichao-sun / Mora](https://github.com/lichao-sun/Mora) - Mora: More like Sora for Generalist Video Generation
@@ -716,6 +719,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-03-26】[Sinytra / Connector](https://github.com/Sinytra/Connector) - A compatibility layer that allows running Fabric mods on MinecraftForge
 * 【2024-03-25】[labilibili / labilibili](https://github.com/labilibili/labilibili) - 仿bilibili前后端实现
 * 【2024-03-24】[graphhopper / graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
 * 【2024-03-24】[raphw / byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
@@ -1240,6 +1244,12 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-03-26】[IDEA-Research / T-Rex](https://github.com/IDEA-Research/T-Rex) - T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy
+* 【2024-03-26】[prometeydev / Prometheus](https://github.com/prometeydev/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
+* 【2024-03-26】[neuml / txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
+* 【2024-03-26】[geohot / 7900xtx](https://github.com/geohot/7900xtx) - 
+* 【2024-03-26】[megadose / holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+* 【2024-03-26】[aladdinpersson / Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about Machine learning & Deep Learning
 * 【2024-03-25】[twitter / communitynotes](https://github.com/twitter/communitynotes) - Documentation and source code powering Twitter's Community Notes
 * 【2024-03-24】[TarlogicSecurity / BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - 
 * 【2024-03-24】[scipy / scipy](https://github.com/scipy/scipy) - SciPy library main repository
@@ -1994,6 +2004,11 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-03-26】[xiaopanglian / icefox](https://github.com/xiaopanglian/icefox) - Typecho微信朋友圈主题 icefox
+* 【2024-03-26】[micheleg / dash-to-dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops.
+* 【2024-03-26】[Onezyh / Worker-Vless-2-USB](https://github.com/Onezyh/Worker-Vless-2-USB) - 
+* 【2024-03-26】[mailcow / mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
+* 【2024-03-26】[tailwindlabs / heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 * 【2024-03-25】[jayofelony / pwnagotchi](https://github.com/jayofelony/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 * 【2024-03-24】[xfgryujk / blivechat](https://github.com/xfgryujk/blivechat) - 用于OBS的仿YouTube风格的bilibili直播评论栏
 * 【2024-03-24】[highlightjs / highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
@@ -2634,6 +2649,14 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-03-26】[cortezaproject / corteza](https://github.com/cortezaproject/corteza) - Low-code platform
+* 【2024-03-26】[wendy512 / iec104](https://github.com/wendy512/iec104) - GoLang IEC104 library
+* 【2024-03-26】[terrastruct / d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+* 【2024-03-26】[refaktor / rye](https://github.com/refaktor/rye) - homoiconic dynamic programming language with some new ideas
+* 【2024-03-26】[TomDoesTech / GOTTH](https://github.com/TomDoesTech/GOTTH) - 
+* 【2024-03-26】[MartialBE / one-api](https://github.com/MartialBE/one-api) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
+* 【2024-03-26】[artemzinovev / flood-control-task](https://github.com/artemzinovev/flood-control-task) - Задание кандидата на стажировку
+* 【2024-03-26】[dreamsofcode-io / nethttp](https://github.com/dreamsofcode-io/nethttp) - 
 * 【2024-03-25】[gotenberg / gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 * 【2024-03-24】[benthosdev / benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 * 【2024-03-23】[evmos / evmos](https://github.com/evmos/evmos) - Evmos is the first decentralized EVM chain on the Cosmos Network. It's implementing the first EVM stack focused on native, cross-chain applications. Evmos is the flagship implementation of Ethermint, an EVM library built for the Cosmos Network by the Evmos Core Developement Team.
@@ -3267,6 +3290,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-03-26】[Florents-Tselai / pgJQ](https://github.com/Florents-Tselai/pgJQ) - jq extension for Postgres
 * 【2024-03-25】[placeholderkv / placeholderkv](https://github.com/placeholderkv/placeholderkv) - A new project to resume development on the formerly open-source Redis project. Name is placeholder.
 * 【2024-03-25】[zevv / bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
 * 【2024-03-24】[sustainable-computing-io / kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics
@@ -3782,6 +3806,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-03-26】[hyprwm / hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
+* 【2024-03-26】[otland / forgottenserver](https://github.com/otland/forgottenserver) - A free and open-source MMORPG server emulator written in C++
 * 【2024-03-25】[PetoiCamp / OpenCat](https://github.com/PetoiCamp/OpenCat) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.
 * 【2024-03-24】[leethomason / tinyxml2](https://github.com/leethomason/tinyxml2) - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
 * 【2024-03-24】[vesoft-inc / nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
@@ -4301,6 +4327,10 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-03-26】[vercidium-patreon / meshing](https://github.com/vercidium-patreon/meshing) - Greedy meshing algorithm for voxel models
+* 【2024-03-26】[Metabolix / HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
+* 【2024-03-26】[yaobus / EducationalAdministrationManagementSystem](https://github.com/yaobus/EducationalAdministrationManagementSystem) - 教务管理系统（毕业论文实例）
+* 【2024-03-26】[aedenthorn / StardewValleyMods](https://github.com/aedenthorn/StardewValleyMods) - 
 * 【2024-03-25】[KonataDev / Lagrange.Core](https://github.com/KonataDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
 * 【2024-03-25】[Preeaaw / Aviator-Predictor-FULL](https://github.com/Preeaaw/Aviator-Predictor-FULL) - Aviator Predictor is a tool designed for predicting multipliers in the Aviator betting game, helping players secure their earnings.
 * 【2024-03-25】[daleao / modular-overhaul](https://github.com/daleao/modular-overhaul) - 
@@ -4809,6 +4839,10 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-03-26】[wintermute-cell / magick.css](https://github.com/wintermute-cell/magick.css) - magically playful, yet simple styling. all in one file.
+* 【2024-03-26】[susam / fxyt](https://github.com/susam/fxyt) - Tiny, esoteric, stack-based, postfix, canvas colouring language with only 36 simple commands
+* 【2024-03-26】[Codewithshobhit / Happy-Holi-Animation-Using-HTML-And-CSS](https://github.com/Codewithshobhit/Happy-Holi-Animation-Using-HTML-And-CSS) - 
+* 【2024-03-26】[platzi / curso-react-intro](https://github.com/platzi/curso-react-intro) - 
 * 【2024-03-25】[una / better-faster-stronger-web-ui](https://github.com/una/better-faster-stronger-web-ui) - Better Faster Stronger Web UI Talk
 * 【2024-03-24】[TheLargestHiddenWiki / uncensored-onion-links](https://github.com/TheLargestHiddenWiki/uncensored-onion-links) - The Hidden Wiki
 * 【2024-03-24】[HiddenStrawberry / Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China) - Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户
@@ -5238,6 +5272,8 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-03-26】[Chotifz / Hotel-harisenin](https://github.com/Chotifz/Hotel-harisenin) - 
+* 【2024-03-26】[lindsaymarkward / theadviceshop](https://github.com/lindsaymarkward/theadviceshop) - The Advice Shop Website (Example PHP Site for IT@JCU)
 * 【2024-03-25】[EngRobot33 / ZED](https://github.com/EngRobot33/ZED) - A minimal clone of Twitter
 * 【2024-03-24】[Darshika-Mishra / CBTCIP-2](https://github.com/Darshika-Mishra/CBTCIP-2) - 
 * 【2024-03-24】[diydiagnostics / App6-HTML5-Canvas](https://github.com/diydiagnostics/App6-HTML5-Canvas) - 
@@ -5704,6 +5740,15 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-03-26】[ezerear / gog-games.to_backup](https://github.com/ezerear/gog-games.to_backup) - gog-games.to games backup
+* 【2024-03-26】[LineageOS / android](https://github.com/LineageOS/android) - 
+* 【2024-03-26】[awesome-foss / awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
+* 【2024-03-26】[YerongAI / Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
+* 【2024-03-26】[yonggekkk / warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
+* 【2024-03-26】[fancy88 / iBook](https://github.com/fancy88/iBook) - 收藏一些电子书
+* 【2024-03-26】[rynnxz / programming-module](https://github.com/rynnxz/programming-module) - 
+* 【2024-03-26】[devsarwan / Adobe-Premiere-Pro](https://github.com/devsarwan/Adobe-Premiere-Pro) - 
+* 【2024-03-26】[LGBT-CN / LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China) - 🏳️‍🌈 中国的性少数群体一直渴望着自由平等
 * 【2024-03-25】[mahidarling / Kubernetes-Mock-Exams](https://github.com/mahidarling/Kubernetes-Mock-Exams) - 
 * 【2024-03-25】[kimcrowing / IPTV](https://github.com/kimcrowing/IPTV) - IPTV直播源
 * 【2024-03-25】[CIS-Team / UI-UX-Roadmap-2023](https://github.com/CIS-Team/UI-UX-Roadmap-2023) - UI/UX Squad Roadmap
