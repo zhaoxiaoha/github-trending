@@ -1,6 +1,11 @@
 ### Github热门项目
 ## All language
 
+* 【2024-03-30】[Zejun-Yang / AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
+* 【2024-03-30】[databricks / dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
+* 【2024-03-30】[modularml / mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+* 【2024-03-30】[gamemcu / www-genshin](https://github.com/gamemcu/www-genshin) - 
+* 【2024-03-30】[SunoAI-API / Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. It comes with a built-in token maintenance and keep-alive feature, so you don't have to worry about the token expiring.
 * 【2024-03-29】[fudan-generative-vision / champ](https://github.com/fudan-generative-vision/champ) - Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance
 * 【2024-03-29】[langchain-ai / langchain-extract](https://github.com/langchain-ai/langchain-extract) - 🦜⛏️ Did you say you like data?
 * 【2024-03-29】[AlexanderKoch-Koch / low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
@@ -733,6 +738,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-03-30】[web3j / web3j](https://github.com/web3j/web3j) - Lightweight Java and Android library for integration with Ethereum clients
 * 【2024-03-29】[digitalinnovationone / santander-dev-week-2024](https://github.com/digitalinnovationone/santander-dev-week-2024) - RESTful API da Santander Dev Week 2024 construída em Java 21 com Spring Boot 3.
 * 【2024-03-29】[pig-mesh / excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - alibaba easyexcel spring boot starter
 * 【2024-03-27】[jishenghua / jshERP](https://github.com/jishenghua/jshERP) - 华夏ERP基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。
@@ -1264,6 +1270,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-03-30】[NanmiCoder / CrawlerTutorial](https://github.com/NanmiCoder/CrawlerTutorial) - 爬虫入门、爬虫进阶、高级爬虫
+* 【2024-03-30】[pentestfunctions / BlueDucky](https://github.com/pentestfunctions/BlueDucky) - 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)
 * 【2024-03-29】[agiresearch / AIOS](https://github.com/agiresearch/AIOS) - AIOS: LLM Agent Operating System
 * 【2024-03-29】[intel-analytics / ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with llama.cpp, HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, ModelScope, etc.
 * 【2024-03-29】[thinkany-ai / rag-search](https://github.com/thinkany-ai/rag-search) - RAG Search API
@@ -2032,6 +2040,10 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-03-30】[2ri4eUI / CFW-BOT](https://github.com/2ri4eUI/CFW-BOT) - Cloudflare Woker Bot ! No servers needed, just pure Xray link creation, all running smoothly on PythonAnywhere. a Shortcut to internet freedom! ✨"
+* 【2024-03-30】[asyncapi / generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+* 【2024-03-30】[k1nd0ne / VolWeb](https://github.com/k1nd0ne/VolWeb) - A centralized and enhanced memory analysis platform
+* 【2024-03-30】[fengyuanchen / cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 * 【2024-03-29】[danni-cool / wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook) - http 请求驱动的微信机器人
 * 【2024-03-27】[hrishioa / lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 * 【2024-03-27】[sahir2k / twitter_face_swap](https://github.com/sahir2k/twitter_face_swap) - 
@@ -2680,6 +2692,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-03-30】[ray-project / kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
+* 【2024-03-30】[operator-framework / operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+* 【2024-03-30】[git-lfs / git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 * 【2024-03-29】[cheat / cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 * 【2024-03-29】[charmbracelet / freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 * 【2024-03-29】[pdfcpu / pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
@@ -3325,6 +3340,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-03-30】[airockchip / rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
+* 【2024-03-30】[Circuit-Digest / ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone) - 
+* 【2024-03-30】[ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 * 【2024-03-29】[valkey-io / valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie.
 * 【2024-03-29】[Notselwyn / CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) - Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.
 * 【2024-03-29】[util-linux / util-linux](https://github.com/util-linux/util-linux) - 
@@ -3851,6 +3869,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-03-30】[upx / upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 * 【2024-03-29】[oneapi-src / oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 * 【2024-03-29】[STEllAR-GROUP / hpx](https://github.com/STEllAR-GROUP/hpx) - The C++ Standard Library for Parallelism and Concurrency
 * 【2024-03-27】[liu-yi / HTLP](https://github.com/liu-yi/HTLP) - Homomorphic Time-Lock Puzzle Schemes
@@ -4890,6 +4909,10 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-03-30】[realpython / materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
+* 【2024-03-30】[midudev / javascript-100-proyectos](https://github.com/midudev/javascript-100-proyectos) - 100 proyectos de JavaScript con código y vídeos. ¡Gratis!
+* 【2024-03-30】[0xeb / TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
+* 【2024-03-30】[chiphuyen / machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
 * 【2024-03-29】[Winnie09 / GPTCelltype](https://github.com/Winnie09/GPTCelltype) - 
 * 【2024-03-29】[arcba / DDS-Ejercicio-Matriculacion](https://github.com/arcba/DDS-Ejercicio-Matriculacion) - Created with StackBlitz ⚡️
 * 【2024-03-27】[LeoDJ / FW-EC-DongleHiderPlus](https://github.com/LeoDJ/FW-EC-DongleHiderPlus) - Framework Expansion Card that includes a USB hub to hide a bare dongle inside and still have a USB-A port externally
@@ -5329,6 +5352,9 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-03-30】[mehmetkahya0 / temp-mail](https://github.com/mehmetkahya0/temp-mail) - TempMail is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses.
+* 【2024-03-30】[CodeLouisville / webdev_c1_knowcheck_01](https://github.com/CodeLouisville/webdev_c1_knowcheck_01) - 
+* 【2024-03-30】[LuckFire / amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby!
 * 【2024-03-29】[a9fm / a9fm.github.io](https://github.com/a9fm/a9fm.github.io) - 
 * 【2024-03-29】[creativetimofficial / material-dashboard-laravel-bs4](https://github.com/creativetimofficial/material-dashboard-laravel-bs4) - 
 * 【2024-03-29】[prs-teacher / LayoutParts-Part2](https://github.com/prs-teacher/LayoutParts-Part2) - 
@@ -5801,6 +5827,12 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-03-30】[fuckpiracyshield / fuckpiracyshield](https://github.com/fuckpiracyshield/fuckpiracyshield) - Readme
+* 【2024-03-30】[IDKiro / sdxs](https://github.com/IDKiro/sdxs) - Official repo of paper "SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions"
+* 【2024-03-30】[streaak / keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
+* 【2024-03-30】[zhanymkanov / fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
+* 【2024-03-30】[steven2358 / awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
+* 【2024-03-30】[w4123 / GenshinVoice](https://github.com/w4123/GenshinVoice) - Voice dataset of Genshin Impact 原神语音数据集
 * 【2024-03-29】[Picsart-AI-Research / StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
 * 【2024-03-29】[chenyl8848 / great-open-source-project](https://github.com/chenyl8848/great-open-source-project) - 收集整理Github、Gitte上优秀的开源项目。
 * 【2024-03-29】[jeinlee1991 / chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 中文大模型能力评测榜单：覆盖百度文心一言、chatgpt、阿里通义千问、讯飞星火、belle / chatglm6b 等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
