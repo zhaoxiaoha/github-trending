@@ -1,6 +1,15 @@
 ### Github热门项目
 ## All language
 
+* 【2024-03-31】[mshumer / gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - 
+* 【2024-03-31】[easychen / one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
+* 【2024-03-31】[TMElyralab / MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising
+* 【2024-03-31】[folke / trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
+* 【2024-03-31】[TencentARC / BrushNet](https://github.com/TencentARC/BrushNet) - The official implementation of paper "BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion"
+* 【2024-03-31】[LLM-Red-Team / kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型白嫖服务，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
+* 【2024-03-31】[google / comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+* 【2024-03-31】[apple / swift-syntax](https://github.com/apple/swift-syntax) - A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
+* 【2024-03-31】[likeyun / liKeYun_Ylb](https://github.com/likeyun/liKeYun_Ylb) - 引流宝致力于为个人、团队提供基于微信私域流量的推广、引流的效率工具。可减轻人力，有效降低资源损失、流量流失的几率。引流宝完全开源，免费，可商用、可任意二次开发。引流宝可以辅助你更好地开展营销活动推广！降低运营成本，提高工作效率，获取更多资源。
 * 【2024-03-30】[Zejun-Yang / AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
 * 【2024-03-30】[databricks / dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 * 【2024-03-30】[modularml / mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -738,6 +747,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-03-31】[apache / paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
+* 【2024-03-31】[apache / incubator-amoro](https://github.com/apache/incubator-amoro) - Apache Amoro (incubating) is a Lakehouse management system built on open data lake formats.
 * 【2024-03-30】[web3j / web3j](https://github.com/web3j/web3j) - Lightweight Java and Android library for integration with Ethereum clients
 * 【2024-03-29】[digitalinnovationone / santander-dev-week-2024](https://github.com/digitalinnovationone/santander-dev-week-2024) - RESTful API da Santander Dev Week 2024 construída em Java 21 com Spring Boot 3.
 * 【2024-03-29】[pig-mesh / excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - alibaba easyexcel spring boot starter
@@ -1270,6 +1281,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-03-31】[WithSecureLabs / drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
+* 【2024-03-31】[shibing624 / similarities](https://github.com/shibing624/similarities) - Similarities: a toolkit for similarity calculation and semantic search. 相似度计算、匹配搜索工具包，支持亿级数据文搜文、文搜图、图搜图，python3开发，开箱即用。
 * 【2024-03-30】[NanmiCoder / CrawlerTutorial](https://github.com/NanmiCoder/CrawlerTutorial) - 爬虫入门、爬虫进阶、高级爬虫
 * 【2024-03-30】[pentestfunctions / BlueDucky](https://github.com/pentestfunctions/BlueDucky) - 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)
 * 【2024-03-29】[agiresearch / AIOS](https://github.com/agiresearch/AIOS) - AIOS: LLM Agent Operating System
@@ -2040,6 +2053,15 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-03-31】[somta / Juggle](https://github.com/somta/Juggle) - 一款适用于微服务编排，第三方api集成，私有化定制开发，编写BFF聚合层等场景的强大低码编排工具！
+* 【2024-03-31】[wahdalo / tiktok-src](https://github.com/wahdalo/tiktok-src) - Tiktok downloader & auto upload to reels facebook (with puppeteer)
+* 【2024-03-31】[OrionReed / dom3d](https://github.com/OrionReed/dom3d) - Browser extension to view and debug the DOM in 3D space.
+* 【2024-03-31】[franceking1 / Flash-Md](https://github.com/franceking1/Flash-Md) - 
+* 【2024-03-31】[basecamp / trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
+* 【2024-03-31】[dirk1983 / chatgpt](https://github.com/dirk1983/chatgpt) - 演示站现在可以免费使用ChatGPT对话和画图了。全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，账号等周边资源，欢迎进群交流，一切全免费。
+* 【2024-03-31】[techwithtim / Django-React-Full-Stack-App](https://github.com/techwithtim/Django-React-Full-Stack-App) - 
+* 【2024-03-31】[SortableJS / vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
+* 【2024-03-31】[yeyang52 / yenai-plugin](https://github.com/yeyang52/yenai-plugin) - 适用于Yunzai-Botv3的扩展
 * 【2024-03-30】[2ri4eUI / CFW-BOT](https://github.com/2ri4eUI/CFW-BOT) - Cloudflare Woker Bot ! No servers needed, just pure Xray link creation, all running smoothly on PythonAnywhere. a Shortcut to internet freedom! ✨"
 * 【2024-03-30】[asyncapi / generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 * 【2024-03-30】[k1nd0ne / VolWeb](https://github.com/k1nd0ne/VolWeb) - A centralized and enhanced memory analysis platform
@@ -2692,6 +2714,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-03-31】[shizunge / endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
+* 【2024-03-31】[disingn / sunotoapi](https://github.com/disingn/sunotoapi) - 将 sunoAi web转成 openai 格式进行调用
+* 【2024-03-31】[semaphoreui / semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 * 【2024-03-30】[ray-project / kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
 * 【2024-03-30】[operator-framework / operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 * 【2024-03-30】[git-lfs / git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
@@ -3340,6 +3365,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-03-31】[tsl0922 / ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 * 【2024-03-30】[airockchip / rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
 * 【2024-03-30】[Circuit-Digest / ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone) - 
 * 【2024-03-30】[ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
@@ -3869,6 +3895,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-03-31】[tzapu / WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
+* 【2024-03-31】[focus-creative-games / hybridclr](https://github.com/focus-creative-games/hybridclr) - HybridCLR是一个特性完整、零成本、高性能、低内存的Unity全平台原生c#热更新解决方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.
 * 【2024-03-30】[upx / upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 * 【2024-03-29】[oneapi-src / oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 * 【2024-03-29】[STEllAR-GROUP / hpx](https://github.com/STEllAR-GROUP/hpx) - The C++ Standard Library for Parallelism and Concurrency
@@ -4395,6 +4423,9 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-03-31】[Cysharp / MemoryPack](https://github.com/Cysharp/MemoryPack) - Zero encoding extreme performance binary serializer for C# and Unity.
+* 【2024-03-31】[dotnet / dotnet-api-docs](https://github.com/dotnet/dotnet-api-docs) - .NET API reference documentation (.NET 5+, .NET Core, .NET Framework)
+* 【2024-03-31】[microsoft / Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
 * 【2024-03-29】[trueai-org / module-shop](https://github.com/trueai-org/module-shop) - 一个基于 .NET Core构建的简单、跨平台、模块化的商城系统
 * 【2024-03-27】[scriban / scriban](https://github.com/scriban/scriban) - A fast, powerful, safe and lightweight scripting language and engine for .NET
 * 【2024-03-26】[vercidium-patreon / meshing](https://github.com/vercidium-patreon/meshing) - Greedy meshing algorithm for voxel models
@@ -4909,6 +4940,9 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-03-31】[syhily / algorithm-anime](https://github.com/syhily/algorithm-anime) - 
+* 【2024-03-31】[okta / okta-sdk-java](https://github.com/okta/okta-sdk-java) - Java SDK for Okta Resource Management
+* 【2024-03-31】[Masterminds / html5-php](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer for PHP.
 * 【2024-03-30】[realpython / materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 * 【2024-03-30】[midudev / javascript-100-proyectos](https://github.com/midudev/javascript-100-proyectos) - 100 proyectos de JavaScript con código y vídeos. ¡Gratis!
 * 【2024-03-30】[0xeb / TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
@@ -5352,6 +5386,9 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-03-31】[bernardodangelo / CS2-SkinChanger](https://github.com/bernardodangelo/CS2-SkinChanger) - 
+* 【2024-03-31】[quarkusio / quarkus-super-heroes](https://github.com/quarkusio/quarkus-super-heroes) - Quarkus sample application - Super Heroes
+* 【2024-03-31】[kognise / water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 * 【2024-03-30】[mehmetkahya0 / temp-mail](https://github.com/mehmetkahya0/temp-mail) - TempMail is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses.
 * 【2024-03-30】[CodeLouisville / webdev_c1_knowcheck_01](https://github.com/CodeLouisville/webdev_c1_knowcheck_01) - 
 * 【2024-03-30】[LuckFire / amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby!
@@ -5827,6 +5864,10 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-03-31】[soufianetahiri / TeamsNTLMLeak](https://github.com/soufianetahiri/TeamsNTLMLeak) - Leak NTLM via Website tab in teams via MS Office
+* 【2024-03-31】[KushalVijay / GetHiredRoadmap2024](https://github.com/KushalVijay/GetHiredRoadmap2024) - 
+* 【2024-03-31】[smartcontractkit / full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) - Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
+* 【2024-03-31】[DefTruth / Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) - 📖A curated list of Awesome LLM Inference Paper with codes, TensorRT-LLM, vLLM, streaming-llm, AWQ, SmoothQuant, WINT8/4, Continuous Batching, FlashAttention, PagedAttention etc.
 * 【2024-03-30】[fuckpiracyshield / fuckpiracyshield](https://github.com/fuckpiracyshield/fuckpiracyshield) - Readme
 * 【2024-03-30】[IDKiro / sdxs](https://github.com/IDKiro/sdxs) - Official repo of paper "SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions"
 * 【2024-03-30】[streaak / keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
