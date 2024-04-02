@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2024-04-02】[heyform / heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
+* 【2024-04-02】[wandb / openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+* 【2024-04-02】[bannedbook / fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 * 【2024-04-01】[tiangolo / typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 * 【2024-04-01】[DioxusLabs / dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 * 【2024-04-01】[adrianhajdin / zoom-clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
@@ -753,6 +756,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-04-02】[android-hacker / VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
+* 【2024-04-02】[emanuele-f / PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
+* 【2024-04-02】[ReLive27 / spring-security-oauth2-sample](https://github.com/ReLive27/spring-security-oauth2-sample) - This module is based on Spring Authorization Server and contains information on using Spring Security OAuth2
 * 【2024-04-01】[Snailclimb / guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework) - A custom RPC framework implemented by Netty+Kyro+Zookeeper.（一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。）
 * 【2024-04-01】[RikkaApps / Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
 * 【2024-03-31】[apache / paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
@@ -1289,6 +1295,10 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-04-02】[mxrch / GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
+* 【2024-04-02】[brilliantlabsAR / noa-assistant](https://github.com/brilliantlabsAR/noa-assistant) - 
+* 【2024-04-02】[Lightning-AI / litgpt](https://github.com/Lightning-AI/litgpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+* 【2024-04-02】[foivospar / Arc2Face](https://github.com/foivospar/Arc2Face) - Arc2Face: A Foundation Model of Human Faces
 * 【2024-04-01】[google-deepmind / long-form-factuality](https://github.com/google-deepmind/long-form-factuality) - Benchmarking long-form factuality in large language models. Original code for our paper "Long-form factuality in large language models".
 * 【2024-04-01】[MsLolita / backpack-volume-auto](https://github.com/MsLolita/backpack-volume-auto) - 
 * 【2024-04-01】[MsLolita / grass](https://github.com/MsLolita/grass) - grass-mining
@@ -3386,6 +3396,11 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-04-02】[BandarHL / BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
+* 【2024-04-02】[jonas / tig](https://github.com/jonas/tig) - Text-mode interface for git
+* 【2024-04-02】[ekknod / EC](https://github.com/ekknod/EC) - open-source cheat [CS:GO/CS2/Apex]
+* 【2024-04-02】[TASEmulators / desmume](https://github.com/TASEmulators/desmume) - DeSmuME is a Nintendo DS emulator
+* 【2024-04-02】[ysanatomic / io_uring_LPE-CVE-2024-0582](https://github.com/ysanatomic/io_uring_LPE-CVE-2024-0582) - LPE exploit for CVE-2024-0582 (io_uring)
 * 【2024-04-01】[Decscots / Lockpick_RCM](https://github.com/Decscots/Lockpick_RCM) - 
 * 【2024-04-01】[pygame / pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 * 【2024-04-01】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
@@ -3919,6 +3934,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-04-02】[markparticle / WebServer](https://github.com/markparticle/WebServer) - C++ Linux WebServer服务器
+* 【2024-04-02】[axstin / rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker) - FPS Unlocker for Roblox
 * 【2024-04-01】[Taiga74164 / SLA-Cheeto](https://github.com/Taiga74164/SLA-Cheeto) - Solo Leveling:ARISE cheat using DLL Proxying
 * 【2024-04-01】[myscale / myscaledb](https://github.com/myscale/myscaledb) - An open-source, high-performance SQL vector database built on ClickHouse.
 * 【2024-04-01】[kasmtech / KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
@@ -4453,6 +4470,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-04-02】[sourcegit-scm / sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
+* 【2024-04-02】[yaobiao131 / downkyicore](https://github.com/yaobiao131/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 * 【2024-04-01】[FlaxEngine / FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
 * 【2024-04-01】[Pathoschild / StardewMods](https://github.com/Pathoschild/StardewMods) - Mods for Stardew Valley using SMAPI.
 * 【2024-03-31】[Cysharp / MemoryPack](https://github.com/Cysharp/MemoryPack) - Zero encoding extreme performance binary serializer for C# and Unity.
@@ -4972,6 +4991,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-04-02】[simonw / tools](https://github.com/simonw/tools) - Assorted tools
 * 【2024-04-01】[EPFLXplore / XRE_LeggedRobot_HW](https://github.com/EPFLXplore/XRE_LeggedRobot_HW) - PCB designs for Xplore Research's robot dog project
 * 【2024-04-01】[erew123 / alltalk_tts](https://github.com/erew123/alltalk_tts) - AllTalk is based on the Coqui TTS engine, similar to the Coqui_tts extension for Text generation webUI, however supports a variety of advanced features, such as a settings page, low VRAM support, DeepSpeed, narrator, model finetuning, custom models, wav file maintenance. It can also be used with 3rd Party software via JSON calls.
 * 【2024-03-31】[syhily / algorithm-anime](https://github.com/syhily/algorithm-anime) - 
@@ -5420,6 +5440,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-04-02】[Hardhat-Enterprises / website](https://github.com/Hardhat-Enterprises/website) - The main website for Hardhat Enterprises
 * 【2024-04-01】[yandex-praktikum / ono-tebe-nado](https://github.com/yandex-praktikum/ono-tebe-nado) - Проект "Оно тебе надо"
 * 【2024-04-01】[CyanVoxel / Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes) - A Series of Notebook Theme CSS Snippets for Obsidian.
 * 【2024-04-01】[ferdium / ferdium-recipes](https://github.com/ferdium/ferdium-recipes) - Recipes encapsulate your favourite apps into Ferdium for unified notifications handling and more
@@ -5901,6 +5922,10 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-04-02】[Loyalsoldier / v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go, leaf and hysteria.
+* 【2024-04-02】[billmei / every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
+* 【2024-04-02】[PandaBearLab / prompt-tutorial](https://github.com/PandaBearLab/prompt-tutorial) - 
+* 【2024-04-02】[Chanda-Abdul / Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews) - Several Coding Patterns for Solving Data Structures and Algorithms Problems during Interviews
 * 【2024-04-01】[h4x0r-dz / Leaked-Credentials](https://github.com/h4x0r-dz/Leaked-Credentials) - how to look for Leaked Credentials !
 * 【2024-04-01】[Allar / ue5-style-guide](https://github.com/Allar/ue5-style-guide) - An attempt to make Unreal Engine 4 projects more consistent
 * 【2024-04-01】[knassar702 / awesome-linux-minimalism](https://github.com/knassar702/awesome-linux-minimalism) - awesome linux minimalism suggestions
