@@ -1,6 +1,12 @@
 ### Github热门项目
 ## All language
 
+* 【2024-04-04】[amlweems / xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
+* 【2024-04-04】[zyronon / douyin](https://github.com/zyronon/douyin) - TikTok 抖音 Vue.js
+* 【2024-04-04】[infiniflow / ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+* 【2024-04-04】[huggingface / cookbook](https://github.com/huggingface/cookbook) - Open-source AI cookbook
+* 【2024-04-04】[Anankke / SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
+* 【2024-04-04】[fantastic-admin / basic](https://github.com/fantastic-admin/basic) - ⭐⭐⭐⭐⭐ 一款开箱即用的 Vue 中后台管理系统框架，支持多款 UI 组件库，兼容PC、移动端。vue-admin, vue-element-admin, vue后台, 后台系统, 后台框架, 管理后台, 管理系统
 * 【2024-04-03】[go-nunu / nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
 * 【2024-04-03】[dvlab-research / MiniGemini](https://github.com/dvlab-research/MiniGemini) - Official implementation for Mini-Gemini
 * 【2024-04-03】[city-super / Octree-GS](https://github.com/city-super/Octree-GS) - Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
@@ -760,6 +766,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-04-04】[apache / cxf](https://github.com/apache/cxf) - Apache CXF
 * 【2024-04-03】[JSQLParser / JSqlParser](https://github.com/JSQLParser/JSqlParser) - JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern
 * 【2024-04-03】[spring-projects / spring-security-samples](https://github.com/spring-projects/spring-security-samples) - 
 * 【2024-04-03】[preslavmihaylov / booknotes](https://github.com/preslavmihaylov/booknotes) - A collection of my book notes on various subjects, mainly computer science
@@ -1304,6 +1311,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-04-04】[X-PLUG / mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding
+* 【2024-04-04】[shuxiang / MT-WMS](https://github.com/shuxiang/MT-WMS) - MT-WMS 是开源的支持多仓多货主(multi warehouses, mulit owners)的WMS(仓储管理系统) 遵循Apache License 2.0协议
 * 【2024-04-03】[xorbitsai / inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
 * 【2024-04-03】[apocas / restai](https://github.com/apocas/restai) - RestAI is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex, Ollama and HF Pipelines. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama. Precise embeddings usage and tuning.
 * 【2024-04-03】[tamilselvanarjun / quantmodels](https://github.com/tamilselvanarjun/quantmodels) - FinModels` is a Python package that provides implementations of various financial models commonly used in finance and investment analysis.
@@ -2094,6 +2103,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-04-04】[amzn / style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
 * 【2024-04-03】[safak / full-stack-estate](https://github.com/safak/full-stack-estate) - 
 * 【2024-04-03】[urbandroid-team / dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 * 【2024-04-03】[codigoencasa / bot-whatsapp](https://github.com/codigoencasa/bot-whatsapp) - 🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource (Typescript Version Pronto)
@@ -2764,6 +2774,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-04-04】[babyname / fate](https://github.com/babyname/fate) - Fate is a modern science chinese name create tool.
 * 【2024-04-03】[ossf / scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 * 【2024-04-03】[fullstorydev / grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 * 【2024-04-01】[EverythingSuckz / TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
@@ -3421,6 +3432,10 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-04-04】[IchigoJam / ichigojam-firm](https://github.com/IchigoJam/ichigojam-firm) - 
+* 【2024-04-04】[Cipher7 / ChaiLdr](https://github.com/Cipher7/ChaiLdr) - AV bypass while you sip your Chai!
+* 【2024-04-04】[kyxiaxiang / Beacon_Source](https://github.com/kyxiaxiang/Beacon_Source) - not a reverse-engineered version of the Cobalt Strike Beacon
+* 【2024-04-04】[hamarituc / xz-backdoor](https://github.com/hamarituc/xz-backdoor) - 
 * 【2024-04-03】[xz-mirror / xz](https://github.com/xz-mirror/xz) - See https://github.com/tukaani-project/xz for the official repository
 * 【2024-04-03】[peng-zhihui / ElectronBot](https://github.com/peng-zhihui/ElectronBot) - 
 * 【2024-04-03】[buserror / libmui](https://github.com/buserror/libmui) - Classic MacOS & GS/OS widget library for linux (and other?)
@@ -3962,6 +3977,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-04-04】[emilybache / GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - Starting code for the GildedRose Refactoring Kata in many programming languages.
+* 【2024-04-04】[mamba-org / mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
+* 【2024-04-04】[IfcOpenShell / IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) - Open source IFC library and geometry engine
 * 【2024-04-03】[BlueMatthew / WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
 * 【2024-04-02】[markparticle / WebServer](https://github.com/markparticle/WebServer) - C++ Linux WebServer服务器
 * 【2024-04-02】[axstin / rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker) - FPS Unlocker for Roblox
@@ -4499,6 +4517,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-04-04】[betalgo / openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E
 * 【2024-04-03】[zzzprojects / Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - C# Extension Methods | Over 1000 extension methods:
 * 【2024-04-03】[dnGrep / dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows
 * 【2024-04-02】[sourcegit-scm / sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
@@ -5022,6 +5041,11 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-04-04】[aeonaxy-official / ReactTailwindBoilerplate](https://github.com/aeonaxy-official/ReactTailwindBoilerplate) - 
+* 【2024-04-04】[jgrahamc / gmsl](https://github.com/jgrahamc/gmsl) - GNU Make Standard Library
+* 【2024-04-04】[tailwindlabs / tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
+* 【2024-04-04】[wessamabdelwahab / CSCC1030](https://github.com/wessamabdelwahab/CSCC1030) - 
+* 【2024-04-04】[unfoldadmin / django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
 * 【2024-04-03】[rod-trent / Copilot-for-Security](https://github.com/rod-trent/Copilot-for-Security) - 
 * 【2024-04-03】[jaiswaladi246 / Boardgame](https://github.com/jaiswaladi246/Boardgame) - 
 * 【2024-04-03】[virtualmin / virtualmin-gpl](https://github.com/virtualmin/virtualmin-gpl) - Virtualmin web hosting control panel for Webmin
@@ -5477,6 +5501,13 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-04-04】[MuhammeDTayyiP / Nevammm](https://github.com/MuhammeDTayyiP/Nevammm) - Be Invisible for many games!
+* 【2024-04-04】[ahmadhabibi14 / dotfile](https://github.com/ahmadhabibi14/dotfile) - My linux desktop configuration
+* 【2024-04-04】[KubeDev / imersao-devops-cloud-02](https://github.com/KubeDev/imersao-devops-cloud-02) - 
+* 【2024-04-04】[CodeSpace-Academy / Module_7_StudentNo_Classcode_Group_Name-Surname_JSL07](https://github.com/CodeSpace-Academy/Module_7_StudentNo_Classcode_Group_Name-Surname_JSL07) - 
+* 【2024-04-04】[10-5-pursuit / API-Calls-with-Fetch](https://github.com/10-5-pursuit/API-Calls-with-Fetch) - 
+* 【2024-04-04】[TheBridge-FullStackDeveloper / usecontextChallenge](https://github.com/TheBridge-FullStackDeveloper/usecontextChallenge) - 
+* 【2024-04-04】[PrimeAcademy / javascript-fungus-fighter](https://github.com/PrimeAcademy/javascript-fungus-fighter) - 
 * 【2024-04-03】[Bytedesk / bytedesk](https://github.com/Bytedesk/bytedesk) - open source ai customer service system，alternative to slack + zendesk + chatpdf。企业IM + 在线客服 + AI助手，打造开源版企业微信/钉钉/飞书
 * 【2024-04-03】[TheBridge-FullStackDeveloper / props](https://github.com/TheBridge-FullStackDeveloper/props) - 
 * 【2024-04-03】[fredemmott / StreamDeck-Discord](https://github.com/fredemmott/StreamDeck-Discord) - Control the Discord application with the Elgato StreamDeck
@@ -5964,6 +5995,11 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-04-04】[bbolker / gLLMglnlmvlvMMM](https://github.com/bbolker/gLLMglnlmvlvMMM) - a generative Large Language Model for generalized linear and nonlinear multivariate latent-variable multilevel/mixed modelling
+* 【2024-04-04】[coinbase / solidity-style-guide](https://github.com/coinbase/solidity-style-guide) - 
+* 【2024-04-04】[nera-nikolayeva / r-six-s](https://github.com/nera-nikolayeva/r-six-s) - PASS - 1234
+* 【2024-04-04】[ShawMerlin / NES-Slotmaster](https://github.com/ShawMerlin/NES-Slotmaster) - A fully open-sourced drop in replacement for the 72 Pin Cartridge Slot on a Front Loader NES
+* 【2024-04-04】[YN3011140075 / our-flutter-template-vnc](https://github.com/YN3011140075/our-flutter-template-vnc) - 
 * 【2024-04-03】[xiaoxinxing66 / Sivan_Cache](https://github.com/xiaoxinxing66/Sivan_Cache) - 🚀 推出 SivanCacheFramework！一款轻量级、高效的 缓存框架，让 缓存操作 变得不再复杂，提升数据处理速度，为开发者节约宝贵时间。
 * 【2024-04-03】[SwiftGGTeam / letsvisionos24-files](https://github.com/SwiftGGTeam/letsvisionos24-files) - 
 * 【2024-04-03】[sbwml / TrollStore_zh_Hans](https://github.com/sbwml/TrollStore_zh_Hans) - TrollStore 简体/繁体中文
