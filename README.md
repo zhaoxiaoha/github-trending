@@ -1,6 +1,17 @@
 ### Github热门项目
 ## All language
 
+* 【2024-04-06】[HardhatChad / ore-cli](https://github.com/HardhatChad/ore-cli) - 
+* 【2024-04-06】[rocketseat-education / nlw-unite-react](https://github.com/rocketseat-education/nlw-unite-react) - Aplicação front-end em React desenvolvida durante o NLW Unite da Rocketseat
+* 【2024-04-06】[mshumer / gpt-author](https://github.com/mshumer/gpt-author) - 
+* 【2024-04-06】[aurora-develop / aurora](https://github.com/aurora-develop/aurora) - free
+* 【2024-04-06】[availproject / availup](https://github.com/availproject/availup) - 
+* 【2024-04-06】[logspace-ai / langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
+* 【2024-04-06】[AstroNvim / AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+* 【2024-04-06】[actions / setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
+* 【2024-04-06】[availproject / avail](https://github.com/availproject/avail) - 
+* 【2024-04-06】[8838 / btpanel-v7.7.0](https://github.com/8838/btpanel-v7.7.0) - 宝塔v7.7.0官方原版备份
+* 【2024-04-06】[EhTagTranslation / Database](https://github.com/EhTagTranslation/Database) - EhTagTranslation 项目的翻译数据。
 * 【2024-04-05】[princeton-nlp / SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models
 * 【2024-04-05】[rocketseat-education / nlw-unite-nodejs](https://github.com/rocketseat-education/nlw-unite-nodejs) - Back-end em Node.js desenvolvido durante o NLW Unite da Rocketseat
 * 【2024-04-05】[HardhatChad / ore](https://github.com/HardhatChad/ore) - 
@@ -772,6 +783,10 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-04-06】[tchiotludo / akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
+* 【2024-04-06】[querydsl / querydsl](https://github.com/querydsl/querydsl) - Unified Queries for Java
+* 【2024-04-06】[confluentinc / kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples) - Demo applications and code examples for Apache Kafka's Streams API.
+* 【2024-04-06】[vaadin / flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10+.
 * 【2024-04-05】[javaconferences / javaconferences.github.io](https://github.com/javaconferences/javaconferences.github.io) - The Github repository for javaconferences.org
 * 【2024-04-05】[qwdigital / LinkWechat-Scrm](https://github.com/qwdigital/LinkWechat-Scrm) - LinkWeChat后端代码仓库，-- 基于企业微信的开源 SCRM 系统，是企业私域流量管理与营销的综合解决方案。
 * 【2024-04-04】[apache / cxf](https://github.com/apache/cxf) - Apache CXF
@@ -1319,6 +1334,14 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-04-06】[qilingframework / qiling](https://github.com/qilingframework/qiling) - A True Instrumentable Binary Emulation Framework
+* 【2024-04-06】[zk-Call / zkp-hmac-communication-python](https://github.com/zk-Call/zkp-hmac-communication-python) - "Zero-Knowledge" Proof Implementation with HMAC Communication in Python
+* 【2024-04-06】[YaoFANGUK / video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
+* 【2024-04-06】[tech-shrimp / WechatMoments](https://github.com/tech-shrimp/WechatMoments) - 微信朋友圈导出工具-技术爬爬虾
+* 【2024-04-06】[1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 基于 LLM 大语言模型的知识库问答系统，1Panel 官方出品。开箱即用，支持快速嵌入到第三方业务系统。
+* 【2024-04-06】[demisto / content](https://github.com/demisto/content) - Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
+* 【2024-04-06】[UpstageAI / evalverse](https://github.com/UpstageAI/evalverse) - The Universe of Evaluation. All about the evaluation for LLMs.
+* 【2024-04-06】[sczhou / ProPainter](https://github.com/sczhou/ProPainter) - [ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting
 * 【2024-04-05】[python / cpython](https://github.com/python/cpython) - The Python programming language
 * 【2024-04-05】[youtube-jocoding / gpt-bitcoin](https://github.com/youtube-jocoding/gpt-bitcoin) - 비트코인 GPT 인공지능 AI 자동매매 시스템
 * 【2024-04-05】[astropy / astropy](https://github.com/astropy/astropy) - Astronomy and astrophysics core library
@@ -2116,6 +2139,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-04-06】[missuo / FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
+* 【2024-04-06】[mscdex / ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 * 【2024-04-05】[jamiebuilds / the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - ⛄ Possibly the smallest compiler ever
 * 【2024-04-05】[TimeRainStarSky / TRSS-Plugin](https://github.com/TimeRainStarSky/TRSS-Plugin) - 
 * 【2024-04-04】[amzn / style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
@@ -2789,6 +2814,11 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-04-06】[kube-vip / kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
+* 【2024-04-06】[AlexanderGrom / go-patterns](https://github.com/AlexanderGrom/go-patterns) - Design patterns in Golang
+* 【2024-04-06】[lxc / incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
+* 【2024-04-06】[Netflix / chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+* 【2024-04-06】[rancher / fleet](https://github.com/rancher/fleet) - Deploy workloads from Git to large fleets of Kubernetes clusters
 * 【2024-04-05】[openp2p-cn / openp2p](https://github.com/openp2p-cn/openp2p) - OpenP2P is a lightweight P2P sharing network. Support Cone,Symmetric(NAT1-NAT4),UPNP,IPv6,both UDP&TCP punch. You can build you private sharing network, or uses the public sharing network
 * 【2024-04-05】[nilsherzig / LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
 * 【2024-04-05】[gardener / gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.
@@ -3451,6 +3481,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-04-06】[aleksey-hoffman / sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
+* 【2024-04-06】[NVIDIAGameWorks / Streamline](https://github.com/NVIDIAGameWorks/Streamline) - Streamline Integration Framework
 * 【2024-04-05】[renderlet / wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
 * 【2024-04-05】[hannorein / rebound](https://github.com/hannorein/rebound) - 💫 An open-source multi-purpose N-body code.
 * 【2024-04-04】[IchigoJam / ichigojam-firm](https://github.com/IchigoJam/ichigojam-firm) - 
@@ -3998,6 +4030,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-04-06】[GameTechDev / PresentMon](https://github.com/GameTechDev/PresentMon) - Capture and analyze the high-level performance characteristics of graphics applications on Windows.
+* 【2024-04-06】[nukeykt / Nuked-SC55](https://github.com/nukeykt/Nuked-SC55) - SC-55mkII emulation
+* 【2024-04-06】[Neo-Maoku / SearchAvailableExe](https://github.com/Neo-Maoku/SearchAvailableExe) - 寻找可利用的白文件
 * 【2024-04-04】[emilybache / GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - Starting code for the GildedRose Refactoring Kata in many programming languages.
 * 【2024-04-04】[mamba-org / mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 * 【2024-04-04】[IfcOpenShell / IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) - Open source IFC library and geometry engine
@@ -4538,6 +4573,10 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-04-06】[MochiesCode / Mochies-Unity-Shaders](https://github.com/MochiesCode/Mochies-Unity-Shaders) - 
+* 【2024-04-06】[beeradmoore / dlss-swapper](https://github.com/beeradmoore/dlss-swapper) - 
+* 【2024-04-06】[p0dalirius / LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
+* 【2024-04-06】[aws / aws-lambda-dotnet](https://github.com/aws/aws-lambda-dotnet) - Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
 * 【2024-04-05】[MaxWasUnavailable / Virality](https://github.com/MaxWasUnavailable/Virality) - A bigger lobby mod for Content Warning.
 * 【2024-04-05】[microsoft / sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
 * 【2024-04-04】[betalgo / openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E
@@ -5064,6 +5103,9 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-04-06】[WICG / dbsc](https://github.com/WICG/dbsc) - 
+* 【2024-04-06】[TIM168 / technical_books](https://github.com/TIM168/technical_books) - 📚🔥收集全网最热门的技术书籍 (GO、黑客、Android、计算机原理、人工智能、大数据、机器学习、数据库、PHP、java、架构、消息队列、算法、python、爬虫、操作系统、linux、C语言)，不间断更新中♨️
+* 【2024-04-06】[grails / grails-core](https://github.com/grails/grails-core) - The Grails Web Application Framework
 * 【2024-04-05】[rocketseat-education / nlw-unite-html-css-js](https://github.com/rocketseat-education/nlw-unite-html-css-js) - Aplicação front-end em HTML+CSS+JS desenvolvida durante o NLW Unite da Rocketseat
 * 【2024-04-05】[GTFOBins / GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 * 【2024-04-04】[aeonaxy-official / ReactTailwindBoilerplate](https://github.com/aeonaxy-official/ReactTailwindBoilerplate) - 
@@ -5526,6 +5568,10 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-04-06】[matklad / rust-course](https://github.com/matklad/rust-course) - 
+* 【2024-04-06】[CodeSpace-Academy / Module_3_StudentNo_Classcode_Group_Name-Surname_SDF03](https://github.com/CodeSpace-Academy/Module_3_StudentNo_Classcode_Group_Name-Surname_SDF03) - 
+* 【2024-04-06】[K3rr / PandaBuy](https://github.com/K3rr/PandaBuy) - Shopping website prototype
+* 【2024-04-06】[digitalinnovationone / js-developer-portfolio](https://github.com/digitalinnovationone/js-developer-portfolio) - 
 * 【2024-04-05】[OpenSIST / OpenSIST.github.io](https://github.com/OpenSIST/OpenSIST.github.io) - An open-source overseas graduate application information-sharing platform for ShanghaiTech University
 * 【2024-04-05】[itscodenation / int-u4l4-23-24-student-exercises](https://github.com/itscodenation/int-u4l4-23-24-student-exercises) - 
 * 【2024-04-05】[dsouloficial / -FORM-VALIDATION](https://github.com/dsouloficial/-FORM-VALIDATION) - 
@@ -6027,6 +6073,14 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-04-06】[Leymore / ruozhiba](https://github.com/Leymore/ruozhiba) - 
+* 【2024-04-06】[justjavac / awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 💯
+* 【2024-04-06】[DataTalksClub / llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) - LLM Zoomcamp - a free online course about building an AI bot that can answer questions about your knowledge base
+* 【2024-04-06】[solddead / V1.4M](https://github.com/solddead/V1.4M) - 
+* 【2024-04-06】[ttxskk / AiOS](https://github.com/ttxskk/AiOS) - [CVPR 2024] Official Code for "AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation
+* 【2024-04-06】[TrailblazingTracer / darknet-markets](https://github.com/TrailblazingTracer/darknet-markets) - Hey, this is verified list of dark web resourses
+* 【2024-04-06】[Anita-Lewis / Mch4j](https://github.com/Anita-Lewis/Mch4j) - 
+* 【2024-04-06】[mmhunter3515 / receivesms](https://github.com/mmhunter3515/receivesms) - 十大最佳接码平台
 * 【2024-04-05】[cat-milk / Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 * 【2024-04-05】[hslatman / awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 * 【2024-04-05】[sdg-1 / data-team-handbook](https://github.com/sdg-1/data-team-handbook) - 
