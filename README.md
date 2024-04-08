@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2024-04-08】[cloudflare / orange](https://github.com/cloudflare/orange) - 
+* 【2024-04-08】[availproject / avail-light](https://github.com/availproject/avail-light) - 
+* 【2024-04-08】[pagefaultgames / pokerogue](https://github.com/pagefaultgames/pokerogue) - 
 * 【2024-04-07】[FoundationVision / VAR](https://github.com/FoundationVision/VAR) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"
 * 【2024-04-07】[avito-tech / backend-trainee-assignment-2024](https://github.com/avito-tech/backend-trainee-assignment-2024) - 
 * 【2024-04-07】[mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -786,6 +789,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-04-08】[rkkr / simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
+* 【2024-04-08】[ag2s20150909 / TTS](https://github.com/ag2s20150909/TTS) - 
 * 【2024-04-07】[bcgit / bc-java](https://github.com/bcgit/bc-java) - Bouncy Castle Java Distribution (Mirror)
 * 【2024-04-07】[Mahmud0808 / Iconify](https://github.com/Mahmud0808/Iconify) - Customize Boring Android UI
 * 【2024-04-06】[tchiotludo / akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
@@ -1339,6 +1344,13 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-04-08】[nashsu / FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results.
+* 【2024-04-08】[facebookresearch / schedule_free](https://github.com/facebookresearch/schedule_free) - Schedule-Free Optimization in PyTorch
+* 【2024-04-08】[stanfordnlp / pyreft](https://github.com/stanfordnlp/pyreft) - ReFT: Representation Finetuning for Language Models
+* 【2024-04-08】[hunshcn / gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
+* 【2024-04-08】[KrisCris / Palworld-Pal-Editor](https://github.com/KrisCris/Palworld-Pal-Editor) - Palworld Pal Editor, the tool for Adding, Deleting, and Modifying Pals in Palworld Game Save, supports running on Docker, GUI, WebUI, and Cli.
+* 【2024-04-08】[kwai / DouZero](https://github.com/kwai/DouZero) - [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
+* 【2024-04-08】[alejandro-ao / ask-multiple-pdfs](https://github.com/alejandro-ao/ask-multiple-pdfs) - A Langchain app that allows you to chat with multiple PDFs
 * 【2024-04-07】[InstantStyle / InstantStyle](https://github.com/InstantStyle/InstantStyle) - InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥
 * 【2024-04-07】[python / typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 * 【2024-04-07】[PhonePe / mantis](https://github.com/PhonePe/mantis) - Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.
@@ -2150,6 +2162,9 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-04-08】[curtisf / logger](https://github.com/curtisf/logger) - Loggerbot version 3, the Discord bot serving nearly 24 million users.
+* 【2024-04-08】[kolbytn / mindcraft](https://github.com/kolbytn/mindcraft) - 
+* 【2024-04-08】[saadpasta / developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
 * 【2024-04-07】[Ottodix / Eole-foobar-theme](https://github.com/Ottodix/Eole-foobar-theme) - Eole blows gently into your ear his nicest melodies.
 * 【2024-04-07】[sahandghavidel / mern-estate](https://github.com/sahandghavidel/mern-estate) - Real Estate app using MERN and tailwind css
 * 【2024-04-07】[ExpTechTW / TREM-electron](https://github.com/ExpTechTW/TREM-electron) - Taiwan Real-time Earthquake Monitoring ( 臺灣即時地震監測 )
@@ -2828,6 +2843,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-04-08】[beego / beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 * 【2024-04-07】[elastic / cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 * 【2024-04-07】[RiemaLabs / modular-indexer-light](https://github.com/RiemaLabs/modular-indexer-light) - A fully user-verified execution layer for Bitcoin's meta-protocols. (light indexer)
 * 【2024-04-07】[spiffe / spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment
@@ -3498,6 +3514,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-04-08】[RsyncProject / rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 * 【2024-04-07】[alfiecg24 / TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
 * 【2024-04-06】[aleksey-hoffman / sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 * 【2024-04-06】[NVIDIAGameWorks / Streamline](https://github.com/NVIDIAGameWorks/Streamline) - Streamline Integration Framework
@@ -4048,6 +4065,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-04-08】[Avinash987 / Coding](https://github.com/Avinash987/Coding) - Data Structures and Algorithms (DSA) Preparation sheet
+* 【2024-04-08】[hyprwm / hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
 * 【2024-04-07】[araujo88 / important-algorithms](https://github.com/araujo88/important-algorithms) - A list of important algorithms to study
 * 【2024-04-07】[projectM-visualizer / projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 * 【2024-04-07】[stack-of-tasks / pinocchio](https://github.com/stack-of-tasks/pinocchio) - A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
@@ -4594,6 +4613,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-04-08】[zoriya / Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
+* 【2024-04-08】[stanuwu / PixelGun3DPCCheat](https://github.com/stanuwu/PixelGun3DPCCheat) - Cheat for Pixel Gun 3D PC
 * 【2024-04-06】[MochiesCode / Mochies-Unity-Shaders](https://github.com/MochiesCode/Mochies-Unity-Shaders) - 
 * 【2024-04-06】[beeradmoore / dlss-swapper](https://github.com/beeradmoore/dlss-swapper) - 
 * 【2024-04-06】[p0dalirius / LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
@@ -5124,6 +5145,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-04-08】[RedByte1337 / GraphSpy](https://github.com/RedByte1337/GraphSpy) - Initial Access and Post-Exploitation Tool for AAD and O365 with a browser-based GUI
+* 【2024-04-08】[webmin / webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 * 【2024-04-07】[OWASP / NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
 * 【2024-04-06】[WICG / dbsc](https://github.com/WICG/dbsc) - 
 * 【2024-04-06】[TIM168 / technical_books](https://github.com/TIM168/technical_books) - 📚🔥收集全网最热门的技术书籍 (GO、黑客、Android、计算机原理、人工智能、大数据、机器学习、数据库、PHP、java、架构、消息队列、算法、python、爬虫、操作系统、linux、C语言)，不间断更新中♨️
@@ -5590,6 +5613,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-04-08】[techeonn / lifeline-Shradha-kapoor](https://github.com/techeonn/lifeline-Shradha-kapoor) - 
 * 【2024-04-07】[CyanVoxel / Obsidian-Colored-Sidebar](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar) - A Colored Sidebar CSS Snippet for Obsidian.
 * 【2024-04-07】[Miderson / 3c_Sexta](https://github.com/Miderson/3c_Sexta) - 
 * 【2024-04-07】[itscodenation / int-u4l6-23-24-student-exercises](https://github.com/itscodenation/int-u4l6-23-24-student-exercises) - 
@@ -6098,6 +6122,13 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-04-08】[krishnaik06 / AI-Engineer-Roadmap-2024](https://github.com/krishnaik06/AI-Engineer-Roadmap-2024) - 
+* 【2024-04-08】[Hakhka / kakaakak](https://github.com/Hakhka/kakaakak) - 
+* 【2024-04-08】[nera-nikolayeva / Rainbow6s](https://github.com/nera-nikolayeva/Rainbow6s) - PASS - 1234
+* 【2024-04-08】[LAbroski234 / labroe4432](https://github.com/LAbroski234/labroe4432) - 
+* 【2024-04-08】[OpenBMB / Eurus](https://github.com/OpenBMB/Eurus) - 
+* 【2024-04-08】[xioacd99 / study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource
+* 【2024-04-08】[cutethotw / ClashRule](https://github.com/cutethotw/ClashRule) - clash自用分流规则
 * 【2024-04-07】[vasanthk / react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 * 【2024-04-06】[Leymore / ruozhiba](https://github.com/Leymore/ruozhiba) - 
 * 【2024-04-06】[justjavac / awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 💯
