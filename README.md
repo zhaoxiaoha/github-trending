@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2024-04-10】[drawdb-io / drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+* 【2024-04-10】[coollabsio / coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+* 【2024-04-10】[huggingface / text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 * 【2024-04-09】[PawanOsman / ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 * 【2024-04-09】[andreasfertig / cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 * 【2024-04-08】[cloudflare / orange](https://github.com/cloudflare/orange) - 
@@ -791,6 +794,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-04-10】[Gayanukaa / Spring-Boot-Playground](https://github.com/Gayanukaa/Spring-Boot-Playground) - Self-Learn and Testing Environment
+* 【2024-04-10】[Sayi / poi-tl](https://github.com/Sayi/poi-tl) - Generate awesome word(docx) with template
 * 【2024-04-08】[rkkr / simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
 * 【2024-04-08】[ag2s20150909 / TTS](https://github.com/ag2s20150909/TTS) - 
 * 【2024-04-07】[bcgit / bc-java](https://github.com/bcgit/bc-java) - Bouncy Castle Java Distribution (Mirror)
@@ -1346,6 +1351,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-04-10】[Vision-CAIR / MiniGPT4-video](https://github.com/Vision-CAIR/MiniGPT4-video) - 
+* 【2024-04-10】[AiGptCode / Iphone-14-15-IRAN-Anten](https://github.com/AiGptCode/Iphone-14-15-IRAN-Anten) - آموزش رایگان و دائمی فعال‌سازی آنتن در آیفون ۱۴ و ۱۵ بدون ردگیری و بسته شدن با دو روش مختلف، به همراه سورس کد و فایل ساخت UUID یکتا
 * 【2024-04-09】[Libr-AI / OpenFactVerification](https://github.com/Libr-AI/OpenFactVerification) - Open-source solution designed to automate the process of verifying factuality
 * 【2024-04-09】[open-mmlab / mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection.
 * 【2024-04-09】[TMElyralab / MuseTalk](https://github.com/TMElyralab/MuseTalk) - MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting
@@ -2168,6 +2175,9 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-04-10】[stackframe-projects / pgmock](https://github.com/stackframe-projects/pgmock) - In-memory Postgres for unit/E2E tests
+* 【2024-04-10】[alexpinel / Dot](https://github.com/alexpinel/Dot) - Standalone app for fully local RAG with Mistral 7B
+* 【2024-04-10】[azl397985856 / leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 * 【2024-04-09】[langflow-ai / langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 * 【2024-04-09】[leafTheFish / DeathNote](https://github.com/leafTheFish/DeathNote) - 
 * 【2024-04-09】[youzan / vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
@@ -2852,6 +2862,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-04-10】[0xERR0R / blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+* 【2024-04-10】[metallb / metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 * 【2024-04-08】[beego / beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 * 【2024-04-07】[elastic / cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 * 【2024-04-07】[RiemaLabs / modular-indexer-light](https://github.com/RiemaLabs/modular-indexer-light) - A fully user-verified execution layer for Bitcoin's meta-protocols. (light indexer)
@@ -3523,6 +3535,12 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-04-10】[espressif / esp-adf](https://github.com/espressif/esp-adf) - Espressif Audio Development Framework
+* 【2024-04-10】[maharmstone / btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
+* 【2024-04-10】[civetweb / civetweb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server
+* 【2024-04-10】[migueletto / PumpkinOS](https://github.com/migueletto/PumpkinOS) - PumpkinOS is a re-implementation of PalmOS.
+* 【2024-04-10】[FascinatedBox / bonk](https://github.com/FascinatedBox/bonk) - X11 window management toolkit
+* 【2024-04-10】[baidu / dperf](https://github.com/baidu/dperf) - dperf is a 100Gbps network load tester.
 * 【2024-04-09】[BasedHardware / Friend](https://github.com/BasedHardware/Friend) - AI wearable with 24h+ battery
 * 【2024-04-08】[RsyncProject / rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 * 【2024-04-07】[alfiecg24 / TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
@@ -4625,6 +4643,9 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-04-10】[ricardojoserf / NativeDump](https://github.com/ricardojoserf/NativeDump) - Dump lsass using only Native APIs by hand-crafting Minidump files (without MinidumpWriteDump!)
+* 【2024-04-10】[Unity-Technologies / Graphics](https://github.com/Unity-Technologies/Graphics) - Unity Graphics - Including Scriptable Render Pipeline
+* 【2024-04-10】[belav / csharpier](https://github.com/belav/csharpier) - CSharpier is an opinionated code formatter for c#.
 * 【2024-04-08】[zoriya / Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 * 【2024-04-08】[stanuwu / PixelGun3DPCCheat](https://github.com/stanuwu/PixelGun3DPCCheat) - Cheat for Pixel Gun 3D PC
 * 【2024-04-06】[MochiesCode / Mochies-Unity-Shaders](https://github.com/MochiesCode/Mochies-Unity-Shaders) - 
@@ -5157,6 +5178,11 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-04-10】[perfildodev / projetosdoperfil](https://github.com/perfildodev/projetosdoperfil) - Projetos de autoria do perfil do dev para os nossos seguidores. Abraços do ADM
+* 【2024-04-10】[vladmandic / human](https://github.com/vladmandic/human) - Human: AI-powered 3D Face Detection & Rotation Tracking, Face Description & Recognition, Body Pose Tracking, 3D Hand & Finger Tracking, Iris Analysis, Age & Gender & Emotion Prediction, Gaze Tracking, Gesture Recognition
+* 【2024-04-10】[tennc / fuzzdb](https://github.com/tennc/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
+* 【2024-04-10】[doocs / technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
+* 【2024-04-10】[godbasin / front-end-playground](https://github.com/godbasin/front-end-playground) - 被删和阿猪的前端游乐场！！快来一起撸猫一起学习前端吧~
 * 【2024-04-09】[iofeqkurrc42 / jetbra-server-go](https://github.com/iofeqkurrc42/jetbra-server-go) - 
 * 【2024-04-09】[zengm-games / facesjs](https://github.com/zengm-games/facesjs) - A JavaScript library for generating vector-based cartoon faces
 * 【2024-04-09】[dgunning / edgartools](https://github.com/dgunning/edgartools) - Python library for working with SEC Edgar
@@ -5630,6 +5656,11 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-04-10】[piyushsachdeva / 10weeksofcloudops](https://github.com/piyushsachdeva/10weeksofcloudops) - 
+* 【2024-04-10】[TheBridge-FullStackDeveloper / hooks](https://github.com/TheBridge-FullStackDeveloper/hooks) - 
+* 【2024-04-10】[creativetimofficial / nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
+* 【2024-04-10】[iamstevendao / vue-tel-input](https://github.com/iamstevendao/vue-tel-input) - International Telephone Input with Vue
+* 【2024-04-10】[chenjw / hacktools](https://github.com/chenjw/hacktools) - 自用
 * 【2024-04-09】[creativetimofficial / tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 * 【2024-04-09】[devemdobro / projeto-gta](https://github.com/devemdobro/projeto-gta) - 
 * 【2024-04-09】[CodegirlSchool / shopping-list](https://github.com/CodegirlSchool/shopping-list) - Домашнее задание к модулю "Основы DOM"
@@ -6142,6 +6173,11 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-04-10】[daffainfo / AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
+* 【2024-04-10】[netsecfish / dlink](https://github.com/netsecfish/dlink) - 
+* 【2024-04-10】[LiJunYi2 / navicat-keygen-16V](https://github.com/LiJunYi2/navicat-keygen-16V) - Navicat16最新版本的注册机
+* 【2024-04-10】[plausible / community-edition](https://github.com/plausible/community-edition) - Example docker-compose setups for hosting Plausible Community Edition
+* 【2024-04-10】[github / codespaces-blank](https://github.com/github/codespaces-blank) - 
 * 【2024-04-09】[anu0012 / awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - An awesome list of events and fellowship opportunities for Computer Science students
 * 【2024-04-09】[godotengine / awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 * 【2024-04-09】[niucnet / jinri-cp](https://github.com/niucnet/jinri-cp) - jinricp | 韩国BJ | 韩国女主播 | pandatv | 진리컴퍼니 | jinri company
