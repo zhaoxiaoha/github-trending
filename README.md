@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2024-04-11】[karpathy / llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
+* 【2024-04-11】[miurla / morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
+* 【2024-04-11】[datawhalechina / self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
 * 【2024-04-10】[drawdb-io / drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 * 【2024-04-10】[coollabsio / coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 * 【2024-04-10】[huggingface / text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
@@ -794,6 +797,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-04-11】[datastrato / gravitino](https://github.com/datastrato/gravitino) - World's most powerful data catalog service with providing a high-performance, geo-distributed and federated metadata lake.
+* 【2024-04-11】[quartz-scheduler / quartz](https://github.com/quartz-scheduler/quartz) - Code for Quartz Scheduler
 * 【2024-04-10】[Gayanukaa / Spring-Boot-Playground](https://github.com/Gayanukaa/Spring-Boot-Playground) - Self-Learn and Testing Environment
 * 【2024-04-10】[Sayi / poi-tl](https://github.com/Sayi/poi-tl) - Generate awesome word(docx) with template
 * 【2024-04-08】[rkkr / simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
@@ -1351,6 +1356,10 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-04-11】[LlamaFamily / Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
+* 【2024-04-11】[jmerle / imc-prosperity-2-backtester](https://github.com/jmerle/imc-prosperity-2-backtester) - Backtester for IMC Prosperity 2 algorithms
+* 【2024-04-11】[Filimoa / open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
+* 【2024-04-11】[blasty / JiaTansSSHAgent](https://github.com/blasty/JiaTansSSHAgent) - 
 * 【2024-04-10】[Vision-CAIR / MiniGPT4-video](https://github.com/Vision-CAIR/MiniGPT4-video) - 
 * 【2024-04-10】[AiGptCode / Iphone-14-15-IRAN-Anten](https://github.com/AiGptCode/Iphone-14-15-IRAN-Anten) - آموزش رایگان و دائمی فعال‌سازی آنتن در آیفون ۱۴ و ۱۵ بدون ردگیری و بسته شدن با دو روش مختلف، به همراه سورس کد و فایل ساخت UUID یکتا
 * 【2024-04-09】[Libr-AI / OpenFactVerification](https://github.com/Libr-AI/OpenFactVerification) - Open-source solution designed to automate the process of verifying factuality
@@ -2175,6 +2184,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-04-11】[camwiegert / typical](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 * 【2024-04-10】[stackframe-projects / pgmock](https://github.com/stackframe-projects/pgmock) - In-memory Postgres for unit/E2E tests
 * 【2024-04-10】[alexpinel / Dot](https://github.com/alexpinel/Dot) - Standalone app for fully local RAG with Mistral 7B
 * 【2024-04-10】[azl397985856 / leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
@@ -2862,6 +2872,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-04-11】[flipt-io / reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 * 【2024-04-10】[0xERR0R / blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 * 【2024-04-10】[metallb / metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 * 【2024-04-08】[beego / beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
@@ -3535,6 +3546,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-04-11】[bb-qq / r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters
+* 【2024-04-11】[fairyglade / ly](https://github.com/fairyglade/ly) - display manager with console UI
 * 【2024-04-10】[espressif / esp-adf](https://github.com/espressif/esp-adf) - Espressif Audio Development Framework
 * 【2024-04-10】[maharmstone / btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 * 【2024-04-10】[civetweb / civetweb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server
@@ -4093,6 +4106,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-04-11】[s60sc / ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) - ESP32 Camera motion capture application to record JPEGs to SD card as AVI files and stream to browser as MJPEG. If a microphone is installed then a WAV file is also created. Files can be uploaded via FTP or downloaded to browser.
+* 【2024-04-11】[GothenburgBitFactory / taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 * 【2024-04-09】[zk-Call / zkp-hmac-communication-cpp](https://github.com/zk-Call/zkp-hmac-communication-cpp) - "Zero-Knowledge" Proof Implementation with HMAC Communication in C++
 * 【2024-04-09】[PacktPublishing / C-High-Performance-for-Financial-Systems-](https://github.com/PacktPublishing/C-High-Performance-for-Financial-Systems-) - 
 * 【2024-04-08】[Avinash987 / Coding](https://github.com/Avinash987/Coding) - Data Structures and Algorithms (DSA) Preparation sheet
@@ -4643,6 +4658,11 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-04-11】[blake502 / balatro-apk-maker](https://github.com/blake502/balatro-apk-maker) - Create a Balatro APK from your Steam version of Balatro
+* 【2024-04-11】[amantinband / error-or](https://github.com/amantinband/error-or) - A simple, fluent discriminated union of an error or a result.
+* 【2024-04-11】[Tyrrrz / LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
+* 【2024-04-11】[mob-sakai / SoftMaskForUGUI](https://github.com/mob-sakai/SoftMaskForUGUI) - UI Soft Mask is a smooth masking component for Unity UI (uGUI) elements.
+* 【2024-04-11】[microsoft / azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent) - Azure Pipelines Agent 🚀
 * 【2024-04-10】[ricardojoserf / NativeDump](https://github.com/ricardojoserf/NativeDump) - Dump lsass using only Native APIs by hand-crafting Minidump files (without MinidumpWriteDump!)
 * 【2024-04-10】[Unity-Technologies / Graphics](https://github.com/Unity-Technologies/Graphics) - Unity Graphics - Including Scriptable Render Pipeline
 * 【2024-04-10】[belav / csharpier](https://github.com/belav/csharpier) - CSharpier is an opinionated code formatter for c#.
@@ -5178,6 +5198,12 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-04-11】[microsoft / BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly-customizable web-based client for Azure Bot Services.
+* 【2024-04-11】[xvvvyz / tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
+* 【2024-04-11】[alura-challenges / challenge-one-portafolio-latam](https://github.com/alura-challenges/challenge-one-portafolio-latam) - Repositorio base para desafio 1 Cree su própio Portafolio del Challenge ONE Front end
+* 【2024-04-11】[alura-challenges / challenge-one-portfolio-br](https://github.com/alura-challenges/challenge-one-portfolio-br) - Repositorio Base para desenvolvimento do Desafio 1 Crie seu próprio Portfólio do Challenge ONE Front end
+* 【2024-04-11】[sunaku / glove80-keymaps](https://github.com/sunaku/glove80-keymaps) - "Glorious Engrammer" keymap for Glove80 keyboard
+* 【2024-04-11】[rust-lang / rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 * 【2024-04-10】[perfildodev / projetosdoperfil](https://github.com/perfildodev/projetosdoperfil) - Projetos de autoria do perfil do dev para os nossos seguidores. Abraços do ADM
 * 【2024-04-10】[vladmandic / human](https://github.com/vladmandic/human) - Human: AI-powered 3D Face Detection & Rotation Tracking, Face Description & Recognition, Body Pose Tracking, 3D Hand & Finger Tracking, Iris Analysis, Age & Gender & Emotion Prediction, Gaze Tracking, Gesture Recognition
 * 【2024-04-10】[tennc / fuzzdb](https://github.com/tennc/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
@@ -5656,6 +5682,11 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-04-11】[parthwebdev / UI-Components](https://github.com/parthwebdev/UI-Components) - Some Awesome UI Components made with HTML, CSS and JavaScript.
+* 【2024-04-11】[kpman / blog](https://github.com/kpman/blog) - Personal blog powered by Next.js
+* 【2024-04-11】[MuriithiEric / plp-task-management](https://github.com/MuriithiEric/plp-task-management) - 
+* 【2024-04-11】[TheBridge-FullStackDeveloper / redux-task](https://github.com/TheBridge-FullStackDeveloper/redux-task) - 
+* 【2024-04-11】[apache / dubbo-website](https://github.com/apache/dubbo-website) - Apache Dubbo documents
 * 【2024-04-10】[piyushsachdeva / 10weeksofcloudops](https://github.com/piyushsachdeva/10weeksofcloudops) - 
 * 【2024-04-10】[TheBridge-FullStackDeveloper / hooks](https://github.com/TheBridge-FullStackDeveloper/hooks) - 
 * 【2024-04-10】[creativetimofficial / nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
@@ -6173,6 +6204,9 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-04-11】[kelseyhightower / kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
+* 【2024-04-11】[trusted-point / 0g-tools](https://github.com/trusted-point/0g-tools) - 0G Validator Guide
+* 【2024-04-11】[ddz16 / TSFpaper](https://github.com/ddz16/TSFpaper) - This repository contains a reading list of papers on Time Series Forecasting/Prediction (TSF) and Spatio-Temporal Forecasting/Prediction (STF). These papers are mainly categorized according to the type of model.
 * 【2024-04-10】[daffainfo / AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
 * 【2024-04-10】[netsecfish / dlink](https://github.com/netsecfish/dlink) - 
 * 【2024-04-10】[LiJunYi2 / navicat-keygen-16V](https://github.com/LiJunYi2/navicat-keygen-16V) - Navicat16最新版本的注册机
