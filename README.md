@@ -1,6 +1,10 @@
 ### Github热门项目
 ## All language
 
+* 【2024-04-12】[nus-apr / auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement
+* 【2024-04-12】[tidwall / neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines)
+* 【2024-04-12】[penpot / penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+* 【2024-04-12】[code100x / cms](https://github.com/code100x/cms) - 
 * 【2024-04-11】[karpathy / llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 * 【2024-04-11】[miurla / morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 * 【2024-04-11】[datawhalechina / self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
@@ -797,6 +801,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-04-12】[apereo / cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 * 【2024-04-11】[datastrato / gravitino](https://github.com/datastrato/gravitino) - World's most powerful data catalog service with providing a high-performance, geo-distributed and federated metadata lake.
 * 【2024-04-11】[quartz-scheduler / quartz](https://github.com/quartz-scheduler/quartz) - Code for Quartz Scheduler
 * 【2024-04-10】[Gayanukaa / Spring-Boot-Playground](https://github.com/Gayanukaa/Spring-Boot-Playground) - Self-Learn and Testing Environment
@@ -1356,6 +1361,12 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-04-12】[aixcoder-plugin / aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
+* 【2024-04-12】[celery / celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
+* 【2024-04-12】[THUDM / ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
+* 【2024-04-12】[PrefectHQ / prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+* 【2024-04-12】[newren / git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
+* 【2024-04-12】[cyrus-and / gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 * 【2024-04-11】[LlamaFamily / Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
 * 【2024-04-11】[jmerle / imc-prosperity-2-backtester](https://github.com/jmerle/imc-prosperity-2-backtester) - Backtester for IMC Prosperity 2 algorithms
 * 【2024-04-11】[Filimoa / open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
@@ -2184,6 +2195,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-04-12】[TonyJiangWJ / Ant-Forest](https://github.com/TonyJiangWJ/Ant-Forest) - 基于AutoJS的蚂蚁森林收能量脚本
 * 【2024-04-11】[camwiegert / typical](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 * 【2024-04-10】[stackframe-projects / pgmock](https://github.com/stackframe-projects/pgmock) - In-memory Postgres for unit/E2E tests
 * 【2024-04-10】[alexpinel / Dot](https://github.com/alexpinel/Dot) - Standalone app for fully local RAG with Mistral 7B
@@ -2872,6 +2884,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-04-12】[dolthub / go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
+* 【2024-04-12】[kubeedge / kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 * 【2024-04-11】[flipt-io / reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 * 【2024-04-10】[0xERR0R / blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 * 【2024-04-10】[metallb / metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
@@ -3546,6 +3560,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-04-12】[ZipArchive / ZipArchive](https://github.com/ZipArchive/ZipArchive) - ZipArchive is a simple utility class for zipping and unzipping files on iOS, macOS and tvOS.
 * 【2024-04-11】[bb-qq / r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters
 * 【2024-04-11】[fairyglade / ly](https://github.com/fairyglade/ly) - display manager with console UI
 * 【2024-04-10】[espressif / esp-adf](https://github.com/espressif/esp-adf) - Espressif Audio Development Framework
@@ -4106,6 +4121,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-04-12】[microsoft / proxy](https://github.com/microsoft/proxy) - Proxy: Next Generation Polymorphism in C++
+* 【2024-04-12】[Kitware / VTK](https://github.com/Kitware/VTK) - Mirror of Visualization Toolkit repository
+* 【2024-04-12】[mfem / mfem](https://github.com/mfem/mfem) - Lightweight, general, scalable C++ library for finite element methods
 * 【2024-04-11】[s60sc / ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) - ESP32 Camera motion capture application to record JPEGs to SD card as AVI files and stream to browser as MJPEG. If a microphone is installed then a WAV file is also created. Files can be uploaded via FTP or downloaded to browser.
 * 【2024-04-11】[GothenburgBitFactory / taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 * 【2024-04-09】[zk-Call / zkp-hmac-communication-cpp](https://github.com/zk-Call/zkp-hmac-communication-cpp) - "Zero-Knowledge" Proof Implementation with HMAC Communication in C++
@@ -4658,6 +4676,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-04-12】[kwsch / ItemPrinterDeGacha](https://github.com/kwsch/ItemPrinterDeGacha) - Calculation tool for Scarlet/Violet's Item Printer
+* 【2024-04-12】[builtbybel / Winpilot](https://github.com/builtbybel/Winpilot) - Your everyday Windows companion
 * 【2024-04-11】[blake502 / balatro-apk-maker](https://github.com/blake502/balatro-apk-maker) - Create a Balatro APK from your Steam version of Balatro
 * 【2024-04-11】[amantinband / error-or](https://github.com/amantinband/error-or) - A simple, fluent discriminated union of an error or a result.
 * 【2024-04-11】[Tyrrrz / LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
@@ -5198,6 +5218,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-04-12】[WuSuoV / YioveGetIP](https://github.com/WuSuoV/YioveGetIP) - 实时获取当前 IP 地址，支持多线路，包括中国移动、中国联通、中国电信、海外线路，以及访问谷歌等特殊网站。
 * 【2024-04-11】[microsoft / BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly-customizable web-based client for Azure Bot Services.
 * 【2024-04-11】[xvvvyz / tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
 * 【2024-04-11】[alura-challenges / challenge-one-portafolio-latam](https://github.com/alura-challenges/challenge-one-portafolio-latam) - Repositorio base para desafio 1 Cree su própio Portafolio del Challenge ONE Front end
@@ -5682,6 +5703,9 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-04-12】[BethMassi / HybridSharedUI](https://github.com/BethMassi/HybridSharedUI) - This is an example of a starter solution that sets up a MAUI hybrid app and a Blazor web app that shares all of its UI
+* 【2024-04-12】[open-webui / docs](https://github.com/open-webui/docs) - 
+* 【2024-04-12】[aneagoie / keiko-corp](https://github.com/aneagoie/keiko-corp) - The greatest startup ever created
 * 【2024-04-11】[parthwebdev / UI-Components](https://github.com/parthwebdev/UI-Components) - Some Awesome UI Components made with HTML, CSS and JavaScript.
 * 【2024-04-11】[kpman / blog](https://github.com/kpman/blog) - Personal blog powered by Next.js
 * 【2024-04-11】[MuriithiEric / plp-task-management](https://github.com/MuriithiEric/plp-task-management) - 
@@ -6204,6 +6228,9 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-04-12】[zhuima / awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。
+* 【2024-04-12】[ga642381 / speech-trident](https://github.com/ga642381/speech-trident) - Awesome speech/audio LLMs, representation learning, and codec models
+* 【2024-04-12】[0xk1h0 / ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 * 【2024-04-11】[kelseyhightower / kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 * 【2024-04-11】[trusted-point / 0g-tools](https://github.com/trusted-point/0g-tools) - 0G Validator Guide
 * 【2024-04-11】[ddz16 / TSFpaper](https://github.com/ddz16/TSFpaper) - This repository contains a reading list of papers on Time Series Forecasting/Prediction (TSF) and Spatio-Temporal Forecasting/Prediction (STF). These papers are mainly categorized according to the type of model.
