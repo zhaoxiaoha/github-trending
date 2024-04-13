@@ -1,6 +1,11 @@
 ### Github热门项目
 ## All language
 
+* 【2024-04-13】[YuriiCrimson / ExploitGSM](https://github.com/YuriiCrimson/ExploitGSM) - Exploit for 6.4 - 6.5 kernels and another exploit for 5.15 - 6.5
+* 【2024-04-13】[google-gemini / cookbook](https://github.com/google-gemini/cookbook) - A collection of guides and examples for the Gemini API.
+* 【2024-04-13】[PKU-YuanGroup / MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
+* 【2024-04-13】[grafana / alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
+* 【2024-04-13】[IDEA-Research / GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) - Official implementation of the paper "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
 * 【2024-04-12】[nus-apr / auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement
 * 【2024-04-12】[tidwall / neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines)
 * 【2024-04-12】[penpot / penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
@@ -1361,6 +1366,11 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-04-13】[google-deepmind / recurrentgemma](https://github.com/google-deepmind/recurrentgemma) - Open weights language model from Google DeepMind, based on Griffin.
+* 【2024-04-13】[AIRI-Institute / OmniFusion](https://github.com/AIRI-Institute/OmniFusion) - OmniFusion — a multimodal model to communicate using text and images
+* 【2024-04-13】[huggingface / parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
+* 【2024-04-13】[trekhleb / learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+* 【2024-04-13】[NaishengZhang / book-recommendation-system](https://github.com/NaishengZhang/book-recommendation-system) - Book Recommendation System
 * 【2024-04-12】[aixcoder-plugin / aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
 * 【2024-04-12】[celery / celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 * 【2024-04-12】[THUDM / ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
@@ -2195,6 +2205,10 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-04-13】[apachecn / rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) - 
+* 【2024-04-13】[nextapps-de / flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+* 【2024-04-13】[dai-shi / use-signals](https://github.com/dai-shi/use-signals) - An experimental React hook for TC39 signals
+* 【2024-04-13】[moment / moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 * 【2024-04-12】[TonyJiangWJ / Ant-Forest](https://github.com/TonyJiangWJ/Ant-Forest) - 基于AutoJS的蚂蚁森林收能量脚本
 * 【2024-04-11】[camwiegert / typical](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 * 【2024-04-10】[stackframe-projects / pgmock](https://github.com/stackframe-projects/pgmock) - In-memory Postgres for unit/E2E tests
@@ -2884,6 +2898,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-04-13】[sigstore / cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 * 【2024-04-12】[dolthub / go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 * 【2024-04-12】[kubeedge / kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 * 【2024-04-11】[flipt-io / reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
@@ -3560,6 +3575,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-04-13】[linux-rdma / rdma-core](https://github.com/linux-rdma/rdma-core) - RDMA core userspace libraries and daemons
+* 【2024-04-13】[tukaani-project / xz](https://github.com/tukaani-project/xz) - XZ Utils
 * 【2024-04-12】[ZipArchive / ZipArchive](https://github.com/ZipArchive/ZipArchive) - ZipArchive is a simple utility class for zipping and unzipping files on iOS, macOS and tvOS.
 * 【2024-04-11】[bb-qq / r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters
 * 【2024-04-11】[fairyglade / ly](https://github.com/fairyglade/ly) - display manager with console UI
@@ -4676,6 +4693,10 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-04-13】[lostindark / DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
+* 【2024-04-13】[peass-ng / PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+* 【2024-04-13】[DotNetNext / SqlSugar](https://github.com/DotNetNext/SqlSugar) - .Net aot ORM Fastest ORM Simple Easy Sqlite orm Oracle ORM Mysql Orm postgresql ORm SqlServer oRm 达梦 ORM 人大金仓 ORM 神通ORM C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM ClickHouse orm QuestDb ,TDengine ORM,OceanBase orm,GaussDB orm ,Tidb orm Object/Relational Mapping
+* 【2024-04-13】[Azure / azure-cosmos-dotnet-v3](https://github.com/Azure/azure-cosmos-dotnet-v3) - .NET SDK for Azure Cosmos DB for the core SQL API
 * 【2024-04-12】[kwsch / ItemPrinterDeGacha](https://github.com/kwsch/ItemPrinterDeGacha) - Calculation tool for Scarlet/Violet's Item Printer
 * 【2024-04-12】[builtbybel / Winpilot](https://github.com/builtbybel/Winpilot) - Your everyday Windows companion
 * 【2024-04-11】[blake502 / balatro-apk-maker](https://github.com/blake502/balatro-apk-maker) - Create a Balatro APK from your Steam version of Balatro
@@ -5218,6 +5239,11 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-04-13】[ClickHouse / adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
+* 【2024-04-13】[Qadeer0937 / Dead-By-Daylight-Extrnl](https://github.com/Qadeer0937/Dead-By-Daylight-Extrnl) - for youtube video
+* 【2024-04-13】[Ben00000000 / Working-Hwid-Spoofer](https://github.com/Ben00000000/Working-Hwid-Spoofer) - 
+* 【2024-04-13】[tc39 / proposal-set-methods](https://github.com/tc39/proposal-set-methods) - Proposal for new Set methods in JS
+* 【2024-04-13】[naxiaoduo / 1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
 * 【2024-04-12】[WuSuoV / YioveGetIP](https://github.com/WuSuoV/YioveGetIP) - 实时获取当前 IP 地址，支持多线路，包括中国移动、中国联通、中国电信、海外线路，以及访问谷歌等特殊网站。
 * 【2024-04-11】[microsoft / BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly-customizable web-based client for Azure Bot Services.
 * 【2024-04-11】[xvvvyz / tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
@@ -5703,6 +5729,11 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-04-13】[github-copilot-workshop / copilot-petclinic](https://github.com/github-copilot-workshop/copilot-petclinic) - 
+* 【2024-04-13】[sapondanaisriwan / AdashimaaTube](https://github.com/sapondanaisriwan/AdashimaaTube) - Restore old Youtube layout in 2021-2022 with many customizable options.
+* 【2024-04-13】[ShreyNaithani / Movavi-Free-Crack](https://github.com/ShreyNaithani/Movavi-Free-Crack) - 
+* 【2024-04-13】[ISM6225 / Assignment_LookAndFeel](https://github.com/ISM6225/Assignment_LookAndFeel) - 
+* 【2024-04-13】[AbyssServices / Abyss-Web](https://github.com/AbyssServices/Abyss-Web) - Abyss is an advanced proxy service that provides modern unblocking for all users who use it.
 * 【2024-04-12】[BethMassi / HybridSharedUI](https://github.com/BethMassi/HybridSharedUI) - This is an example of a starter solution that sets up a MAUI hybrid app and a Blazor web app that shares all of its UI
 * 【2024-04-12】[open-webui / docs](https://github.com/open-webui/docs) - 
 * 【2024-04-12】[aneagoie / keiko-corp](https://github.com/aneagoie/keiko-corp) - The greatest startup ever created
@@ -6228,6 +6259,11 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-04-13】[zhiwehu / Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
+* 【2024-04-13】[WUYANXIUSHI / BLACK_NEWS](https://github.com/WUYANXIUSHI/BLACK_NEWS) - 北京邮电大学郑凤事件完整pdf
+* 【2024-04-13】[Edr4 / XSS-Bypass-Filters](https://github.com/Edr4/XSS-Bypass-Filters) - 
+* 【2024-04-13】[eric-ai-lab / swap-anything](https://github.com/eric-ai-lab/swap-anything) - 
+* 【2024-04-13】[CLOUDUH / dual-wechat](https://github.com/CLOUDUH/dual-wechat) - 如何在Mac上通过脚本实现微信双开，并通过自动操作创建应用程序，修改图标后直接当作第二个微信使用，无需打开终端输入代码，且双开后无终端出现。
 * 【2024-04-12】[zhuima / awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。
 * 【2024-04-12】[ga642381 / speech-trident](https://github.com/ga642381/speech-trident) - Awesome speech/audio LLMs, representation learning, and codec models
 * 【2024-04-12】[0xk1h0 / ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
