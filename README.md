@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-04-15】[openai / simple-evals](https://github.com/openai/simple-evals) - 
+* 【2024-04-15】[datawhalechina / llm-universe](https://github.com/datawhalechina/llm-universe) - 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/
 * 【2024-04-14】[eknkc / ssr-benchmark](https://github.com/eknkc/ssr-benchmark) - Benchmarking JS web framework SSR performance
 * 【2024-04-14】[itsmattkc / dotnet9x](https://github.com/itsmattkc/dotnet9x) - Backport of .NET 2.0 - 3.5 to Windows 9x
 * 【2024-04-14】[Azure / Copilot-For-Security](https://github.com/Azure/Copilot-For-Security) - Microsoft Copilot for Security is a generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles
@@ -812,6 +814,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-04-15】[hebian1994 / cloud2024](https://github.com/hebian1994/cloud2024) - 
+* 【2024-04-15】[uncle-novel / uncle-novel](https://github.com/uncle-novel/uncle-novel) - 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
+* 【2024-04-15】[openzipkin / zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 * 【2024-04-14】[apache / hertzbeat](https://github.com/apache/hertzbeat) - HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 * 【2024-04-12】[apereo / cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 * 【2024-04-11】[datastrato / gravitino](https://github.com/datastrato/gravitino) - World's most powerful data catalog service with providing a high-performance, geo-distributed and federated metadata lake.
@@ -1373,6 +1378,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-04-15】[OpenBMB / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.0: An Efficient End-side MLLM with Strong OCR and Understanding Capabilities
+* 【2024-04-15】[chengaopan / AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) - 自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子
 * 【2024-04-14】[huggingface / dataspeech](https://github.com/huggingface/dataspeech) - 
 * 【2024-04-14】[VRSEN / agency-swarm-lab](https://github.com/VRSEN/agency-swarm-lab) - 
 * 【2024-04-13】[google-deepmind / recurrentgemma](https://github.com/google-deepmind/recurrentgemma) - Open weights language model from Google DeepMind, based on Griffin.
@@ -2214,6 +2221,10 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-04-15】[gezhaoyou / picprose](https://github.com/gezhaoyou/picprose) - PicProse is a better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others
+* 【2024-04-15】[adrianhajdin / aora](https://github.com/adrianhajdin/aora) - Build your first mobile application
+* 【2024-04-15】[eidam / cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
+* 【2024-04-15】[go-shiori / shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 * 【2024-04-14】[leibnizli / hummingbird](https://github.com/leibnizli/hummingbird) - A compression (jpg/png/webp/svg/gif/css/js/html/mp4/mov) App, it can convert different format pictures, support for macOS and Windows.
 * 【2024-04-14】[safak / react-firebase-chat](https://github.com/safak/react-firebase-chat) - 
 * 【2024-04-14】[pixeltris / TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
@@ -2910,6 +2921,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-04-15】[snail007 / goproxy](https://github.com/snail007/goproxy) - 🔥 Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
+* 【2024-04-15】[FyshOS / fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 * 【2024-04-13】[sigstore / cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 * 【2024-04-12】[dolthub / go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 * 【2024-04-12】[kubeedge / kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
@@ -3587,6 +3600,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-04-15】[antirez / linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 * 【2024-04-13】[linux-rdma / rdma-core](https://github.com/linux-rdma/rdma-core) - RDMA core userspace libraries and daemons
 * 【2024-04-13】[tukaani-project / xz](https://github.com/tukaani-project/xz) - XZ Utils
 * 【2024-04-12】[ZipArchive / ZipArchive](https://github.com/ZipArchive/ZipArchive) - ZipArchive is a simple utility class for zipping and unzipping files on iOS, macOS and tvOS.
@@ -5252,6 +5266,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-04-15】[jbloomAus / SAELens](https://github.com/jbloomAus/SAELens) - Training Sparse Autoencoders on Language Models
+* 【2024-04-15】[tomitokko / ai-blog-article-generator](https://github.com/tomitokko/ai-blog-article-generator) - 
 * 【2024-04-14】[stanford-oval / storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 * 【2024-04-14】[OWASP / Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 * 【2024-04-14】[dragon731012 / -WORKING-bookmarklets-and-games](https://github.com/dragon731012/-WORKING-bookmarklets-and-games) - thanks guys so much for the stars and forks. over 60 working bookmarklets and games-please star and check out my discord server! Thanks! news: added cool cursor
@@ -5745,6 +5761,9 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-04-15】[mahfuz0001 / onyxium-sass](https://github.com/mahfuz0001/onyxium-sass) - Become more active with our psychologist AI
+* 【2024-04-15】[pyOpenSci / python-package-guide](https://github.com/pyOpenSci/python-package-guide) - scientific Python package recommendations & guidance curated by pyOpenSci
+* 【2024-04-15】[10-5-pursuit / lab-react-state-objects](https://github.com/10-5-pursuit/lab-react-state-objects) - 
 * 【2024-04-14】[rodolfomori / dev-previsao](https://github.com/rodolfomori/dev-previsao) - 
 * 【2024-04-14】[TheBridge-FullStackDeveloper / gitData](https://github.com/TheBridge-FullStackDeveloper/gitData) - 
 * 【2024-04-13】[github-copilot-workshop / copilot-petclinic](https://github.com/github-copilot-workshop/copilot-petclinic) - 
@@ -6277,6 +6296,10 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-04-15】[microsoft / rho](https://github.com/microsoft/rho) - Repo for Rho-1: Token-level Data Selection & Selective Pretraining of LLMs.
+* 【2024-04-15】[henry123-boy / SpaTracker](https://github.com/henry123-boy/SpaTracker) - 
+* 【2024-04-15】[ai-collection / ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+* 【2024-04-15】[ikaijua / Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
 * 【2024-04-14】[Abhay5855 / Mission-frontend](https://github.com/Abhay5855/Mission-frontend) - A curated list of Javascript, React, Machine coding problems, Pattern questions, basic backend knowledge and fundamentals questions all in one.
 * 【2024-04-14】[SamurAIGPT / Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - A list of top AI agents
 * 【2024-04-14】[DEBAGanov / interview_questions](https://github.com/DEBAGanov/interview_questions) - Java Developer Interview Preparation Materials
