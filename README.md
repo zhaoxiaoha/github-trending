@@ -1,6 +1,10 @@
 ### Github热门项目
 ## All language
 
+* 【2024-04-17】[GraphiteEditor / Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+* 【2024-04-17】[skydoves / pokedex-compose](https://github.com/skydoves/pokedex-compose) - 🗡️ Pokedex Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
+* 【2024-04-17】[intuitem / ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is an open-source one-stop-shop for GRC - Risk and Audit Management supporting multiple standards: NIST CSF, ISO 27001, NIS2, SOC2, PCI DSS, CMMC, PSPF, GDPR, HIPAA, Essential Eight, DFS-500, DORA, NIST AI RMF, CyFun, AirCyber and more
+* 【2024-04-17】[bitnami / containers](https://github.com/bitnami/containers) - Bitnami container images
 * 【2024-04-16】[tonyke-bot / ore-miner](https://github.com/tonyke-bot/ore-miner) - ORE Miner built on top of Jito bundle with both CPU and GPU support.
 * 【2024-04-16】[jina-ai / reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 * 【2024-04-16】[hydralauncher / hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
@@ -817,6 +821,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-04-17】[apache / zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
+* 【2024-04-17】[MohamedMetwalli5 / LeetCode-Solutions](https://github.com/MohamedMetwalli5/LeetCode-Solutions) - ✅🟨 These solutions are designed specifically for beginners on LeetCode, addressing many problems using code and animations. They will be continuously updated to facilitate better understanding for beginners.
 * 【2024-04-16】[Hafthor / zsvutil](https://github.com/Hafthor/zsvutil) - ZSV Utility for converting csv/tsv to/from zip-separated-values
 * 【2024-04-16】[Julow / Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 * 【2024-04-16】[alipay / alipay-sdk-java-all](https://github.com/alipay/alipay-sdk-java-all) - 支付宝开放平台 Alipay SDK for Java
@@ -1384,6 +1390,13 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-04-17】[WeChatAPIs / WeChatMsgHistory_real](https://github.com/WeChatAPIs/WeChatMsgHistory_real) - Real-time Chat-重现微信群组和个人聊天记录查询项目，本项目为开发者和研究者提供一种深入查看微信聊天内容的解决方案，允许用户在特定条件下获取特定群组或私聊的聊天记录，并通过我们提供的API进行控制
+* 【2024-04-17】[nlpxucan / WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
+* 【2024-04-17】[RUCAIBox / LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
+* 【2024-04-17】[DeepInsight-AI / DeepBI](https://github.com/DeepInsight-AI/DeepBI) - LLM based data scientist, AI native data application. AI-driven infinite thinking redefines BI.
+* 【2024-04-17】[InternLM / xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM, Llama, Baichuan, Qwen, ChatGLM)
+* 【2024-04-17】[archlinux / archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
+* 【2024-04-17】[lwd-temp / anti-ip-attribution](https://github.com/lwd-temp/anti-ip-attribution) - 针对部分网站显示IP归属地的流量分流规则
 * 【2024-04-16】[TencentARC / InstantMesh](https://github.com/TencentARC/InstantMesh) - InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models
 * 【2024-04-16】[jina-ai / jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 * 【2024-04-16】[wligithub / tax-tool](https://github.com/wligithub/tax-tool) - Automated Personal Tax Preparing Tool for VMW-AVGO Merger
@@ -2231,6 +2244,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-04-17】[Bistutu / FluentRead](https://github.com/Bistutu/FluentRead) - 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。
 * 【2024-04-16】[Oligard008 / Pancakeswap-Bot](https://github.com/Oligard008/Pancakeswap-Bot) - Bot for PancakeSwap Prediction – 30technical indicators. Multichain with MetaMask
 * 【2024-04-16】[NaishengZhang / blog](https://github.com/NaishengZhang/blog) - Blog Platform Using Spring Boot
 * 【2024-04-15】[gezhaoyou / picprose](https://github.com/gezhaoyou/picprose) - PicProse is a better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others
@@ -2933,6 +2947,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-04-17】[nalgeon / redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
+* 【2024-04-17】[NVIDIA / k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes
 * 【2024-04-16】[Simple-Tracker / qBittorrent-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker) - 一款适用于 qBittorrent/Transmission (Beta) 的客户端屏蔽器, 默认屏蔽包括但不限于迅雷 (XunLei/XL0012) 等客户端. A client blocker compatible with qBittorrent/Transmission (Beta) which is prohibited to include but not limited to clients such as Xunlei.
 * 【2024-04-16】[k8snetworkplumbingwg / multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes
 * 【2024-04-16】[Kethsar / ytarchive](https://github.com/Kethsar/ytarchive) - Garbage Youtube livestream downloader
@@ -3616,6 +3632,11 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-04-17】[DosX-dev / obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
+* 【2024-04-17】[xiph / rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
+* 【2024-04-17】[HypoPG / hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
+* 【2024-04-17】[containers / bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
+* 【2024-04-17】[openrazer / openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 * 【2024-04-15】[antirez / linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 * 【2024-04-13】[linux-rdma / rdma-core](https://github.com/linux-rdma/rdma-core) - RDMA core userspace libraries and daemons
 * 【2024-04-13】[tukaani-project / xz](https://github.com/tukaani-project/xz) - XZ Utils
@@ -4180,6 +4201,10 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-04-17】[alexbatalov / fallout1-ce](https://github.com/alexbatalov/fallout1-ce) - Fallout for modern operating systems
+* 【2024-04-17】[CodingGay / BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
+* 【2024-04-17】[AngusJohnson / Clipper2](https://github.com/AngusJohnson/Clipper2) - Polygon Clipping and Offsetting - C++, C# and Delphi
+* 【2024-04-17】[microsoft / react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
 * 【2024-04-16】[alexbatalov / fallout2-ce](https://github.com/alexbatalov/fallout2-ce) - Fallout 2 for modern operating systems
 * 【2024-04-16】[sogou / workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Framework
 * 【2024-04-14】[uNetworking / uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -4738,6 +4763,9 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-04-17】[dotnet / BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
+* 【2024-04-17】[mcintyre321 / OneOf](https://github.com/mcintyre321/OneOf) - Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching
+* 【2024-04-17】[Azure / data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
 * 【2024-04-13】[lostindark / DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
 * 【2024-04-13】[peass-ng / PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 * 【2024-04-13】[DotNetNext / SqlSugar](https://github.com/DotNetNext/SqlSugar) - .Net aot ORM Fastest ORM Simple Easy Sqlite orm Oracle ORM Mysql Orm postgresql ORm SqlServer oRm 达梦 ORM 人大金仓 ORM 神通ORM C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM ClickHouse orm QuestDb ,TDengine ORM,OceanBase orm,GaussDB orm ,Tidb orm Object/Relational Mapping
@@ -5779,6 +5807,10 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-04-17】[mayanks / wisetrack](https://github.com/mayanks/wisetrack) - Finance management application
+* 【2024-04-17】[Technigo / project-labyrinth-zustand-vite](https://github.com/Technigo/project-labyrinth-zustand-vite) - 
+* 【2024-04-17】[typora / theme.typora.io](https://github.com/typora/theme.typora.io) - Website for Typora themes
+* 【2024-04-17】[chengzhongxue / halo-theme-hao](https://github.com/chengzhongxue/halo-theme-hao) - 
 * 【2024-04-16】[TheBridge-FullStackDeveloper / colors](https://github.com/TheBridge-FullStackDeveloper/colors) - 
 * 【2024-04-16】[edudark1000 / Veteran-Loader-70-Games-Supported](https://github.com/edudark1000/Veteran-Loader-70-Games-Supported) - 
 * 【2024-04-16】[FQQD / MCServer-Web-Template](https://github.com/FQQD/MCServer-Web-Template) - A template for a modern looking website to promote your Minecraft server
@@ -6318,6 +6350,9 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-04-17】[FavioVazquez / ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
+* 【2024-04-17】[cqcore / Fact-Checking-Verification](https://github.com/cqcore/Fact-Checking-Verification) - Find helpful tools and resources to help you fact check and analyse, fake news and AI generated imagery.
+* 【2024-04-17】[JayHeng / pzh-mcu-bi-weekly](https://github.com/JayHeng/pzh-mcu-bi-weekly) - 痞子衡嵌入式半月刊，分享嵌入式领域有用有趣的工具或项目以及一些热点新闻。从2020年2月起，每半个月发布一期
 * 【2024-04-16】[jeffreycayao / pinginfoview](https://github.com/jeffreycayao/pinginfoview) - PingInfoView is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the result in one table. It automatically ping to all hosts every number of seconds that you specify, and displays the number of succeed and failed pings, as well as the average ping time. You can also save the ping result into text/htm…
 * 【2024-04-16】[hujingguang / ChinaIPTV](https://github.com/hujingguang/ChinaIPTV) - 中国电视直播源 cnTV m3u（实时更新,长期有效）
 * 【2024-04-16】[EdOverflow / bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
