@@ -1,6 +1,11 @@
 ### Github热门项目
 ## All language
 
+* 【2024-04-21】[meta-llama / llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+* 【2024-04-21】[code100x / chess](https://github.com/code100x/chess) - A multiplayer chess platform similar to https://chess.com/
+* 【2024-04-21】[meta-llama / llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger
+* 【2024-04-21】[timpaul / form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - 
+* 【2024-04-21】[harperreed / photo-similarity-search](https://github.com/harperreed/photo-similarity-search) - Super simple MLX (apple silicon) CLIP based photo similarity web app
 * 【2024-04-20】[rileytestut / Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 * 【2024-04-20】[meta-llama / PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 * 【2024-04-20】[WINSDK / bite](https://github.com/WINSDK/bite) - Disassembler focused on comprehensive rust support.
@@ -838,6 +843,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-04-21】[PlayEdu / PlayEdu](https://github.com/PlayEdu/PlayEdu) - 100%开源的企业培训系统，界面美观，操作简单，一键部署您的私有化培训平台！
 * 【2024-04-20】[grishka / poke.dex](https://github.com/grishka/poke.dex) - 
 * 【2024-04-20】[akto-api-security / akto](https://github.com/akto-api-security/akto) - Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
 * 【2024-04-20】[iohao / ioGame](https://github.com/iohao/ioGame) - 无锁异步化、事件驱动架构设计的 java netty 网络编程框架； 轻量级，无需依赖任何第三方中间件或数据库就能支持集群、分布式； 适用于网络游戏服务器、物联网、内部系统及各种需要长连接的场景； 通过 ioGame 你可以很容易的搭建出一个集群无中心节点、集群自动化、分布式的网络服务器；fxgl netty protobuf unity3d godot cocos Creator websocket tcp socket
@@ -1413,6 +1419,12 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-04-21】[Upsonic / Tiger](https://github.com/Upsonic/Tiger) - Neuralink for your AI Agents - LangChain - Autogen - CrewAI
+* 【2024-04-21】[facebookresearch / generative-recommenders](https://github.com/facebookresearch/generative-recommenders) - Repository hosting code used to reproduce results in "Actions Speak Louder than Words Trillion-Parameter Sequential Transducers for Generative Recommendations" (https://arxiv.org/abs/2402.17152).
+* 【2024-04-21】[QwenLM / CodeQwen1.5](https://github.com/QwenLM/CodeQwen1.5) - CodeQwen1.5 is the code version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
+* 【2024-04-21】[theowni / Damn-Vulnerable-RESTaurant-API-Game](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) - Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.
+* 【2024-04-21】[DAMO-NLP-SG / Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - [EMNLP 2023 Demo] Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding
+* 【2024-04-21】[mahdibland / V2RayAggregator](https://github.com/mahdibland/V2RayAggregator) - Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed
 * 【2024-04-20】[mistralai / mistral-common](https://github.com/mistralai/mistral-common) - 
 * 【2024-04-20】[binarly-io / binary-risk-intelligence](https://github.com/binarly-io/binary-risk-intelligence) - Binary Risk Intelligence
 * 【2024-04-20】[meta-llama / llama](https://github.com/meta-llama/llama) - Inference code for Llama models
@@ -2287,6 +2299,9 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-04-21】[replicate / llama-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 3 chat app
+* 【2024-04-21】[Arun020 / Jarvis-AI](https://github.com/Arun020/Jarvis-AI) - A small virtual Assistant
+* 【2024-04-21】[archtaurus / RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
 * 【2024-04-20】[fishjar / kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 * 【2024-04-20】[facebook / react-native-website](https://github.com/facebook/react-native-website) - The React Native website and docs
 * 【2024-04-20】[UseInterstellar / Interstellar](https://github.com/UseInterstellar/Interstellar) - One of the most popular modern web proxies with blazing fast speeds and a variety of games.
@@ -2998,6 +3013,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-04-21】[marco-liberale / PasteBomb](https://github.com/marco-liberale/PasteBomb) - PasteBomb C2-less RAT
+* 【2024-04-21】[danvergara / morphos](https://github.com/danvergara/morphos) - Self-hosted file converter server
 * 【2024-04-19】[charmbracelet / vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 * 【2024-04-19】[omni-network / omni](https://github.com/omni-network/omni) - Monorepo for Omni node, contracts and other related tools
 * 【2024-04-17】[nalgeon / redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
@@ -3685,6 +3702,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-04-21】[fgkeepalive / AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) - 2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
+* 【2024-04-21】[loopj / short-stack](https://github.com/loopj/short-stack) - World's Smallest Nintendo Wii, using a trimmed motherboard and custom stacked PCBs
+* 【2024-04-21】[yoshisuga / MAME4iOS](https://github.com/yoshisuga/MAME4iOS) - Multiple Arcade Machine Emulator for iOS, iPadOS, tvOS, macOS (Catalyst)
 * 【2024-04-20】[antirez / zx2040](https://github.com/antirez/zx2040) - RP2040 ZX Spectrum emulator
 * 【2024-04-20】[Nero22k / Exploits](https://github.com/Nero22k/Exploits) - Repo with different exploits & PoCs
 * 【2024-04-20】[leandromoreira / ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷
@@ -4259,6 +4279,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-04-21】[gottingen / hercules](https://github.com/gottingen/hercules) - aot compiler
+* 【2024-04-21】[AztecProtocol / aztec-packages](https://github.com/AztecProtocol/aztec-packages) - 
 * 【2024-04-20】[EvanMcBroom / lsa-whisperer](https://github.com/EvanMcBroom/lsa-whisperer) - Tools for interacting with authentication packages using their individual message protocols
 * 【2024-04-20】[Meowmycks / LetMeowIn](https://github.com/Meowmycks/LetMeowIn) - A sophisticated, covert Windows-based credential dumper using C++ and MASM x64.
 * 【2024-04-20】[iree-org / iree](https://github.com/iree-org/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
@@ -4825,6 +4847,9 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-04-21】[Navi-Studio / Virtual-Human-for-Chatting](https://github.com/Navi-Studio/Virtual-Human-for-Chatting) - Live2D Virtual Human for Chatting based on Unity
+* 【2024-04-21】[AutoMapper / AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
+* 【2024-04-21】[Harlan-H / M3u8Downloader_H](https://github.com/Harlan-H/M3u8Downloader_H) - [.net6]m3u8下载器,功能强大,多线程,多任务,支持aes-128-cbc解密,自定义请求头,自定义插件
 * 【2024-04-20】[open-telemetry / opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) - This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.
 * 【2024-04-20】[dotnet / aspire-samples](https://github.com/dotnet/aspire-samples) - 
 * 【2024-04-20】[Azure / azure-functions-core-tools](https://github.com/Azure/azure-functions-core-tools) - Command line tools for Azure Functions
@@ -5381,6 +5406,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-04-21】[Huxpro / huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 * 【2024-04-20】[jokob-sk / NetAlertX](https://github.com/jokob-sk/NetAlertX) - 💻🔍 WIFI / LAN intruder detector. Scans for devices connected to your network and alerts you if new and unknown devices are found.
 * 【2024-04-20】[serenity-bdd / serenity-core](https://github.com/serenity-bdd/serenity-core) - Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun.
 * 【2024-04-20】[ganlanyuan / tiny-slider](https://github.com/ganlanyuan/tiny-slider) - Vanilla javascript slider for all purposes.
@@ -5883,6 +5909,10 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-04-21】[muk-as / DOTA2_CLIENT](https://github.com/muk-as/DOTA2_CLIENT) - 
+* 【2024-04-21】[munris-vlad / munris.tech](https://github.com/munris-vlad/munris.tech) - 
+* 【2024-04-21】[jckermagoret / jckermagoret.github.com](https://github.com/jckermagoret/jckermagoret.github.com) - Personal Web Site
+* 【2024-04-21】[cssanimation / css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
 * 【2024-04-20】[supabase / auth-js](https://github.com/supabase/auth-js) - An isomorphic Javascript library for Supabase Auth.
 * 【2024-04-20】[paveltocto / chat_nodejs](https://github.com/paveltocto/chat_nodejs) - Chat NodeJs
 * 【2024-04-20】[Jas-SinghFSU / homepage-catppuccin](https://github.com/Jas-SinghFSU/homepage-catppuccin) - 
@@ -6439,6 +6469,12 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-04-21】[315386775 / DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目
+* 【2024-04-21】[Psmths / windows-forensic-artifacts](https://github.com/Psmths/windows-forensic-artifacts) - Handbook of windows forensic artifacts across multiple Windows version with interpretation tips with some examples. Work in progress!
+* 【2024-04-21】[Aikoyori / ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
+* 【2024-04-21】[openlm-research / open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
+* 【2024-04-21】[thecodeholic / php-developer-roadmap](https://github.com/thecodeholic/php-developer-roadmap) - This is PHP Developer Roadmap
+* 【2024-04-21】[tora-in-net / onion-sites-list-2024](https://github.com/tora-in-net/onion-sites-list-2024) - 
 * 【2024-04-20】[ziishaned / learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 * 【2024-04-20】[ronakganatra / awesome-marketing](https://github.com/ronakganatra/awesome-marketing) - A living document of hand-picked resources for marketers.
 * 【2024-04-20】[yonggekkk / x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，集成argo隧道，默认节点即可解锁ChatGPT，xray配置已添加支持warp-socks5与wireguard warp出站分流，实现多IP出站分流共存
