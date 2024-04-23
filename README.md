@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-04-23】[open-webui / open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+* 【2024-04-23】[joschan21 / profanity.dev](https://github.com/joschan21/profanity.dev) - 
 * 【2024-04-22】[moest-np / center-randomize](https://github.com/moest-np/center-randomize) - Script is to assign exam centers to students
 * 【2024-04-22】[sadmann7 / shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination.
 * 【2024-04-21】[meta-llama / llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
@@ -845,6 +847,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-04-23】[InterviewReady / Concurrency-Tester](https://github.com/InterviewReady/Concurrency-Tester) - A tester that checks for correctness of code in distributed systems.
 * 【2024-04-22】[527515025 / springBoot](https://github.com/527515025/springBoot) - springboot 框架与其它组件结合如 jpa、mybatis、websocket、security、shiro、cache等
 * 【2024-04-22】[limboemu / limbo](https://github.com/limboemu/limbo) - Limbo is a QEMU-based emulator for Android. It currently supports x86, ARM, PowerPC, and Sparc emulation for Intel x86 and ARM android devices. See wiki https://virtualmachinery.weebly.com for APK download and Instructions.
 * 【2024-04-22】[M66B / FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
@@ -1425,6 +1428,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-04-23】[benbusby / whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+* 【2024-04-23】[tinyzqh / light_mappo](https://github.com/tinyzqh/light_mappo) - Lightweight version of MAPPO to help you quickly migrate to your local environment.
 * 【2024-04-22】[Ultimaker / Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 * 【2024-04-22】[MetaCubeX / mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 * 【2024-04-22】[liming-ai / ControlNet_Plus_Plus](https://github.com/liming-ai/ControlNet_Plus_Plus) - Inference code for: ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback
@@ -2310,6 +2315,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-04-23】[horizon-ui / horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript ⭐️ The trendiest & innovative Open Source Admin Template for Chakra UI & React!
+* 【2024-04-23】[Misaka-blog / cf-wkrs-pages-vless](https://github.com/Misaka-blog/cf-wkrs-pages-vless) - 在 CloudFlare Workers 或 Pages 部署 vless 节点，支持 Base64、Clash 及 Sing-box 配置文件订阅文件生成
 * 【2024-04-22】[surfbryce / beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics) - Completely revolutionizes the Spotify Lyrics Experience by introducing Live Lyrics, Dynamic Backgrounds, and Immersive Views
 * 【2024-04-22】[sub-store-org / Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash and Shadowrocket!
 * 【2024-04-21】[replicate / llama-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 3 chat app
@@ -3026,6 +3033,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-04-23】[amuluze / amprobe](https://github.com/amuluze/amprobe) - 轻量级主机及容器监控服务
+* 【2024-04-23】[aurorax-neo / free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
+* 【2024-04-23】[1buran / rHttp](https://github.com/1buran/rHttp) - REPL for HTTP
 * 【2024-04-22】[Layr-Labs / eigenda](https://github.com/Layr-Labs/eigenda) - Secure, high-throughput, and decentralized Data Availability
 * 【2024-04-22】[OJ / gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 * 【2024-04-22】[DNSCrypt / dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -3719,6 +3729,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-04-23】[wareya / DIY-Gaming-Mouse](https://github.com/wareya/DIY-Gaming-Mouse) - Completely open source DIY gaming mouse, including hardware (PCB, shell) design files
+* 【2024-04-23】[plasma-umass / coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 * 【2024-04-22】[khanhduytran0 / LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it!
 * 【2024-04-22】[htop-dev / htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 * 【2024-04-21】[fgkeepalive / AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) - 2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
@@ -4868,6 +4880,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-04-23】[Tyrrrz / YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
+* 【2024-04-23】[HunterPie / HunterPie](https://github.com/HunterPie/HunterPie) - A clean, modern and robust overlay for Monster Hunter games.
 * 【2024-04-22】[Nexus-Mods / NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
 * 【2024-04-22】[JavScraper / Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper) - Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。
 * 【2024-04-22】[CombatExtended-Continued / CombatExtended](https://github.com/CombatExtended-Continued/CombatExtended) - Combat Extended mod for RimWorld
@@ -5430,6 +5444,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-04-23】[reisxd / TizenBrew](https://github.com/reisxd/TizenBrew) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
+* 【2024-04-23】[hugo-toha / toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio
 * 【2024-04-21】[Huxpro / huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 * 【2024-04-20】[jokob-sk / NetAlertX](https://github.com/jokob-sk/NetAlertX) - 💻🔍 WIFI / LAN intruder detector. Scans for devices connected to your network and alerts you if new and unknown devices are found.
 * 【2024-04-20】[serenity-bdd / serenity-core](https://github.com/serenity-bdd/serenity-core) - Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun.
@@ -5933,6 +5949,11 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-04-23】[pursuit-curriculum-resources / starter-api-calls-with-promises-and-fetch](https://github.com/pursuit-curriculum-resources/starter-api-calls-with-promises-and-fetch) - 
+* 【2024-04-23】[mattvh / jekyllthemes](https://github.com/mattvh/jekyllthemes) - A directory of the best-looking themes for Jekyll blogs
+* 【2024-04-23】[guimaraesdeol / Projeto-Cardapio](https://github.com/guimaraesdeol/Projeto-Cardapio) - Projeto Cardápido - Sujeito Programador, refazendo tudo
+* 【2024-04-23】[clashcross / AuroraForV2board](https://github.com/clashcross/AuroraForV2board) - Aurora For V2board 前后端分离部署，以及白嫖部署到cloudflare Workers
+* 【2024-04-23】[SwiftGGTeam / the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 * 【2024-04-22】[nicehorse06 / se-job](https://github.com/nicehorse06/se-job) - Software Engineer Job Note，讓新手從0到1入門，有1到100的成長能力
 * 【2024-04-22】[codenihar / react-love-letter](https://github.com/codenihar/react-love-letter) - 
 * 【2024-04-22】[Explore-AI / cloud-computing-predict](https://github.com/Explore-AI/cloud-computing-predict) - 
@@ -6497,6 +6518,8 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-04-23】[qiye45 / wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载
+* 【2024-04-23】[trimstray / test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 * 【2024-04-22】[hegdepavankumar / Cisco-Images-for-GNS3-and-EVE-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG) - Dive into a diverse array of Free Images of routers, switches,Firewalls and other appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Whether you're a seasoned professional or a learning enthusiast, our repository provides a one-stop solution for a comprehensive hands-on experience.
 * 【2024-04-22】[rbhatia46 / Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently.
 * 【2024-04-21】[315386775 / DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目
