@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-04-25】[mztacat / Base](https://github.com/mztacat/Base) - 
+* 【2024-04-25】[8680 / GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列。
 * 【2024-04-24】[ntdevlabs / tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 * 【2024-04-24】[CrazyBoyM / llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库（聚合资料：各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、部署教程视频 & 文档）
 * 【2024-04-24】[mishushakov / llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
@@ -850,6 +852,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-04-25】[react-native-cameraroll / react-native-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll) - CameraRoll is a react-native native module that provides access to the local camera roll or photo library.
+* 【2024-04-25】[loks666 / get_jobs](https://github.com/loks666/get_jobs) - 💼【找工作最强助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
+* 【2024-04-25】[meghadandapat / BE-IT-DS](https://github.com/meghadandapat/BE-IT-DS) - This repository contains distributed systems assignments according to SPPU 2019 Pattern along with their execution steps
 * 【2024-04-24】[WeiYe-Jing / datax-web](https://github.com/WeiYe-Jing/datax-web) - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
 * 【2024-04-24】[mik3y / usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices.
 * 【2024-04-24】[sing1ee / elasticsearch-jieba-plugin](https://github.com/sing1ee/elasticsearch-jieba-plugin) - jieba analysis plugin for elasticsearch 7.0.0, 6.4.0, 6.0.0, 5.4.0，5.3.0, 5.2.2, 5.2.1, 5.2, 5.1.2, 5.1.1
@@ -1434,6 +1439,10 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-04-25】[UnicomAI / Unichat-llama3-Chinese](https://github.com/UnicomAI/Unichat-llama3-Chinese) - 
+* 【2024-04-25】[lipku / metahuman-stream](https://github.com/lipku/metahuman-stream) - Real time streaming digital human based on nerf
+* 【2024-04-25】[UKPLab / sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
+* 【2024-04-25】[plutobell / teelebot](https://github.com/plutobell/teelebot) - Python实现的Telegram Bot机器人框架，具有插件系统，插件支持热更新和热装载
 * 【2024-04-24】[haizelabs / llama3-jailbreak](https://github.com/haizelabs/llama3-jailbreak) - A trivial programmatic Llama 3 jailbreak. Sorry Zuck!
 * 【2024-04-24】[yuka-friends / Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
 * 【2024-04-23】[benbusby / whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -2323,6 +2332,11 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-04-25】[catdad / canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
+* 【2024-04-25】[code-charity / youtube](https://github.com/code-charity/youtube) - [Top~1 open YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
+* 【2024-04-25】[apache / cordova-ios](https://github.com/apache/cordova-ios) - Apache Cordova iOS
+* 【2024-04-25】[alyssaxuu / flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
+* 【2024-04-25】[SiJiDo / X](https://github.com/SiJiDo/X) - 红蓝对抗快速搭建基础设施平台
 * 【2024-04-24】[Sbermarketing-Analytics / InternFrontend-EntryTask](https://github.com/Sbermarketing-Analytics/InternFrontend-EntryTask) - 
 * 【2024-04-24】[DefiLlama / DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters) - 
 * 【2024-04-24】[OpenDroneMap / WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, commercial-grade software for processing aerial imagery. 🛩
@@ -3044,6 +3058,10 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-04-25】[panjf2000 / gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
+* 【2024-04-25】[kubernetes-sigs / cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+* 【2024-04-25】[caarlos0 / env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
+* 【2024-04-25】[gaowei-space / markdown-blog](https://github.com/gaowei-space/markdown-blog) - 🍭 Markdown-Blog 是一款小而美的Markdown静态博客程序 | Markdown-Blog is incredibly fast, easy to use, and converts Markdown formatted text files into beautifully rendered HTML pages.
 * 【2024-04-23】[amuluze / amprobe](https://github.com/amuluze/amprobe) - 轻量级主机及容器监控服务
 * 【2024-04-23】[aurorax-neo / free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
 * 【2024-04-23】[1buran / rHttp](https://github.com/1buran/rHttp) - REPL for HTTP
@@ -3740,6 +3758,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-04-25】[OpenNJet / OpenNJet](https://github.com/OpenNJet/OpenNJet) - 
+* 【2024-04-25】[Recognito-Vision / Linux-FaceRecognition-FaceLivenessDetection](https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection) - NIST_FRVT Top 1🏆 Face Recognition, Liveness Detection(Face Anti-Spoof), Face Attribute Analysis Linux Server SDK Demo ☑️ Face Recognition ☑️ Face Liveness Detection ☑️ Face Attribute Analysis
 * 【2024-04-24】[luainkernel / lunatik](https://github.com/luainkernel/lunatik) - Lunatik is a framework for scripting the Linux kernel with Lua.
 * 【2024-04-24】[floesen / KExecDD](https://github.com/floesen/KExecDD) - Admin to Kernel code execution using the KSecDD driver
 * 【2024-04-24】[OpenEtherCATsociety / SOEM](https://github.com/OpenEtherCATsociety/SOEM) - Simple Open Source EtherCAT Master
@@ -4324,6 +4344,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-04-25】[mansk1es / CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111) - Oracle VirtualBox Elevation of Privilege (Local Privilege Escalation) Vulnerability
+* 【2024-04-25】[lammps / lammps](https://github.com/lammps/lammps) - Public development project of the LAMMPS MD software package
 * 【2024-04-24】[SasaKaranovic / winfidel-sensor](https://github.com/SasaKaranovic/winfidel-sensor) - Wireless Inline Filament Diameter Estimator Low-cost Sensor
 * 【2024-04-24】[google / draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
 * 【2024-04-24】[rr-debugger / rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
@@ -4897,6 +4919,11 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-04-25】[AzureAD / microsoft-identity-web](https://github.com/AzureAD/microsoft-identity-web) - Helps creating protected web apps and web APIs with Microsoft identity platform and Azure AD B2C
+* 【2024-04-25】[Siccity / xNode](https://github.com/Siccity/xNode) - Unity Node Editor: Lets you view and edit node graphs inside Unity
+* 【2024-04-25】[de4dot / de4dot](https://github.com/de4dot/de4dot) - .NET deobfuscator and unpacker.
+* 【2024-04-25】[WeakKnight / real-time-seamless-object-space-shading](https://github.com/WeakKnight/real-time-seamless-object-space-shading) - Source Code for Eurographics 2024 Short Paper "Real-time Seamless Object Space Shading"
+* 【2024-04-25】[EventStore / EventStore](https://github.com/EventStore/EventStore) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
 * 【2024-04-24】[westonwalker / DotnetJobsOs](https://github.com/westonwalker/DotnetJobsOs) - 
 * 【2024-04-24】[eldewrito2 / ElDewritoLauncher](https://github.com/eldewrito2/ElDewritoLauncher) - 
 * 【2024-04-23】[Tyrrrz / YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
@@ -5463,6 +5490,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-04-25】[workadventure / map-starter-kit](https://github.com/workadventure/map-starter-kit) - A starter kit to help you get started developing your own maps for WorkAdventure
+* 【2024-04-25】[learn-co-curriculum / react-hooks-running-tests](https://github.com/learn-co-curriculum/react-hooks-running-tests) - 
 * 【2024-04-24】[tinyworldmap / tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
 * 【2024-04-24】[colour-science / colour-science-precis](https://github.com/colour-science/colour-science-precis) - Colour Science Precis for the CGI Artist
 * 【2024-04-24】[vikramlearning / blazorbootstrap](https://github.com/vikramlearning/blazorbootstrap) - An Enterprise-class Blazor Bootstrap Component library built on the Blazor and Bootstrap CSS frameworks.
@@ -5974,6 +6003,9 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-04-25】[rhildred / UX308PracticeFinal](https://github.com/rhildred/UX308PracticeFinal) - 
+* 【2024-04-25】[gromo / jquery.scrollbar](https://github.com/gromo/jquery.scrollbar) - jQuery CSS Customizable Scrollbar
+* 【2024-04-25】[Yandex-Practicum / go_final_project](https://github.com/Yandex-Practicum/go_final_project) - 
 * 【2024-04-24】[save-nix-together / open-letter](https://github.com/save-nix-together/open-letter) - an open letter to the NixOS foundation
 * 【2024-04-24】[learn-co-curriculum / react-hooks-dq-components](https://github.com/learn-co-curriculum/react-hooks-dq-components) - 
 * 【2024-04-24】[rustx-labs / effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn) - Effective Rust 中文版
@@ -6547,6 +6579,11 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-04-25】[prometeytron / Prometheus-Tron-Brute-Force](https://github.com/prometeytron/Prometheus-Tron-Brute-Force) - Tron Wallets Brute Force
+* 【2024-04-25】[thehappydinoa / awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries
+* 【2024-04-25】[CScorza / OSINT-IA](https://github.com/CScorza/OSINT-IA) - L'I.A. a supporto dell'OSINT
+* 【2024-04-25】[zju3dv / LoG](https://github.com/zju3dv/LoG) - Level of Gaussians
+* 【2024-04-25】[chiphuyen / dmls-book](https://github.com/chiphuyen/dmls-book) - Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022)
 * 【2024-04-24】[01Kevin01 / OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) - 2024!!Onion Links V3!!(Forum&Chat&Markets)TR-EN
 * 【2024-04-23】[qiye45 / wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载
 * 【2024-04-23】[trimstray / test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
