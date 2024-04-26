@@ -1,6 +1,13 @@
 ### Github热门项目
 ## All language
 
+* 【2024-04-26】[digitalinnovationone / dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source) - ⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.
+* 【2024-04-26】[CyanVoxel / TagStudio](https://github.com/CyanVoxel/TagStudio) - A file and photo management application and system.
+* 【2024-04-26】[whoeevee / EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) - A tweak to get Spotify Premium for free, just like Spotilife
+* 【2024-04-26】[mentalDetector / Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9) - Reverse engineering of the Quansheng UV-K5 V1.4 PCB in KiCad 7
+* 【2024-04-26】[Profluent-AI / OpenCRISPR](https://github.com/Profluent-AI/OpenCRISPR) - AI-generated gene editing systems
+* 【2024-04-26】[ml-explore / mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - Examples using MLX Swift
+* 【2024-04-26】[McGill-NLP / webllama](https://github.com/McGill-NLP/webllama) - Llama-3 agents that can browse the web by following instructions and talking to you
 * 【2024-04-25】[mztacat / Base](https://github.com/mztacat/Base) - 
 * 【2024-04-25】[8680 / GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列。
 * 【2024-04-24】[ntdevlabs / tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
@@ -852,6 +859,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-04-26】[Netflix / zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 * 【2024-04-25】[react-native-cameraroll / react-native-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll) - CameraRoll is a react-native native module that provides access to the local camera roll or photo library.
 * 【2024-04-25】[loks666 / get_jobs](https://github.com/loks666/get_jobs) - 💼【找工作最强助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
 * 【2024-04-25】[meghadandapat / BE-IT-DS](https://github.com/meghadandapat/BE-IT-DS) - This repository contains distributed systems assignments according to SPPU 2019 Pattern along with their execution steps
@@ -1439,6 +1447,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-04-26】[FareedKhan-dev / Detect-AI-text-Easily](https://github.com/FareedKhan-dev/Detect-AI-text-Easily) - Some words that LLM regularly uses
+* 【2024-04-26】[a1600012888 / PhysDreamer](https://github.com/a1600012888/PhysDreamer) - Code for PhysDreamer
+* 【2024-04-26】[yisol / IDM-VTON](https://github.com/yisol/IDM-VTON) - IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild
 * 【2024-04-25】[UnicomAI / Unichat-llama3-Chinese](https://github.com/UnicomAI/Unichat-llama3-Chinese) - 
 * 【2024-04-25】[lipku / metahuman-stream](https://github.com/lipku/metahuman-stream) - Real time streaming digital human based on nerf
 * 【2024-04-25】[UKPLab / sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
@@ -2332,6 +2343,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-04-26】[0xlau / biliplus](https://github.com/0xlau/biliplus) - 🧩 A Chrome/Edge extension to feel better in bilibili.com
+* 【2024-04-26】[ErickWendel / parallelizing-nodejs-ops](https://github.com/ErickWendel/parallelizing-nodejs-ops) - Example of how to Migrate 1M items from MongoDB to Postgres in just a few minutes using Node.js child process
 * 【2024-04-25】[catdad / canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 * 【2024-04-25】[code-charity / youtube](https://github.com/code-charity/youtube) - [Top~1 open YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
 * 【2024-04-25】[apache / cordova-ios](https://github.com/apache/cordova-ios) - Apache Cordova iOS
@@ -3058,6 +3071,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-04-26】[grafana / tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+* 【2024-04-26】[filecoin-project / lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
 * 【2024-04-25】[panjf2000 / gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 * 【2024-04-25】[kubernetes-sigs / cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 * 【2024-04-25】[caarlos0 / env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
@@ -4344,6 +4359,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-04-26】[lean-dojo / LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean
 * 【2024-04-25】[mansk1es / CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111) - Oracle VirtualBox Elevation of Privilege (Local Privilege Escalation) Vulnerability
 * 【2024-04-25】[lammps / lammps](https://github.com/lammps/lammps) - Public development project of the LAMMPS MD software package
 * 【2024-04-24】[SasaKaranovic / winfidel-sensor](https://github.com/SasaKaranovic/winfidel-sensor) - Wireless Inline Filament Diameter Estimator Low-cost Sensor
@@ -4919,6 +4935,11 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-04-26】[dafny-lang / dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
+* 【2024-04-26】[SergeyTeplyakov / ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) - Set of roslyn-based analyzers for catching common C# errors (inspired by Google's error-prone)
+* 【2024-04-26】[DomainDrivers / dd-csharp](https://github.com/DomainDrivers/dd-csharp) - 
+* 【2024-04-26】[jonowilliams26 / StructuredMinimalApi](https://github.com/jonowilliams26/StructuredMinimalApi) - An example of a structured minimal api project
+* 【2024-04-26】[naudio / NAudio](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET
 * 【2024-04-25】[AzureAD / microsoft-identity-web](https://github.com/AzureAD/microsoft-identity-web) - Helps creating protected web apps and web APIs with Microsoft identity platform and Azure AD B2C
 * 【2024-04-25】[Siccity / xNode](https://github.com/Siccity/xNode) - Unity Node Editor: Lets you view and edit node graphs inside Unity
 * 【2024-04-25】[de4dot / de4dot](https://github.com/de4dot/de4dot) - .NET deobfuscator and unpacker.
@@ -5490,6 +5511,11 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-04-26】[FrontendMasters / front-end-handbook-2024](https://github.com/FrontendMasters/front-end-handbook-2024) - A guide to modern front-end web development / engineering.
+* 【2024-04-26】[PatrickJS / awesome-angular](https://github.com/PatrickJS/awesome-angular) - 📄 A curated list of awesome Angular resources
+* 【2024-04-26】[rohanarun / Open-Agent-Studio](https://github.com/rohanarun/Open-Agent-Studio) - 
+* 【2024-04-26】[milvus-io / bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
+* 【2024-04-26】[Snowflake-Labs / sfquickstarts](https://github.com/Snowflake-Labs/sfquickstarts) - Follow along with our tutorials to get you up and running with the Snowflake Data Cloud.
 * 【2024-04-25】[workadventure / map-starter-kit](https://github.com/workadventure/map-starter-kit) - A starter kit to help you get started developing your own maps for WorkAdventure
 * 【2024-04-25】[learn-co-curriculum / react-hooks-running-tests](https://github.com/learn-co-curriculum/react-hooks-running-tests) - 
 * 【2024-04-24】[tinyworldmap / tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
@@ -6003,6 +6029,10 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-04-26】[bedimcode / responsive-chips-website](https://github.com/bedimcode/responsive-chips-website) - Responsive Chips Website Design Using HTML CSS And JavaScript
+* 【2024-04-26】[IndraMahayana / to-do-List](https://github.com/IndraMahayana/to-do-List) - Simple Todo List
+* 【2024-04-26】[matthewkent / wedding-website](https://github.com/matthewkent/wedding-website) - 
+* 【2024-04-26】[Kalvium-Program / zombie-shoot-boilerplate](https://github.com/Kalvium-Program/zombie-shoot-boilerplate) - 
 * 【2024-04-25】[rhildred / UX308PracticeFinal](https://github.com/rhildred/UX308PracticeFinal) - 
 * 【2024-04-25】[gromo / jquery.scrollbar](https://github.com/gromo/jquery.scrollbar) - jQuery CSS Customizable Scrollbar
 * 【2024-04-25】[Yandex-Practicum / go_final_project](https://github.com/Yandex-Practicum/go_final_project) - 
@@ -6579,6 +6609,15 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-04-26】[SAWARATSUKI / ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してください🫠
+* 【2024-04-26】[elidianaandrade / dio-curso-git-github](https://github.com/elidianaandrade/dio-curso-git-github) - Repositório do curso Versionamento de Código com Git e GitHub da Digital Innovation One.
+* 【2024-04-26】[dotdc / grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
+* 【2024-04-26】[TakSec / google-dorks-bug-bounty](https://github.com/TakSec/google-dorks-bug-bounty) - A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting
+* 【2024-04-26】[ymcui / Chinese-LLaMA-Alpaca-3](https://github.com/ymcui/Chinese-LLaMA-Alpaca-3) - 中文羊驼大模型三期项目 developed from Meta Llama 3
+* 【2024-04-26】[ChristianLempa / cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
+* 【2024-04-26】[instructlab / taxonomy](https://github.com/instructlab/taxonomy) - Taxonomy tree that will allow you to create models tuned with your data
+* 【2024-04-26】[TheBurnsy / Vehicle-OSINT-Collection](https://github.com/TheBurnsy/Vehicle-OSINT-Collection) - A comprehensive list of tools that can be used for finding information related to a specific vehicle.
+* 【2024-04-26】[mehdihadeli / awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 * 【2024-04-25】[prometeytron / Prometheus-Tron-Brute-Force](https://github.com/prometeytron/Prometheus-Tron-Brute-Force) - Tron Wallets Brute Force
 * 【2024-04-25】[thehappydinoa / awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries
 * 【2024-04-25】[CScorza / OSINT-IA](https://github.com/CScorza/OSINT-IA) - L'I.A. a supporto dell'OSINT
