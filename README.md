@@ -1,6 +1,11 @@
 ### Github热门项目
 ## All language
 
+* 【2024-04-27】[apple / corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
+* 【2024-04-27】[cohere-ai / cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
+* 【2024-04-27】[zk-Call / zkp-hmac-communication-js](https://github.com/zk-Call/zkp-hmac-communication-js) - "Zero-Knowledge" Proof Implementation with HMAC Communication in JavaScript
+* 【2024-04-27】[github-copilot-resources / copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer) - Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)
+* 【2024-04-27】[xelis-project / xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG using Homomorphic Encryption with Smart Contract support
 * 【2024-04-26】[digitalinnovationone / dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source) - ⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.
 * 【2024-04-26】[CyanVoxel / TagStudio](https://github.com/CyanVoxel/TagStudio) - A file and photo management application and system.
 * 【2024-04-26】[whoeevee / EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) - A tweak to get Spotify Premium for free, just like Spotilife
@@ -859,6 +864,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-04-27】[OpenSPG / openspg](https://github.com/OpenSPG/openspg) - OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused representation, 3) kNext SDK(python): LLM-enhanced knowledge construction, reasoning and generation
 * 【2024-04-26】[Netflix / zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 * 【2024-04-25】[react-native-cameraroll / react-native-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll) - CameraRoll is a react-native native module that provides access to the local camera roll or photo library.
 * 【2024-04-25】[loks666 / get_jobs](https://github.com/loks666/get_jobs) - 💼【找工作最强助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
@@ -1447,6 +1453,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-04-27】[Snowflake-Labs / snowflake-arctic](https://github.com/Snowflake-Labs/snowflake-arctic) - 
+* 【2024-04-27】[ssili126 / tv](https://github.com/ssili126/tv) - 自动收集的IPv4酒店电视直播源，自动测试播放速度，每日自动更新。 有CCTV央视卫视频道，及部分地方频道，播放流畅。也可在openwrt或群辉的docker运行。
 * 【2024-04-26】[FareedKhan-dev / Detect-AI-text-Easily](https://github.com/FareedKhan-dev/Detect-AI-text-Easily) - Some words that LLM regularly uses
 * 【2024-04-26】[a1600012888 / PhysDreamer](https://github.com/a1600012888/PhysDreamer) - Code for PhysDreamer
 * 【2024-04-26】[yisol / IDM-VTON](https://github.com/yisol/IDM-VTON) - IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild
@@ -2343,6 +2351,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-04-27】[fatwang2 / search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
+* 【2024-04-27】[bigbluebutton / bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
 * 【2024-04-26】[0xlau / biliplus](https://github.com/0xlau/biliplus) - 🧩 A Chrome/Edge extension to feel better in bilibili.com
 * 【2024-04-26】[ErickWendel / parallelizing-nodejs-ops](https://github.com/ErickWendel/parallelizing-nodejs-ops) - Example of how to Migrate 1M items from MongoDB to Postgres in just a few minutes using Node.js child process
 * 【2024-04-25】[catdad / canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
@@ -3071,6 +3081,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-04-27】[zk-Call / zkp-hmac-communication-go](https://github.com/zk-Call/zkp-hmac-communication-go) - "Zero-Knowledge" Proof Implementation with HMAC Communication in Go
+* 【2024-04-27】[Dhravya / radish](https://github.com/Dhravya/radish) - Super fast drop-in replacement of the in memory key-value store Redis, made in Golang
+* 【2024-04-27】[kubernetes-sigs / descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 * 【2024-04-26】[grafana / tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 * 【2024-04-26】[filecoin-project / lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
 * 【2024-04-25】[panjf2000 / gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
@@ -4359,6 +4372,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-04-27】[microsoft / onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai) - Generative AI extensions for onnxruntime
 * 【2024-04-26】[lean-dojo / LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean
 * 【2024-04-25】[mansk1es / CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111) - Oracle VirtualBox Elevation of Privilege (Local Privilege Escalation) Vulnerability
 * 【2024-04-25】[lammps / lammps](https://github.com/lammps/lammps) - Public development project of the LAMMPS MD software package
@@ -4935,6 +4949,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-04-27】[ForzaMods / Forza-Mods-AIO](https://github.com/ForzaMods/Forza-Mods-AIO) - Free and open-source FH4 & FH5 mod tool
+* 【2024-04-27】[adamgryu / InspectorHistory-Unity](https://github.com/adamgryu/InspectorHistory-Unity) - 
 * 【2024-04-26】[dafny-lang / dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
 * 【2024-04-26】[SergeyTeplyakov / ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) - Set of roslyn-based analyzers for catching common C# errors (inspired by Google's error-prone)
 * 【2024-04-26】[DomainDrivers / dd-csharp](https://github.com/DomainDrivers/dd-csharp) - 
@@ -5511,6 +5527,9 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-04-27】[red-ninjas / himalaya-ui](https://github.com/red-ninjas/himalaya-ui) - Elevate your Next.js web development with our open-source UI library, offering a comprehensive suite of customizable components for building modern and user-friendly interfaces.
+* 【2024-04-27】[maester365 / maester](https://github.com/maester365/maester) - The core repository for the Maester module with helper cmdlets that will be called from the Pester tests.
+* 【2024-04-27】[microsoft / WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates. Please visit the What The Hack website at: https://aka.ms/wth
 * 【2024-04-26】[FrontendMasters / front-end-handbook-2024](https://github.com/FrontendMasters/front-end-handbook-2024) - A guide to modern front-end web development / engineering.
 * 【2024-04-26】[PatrickJS / awesome-angular](https://github.com/PatrickJS/awesome-angular) - 📄 A curated list of awesome Angular resources
 * 【2024-04-26】[rohanarun / Open-Agent-Studio](https://github.com/rohanarun/Open-Agent-Studio) - 
@@ -6029,6 +6048,13 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-04-27】[P4ScriptsFivem / pappu-multicharacter](https://github.com/P4ScriptsFivem/pappu-multicharacter) - QBCore Multicharacter And inspired by NoPixel 4.0.
+* 【2024-04-27】[Danmendua / AlBot](https://github.com/Danmendua/AlBot) - 
+* 【2024-04-27】[anthdm / gothstarter](https://github.com/anthdm/gothstarter) - Golang, Templ, HTMX, and Tailwind started pack
+* 【2024-04-27】[kepano / flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
+* 【2024-04-27】[lowcoding / lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - lowcode tool, support ChatGPT and other LLM
+* 【2024-04-27】[cssnano / cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
+* 【2024-04-27】[codewithsadee / fitlife](https://github.com/codewithsadee/fitlife) - Fitlife is a fully responsive fitness website, Responsive for all devices, build using HTML, CSS, and JavaScript.
 * 【2024-04-26】[bedimcode / responsive-chips-website](https://github.com/bedimcode/responsive-chips-website) - Responsive Chips Website Design Using HTML CSS And JavaScript
 * 【2024-04-26】[IndraMahayana / to-do-List](https://github.com/IndraMahayana/to-do-List) - Simple Todo List
 * 【2024-04-26】[matthewkent / wedding-website](https://github.com/matthewkent/wedding-website) - 
@@ -6609,6 +6635,10 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-04-27】[KushalVijay / AmazonCrackedResource](https://github.com/KushalVijay/AmazonCrackedResource) - A List of frequently asked questions in Amazon's Online Assessment and Interviews
+* 【2024-04-27】[bpc-clone / bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
+* 【2024-04-27】[Mojang / bedrock-samples](https://github.com/Mojang/bedrock-samples) - Samples and assets for building Minecraft: Bedrock Edition add-ons
+* 【2024-04-27】[Madelena / esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard) - A simple dashboard with weather and NYC subway information for ESPHome
 * 【2024-04-26】[SAWARATSUKI / ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してください🫠
 * 【2024-04-26】[elidianaandrade / dio-curso-git-github](https://github.com/elidianaandrade/dio-curso-git-github) - Repositório do curso Versionamento de Código com Git e GitHub da Digital Innovation One.
 * 【2024-04-26】[dotdc / grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
