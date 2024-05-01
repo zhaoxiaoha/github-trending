@@ -1,6 +1,12 @@
 ### Github热门项目
 ## All language
 
+* 【2024-05-01】[ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+* 【2024-05-01】[Kludex / fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
+* 【2024-05-01】[obhq / jailbreak-11](https://github.com/obhq/jailbreak-11) - Experimental PS4 jailbreak for 11.00 and lower
+* 【2024-05-01】[rejunity / z80-open-silicon](https://github.com/rejunity/z80-open-silicon) - Z80 open-source silicon. Goal is to become a silicon proven, pin compatible, open-source replacement for classic Z80.
+* 【2024-05-01】[JackAILab / ConsistentID](https://github.com/JackAILab/ConsistentID) - Customized ID Consistent for human
+* 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 * 【2024-04-30】[LukeMathWalker / zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
 * 【2024-04-29】[pytorch / torchtitan](https://github.com/pytorch/torchtitan) - A native PyTorch Library for large model training
 * 【2024-04-29】[plaintextpackets / netprobe_lite](https://github.com/plaintextpackets/netprobe_lite) - Simple internet performance tester written in Python
@@ -874,6 +880,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-05-01】[AutoMQ / automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-native fork of Kafka by separating storage to S3. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
 * 【2024-04-30】[lgp547 / any-door](https://github.com/lgp547/any-door) - 
 * 【2024-04-29】[Col-E / Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 * 【2024-04-29】[digitalinnovationone / trilha-java-basico](https://github.com/digitalinnovationone/trilha-java-basico) - 
@@ -1470,6 +1477,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-05-01】[microsoft / FILM](https://github.com/microsoft/FILM) - Official repo for "Make Your LLM Fully Utilize the Context"
+* 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
+* 【2024-05-01】[xlang-ai / OpenAgents](https://github.com/xlang-ai/OpenAgents) - OpenAgents: An Open Platform for Language Agents in the Wild
 * 【2024-04-30】[autonomousvision / gaussian-opacity-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - Gaussian Opacity Fields for Efficient and Compact Surface Reconstruction in Unbounded Scenes
 * 【2024-04-30】[janeczku / calibre-web](https://github.com/janeczku/calibre-web) - 📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database
 * 【2024-04-29】[mbzuai-oryx / LLaVA-pp](https://github.com/mbzuai-oryx/LLaVA-pp) - 🔥🔥 LLaVA++: Extending LLaVA with Phi-3 and LLaMA-3 (LLaVA LLaMA-3, LLaVA Phi-3)
@@ -2378,6 +2388,10 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-05-01】[select2 / select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+* 【2024-05-01】[iGaoWei / BigDataView](https://github.com/iGaoWei/BigDataView) - 100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
+* 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
+* 【2024-05-01】[virus010101 / linfeng-community](https://github.com/virus010101/linfeng-community) - 林风社交论坛小程序|H5论坛|app论坛是java+vue+uniapp开发的前后端分离社交论坛问答发帖/BBS项目，包括论坛图文帖，视频，圈子，IM私聊，微信支付，付费贴，积分签到，钱包充值等论坛小程序论坛app完整功能
 * 【2024-04-30】[algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 🎆Interactive Online Platform that Visualizes Algorithms from Code
 * 【2024-04-30】[ibrahimaitech / IBRAHIM-MD](https://github.com/ibrahimaitech/IBRAHIM-MD) - Black panther md the fastest wabot that helps WhatsApp users to enjoy smooth life
 * 【2024-04-30】[jadehh / TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
@@ -3113,6 +3127,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-05-01】[nats-io / nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
+* 【2024-05-01】[kubernetes / kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+* 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 * 【2024-04-30】[geektutu / 7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列
 * 【2024-04-29】[talostrading / sonic](https://github.com/talostrading/sonic) - Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go.
 * 【2024-04-29】[ABCDELabs / Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
@@ -3821,6 +3838,11 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-05-01】[exploits-forsale / CVE-2024-21345](https://github.com/exploits-forsale/CVE-2024-21345) - Proof-of-Concept for CVE-2024-21345
+* 【2024-05-01】[gyf304 / dotenv](https://github.com/gyf304/dotenv) - Standalone, language agnostic dotenv
+* 【2024-05-01】[exploits-forsale / CVE-2024-26218](https://github.com/exploits-forsale/CVE-2024-26218) - Proof-of-Concept for CVE-2024-26218
+* 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
+* 【2024-05-01】[henrypp / simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 * 【2024-04-30】[raysan5 / raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 * 【2024-04-28】[KartKrewDev / RingRacers](https://github.com/KartKrewDev/RingRacers) - 
 * 【2024-04-28】[PhysicsDptAngers / polyUAnalog](https://github.com/PhysicsDptAngers/polyUAnalog) - Open source, analog and polyphonic synthesizer
@@ -4410,6 +4432,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-05-01】[sherlockchou86 / VideoPipe](https://github.com/sherlockchou86/VideoPipe) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
+* 【2024-05-01】[WinMerge / winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
+* 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 * 【2024-04-29】[leejet / stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
 * 【2024-04-28】[turingmotors / swan](https://github.com/turingmotors/swan) - This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources.
 * 【2024-04-28】[facebookexternal / nimble](https://github.com/facebookexternal/nimble) - New file format for storage of large columnar datasets.
@@ -4991,6 +5016,11 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-05-01】[project-fika / Fika-Plugin](https://github.com/project-fika/Fika-Plugin) - Client-side changes to make multiplayer work
+* 【2024-05-01】[borisdj / EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite
+* 【2024-05-01】[stayintarkov / SIT.Manager.Avalonia](https://github.com/stayintarkov/SIT.Manager.Avalonia) - 
+* 【2024-05-01】[InvoxiPlayGames / FestivalInstrumentMapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper) - Maps most existing Rock Band / Guitar Hero instruments as Xbox One instruments for Fortnite Festival.
+* 【2024-05-01】[tryAGI / LangChain](https://github.com/tryAGI/LangChain) - C# implementation of LangChain. We try to be as close to the original as possible in terms of abstractions, but are open to new entities.
 * 【2024-04-30】[JakaAmbrus / PlayLink](https://github.com/JakaAmbrus/PlayLink) - .NET API with Clean Architecture and CQRS, featuring advanced testing and a dynamic Angular frontend
 * 【2024-04-30】[Project-PLATEAU / SkylinesPLATEAU](https://github.com/Project-PLATEAU/SkylinesPLATEAU) - 3D都市モデルを都市育成シミュレーションゲーム"Cities:Skylines"にインポートするMOD
 * 【2024-04-30】[d2phap / ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
@@ -5579,6 +5609,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-05-01】[macadmins / sofa](https://github.com/macadmins/sofa) - SOFA | A MacAdmin's Simple Organized Feed for Apple Software Updates
+* 【2024-05-01】[TacoGuy21 / ByeBlocker](https://github.com/TacoGuy21/ByeBlocker) - The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts)
 * 【2024-04-29】[celesWuff / waterctl](https://github.com/celesWuff/waterctl) - 深圳市常工电子“蓝牙水控器”控制程序的开源实现。适用于国内各大高校宿舍热水器。
 * 【2024-04-29】[SajedHassan / CSEx61-dockerized-pintos](https://github.com/SajedHassan/CSEx61-dockerized-pintos) - 
 * 【2024-04-29】[codewithsadee / grilli](https://github.com/codewithsadee/grilli) - Grilli is a fully responsive restaurant website, Responsive for all devices, build using HTML, CSS, and JavaScript.
@@ -6108,6 +6140,8 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-05-01】[moveit / moveit2_tutorials](https://github.com/moveit/moveit2_tutorials) - A sphinx-based centralized documentation repo for MoveIt 2
+* 【2024-05-01】[darylsew / visualizer](https://github.com/darylsew/visualizer) - A Python/JS music visualizer.
 * 【2024-04-30】[technomancy-dev / 00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people!
 * 【2024-04-30】[WinTenDev / ZiziBot-Engine](https://github.com/WinTenDev/ZiziBot-Engine) - 5th Gen ZiziBot Engine
 * 【2024-04-30】[gunners6518 / Netflix-clone](https://github.com/gunners6518/Netflix-clone) - This is a Netflix clone application made with React+TypeScript.
@@ -6700,6 +6734,14 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-05-01】[harsharock / BaseCamp](https://github.com/harsharock/BaseCamp) - BaseCamp Contracts
+* 【2024-05-01】[jkiolppm / Crypto-Miner-Soft](https://github.com/jkiolppm/Crypto-Miner-Soft) - miner bitcoin-mining crypto-miner bitcoin-miner cryptocurrency-mining xmr-miner dual-mining ton-miner btc-miner rvn-miner xna-miner ergo-miner kas-miner neox-miner ctxc-miner zephyr-miner zeph-miner aeon-miner zcash-miner open-sources-code-github
+* 【2024-05-01】[CodingChallengesFYI / SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
+* 【2024-05-01】[idk10-a / aviator](https://github.com/idk10-a/aviator) - Level up your Aviator game! This bot employs its prediction prowess to help you maximize your profit – and it's completely free!
+* 【2024-05-01】[pengsida / learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验
+* 【2024-05-01】[bpc-clone / bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
+* 【2024-05-01】[xiaobaikeji831 / cfDAIMA](https://github.com/xiaobaikeji831/cfDAIMA) - 
+* 【2024-05-01】[halo-sigs / awesome-halo](https://github.com/halo-sigs/awesome-halo) - 与 Halo 相关的周边生态资源列表
 * 【2024-04-30】[func25 / go-practical-tips](https://github.com/func25/go-practical-tips) - Go Practical Tips
 * 【2024-04-30】[project-fika / Fika-Documentation](https://github.com/project-fika/Fika-Documentation) - 
 * 【2024-04-30】[github / roadmap](https://github.com/github/roadmap) - GitHub public roadmap
