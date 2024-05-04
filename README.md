@@ -1,6 +1,13 @@
 ### Github热门项目
 ## All language
 
+* 【2024-05-04】[KindXiaoming / pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
+* 【2024-05-04】[GistNoesis / FourierKAN](https://github.com/GistNoesis/FourierKAN) - 
+* 【2024-05-04】[a-real-ai / pywinassistant](https://github.com/a-real-ai/pywinassistant) - The first open source Large Action Model generalist Artificial Narrow Intelligence that controls completely human user interfaces by only using natural language. PyWinAssistant utilizes Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models.
+* 【2024-05-04】[remix-run / remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+* 【2024-05-04】[fcori47 / basdonax-ai-rag](https://github.com/fcori47/basdonax-ai-rag) - 
+* 【2024-05-04】[typeorm / typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+* 【2024-05-04】[rust-lang / rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 * 【2024-05-03】[dnhkng / GlaDOS](https://github.com/dnhkng/GlaDOS) - Personality Core
 * 【2024-05-03】[TheOfficialFloW / PPPwn](https://github.com/TheOfficialFloW/PPPwn) - PPPwn - PlayStation 4 PPPoE RCE
 * 【2024-05-03】[TracecatHQ / tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
@@ -895,6 +902,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-05-04】[hiteshchoudhary / React-native-projects](https://github.com/hiteshchoudhary/React-native-projects) - Learn React native with this free series on youtube (powered by Hashnode)
+* 【2024-05-04】[GoogleCloudPlatform / spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) - New home for Spring Cloud GCP development starting with version 2.0.
+* 【2024-05-04】[razerdp / BasePopup](https://github.com/razerdp/BasePopup) - Android下打造通用便捷的PopupWindow弹窗库
 * 【2024-05-03】[ddd-by-examples / library](https://github.com/ddd-by-examples/library) - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 * 【2024-05-03】[OWASP / wrongsecrets](https://github.com/OWASP/wrongsecrets) - Vulnerable app with examples showing how to not use secrets
 * 【2024-05-03】[M66B / NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
@@ -1498,6 +1508,10 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-05-04】[e2b-dev / code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
+* 【2024-05-04】[dai-motoki / zoltraak](https://github.com/dai-motoki/zoltraak) - 
+* 【2024-05-04】[ToTheBeginning / PuLID](https://github.com/ToTheBeginning/PuLID) - Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
+* 【2024-05-04】[xcapt0 / gpt2_chatbot](https://github.com/xcapt0/gpt2_chatbot) - ☕ GPT-2 chatbot for daily conversation
 * 【2024-05-03】[pyinfra-dev / pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.
 * 【2024-05-03】[P1sec / QCSuper](https://github.com/P1sec/QCSuper) - QCSuper is a tool communicating with Qualcomm-based phones and modems, allowing to capture raw 2G/3G/4G radio frames, among other things.
 * 【2024-05-03】[run-llama / llama_parse](https://github.com/run-llama/llama_parse) - Parse files for optimal RAG
@@ -2423,6 +2437,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-05-04】[jsdelivr / jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 * 【2024-05-03】[IvanGlinkin / CCTV](https://github.com/IvanGlinkin/CCTV) - Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings
 * 【2024-05-03】[mouricedevs / Gifted-Md](https://github.com/mouricedevs/Gifted-Md) - Gifted Md is a Cool Multi-Device WhatsApp bot which offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 * 【2024-05-03】[TacoGuy21 / Greatsword-V3](https://github.com/TacoGuy21/Greatsword-V3) - ***Please star if you fork*** (This is an unblocker, link making tutorial attached below.)
@@ -3168,6 +3183,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-05-04】[ngoduykhanh / wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 * 【2024-05-03】[ariga / atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 * 【2024-05-02】[appleboy / gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 * 【2024-05-02】[kaytu-io / kaytu](https://github.com/kaytu-io/kaytu) - The Kaytu CLI helps you save on cloud costs by finding the perfect server sizes. Kaytu analyzes historical usage and provides tailored recommendations, ensuring you only pay for the resources you need.
@@ -3883,6 +3899,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-05-04】[EdgeTX / edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio
+* 【2024-05-04】[lizrice / learning-ebpf](https://github.com/lizrice/learning-ebpf) - Learning eBPF, published by O'Reilly - out now! Here's where you'll find a VM config for the examples, and more
+* 【2024-05-04】[dune3d / dune3d](https://github.com/dune3d/dune3d) - 3D CAD application
 * 【2024-05-03】[cpldcpu / BitNetMCU](https://github.com/cpldcpu/BitNetMCU) - Neural Networks with low bit weights on a CH32V003 RISC-V Microcontroller without multiplication
 * 【2024-05-02】[Polprzewodnikowy / SummerCart64](https://github.com/Polprzewodnikowy/SummerCart64) - SummerCart64 - a fully open source N64 flashcart
 * 【2024-05-01】[exploits-forsale / CVE-2024-21345](https://github.com/exploits-forsale/CVE-2024-21345) - Proof-of-Concept for CVE-2024-21345
@@ -4479,6 +4498,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-05-04】[tildearrow / furnace](https://github.com/tildearrow/furnace) - a multi-system chiptune tracker compatible with DefleMask modules
+* 【2024-05-04】[geektcp / Everwar](https://github.com/geektcp/Everwar) - everwar wow game server c++ 开源魔兽世界 https://uewow.com
 * 【2024-05-03】[userver-framework / userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
 * 【2024-05-03】[open-navigation / navigation2](https://github.com/open-navigation/navigation2) - ROS 2 Navigation Framework and System
 * 【2024-05-03】[30hours / blah2](https://github.com/30hours/blah2) - A real-time passive radar
@@ -5069,6 +5090,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-05-04】[xM4ddy / OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
+* 【2024-05-04】[TippingGame / F8Framework](https://github.com/TippingGame/F8Framework) - F8 Framework是一个优雅，轻量，符合直觉的基于Unity引擎的Game Framework，组件围绕F8一键启动，框架整体遵循以极少的使用成本开发游戏。
 * 【2024-05-03】[blake502 / balatro-mobile-maker](https://github.com/blake502/balatro-mobile-maker) - Create a mobile Balatro app from your Steam version of Balatro
 * 【2024-05-03】[Master-s / PS4-9.00-11.00-PoC-bin-loader](https://github.com/Master-s/PS4-9.00-11.00-PoC-bin-loader) - PS4-9.00-11.00-PoC-bin-loader
 * 【2024-05-03】[thisisnabi / Blogger](https://github.com/thisisnabi/Blogger) - Clean Architecture, CQRS, and DDD Implementation by ASP.NET Core Blog problem domain.
@@ -5669,6 +5692,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-05-04】[yairEO / tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
+* 【2024-05-04】[The-Marcy-Lab-School / 2-2-css-practice-nirvana](https://github.com/The-Marcy-Lab-School/2-2-css-practice-nirvana) - 
 * 【2024-05-02】[Azure / AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
 * 【2024-05-02】[opipari / DeepRobWeb](https://github.com/opipari/DeepRobWeb) - Deep Learning for Robot Perception
 * 【2024-05-01】[macadmins / sofa](https://github.com/macadmins/sofa) - SOFA | A MacAdmin's Simple Organized Feed for Apple Software Updates
@@ -6202,6 +6227,9 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-05-04】[anuragdevnath / Portfolio](https://github.com/anuragdevnath/Portfolio) - My portfolio
+* 【2024-05-04】[derisamedia / luci-theme-alpha](https://github.com/derisamedia/luci-theme-alpha) - Luci theme for Official Openwrt and Alpha OS build ,based on bootstrap and material luCi theme,inspired on neobird LEDE theme
+* 【2024-05-04】[Fasoo-LLM-Chat-UI-UX / llmchat-frontend](https://github.com/Fasoo-LLM-Chat-UI-UX/llmchat-frontend) - 리액트 기반 LLM Chat 웹페이지
 * 【2024-05-03】[FreeCodeCampChina / freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) - FCC China open source codebase and curriculum. Learn to code and help nonprofits.
 * 【2024-05-03】[927621BAD019 / IBM-PROJECT---MALNUTRITION-](https://github.com/927621BAD019/IBM-PROJECT---MALNUTRITION-) - 
 * 【2024-05-02】[hydralauncher / hydra-website](https://github.com/hydralauncher/hydra-website) - 
@@ -6802,6 +6830,9 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-05-04】[birobirobiro / awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
+* 【2024-05-04】[githubnext / copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
+* 【2024-05-04】[sundowndev / hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 * 【2024-05-03】[CeliaLyu / DataStructure-Algorithm-Intro](https://github.com/CeliaLyu/DataStructure-Algorithm-Intro) - 
 * 【2024-05-03】[Guilouz / Creality-Helper-Script-Wiki](https://github.com/Guilouz/Creality-Helper-Script-Wiki) - Wiki for Creality Helper Script
 * 【2024-05-03】[iNeuronai / interview-question-data-science-](https://github.com/iNeuronai/interview-question-data-science-) - 
