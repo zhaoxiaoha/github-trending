@@ -1,6 +1,13 @@
 ### Github热门项目
 ## All language
 
+* 【2024-05-06】[Blealtan / efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
+* 【2024-05-06】[lmstudio-ai / lms](https://github.com/lmstudio-ai/lms) - LM Studio in your terminal
+* 【2024-05-06】[solana-labs / solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+* 【2024-05-06】[HVision-NKU / StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
+* 【2024-05-06】[mlc-ai / web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
+* 【2024-05-06】[huggingface / candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
+* 【2024-05-06】[tokio-rs / axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 * 【2024-05-05】[adobe / react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 * 【2024-05-05】[adrianhajdin / banking](https://github.com/adrianhajdin/banking) - Horizon is a modern banking platform for everyone.
 * 【2024-05-05】[verlab / accelerated_features](https://github.com/verlab/accelerated_features) - Do you need robust and fast local feature extraction? You are in the right place!
@@ -1518,6 +1525,15 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-05-06】[eureka-research / DrEureka](https://github.com/eureka-research/DrEureka) - 
+* 【2024-05-06】[apple / ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
+* 【2024-05-06】[karpathy / makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
+* 【2024-05-06】[edgedb / edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+* 【2024-05-06】[prometheus-eval / prometheus-eval](https://github.com/prometheus-eval/prometheus-eval) - Evaluate your LLM's response with Prometheus 💯
+* 【2024-05-06】[PSGO / PPPwnGo](https://github.com/PSGO/PPPwnGo) - 
+* 【2024-05-06】[NVlabs / DoRA](https://github.com/NVlabs/DoRA) - [ICML2024] Official PyTorch implementation of DoRA: Weight-Decomposed Low-Rank Adaptation
+* 【2024-05-06】[SCLBD / DeepfakeBench](https://github.com/SCLBD/DeepfakeBench) - A comprehensive benchmark of deepfake detection
+* 【2024-05-06】[lancedb / lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 * 【2024-05-05】[isocpp / CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 * 【2024-05-05】[pypa / pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 * 【2024-05-05】[florestefano1975 / ComfyUI-HiDiffusion](https://github.com/florestefano1975/ComfyUI-HiDiffusion) - 
@@ -2456,6 +2472,9 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-05-06】[Astropeda / Asta-Md](https://github.com/Astropeda/Asta-Md) - ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀsᴛʀᴏᴘᴇᴅᴀ ᴛᴇᴀᴍ
+* 【2024-05-06】[automatisch / automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+* 【2024-05-06】[ibrahimaitech / IBRAHIM-AI-10.10](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-05】[Pandasswap / PancakeswapBot](https://github.com/Pandasswap/PancakeswapBot) - PancakeSwap Prediction Bot
 * 【2024-05-05】[tencent-connect / bot-docs](https://github.com/tencent-connect/bot-docs) - QQ频道机器人文档
 * 【2024-05-05】[AbhishekSuresh2 / Phoenix-MD](https://github.com/AbhishekSuresh2/Phoenix-MD) - ℹ️ A Simple WhatsApp Bot With Advanced Features
@@ -3205,6 +3224,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-05-06】[missuo / FreeDuckDuckGo](https://github.com/missuo/FreeDuckDuckGo) - Use DuckDuckGo for free with GPT-3.5-Turbo.
 * 【2024-05-05】[charmbracelet / wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 * 【2024-05-04】[ngoduykhanh / wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 * 【2024-05-03】[ariga / atlas](https://github.com/ariga/atlas) - Manage your database schema as code
@@ -3922,6 +3942,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-05-06】[asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
+* 【2024-05-06】[WillPower3309 / swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 * 【2024-05-05】[tsalvo / wipeoutPD](https://github.com/tsalvo/wipeoutPD) - port of wipeout-rewrite to Playdate
 * 【2024-05-05】[danielchasehooper / ShapeUp-public](https://github.com/danielchasehooper/ShapeUp-public) - A 3D Modeler Made in a Week
 * 【2024-05-05】[devbis / z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
@@ -4524,6 +4546,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-05-06】[Codesire-Deng / co_context](https://github.com/Codesire-Deng/co_context) - A coroutine framework aimed at high-concurrency io with reasonable latency, based on io_uring.
 * 【2024-05-05】[rondagayman307 / WhatsApp-Web-Spammer](https://github.com/rondagayman307/WhatsApp-Web-Spammer) - whatsapp web spammer 💥 spammer for whatsapp web 2024 latest update 💥 simple script to spam people on whatsapp web. whatsapp web spammer whatsapp spammer whatsapp message spammer whatsapp group spammer whatsapp web spammer whatsapp spammer whatsapp message spammer whatsapp group spammer whatsapp web spammer whatsapp spammer whatsap scripts tools
 * 【2024-05-05】[rubakloedeil10 / WarfaceHCK](https://github.com/rubakloedeil10/WarfaceHCK) - warface warface-cheat warface-cheats warface-aim warface-aimbot warface-hack warface-hacks warface-esp warface-wallhack warface-wh warface-softaim cheat-warface cheats-warface hack-warface hacks-warface warface-free-hack warface-hack-aim warface-legit warface-rage-download-free-warface-speedbot-warface-2024-best-cheats-warface-mod-menu-skin-changer
 * 【2024-05-05】[rothdezlife34 / PointBlankHCK](https://github.com/rothdezlife34/PointBlankHCK) - point-blank point-blank-cheat point-blank-cheats point-blank-aim point-blank-aimbot point-blank-hack point-blank-hacks point-blank-esp point-blank-wallhack point-blank-wh point-blank-softaim cheat-point-blank cheats-point-blank hack-point-blank hacks-point-blank point-blank-free-hack point-blank-hack-aim point-blank-legit point-blank-rage-download
@@ -5120,6 +5143,9 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-05-06】[Ephilipz / 1brc.net](https://github.com/Ephilipz/1brc.net) - 
+* 【2024-05-06】[pardeike / Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
+* 【2024-05-06】[paternostrox / Minecraft4Unity](https://github.com/paternostrox/Minecraft4Unity) - A minimal and very optimized version of Minecraft made in Unity, virtually endless in all three axis.
 * 【2024-05-05】[dotnet / msbuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
 * 【2024-05-05】[PreaawX / Aviator-Predictor-FULL](https://github.com/PreaawX/Aviator-Predictor-FULL) - Aviator Predictor is a tool designed for predicting multipliers in the Aviator betting game, helping players secure their earnings.
 * 【2024-05-04】[xM4ddy / OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
@@ -5724,6 +5750,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-05-06】[nature-of-code / noc-book-2](https://github.com/nature-of-code/noc-book-2) - Nature of Code with p5.js and Notion workflow / build system.
 * 【2024-05-05】[yoheinakajima / prettygraph](https://github.com/yoheinakajima/prettygraph) - An experimental UI for text-to-knowledge-graph generation
 * 【2024-05-05】[MicroStrategy / did-btc-spec](https://github.com/MicroStrategy/did-btc-spec) - did:btc Method Specification
 * 【2024-05-05】[sz-games / sz-games.github.io](https://github.com/sz-games/sz-games.github.io) - The Best Way To Play Games In School
@@ -6262,6 +6289,8 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-05-06】[1inch / 1inch-docs](https://github.com/1inch/1inch-docs) - 
+* 【2024-05-06】[stilleshan / dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件. https://docker.ioiox.com
 * 【2024-05-05】[Gkilgore / 7_Computed_Properties](https://github.com/Gkilgore/7_Computed_Properties) - 
 * 【2024-05-04】[anuragdevnath / Portfolio](https://github.com/anuragdevnath/Portfolio) - My portfolio
 * 【2024-05-04】[derisamedia / luci-theme-alpha](https://github.com/derisamedia/luci-theme-alpha) - Luci theme for Official Openwrt and Alpha OS build ,based on bootstrap and material luCi theme,inspired on neobird LEDE theme
@@ -6866,6 +6895,8 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-05-06】[KenneyNL / Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
+* 【2024-05-06】[CrealityOfficial / CrealityPrint](https://github.com/CrealityOfficial/CrealityPrint) - 
 * 【2024-05-05】[Ouckah / Summer2025-Internships](https://github.com/Ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-05-05】[GoldHEN / GoldHEN](https://github.com/GoldHEN/GoldHEN) - PS4 Homebrew Enabler
 * 【2024-05-05】[youssefHosni / Data-Science-Interview-Preperation-Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources) - Resoruce to help you to prepare for your comming data science interviews
