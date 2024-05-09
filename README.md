@@ -1,6 +1,11 @@
 ### Github热门项目
 ## All language
 
+* 【2024-05-09】[huggingface / lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch
+* 【2024-05-09】[hbb1 / 2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting) - [SIGGRAPH'24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields
+* 【2024-05-09】[IcarusRyy / NewJob](https://github.com/IcarusRyy/NewJob) - 一眼看出该职位最后修改时间，绿色为2周之内，暗橙色为1.5个月之内，红色为1.5个月以上
+* 【2024-05-09】[DataTalksClub / mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
+* 【2024-05-09】[Sh4yy / personal-ai](https://github.com/Sh4yy/personal-ai) - 
 * 【2024-05-08】[AtotheY / saas-landingpage](https://github.com/AtotheY/saas-landingpage) - https://map.sistilli.dev/public/coding/SaaS+Boilerplate
 * 【2024-05-08】[tangzhiyao / boss-show-time](https://github.com/tangzhiyao/boss-show-time) - 展示boss直聘岗位的发布时间
 * 【2024-05-08】[ca110us / epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach
@@ -923,6 +928,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-05-09】[zfile-dev / zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
 * 【2024-05-07】[dmulloy2 / ProtocolLib](https://github.com/dmulloy2/ProtocolLib) - Provides read and write access to the Minecraft protocol with Bukkit.
 * 【2024-05-07】[arpitbbhayani / WikiSe](https://github.com/arpitbbhayani/WikiSe) - A wikipedia search engine that is completely built in Java and works on Wikipedia XML dumps
 * 【2024-05-05】[DataDog / dd-trace-java](https://github.com/DataDog/dd-trace-java) - Datadog APM client for Java
@@ -1534,6 +1540,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-05-09】[Kroery / DiffMOT](https://github.com/Kroery/DiffMOT) - code for CVPR2024 paper: DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction
+* 【2024-05-09】[instructlab / instructlab](https://github.com/instructlab/instructlab) - Command-line interface. Use this to chat with the model or train the model (training consumes the taxonomy data)
 * 【2024-05-08】[NVlabs / RADIO](https://github.com/NVlabs/RADIO) - Official repository for "AM-RADIO: Reduce All Domains Into One"
 * 【2024-05-08】[dmunozv04 / iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
 * 【2024-05-08】[RevoltSecurities / Subdominator](https://github.com/RevoltSecurities/Subdominator) - SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty
@@ -2486,6 +2494,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-05-09】[heyseth / worm-sim](https://github.com/heyseth/worm-sim) - Simulate the C. Elegans worm brain in your browser and interact with the worm as it moves around
+* 【2024-05-09】[Admiral-Billy / Pokerogue-App](https://github.com/Admiral-Billy/Pokerogue-App) - An app to play Pokerogue.net in an app window. Wow!
 * 【2024-05-06】[Astropeda / Asta-Md](https://github.com/Astropeda/Asta-Md) - ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀsᴛʀᴏᴘᴇᴅᴀ ᴛᴇᴀᴍ
 * 【2024-05-06】[automatisch / automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 * 【2024-05-06】[ibrahimaitech / IBRAHIM-AI-10.10](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
@@ -3238,6 +3248,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-05-09】[PeerDB-io / peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 * 【2024-05-08】[minio / minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage
 * 【2024-05-08】[kubescape / kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 * 【2024-05-07】[zhangdi168 / VitePressSimple](https://github.com/zhangdi168/VitePressSimple) - VitePress Visual Configuration Tool
@@ -3963,6 +3974,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-05-09】[Tencent / xLua](https://github.com/Tencent/xLua) - xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
+* 【2024-05-09】[dcfsswindy / oled-ui-astra](https://github.com/dcfsswindy/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C++.
+* 【2024-05-09】[binbyu / Reader](https://github.com/binbyu/Reader) - A win32 txt file reader
 * 【2024-05-08】[deepinsight / insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 * 【2024-05-07】[LumaTeam / Luma3DS](https://github.com/LumaTeam/Luma3DS) - Nintendo 3DS "Custom Firmware"
 * 【2024-05-06】[asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
@@ -4569,6 +4583,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-05-09】[uNetworking / uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends 🤘
+* 【2024-05-09】[baconpaul / airwin2rack](https://github.com/baconpaul/airwin2rack) - Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin
 * 【2024-05-08】[dillo-browser / dillo](https://github.com/dillo-browser/dillo) - Dillo, a multi-platform graphical web browser
 * 【2024-05-08】[BYVoid / OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
 * 【2024-05-07】[zcash / zcash](https://github.com/zcash/zcash) - Zcash - Internet Money
@@ -5170,6 +5186,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-05-09】[win4r / AISuperDomain](https://github.com/win4r/AISuperDomain) - Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers from 10+ AIs like ChatGPT, Gemini, Claude3, Copilot, Poe, perplexity and more. Features customizable AI and prompts.
 * 【2024-05-08】[CCob / okta-terrify](https://github.com/CCob/okta-terrify) - Okta Verify and Okta FastPass Abuse Tool
 * 【2024-05-07】[oureveryday / Steam-auto-crack](https://github.com/oureveryday/Steam-auto-crack) - Steam Game Automatic Cracker
 * 【2024-05-07】[StyxEnc / Styx-File-Protection](https://github.com/StyxEnc/Styx-File-Protection) - Provides Styx Multi Tool Legend Scan results working with License Key
@@ -5780,6 +5797,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-05-09】[Flomp / wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 * 【2024-05-08】[drduh / YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 * 【2024-05-08】[supertestnet / coinjoin-workshop](https://github.com/supertestnet/coinjoin-workshop) - A workshop on constructing coinjoin transactions without a coordinator
 * 【2024-05-07】[DeadCoder1722 / Kick-VIewer-Bot](https://github.com/DeadCoder1722/Kick-VIewer-Bot) - 
@@ -6323,6 +6341,9 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-05-09】[CodeSpace-Academy / Module_1_StudentNo_Classcode_Group_Name-Surname_JSL01](https://github.com/CodeSpace-Academy/Module_1_StudentNo_Classcode_Group_Name-Surname_JSL01) - 
+* 【2024-05-09】[wentin / cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
+* 【2024-05-09】[codewithsadee / weatherio-starter](https://github.com/codewithsadee/weatherio-starter) - Starter file for weatherio project
 * 【2024-05-08】[BSidesSF / ctf-2024-release](https://github.com/BSidesSF/ctf-2024-release) - 
 * 【2024-05-08】[emfcamp / numbermanagement](https://github.com/emfcamp/numbermanagement) - EMF phone number management system
 * 【2024-05-08】[xhunmon / VABlog](https://github.com/xhunmon/VABlog) - YUV/PCM/H264/H265/AAC/FFmpeg/Opengl. 这有丰富的音视频开发的学习资源、开发工具、优秀书籍、教程、面试题和开源项目，旨在帮助开发者和爱好者更好地学习、实践和工作。
@@ -6939,6 +6960,9 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-05-09】[veggiemonk / awesome-docker](https://github.com/veggiemonk/awesome-docker) - 🐳 A curated list of Docker resources and projects
+* 【2024-05-09】[balloonwj / CppGuide](https://github.com/balloonwj/CppGuide) - C/C++学习，后端开发进阶指南。
+* 【2024-05-09】[ShixiangWang / pybook](https://github.com/ShixiangWang/pybook) - 《交互的Python：数据分析入门》
 * 【2024-05-08】[agmmnn / awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 * 【2024-05-08】[raultrades / SMA-outfits](https://github.com/raultrades/SMA-outfits) - Analysis of SMA outfit (blackbox) use in public equity markets for real-time insight into wealth distribution and direct stock market influence. A call for transparency and public discourse.
 * 【2024-05-08】[youssefHosni / Awesome-AI-Data-Guided-Projects](https://github.com/youssefHosni/Awesome-AI-Data-Guided-Projects) - A curated list of data science & AI guided projects to start building your portfolio
