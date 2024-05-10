@@ -1,6 +1,11 @@
 ### Github热门项目
 ## All language
 
+* 【2024-05-10】[phenaproxima / starshot-prototype](https://github.com/phenaproxima/starshot-prototype) - Prototype of a new kind of Drupal, based on recipes and loaded up with contrib's best modules and themes. Not a fork or a distribution.
+* 【2024-05-10】[FunkinCrew / Funkin](https://github.com/FunkinCrew/Funkin) - A rhythm game made with HaxeFlixel
+* 【2024-05-10】[AdityaNG / kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
+* 【2024-05-10】[deepseek-ai / DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - 
+* 【2024-05-10】[NielsRogge / Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
 * 【2024-05-09】[huggingface / lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch
 * 【2024-05-09】[hbb1 / 2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting) - [SIGGRAPH'24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields
 * 【2024-05-09】[IcarusRyy / NewJob](https://github.com/IcarusRyy/NewJob) - 一眼看出该职位最后修改时间，绿色为2周之内，暗橙色为1.5个月之内，红色为1.5个月以上
@@ -2494,6 +2499,11 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-05-10】[said7388 / github-portfolio](https://github.com/said7388/github-portfolio) - Create a Portfolio Website using your GitHub username. This website template is constructed with next.js and tailwind CSS, allowing you to display your work and skills as a software developer.
+* 【2024-05-10】[taikoxyz / operations](https://github.com/taikoxyz/operations) - Operations related scripts
+* 【2024-05-10】[potree / potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets
+* 【2024-05-10】[yonggekkk / Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - Cloudflare代理脚本，支持workers与pages两种形式部署，实现Vless与Trojan两种协议。CF优选域名、优选官方IP反代IP多平台一键脚本
+* 【2024-05-10】[paralleldrive / cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance.
 * 【2024-05-09】[heyseth / worm-sim](https://github.com/heyseth/worm-sim) - Simulate the C. Elegans worm brain in your browser and interact with the worm as it moves around
 * 【2024-05-09】[Admiral-Billy / Pokerogue-App](https://github.com/Admiral-Billy/Pokerogue-App) - An app to play Pokerogue.net in an app window. Wow!
 * 【2024-05-06】[Astropeda / Asta-Md](https://github.com/Astropeda/Asta-Md) - ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀsᴛʀᴏᴘᴇᴅᴀ ᴛᴇᴀᴍ
@@ -4583,6 +4593,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-05-10】[lilipads / gradient_descent_viz](https://github.com/lilipads/gradient_descent_viz) - interactive visualization of 5 popular gradient descent methods with step-by-step illustration and hyperparameter tuning UI
+* 【2024-05-10】[gperftools / gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 * 【2024-05-09】[uNetworking / uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends 🤘
 * 【2024-05-09】[baconpaul / airwin2rack](https://github.com/baconpaul/airwin2rack) - Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin
 * 【2024-05-08】[dillo-browser / dillo](https://github.com/dillo-browser/dillo) - Dillo, a multi-platform graphical web browser
@@ -5186,6 +5198,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-05-10】[ravibpatel / AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) - AutoUpdater.NET is a class library that allows .NET developers to easily add auto update functionality to their classic desktop application projects.
+* 【2024-05-10】[simpleidserver / SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer) - OpenID, OAuth 2.0, SCIM2.0, UMA2.0, FAPI, CIBA & OPENBANKING Framework for ASP.NET Core
 * 【2024-05-09】[win4r / AISuperDomain](https://github.com/win4r/AISuperDomain) - Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers from 10+ AIs like ChatGPT, Gemini, Claude3, Copilot, Poe, perplexity and more. Features customizable AI and prompts.
 * 【2024-05-08】[CCob / okta-terrify](https://github.com/CCob/okta-terrify) - Okta Verify and Okta FastPass Abuse Tool
 * 【2024-05-07】[oureveryday / Steam-auto-crack](https://github.com/oureveryday/Steam-auto-crack) - Steam Game Automatic Cracker
@@ -5797,6 +5811,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-05-10】[logankilpatrick / gemini-api-quickstart](https://github.com/logankilpatrick/gemini-api-quickstart) - Get up and running in under 5 minutes with the Google AI Gemini API (in Python)
+* 【2024-05-10】[madhuakula / kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 * 【2024-05-09】[Flomp / wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 * 【2024-05-08】[drduh / YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 * 【2024-05-08】[supertestnet / coinjoin-workshop](https://github.com/supertestnet/coinjoin-workshop) - A workshop on constructing coinjoin transactions without a coordinator
@@ -6341,6 +6357,12 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-05-10】[Param302 / SocialRepo](https://github.com/Param302/SocialRepo) - Social Repo - Your Social Handles Repository in a chrome extension.
+* 【2024-05-10】[jhonieldorschulz / html-portfolio-trabalho-2](https://github.com/jhonieldorschulz/html-portfolio-trabalho-2) - Projeto Base do 2° Trabalho de Modelagem de Sites Básicos do Curso de Engenharia de Software - BIOPARK
+* 【2024-05-10】[CodeSpace-Academy / StudentNo_Classcode_Group_Name-Surname_DJS02](https://github.com/CodeSpace-Academy/StudentNo_Classcode_Group_Name-Surname_DJS02) - [DJS02] Starter Code for Module 2's Project Submission
+* 【2024-05-10】[nikhilkeshava / Online_Inventory_shop](https://github.com/nikhilkeshava/Online_Inventory_shop) - Online shop with admin and supplier-for demo
+* 【2024-05-10】[next-step / js-lotto](https://github.com/next-step/js-lotto) - 자바스크립트로 구현하는 로또 어플리케이션
+* 【2024-05-10】[carlos-paezf / 50_Projects_50_days](https://github.com/carlos-paezf/50_Projects_50_days) - Reto de 50 proyectos en 50 días con HTML, CSS y JS
 * 【2024-05-09】[CodeSpace-Academy / Module_1_StudentNo_Classcode_Group_Name-Surname_JSL01](https://github.com/CodeSpace-Academy/Module_1_StudentNo_Classcode_Group_Name-Surname_JSL01) - 
 * 【2024-05-09】[wentin / cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
 * 【2024-05-09】[codewithsadee / weatherio-starter](https://github.com/codewithsadee/weatherio-starter) - Starter file for weatherio project
@@ -6960,6 +6982,9 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-05-10】[ibm-granite / granite-code-models](https://github.com/ibm-granite/granite-code-models) - Granite Code Models: A Family of Open Foundation Models for Code Intelligence
+* 【2024-05-10】[datawhalechina / pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
+* 【2024-05-10】[iyukiyama / leetcode-posts](https://github.com/iyukiyama/leetcode-posts) - yukiyama 创作的算法文章，目前共二十余万字，持续新增中。发表数月内，在力扣中国收获20w+阅读量，1w+收藏量，近5k点赞量。
 * 【2024-05-09】[veggiemonk / awesome-docker](https://github.com/veggiemonk/awesome-docker) - 🐳 A curated list of Docker resources and projects
 * 【2024-05-09】[balloonwj / CppGuide](https://github.com/balloonwj/CppGuide) - C/C++学习，后端开发进阶指南。
 * 【2024-05-09】[ShixiangWang / pybook](https://github.com/ShixiangWang/pybook) - 《交互的Python：数据分析入门》
