@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-05-13】[xfangfang / PPPwn_cpp](https://github.com/xfangfang/PPPwn_cpp) - C++ rewrite of PPPwn (PlayStation 4 PPPoE RCE)
 * 【2024-05-12】[SOS-RS / backend](https://github.com/SOS-RS/backend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
 * 【2024-05-12】[w3laba / CoinMarketCap-Trending](https://github.com/w3laba/CoinMarketCap-Trending) - CoinMarketCap (CMC) Trending | CMC, Coingecko, Dexscreener, Dextools Trending services
 * 【2024-05-12】[SOS-RS / frontend](https://github.com/SOS-RS/frontend) - 
@@ -945,6 +946,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-05-13】[matevip / matecloud](https://github.com/matevip/matecloud) - 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 2.7.0、 Spring Cloud 2021、Spring Cloud Alibaba 2021、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
 * 【2024-05-12】[4379711 / lol-helper](https://github.com/4379711/lol-helper) - 英雄联盟工具,LCU API,一键喊话,战绩查询,一键发送战绩,更改段位显示,更改背景页,牛马/上等马/下等马,彩虹屁,禁用英雄 ,秒选英雄,解锁炫彩皮肤等
 * 【2024-05-11】[weixiansen574 / HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 双轨快传-同时使用USB和WIFI传输文件到电脑
 * 【2024-05-09】[zfile-dev / zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
@@ -1559,6 +1561,11 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-05-13】[sol3dev / SOL-shitcoinbot](https://github.com/sol3dev/SOL-shitcoinbot) - Solana-shitcoinbot! Solana-bot Meme token bots. autotrade, sniper bot, raydium bot, jupiter bot, solana sniper bot, autorade bot, trade bot
+* 【2024-05-13】[modelscope / agentscope](https://github.com/modelscope/agentscope) - Start building LLM-empowered multi-agent applications in an easier way.
+* 【2024-05-13】[Alpha-VLLM / Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X) - Lumina-T2X is a unified framework for Text to Any Modality Generation
+* 【2024-05-13】[xinntao / Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+* 【2024-05-13】[aioqzone / aioqzone](https://github.com/aioqzone/aioqzone) - A python wrapper for Qzone web login and Qzone http api
 * 【2024-05-12】[jgravelle / AutoGroq](https://github.com/jgravelle/AutoGroq) - 
 * 【2024-05-12】[mustafaaljadery / gemma-2B-10M](https://github.com/mustafaaljadery/gemma-2B-10M) - Gemma 2B with 10M context length using Infini-attention.
 * 【2024-05-11】[google-research / timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
@@ -2518,6 +2525,13 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-05-13】[kunjgit / GameZone](https://github.com/kunjgit/GameZone) - This open source repository contains collection of games build on basic tech stacks in web development . Use your creativity and build your own game and contribute to the repository by making PR 🎮
+* 【2024-05-13】[swapnilsparsh / 30DaysOfJavaScript](https://github.com/swapnilsparsh/30DaysOfJavaScript) - Projects made during the 30 days of the JavaScript challenge
+* 【2024-05-13】[hugeicons / hugeicons-react](https://github.com/hugeicons/hugeicons-react) - Boost your UI with Hugeicons React Icons. 3,800+ free customizable stroke icons for sleek web development and design projects. An open-source react icon library tailored for React.
+* 【2024-05-13】[x0tools / WeChatOpenDevTools](https://github.com/x0tools/WeChatOpenDevTools) - 
+* 【2024-05-13】[buxuku / VideoSubtitleGenerator](https://github.com/buxuku/VideoSubtitleGenerator) - 批量为本地视频生成字幕文件，并可将字幕文件翻译成其它语言
+* 【2024-05-13】[Rectify11 / Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification which makes it more consistent.
+* 【2024-05-13】[ibrahimaitech / BLACK-PANTHER-XMD](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD) - Black panther md is the fastest wabot that helps WhatsApp users to enjoy smooth life
 * 【2024-05-12】[manga-download / hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
 * 【2024-05-11】[jbaysolutions / vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 * 【2024-05-11】[react-grid-layout / react-draggable](https://github.com/react-grid-layout/react-draggable) - React draggable component
@@ -3280,6 +3294,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-05-13】[MHNightCat / superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
 * 【2024-05-12】[supabase / auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
 * 【2024-05-11】[intigriti / misconfig-mapper](https://github.com/intigriti/misconfig-mapper) - Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets!
 * 【2024-05-11】[kubeflow / spark-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
@@ -4624,6 +4639,11 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-05-13】[Mr-Wiseguy / Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
+* 【2024-05-13】[Mr-Wiseguy / N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables
+* 【2024-05-13】[atcoder / ac-library](https://github.com/atcoder/ac-library) - AtCoder Library
+* 【2024-05-13】[PolyhedraZK / Expander](https://github.com/PolyhedraZK/Expander) - Expander, an open-source GKR prover designed for scaling large-scale parallel computing.
+* 【2024-05-13】[zeux / meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render
 * 【2024-05-11】[svenundefinedshire / Wallet-stealer](https://github.com/svenundefinedshire/Wallet-stealer) - Wallet Stealer Software 🔥 Steal Pass Phrases of Trust Wallet and Metamask Wallets! Bitcoin Mining, Ethereum, BNB, LTC. Brute Force 12 Word Secret Phrase. Blockchain python windows brute-force wallet btc eth metamask bruteforce-attacks wallet-generator stealer trustwallet seed-phrase bscscan wallet-stealer solana-stealer crypto-stealer-scripts
 * 【2024-05-10】[lilipads / gradient_descent_viz](https://github.com/lilipads/gradient_descent_viz) - interactive visualization of 5 popular gradient descent methods with step-by-step illustration and hyperparameter tuning UI
 * 【2024-05-10】[gperftools / gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
@@ -5230,6 +5250,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-05-13】[LiuYunPlayer / TuneLab](https://github.com/LiuYunPlayer/TuneLab) - 
 * 【2024-05-12】[paidworkco / solana-api](https://github.com/paidworkco/solana-api) - API for Solana Tokens
 * 【2024-05-12】[hadashiA / VContainer](https://github.com/hadashiA/VContainer) - The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.
 * 【2024-05-12】[dotnet / command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
@@ -5850,6 +5871,13 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-05-13】[Rajan-Barnwal / jobproject](https://github.com/Rajan-Barnwal/jobproject) - jobportal
+* 【2024-05-13】[ayush-that / FinVeda](https://github.com/ayush-that/FinVeda) - A web application designed to enhance financial literacy.
+* 【2024-05-13】[juhinagpure / Eduford-university](https://github.com/juhinagpure/Eduford-university) - 
+* 【2024-05-13】[b120s / aviator](https://github.com/b120s/aviator) - Level up your Aviator game! This app employs its prediction prowess to help you maximize your profit - and it's completely free!
+* 【2024-05-13】[Rakesh9100 / CalcDiverse](https://github.com/Rakesh9100/CalcDiverse) - CalcDiverse is a customized collection of calculators for various aspects of mathematics. Individuals with basic web development knowledge can create distinctive calculators and submit pull requests.
+* 【2024-05-13】[Avdpro / ai2apps](https://github.com/Avdpro/ai2apps) - Setup AI2Apps at local system so you can use your own OpenAI key or make more back-end features.
+* 【2024-05-13】[Satakshijain / CodingHustlers](https://github.com/Satakshijain/CodingHustlers) - 
 * 【2024-05-12】[khushi-joshi-05 / Food-ordering-website](https://github.com/khushi-joshi-05/Food-ordering-website) - Foodie is a food ordering website that aims to provide users with a seamless experience for ordering food online, taking orders for pickup, and booking tables for dining in. The website showcases the quality and specialties of the food offered, along with a variety of services to cater to different user preferences.
 * 【2024-05-12】[arghadipmanna101 / Flipkart_Clone](https://github.com/arghadipmanna101/Flipkart_Clone) - Clone of Flipkart using HTML,CSS and JavaScript
 * 【2024-05-12】[unclecode / crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
@@ -6405,6 +6433,8 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-05-13】[Suchitra-Sahoo / AgriLearnNetwork](https://github.com/Suchitra-Sahoo/AgriLearnNetwork) - Agrilearn Network is a comprehensive platform designed to empower farmers with essential insights and resources for successful agriculture practices. Our platform serves as an indispensable resource, offering a holistic approach enriched with detailed guidance, in-depth knowledge and strategic management approaches across various facets of farming.
+* 【2024-05-13】[Anishkagupta04 / RAPIDOC-HEALTHCARE-WEBSITE-](https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-) - It is an online platform based on providing healthcare facilites to the user and information regarding hospital like availability of beds, total number of patients,,helping user to prebook appointments for OPD ,check availability of blood groups in hospitals and many more .
 * 【2024-05-12】[x8BitRain / webXash](https://github.com/x8BitRain/webXash) - WIP Improved version of xash3d emscripten in the browser
 * 【2024-05-12】[Its-Aman-Yadav / Community-Site](https://github.com/Its-Aman-Yadav/Community-Site) - This is open source village community site
 * 【2024-05-12】[piug-07 / blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource) - A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, with a click!
@@ -7037,6 +7067,10 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-05-13】[GSSoC24 / Open-source-Practice](https://github.com/GSSoC24/Open-source-Practice) - GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India.
+* 【2024-05-13】[GSSoC24 / Contributor](https://github.com/GSSoC24/Contributor) - GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India. This is Contributor Space.
+* 【2024-05-13】[X-LANCE / AniTalker](https://github.com/X-LANCE/AniTalker) - 
+* 【2024-05-13】[kkbo8005 / mitan](https://github.com/kkbo8005/mitan) - 密探渗透测试工具包含域名查询，搜索语法，资产测绘（FOFA，Hunter，quake），指纹识别，敏感信息采集，文件扫描、密码字典等功能
 * 【2024-05-12】[Cry1ngMan / 1](https://github.com/Cry1ngMan/1) - 手机往下滑 ❤️ 定期更新 ❤️ 免费/白嫖/公益/节点/机场/订阅/vpn/翻墙
 * 【2024-05-12】[AI-Guru / xlstm-resources](https://github.com/AI-Guru/xlstm-resources) - Resources about xLSTM by Sepp Hochreiter
 * 【2024-05-11】[lucidrains / alphafold3-pytorch](https://github.com/lucidrains/alphafold3-pytorch) - Implementation of Alphafold3 in Pytorch
