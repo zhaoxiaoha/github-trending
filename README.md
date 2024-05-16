@@ -1,6 +1,12 @@
 ### Github热门项目
 ## All language
 
+* 【2024-05-16】[HazyResearch / ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
+* 【2024-05-16】[alan2207 / bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+* 【2024-05-16】[dependabot / dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+* 【2024-05-16】[pipecat-ai / pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
+* 【2024-05-16】[CapSoftware / Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
+* 【2024-05-16】[openai / tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 * 【2024-05-15】[nocobase / nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 * 【2024-05-14】[rt64 / rt64](https://github.com/rt64/rt64) - RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.
 * 【2024-05-14】[invoke-ai / InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
@@ -951,6 +957,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-05-16】[spring-projects / spring-batch](https://github.com/spring-projects/spring-batch) - Spring Batch is a framework for writing batch applications using Java and Spring
 * 【2024-05-15】[TutorLee / Arcane](https://github.com/TutorLee/Arcane) - fortnite-aimbot fortnite-hack fortnite-cheat fortnite-wallhack fortnite-esp fortnite-wallhack fortnite-skinchanger fortnite-skin-swapper
 * 【2024-05-15】[JanusGraph / janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
 * 【2024-05-15】[dingodb / dingo](https://github.com/dingodb/dingo) - A multi-modal vector database that supports upserts and vector queries using unified SQL (MySQL-Compatible) on structured and unstructured data, while meeting the requirements of high concurrency and ultra-low latency.
@@ -1572,6 +1579,13 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-05-16】[openai / openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
+* 【2024-05-16】[aqlaboratory / openfold](https://github.com/aqlaboratory/openfold) - Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2
+* 【2024-05-16】[nkasmanoff / pi-card](https://github.com/nkasmanoff/pi-card) - Raspberry Pi Voice Assistant
+* 【2024-05-16】[Aabyss-Team / ARL](https://github.com/Aabyss-Team/ARL) - ARL官方仓库备份项目：ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
+* 【2024-05-16】[scrapy / scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+* 【2024-05-16】[Chainlit / cookbook](https://github.com/Chainlit/cookbook) - Chainlit's cookbook repo
+* 【2024-05-16】[yeyupiaoling / MASR](https://github.com/yeyupiaoling/MASR) - Pytorch实现的流式与非流式的自动语音识别框架，同时兼容在线和离线识别，目前支持Conformer、Squeezeformer、DeepSpeech2模型，支持多种数据增强方法。
 * 【2024-05-15】[entropy-research / Devon](https://github.com/entropy-research/Devon) - Devon: An open-source pair programmer
 * 【2024-05-15】[CTFd / CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 * 【2024-05-15】[Chaphlagical / Deblur-GS](https://github.com/Chaphlagical/Deblur-GS) - [I3D 2024] Deblur-GS: 3D Gaussian Splatting from Camera Motion Blurred Images
@@ -2545,6 +2559,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-05-16】[SBoudrias / Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+* 【2024-05-16】[react-native-datetimepicker / datetimepicker](https://github.com/react-native-datetimepicker/datetimepicker) - React Native date & time picker component for iOS, Android and Windows
 * 【2024-05-15】[aegir-assembly / omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application
 * 【2024-05-15】[lowlighter / metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 * 【2024-05-14】[Dev-tanay / Rubik-Cube](https://github.com/Dev-tanay/Rubik-Cube) - Rubik Cube
@@ -3323,6 +3339,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-05-16】[camunda / camunda-platform](https://github.com/camunda/camunda-platform) - Links to Camunda Platform 8 resources, releases, and local development config
 * 【2024-05-14】[fdx-xdf / darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，目前免杀火绒，360，360核晶。
 * 【2024-05-14】[NHAS / wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA
 * 【2024-05-14】[owncast / owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself. Streaming + chat out of the box.
@@ -4060,6 +4077,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-05-16】[PabloMK7 / ArticBaseServer](https://github.com/PabloMK7/ArticBaseServer) - 3DS Game Broadcaster
+* 【2024-05-16】[n64decomp / sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+* 【2024-05-16】[ArtifexSoftware / mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
 * 【2024-05-15】[BasedHardware / OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
 * 【2024-05-15】[ARM-software / CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) - CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
 * 【2024-05-15】[cocomelonc / bsprishtina-2024-maldev-workshop](https://github.com/cocomelonc/bsprishtina-2024-maldev-workshop) - BSides Prishtina 2024 Malware Development and Persistence workshop
@@ -4675,6 +4695,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-05-16】[Flutterando / calamidade](https://github.com/Flutterando/calamidade) - 
+* 【2024-05-16】[ceres-solver / ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 * 【2024-05-15】[ShahjalalShohag / code-library](https://github.com/ShahjalalShohag/code-library) - Templates, algorithms and data structures implemented and collected for programming contests.
 * 【2024-05-15】[mirage-project / mirage](https://github.com/mirage-project/mirage) - A multi-level tensor algebra superoptimizer
 * 【2024-05-15】[flutter-webrtc / flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
@@ -5293,6 +5315,10 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-05-16】[cybersectroll / SharpPersistSD](https://github.com/cybersectroll/SharpPersistSD) - 
+* 【2024-05-16】[n1d3v / naticord](https://github.com/n1d3v/naticord) - Naticord / Native-cord is a native Discord client targetting modern and old operating systems.
+* 【2024-05-16】[shishkabob27 / CardWarsKingdom](https://github.com/shishkabob27/CardWarsKingdom) - A port of the "Adventure Time: Card Wars Kingdom" mobile game to PC.
+* 【2024-05-16】[microsoft / CopilotStudioSamples](https://github.com/microsoft/CopilotStudioSamples) - 
 * 【2024-05-15】[victorverdoodt / Disaster-Response-Coordinator](https://github.com/victorverdoodt/Disaster-Response-Coordinator) - O 'Disaster Response Coordinator' é um sistema interativo baseado em inteligência artificial para coordenação e suporte em situações de desastre. Utiliza a API do Gemini para facilitar a comunicação entre vítimas e serviços de emergência, integrando-se ao Sistema Integrado de Informações sobre Desastres v3.
 * 【2024-05-14】[PokersKun / PPPwn-Loader](https://github.com/PokersKun/PPPwn-Loader) - A WPF-based PPPwn front-end
 * 【2024-05-14】[sinai-dev / UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
@@ -5918,6 +5944,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-05-16】[Avdhesh-Varshney / WebMasterLog](https://github.com/Avdhesh-Varshney/WebMasterLog) - A record of Unique Web Development Projects made with Angular, Next, Node, React, ExpressJS, Redux, Vanilla, Vue, etc. Technologies...
+* 【2024-05-16】[yuriskinfo / cheat-sheets](https://github.com/yuriskinfo/cheat-sheets) - Cheat sheets to help you in daily hands-on tasks of trouble shooting, configuration, and diagnostics with Fortinet, HP/Aruba, Cisco, Checkpoint and others' gear.
 * 【2024-05-15】[pybluez / pybluez](https://github.com/pybluez/pybluez) - Bluetooth Python extension module
 * 【2024-05-15】[x-dr / telegraph-Image](https://github.com/x-dr/telegraph-Image) - 
 * 【2024-05-15】[SiddharthBahuguna / NEWS-AGGREGATOR-PROJECT](https://github.com/SiddharthBahuguna/NEWS-AGGREGATOR-PROJECT) - The news aggregator project aims to create a centralized platform that curates and organizes news articles and updates from various sources across the internet. It is being developed to address the growing need for a consolidated and user-friendly platform that offers reliable and diverse news content
@@ -6488,6 +6516,9 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-05-16】[dkuehl / dkuehl.github.io](https://github.com/dkuehl/dkuehl.github.io) - My Site
+* 【2024-05-16】[professorrichardson / Agrinho-2024-formacao](https://github.com/professorrichardson/Agrinho-2024-formacao) - Site de exemplo para formação de professores da rede estadual do Paraná núcleo de Ivaiporã
+* 【2024-05-16】[zen-browser / desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 * 【2024-05-15】[Satyam1923 / Spring-Music-Player](https://github.com/Satyam1923/Spring-Music-Player) - The JioSaavn Player project aims to create a feature-rich music player application leveraging the unofficial JioSaavn API. This application will provide users with a seamless experience to discover, stream, and organize their favorite music tracks from the extensive JioSaavn library.
 * 【2024-05-15】[zalando / restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 * 【2024-05-15】[stephband / scribe](https://github.com/stephband/scribe) - Renders music in HTML.
@@ -7130,6 +7161,12 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-05-16】[bobeff / open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
+* 【2024-05-16】[AllThingsSmitty / css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+* 【2024-05-16】[PicPay / picpay-desafio-backend](https://github.com/PicPay/picpay-desafio-backend) - Desafio técnico - Backend
+* 【2024-05-16】[GigaAI-research / General-World-Models-Survey](https://github.com/GigaAI-research/General-World-Models-Survey) - 
+* 【2024-05-16】[total-typescript / tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json
+* 【2024-05-16】[CVEProject / cvelistV5](https://github.com/CVEProject/cvelistV5) - CVE cache of the official CVE List in CVE JSON 5 format
 * 【2024-05-15】[theokwebb / C-from-Scratch](https://github.com/theokwebb/C-from-Scratch) - A roadmap to learn C from Scratch
 * 【2024-05-15】[01-ai / Yi-1.5](https://github.com/01-ai/Yi-1.5) - Yi-1.5 is an upgraded version of Yi, delivering stronger performance in coding, math, reasoning, and instruction-following capability.
 * 【2024-05-15】[akshitagupta15june / Face-X](https://github.com/akshitagupta15june/Face-X) - Demonstration of different algorithms and operations on faces. Star the repo⭐
