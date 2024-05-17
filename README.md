@@ -1,6 +1,10 @@
 ### Github热门项目
 ## All language
 
+* 【2024-05-17】[andydunstall / piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
+* 【2024-05-17】[Tencent / HunyuanDiT](https://github.com/Tencent/HunyuanDiT) - Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
+* 【2024-05-17】[android / kotlin-multiplatform-samples](https://github.com/android/kotlin-multiplatform-samples) - Samples showcasing the experimental Kotlin Multiplatform Jetpack libraries
+* 【2024-05-17】[openai / openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 * 【2024-05-16】[HazyResearch / ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
 * 【2024-05-16】[alan2207 / bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 * 【2024-05-16】[dependabot / dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
@@ -957,6 +961,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-05-17】[elastic / apm-agent-java](https://github.com/elastic/apm-agent-java) - Elastic APM Java Agent
+* 【2024-05-17】[3425734131 / GoodSign](https://github.com/3425734131/GoodSign) - 学习通 签到（好签助手）安卓Android ---支持所有类型签到一键签到（二维码一键签到！！！）、未交作业提醒、后台静默签到、抢答、全网最强学习通签到软件
+* 【2024-05-17】[topiam / eiam](https://github.com/topiam/eiam) - EIAM（Employee Identity and Access Management Program）企业级开源IAM平台，实现用户全生命周期的管理、统一认证和单点登录、为数字身份安全赋能！
 * 【2024-05-16】[spring-projects / spring-batch](https://github.com/spring-projects/spring-batch) - Spring Batch is a framework for writing batch applications using Java and Spring
 * 【2024-05-15】[TutorLee / Arcane](https://github.com/TutorLee/Arcane) - fortnite-aimbot fortnite-hack fortnite-cheat fortnite-wallhack fortnite-esp fortnite-wallhack fortnite-skinchanger fortnite-skin-swapper
 * 【2024-05-15】[JanusGraph / janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
@@ -1579,6 +1586,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-05-17】[livekit / agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
+* 【2024-05-17】[microsoft / EveryoneCanCode-US](https://github.com/microsoft/EveryoneCanCode-US) - Everyone Can Code Event (U.S. Edition)
+* 【2024-05-17】[AgentOps-AI / agentops](https://github.com/AgentOps-AI/agentops) - Open source Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 * 【2024-05-16】[openai / openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 * 【2024-05-16】[aqlaboratory / openfold](https://github.com/aqlaboratory/openfold) - Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2
 * 【2024-05-16】[nkasmanoff / pi-card](https://github.com/nkasmanoff/pi-card) - Raspberry Pi Voice Assistant
@@ -2559,6 +2569,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-05-17】[google-marketing-solutions / ga4_dataform](https://github.com/google-marketing-solutions/ga4_dataform) - 
+* 【2024-05-17】[evil-huawei / evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
 * 【2024-05-16】[SBoudrias / Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 * 【2024-05-16】[react-native-datetimepicker / datetimepicker](https://github.com/react-native-datetimepicker/datetimepicker) - React Native date & time picker component for iOS, Android and Windows
 * 【2024-05-15】[aegir-assembly / omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application
@@ -3339,6 +3351,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-05-17】[chapar-rest / chapar](https://github.com/chapar-rest/chapar) - Chapar is a simple and easy to use api testing tools aims to help developers to test their api endpoints. it will support http and grpc protocols.
+* 【2024-05-17】[k0sproject / k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
+* 【2024-05-17】[containers / buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 * 【2024-05-16】[camunda / camunda-platform](https://github.com/camunda/camunda-platform) - Links to Camunda Platform 8 resources, releases, and local development config
 * 【2024-05-14】[fdx-xdf / darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，目前免杀火绒，360，360核晶。
 * 【2024-05-14】[NHAS / wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA
@@ -4077,6 +4092,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-05-17】[Modos-Labs / Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
+* 【2024-05-17】[risinek / esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool) - Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.
+* 【2024-05-17】[eclipse / paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
 * 【2024-05-16】[PabloMK7 / ArticBaseServer](https://github.com/PabloMK7/ArticBaseServer) - 3DS Game Broadcaster
 * 【2024-05-16】[n64decomp / sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
 * 【2024-05-16】[ArtifexSoftware / mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
@@ -4695,6 +4713,11 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-05-17】[okalachev / flix](https://github.com/okalachev/flix) - Making an ESP32-based quadcopter from scratch
+* 【2024-05-17】[ValveSoftware / halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
+* 【2024-05-17】[google-ai-edge / mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+* 【2024-05-17】[GJDuck / RRFuzz](https://github.com/GJDuck/RRFuzz) - Fuzz anything with Program Environment Fuzzing
+* 【2024-05-17】[moveit / moveit2](https://github.com/moveit/moveit2) - 🤖 MoveIt for ROS 2
 * 【2024-05-16】[Flutterando / calamidade](https://github.com/Flutterando/calamidade) - 
 * 【2024-05-16】[ceres-solver / ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 * 【2024-05-15】[ShahjalalShohag / code-library](https://github.com/ShahjalalShohag/code-library) - Templates, algorithms and data structures implemented and collected for programming contests.
@@ -5315,6 +5338,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-05-17】[microsoft / artifacts-credprovider](https://github.com/microsoft/artifacts-credprovider) - The Azure Artifacts Credential Provider enables dotnet, NuGet.exe, and MSBuild to interactively acquire credentials for Azure Artifacts feeds.
 * 【2024-05-16】[cybersectroll / SharpPersistSD](https://github.com/cybersectroll/SharpPersistSD) - 
 * 【2024-05-16】[n1d3v / naticord](https://github.com/n1d3v/naticord) - Naticord / Native-cord is a native Discord client targetting modern and old operating systems.
 * 【2024-05-16】[shishkabob27 / CardWarsKingdom](https://github.com/shishkabob27/CardWarsKingdom) - A port of the "Adventure Time: Card Wars Kingdom" mobile game to PC.
@@ -5944,6 +5968,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-05-17】[DaGeger / paper-conversion](https://github.com/DaGeger/paper-conversion) - 文章去重助手 论文降重 智能改写 智能原创
+* 【2024-05-17】[pytorch / kineto](https://github.com/pytorch/kineto) - A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
 * 【2024-05-16】[Avdhesh-Varshney / WebMasterLog](https://github.com/Avdhesh-Varshney/WebMasterLog) - A record of Unique Web Development Projects made with Angular, Next, Node, React, ExpressJS, Redux, Vanilla, Vue, etc. Technologies...
 * 【2024-05-16】[yuriskinfo / cheat-sheets](https://github.com/yuriskinfo/cheat-sheets) - Cheat sheets to help you in daily hands-on tasks of trouble shooting, configuration, and diagnostics with Fortinet, HP/Aruba, Cisco, Checkpoint and others' gear.
 * 【2024-05-15】[pybluez / pybluez](https://github.com/pybluez/pybluez) - Bluetooth Python extension module
@@ -6516,6 +6542,9 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-05-17】[paregorios / srp-boilerplate](https://github.com/paregorios/srp-boilerplate) - Boilerplate for the Syriac Reference Portal (built on HTML5 Boilerplate and Twitter Bootstrap via Initializr)
+* 【2024-05-17】[creativetimofficial / paper-dashboard](https://github.com/creativetimofficial/paper-dashboard) - Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.
+* 【2024-05-17】[itscodenation / int-u5l2-23-24-student-exercises](https://github.com/itscodenation/int-u5l2-23-24-student-exercises) - 
 * 【2024-05-16】[dkuehl / dkuehl.github.io](https://github.com/dkuehl/dkuehl.github.io) - My Site
 * 【2024-05-16】[professorrichardson / Agrinho-2024-formacao](https://github.com/professorrichardson/Agrinho-2024-formacao) - Site de exemplo para formação de professores da rede estadual do Paraná núcleo de Ivaiporã
 * 【2024-05-16】[zen-browser / desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
@@ -7161,6 +7190,10 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-05-17】[0x676e67 / js-fuck](https://github.com/0x676e67/js-fuck) - 无视ip、账号强开gpt-4o
+* 【2024-05-17】[LayerZero-Labs / sybil-report](https://github.com/LayerZero-Labs/sybil-report) - 
+* 【2024-05-17】[langgptai / wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
+* 【2024-05-17】[zenodotus280 / apl-md](https://github.com/zenodotus280/apl-md) - 
 * 【2024-05-16】[bobeff / open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 * 【2024-05-16】[AllThingsSmitty / css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 * 【2024-05-16】[PicPay / picpay-desafio-backend](https://github.com/PicPay/picpay-desafio-backend) - Desafio técnico - Backend
