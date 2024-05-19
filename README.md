@@ -1,6 +1,15 @@
 ### Github热门项目
 ## All language
 
+* 【2024-05-19】[HigherOrderCO / HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
+* 【2024-05-19】[HigherOrderCO / Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
+* 【2024-05-19】[expo / react-conf-app](https://github.com/expo/react-conf-app) - 
+* 【2024-05-19】[LazyVim / LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
+* 【2024-05-19】[apple / swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
+* 【2024-05-19】[felangel / data_class](https://github.com/felangel/data_class) - Experimental support for data classes in Dart using macros.
+* 【2024-05-19】[SeleniumHQ / docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
+* 【2024-05-19】[tjdevries / config.nvim](https://github.com/tjdevries/config.nvim) - my nvim config
+* 【2024-05-19】[scalar / scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
 * 【2024-05-18】[likejazz / llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is pure NumPy implementation for Llama 3 model.
 * 【2024-05-18】[remix-run / react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 * 【2024-05-18】[type-challenges / type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
@@ -1593,6 +1602,10 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-05-19】[pypa / hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
+* 【2024-05-19】[JadyXuan / NTTS](https://github.com/JadyXuan/NTTS) - NO TIME TO SLEEP
+* 【2024-05-19】[modelscope / swift](https://github.com/modelscope/swift) - ms-swift: Use PEFT or Full-parameter to finetune 200+ LLMs or 15+ MLLMs
+* 【2024-05-19】[zhenglinpan / SakugaDataset](https://github.com/zhenglinpan/SakugaDataset) - Official Repository for Sakuga-42M Dataset
 * 【2024-05-18】[yuweihao / MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision?
 * 【2024-05-18】[matplotlib / matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 * 【2024-05-18】[huggingface / pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more
@@ -2581,6 +2594,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-05-19】[responsively-org / responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 * 【2024-05-17】[google-marketing-solutions / ga4_dataform](https://github.com/google-marketing-solutions/ga4_dataform) - 
 * 【2024-05-17】[evil-huawei / evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
 * 【2024-05-16】[SBoudrias / Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
@@ -3363,6 +3377,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-05-19】[linux-do / override](https://github.com/linux-do/override) - 啥也不是
+* 【2024-05-19】[kubeflow / training-operator](https://github.com/kubeflow/training-operator) - Distributed ML Training and Fine-Tuning on Kubernetes
+* 【2024-05-19】[firebase / firebase-admin-go](https://github.com/firebase/firebase-admin-go) - Firebase Admin Go SDK
 * 【2024-05-18】[umutcamliyurt / PingRAT](https://github.com/umutcamliyurt/PingRAT) - PingRAT secretly passes C2 traffic through firewalls using ICMP payloads.
 * 【2024-05-18】[initia-labs / initia](https://github.com/initia-labs/initia) - 
 * 【2024-05-17】[chapar-rest / chapar](https://github.com/chapar-rest/chapar) - Chapar is a simple and easy to use api testing tools aims to help developers to test their api endpoints. it will support http and grpc protocols.
@@ -4106,6 +4123,10 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-05-19】[ntop / n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN
+* 【2024-05-19】[allinurl / goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+* 【2024-05-19】[0xNinjaCyclone / hellMaker](https://github.com/0xNinjaCyclone/hellMaker) - Generate FUD backdoors
+* 【2024-05-19】[tpunix / SAROO](https://github.com/tpunix/SAROO) - SAROO is a SEGA Saturn HDloader
 * 【2024-05-18】[mcknly / breadboard-os](https://github.com/mcknly/breadboard-os) - A firmware platform aimed at quick prototyping, built around FreeRTOS and a feature-packed CLI
 * 【2024-05-18】[arut / nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 * 【2024-05-17】[Modos-Labs / Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
@@ -4729,6 +4750,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-05-19】[ip7z / 7zip](https://github.com/ip7z/7zip) - 7-Zip
+* 【2024-05-19】[google / lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
+* 【2024-05-19】[snake-4 / Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
 * 【2024-05-18】[serge1 / ELFIO](https://github.com/serge1/ELFIO) - ELFIO - ELF (Executable and Linkable Format) reader and producer implemented as a header only C++ library
 * 【2024-05-18】[Lymphatus / caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats. You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
 * 【2024-05-17】[okalachev / flix](https://github.com/okalachev/flix) - Making an ESP32-based quadcopter from scratch
@@ -5986,6 +6010,10 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-05-19】[Jisan-mia / dom-projects](https://github.com/Jisan-mia/dom-projects) - dom-projects is an open-source web app that helps you learn frontend development faster with a hands-on practice style. It is a collection of projects that you can use to learn HTML, CSS and JavaScript
+* 【2024-05-19】[RootMyTV / RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
+* 【2024-05-19】[bincooo / chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai-api、bing、gemini、coze、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
+* 【2024-05-19】[plotly / datasets](https://github.com/plotly/datasets) - Datasets used in Plotly examples and documentation
 * 【2024-05-17】[DaGeger / paper-conversion](https://github.com/DaGeger/paper-conversion) - 文章去重助手 论文降重 智能改写 智能原创
 * 【2024-05-17】[pytorch / kineto](https://github.com/pytorch/kineto) - A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
 * 【2024-05-16】[Avdhesh-Varshney / WebMasterLog](https://github.com/Avdhesh-Varshney/WebMasterLog) - A record of Unique Web Development Projects made with Angular, Next, Node, React, ExpressJS, Redux, Vanilla, Vue, etc. Technologies...
@@ -6560,6 +6588,8 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-05-19】[niklausgerber / PreLoadMe](https://github.com/niklausgerber/PreLoadMe) - PreLoadMe, a lightweight jQuery website preloader.
+* 【2024-05-19】[Dikutal / Cookbook](https://github.com/Dikutal/Cookbook) - DIKUs shared cookbook
 * 【2024-05-18】[pipeops-dev / pipeops-html](https://github.com/pipeops-dev/pipeops-html) - 
 * 【2024-05-18】[Sanchana03 / Portfolio](https://github.com/Sanchana03/Portfolio) - 
 * 【2024-05-18】[Balakumarmd / Landing-Page](https://github.com/Balakumarmd/Landing-Page) - 
@@ -7214,6 +7244,8 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-05-19】[Glixerz / Blooket-Hacks](https://github.com/Glixerz/Blooket-Hacks) - A ton of blooket hacks
+* 【2024-05-19】[hevar / awesome-react-tailwindcss-ui-components](https://github.com/hevar/awesome-react-tailwindcss-ui-components) - 
 * 【2024-05-18】[upbrosai / ait](https://github.com/upbrosai/ait) - Introducing "ait," "aiself," and "aits"—new pronouns for AI systems. This repo provides definitions and examples to promote their use in referring to artificial intelligence. Contributions and multi-language versions are welcome.
 * 【2024-05-18】[pnp / copilot-prompts](https://github.com/pnp/copilot-prompts) - Examples of prompts for Microsoft Copilot
 * 【2024-05-18】[ruesandora / Initia](https://github.com/ruesandora/Initia) - 
