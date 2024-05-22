@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-05-22】[naklecha / llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
+* 【2024-05-22】[AI4Finance-Foundation / FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.
 * 【2024-05-21】[Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
 * 【2024-05-21】[folke / tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 * 【2024-05-21】[neovim / nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
@@ -1613,6 +1615,11 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-05-22】[IDEA-Research / Grounding-DINO-1.5-API](https://github.com/IDEA-Research/Grounding-DINO-1.5-API) - API for Grounding DINO 1.5: IDEA Research's Most Capable Open-World Object Detection Model Series
+* 【2024-05-22】[alexfazio / viral-clips-crew](https://github.com/alexfazio/viral-clips-crew) - Your CrewAI Powered Video Editing Assistant
+* 【2024-05-22】[lanqian528 / chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
+* 【2024-05-22】[HumanSignal / labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source data labeling tool for images, text, hypertext, audio, video and time-series data.
+* 【2024-05-22】[Fooyao / web3Task](https://github.com/Fooyao/web3Task) - 活动脚本汇总，更新通知介绍频道：https://t.me/hddinfo
 * 【2024-05-21】[AzeemIdrisi / PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
 * 【2024-05-21】[minyoungg / platonic-rep](https://github.com/minyoungg/platonic-rep) - 
 * 【2024-05-20】[datafold / data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases
@@ -2609,6 +2616,9 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-05-22】[metaskills / experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
+* 【2024-05-22】[brunosimon / my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
+* 【2024-05-22】[V2RaySSR / Free-VLESS](https://github.com/V2RaySSR/Free-VLESS) - 通过 Cloudflare，免费部署 VLESS节点
 * 【2024-05-21】[sindresorhus / create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 * 【2024-05-21】[laravel / breeze-next](https://github.com/laravel/breeze-next) - An application / authentication starter kit frontend in Next.js for Laravel Breeze.
 * 【2024-05-19】[responsively-org / responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -3394,6 +3404,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-05-22】[kubesphere / kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 * 【2024-05-21】[skx / cpmulator](https://github.com/skx/cpmulator) - Golang CP/M emulator for playing zork, lighthouse-of-doom, etc
 * 【2024-05-21】[NibiruChain / nibiru](https://github.com/NibiruChain/nibiru) - Nibiru Chain: The breakthrough smart contract platform ushering in the next era of money. Nibiru powers an ecosystem of dApps including perps, RWAs, and more.
 * 【2024-05-19】[linux-do / override](https://github.com/linux-do/override) - 啥也不是
@@ -4142,6 +4153,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-05-22】[rovertronic / Mario-Builder-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in-game.
+* 【2024-05-22】[Decompollaborate / rabbitizer](https://github.com/Decompollaborate/rabbitizer) - MIPS instruction decoder
+* 【2024-05-22】[PortAudio / portaudio](https://github.com/PortAudio/portaudio) - PortAudio is a cross-platform, open-source C language library for real-time audio input and output.
 * 【2024-05-21】[rvaiya / keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 * 【2024-05-20】[stas00 / the-art-of-debugging](https://github.com/stas00/the-art-of-debugging) - The Art of Debugging
 * 【2024-05-20】[google / wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
@@ -4772,6 +4786,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-05-22】[triton-lang / triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
+* 【2024-05-22】[SaadAhla / IP-Hunter](https://github.com/SaadAhla/IP-Hunter) - Hunt for C2 servers and phishing web sites using VirusTotal API , you can modify code to kill the malicious process
 * 【2024-05-21】[jsecurity101 / ETWInspector](https://github.com/jsecurity101/ETWInspector) - 
 * 【2024-05-20】[snort3 / snort3](https://github.com/snort3/snort3) - Snort++
 * 【2024-05-20】[yileijin / Bootstrap-3D-GS](https://github.com/yileijin/Bootstrap-3D-GS) - 
@@ -5406,6 +5422,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-05-22】[thangchung / clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - 🛁 Clean Code concepts and tools adapted for .NET
+* 【2024-05-22】[Monika1313 / Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) - 基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具,，支持Modbus Rtu调试、Mqtt调试
 * 【2024-05-21】[DaBaival / wemod-pro-unlocker](https://github.com/DaBaival/wemod-pro-unlocker) - 
 * 【2024-05-21】[PintaProject / Pinta](https://github.com/PintaProject/Pinta) - Simple GTK# Paint Program
 * 【2024-05-20】[AzureAD / microsoft-authentication-library-for-dotnet](https://github.com/AzureAD/microsoft-authentication-library-for-dotnet) - Microsoft Authentication Library (MSAL) for .NET
@@ -6043,6 +6061,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-05-22】[adoptium / aqa-tests](https://github.com/adoptium/aqa-tests) - Home of test infrastructure for Adoptium builds
+* 【2024-05-22】[OCA / crm](https://github.com/OCA/crm) - Odoo CRM, Mail & Newsletter advanced features
 * 【2024-05-21】[jaganjavid / 100-Project](https://github.com/jaganjavid/100-Project) - ALl project
 * 【2024-05-20】[nghuyhoang2509 / Office-and-Windows-Activator](https://github.com/nghuyhoang2509/Office-and-Windows-Activator) - kmsauto-free-download-2024 kmsauto-download-2024 windows-free-activation kmsauto-2024 kmsauto-download-windows-11 kmsauto-activate kmsauto-download-windows-10 windows-activate-free free-activation-tutorial kmsauto-activator-download windows-activator-download kmsauto-download kmsauto-net-download kmsauto kmsauto-free-download windows-11-activat
 * 【2024-05-20】[GameSphere-MultiPlayer / Community-Page](https://github.com/GameSphere-MultiPlayer/Community-Page) - A Chrome gaming community page is an online space within the Chrome browser where gamers connect, discuss games, share content, get updates, troubleshoot issues, join events, and interact with developers. It's a hub for all things gaming-related in the Chrome ecosystem.
@@ -6624,6 +6644,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-05-22】[newmanix / form-processing](https://github.com/newmanix/form-processing) - A starting point for an assignment on form fundamentals
 * 【2024-05-21】[Artur-Galstyan / statedict2pytree](https://github.com/Artur-Galstyan/statedict2pytree) - 
 * 【2024-05-21】[datguypiko / Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur
 * 【2024-05-20】[kaidadnd / Revolt](https://github.com/kaidadnd/Revolt) - RevoltEdge is your #1 source for Edgenuity answers . Get 100% Scores on all activities and Skip Videos! Revolt is the Best Edgenuity script & hack / Bot
@@ -7283,6 +7304,12 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-05-22】[it-ebooks-0 / geektime-books](https://github.com/it-ebooks-0/geektime-books) - 📚 极客时间电子书
+* 【2024-05-22】[mcinglis / c-style](https://github.com/mcinglis/c-style) - My favorite C programming practices.
+* 【2024-05-22】[ulab-uiuc / AGI-survey](https://github.com/ulab-uiuc/AGI-survey) - 
+* 【2024-05-22】[kyrolabs / awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+* 【2024-05-22】[Diyshift / 3D-Printer](https://github.com/Diyshift/3D-Printer) - Voron Stuff
+* 【2024-05-22】[P3TERX / GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 * 【2024-05-21】[weeeBox / mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews
 * 【2024-05-21】[ruesandora / 0rbit](https://github.com/ruesandora/0rbit) - 
 * 【2024-05-21】[trusted-point / initia-tools](https://github.com/trusted-point/initia-tools) - 
