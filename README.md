@@ -1,6 +1,13 @@
 ### Github热门项目
 ## All language
 
+* 【2024-05-25】[Ph0enixKM / Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
+* 【2024-05-25】[nucleuscloud / neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
+* 【2024-05-25】[vulhub / vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
+* 【2024-05-25】[foolstack-omg / block-tech-sharing](https://github.com/foolstack-omg/block-tech-sharing) - Sharing Valuable Technology & Arbitrage Skill of The Blockchain I have learned.
+* 【2024-05-25】[CADmium-Co / CADmium](https://github.com/CADmium-Co/CADmium) - A CAD program that runs in the browser
+* 【2024-05-25】[6677-ai / tap4-ai-webui](https://github.com/6677-ai/tap4-ai-webui) - One-click to deploy your own ai tools directory with the open source web-ui
+* 【2024-05-25】[astral-sh / ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 * 【2024-05-24】[JetBrains / kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 * 【2024-05-24】[psf / requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 * 【2024-05-24】[microsoft / Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook) - This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks.
@@ -995,6 +1002,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-05-25】[camunda / camunda](https://github.com/camunda/camunda) - Distributed Workflow Engine for Microservices Orchestration
+* 【2024-05-25】[cryptomator / cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 * 【2024-05-24】[apache / hbase](https://github.com/apache/hbase) - Apache HBase
 * 【2024-05-23】[chiteroman / FrameworkPatch](https://github.com/chiteroman/FrameworkPatch) - Modify framework.jar to build on system level a valid certificate chain
 * 【2024-05-23】[neo4j / neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
@@ -1629,6 +1638,10 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-05-25】[kangpeilun / VastGaussian](https://github.com/kangpeilun/VastGaussian) - v1.0
+* 【2024-05-25】[pytube / pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+* 【2024-05-25】[baidubce / app-builder](https://github.com/baidubce/app-builder) - appbuilder-sdk, 千帆AppBuilder-SDK帮助开发者灵活、快速的搭建AI原生应用
+* 【2024-05-25】[darrenburns / elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 * 【2024-05-24】[OpenLLMAI / OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework (Support 70B+ full tuning & LoRA & Mixtral & KTO)
 * 【2024-05-24】[secdev / scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 * 【2024-05-24】[R4gd0ll / I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All) - OA漏洞利用工具
@@ -2636,6 +2649,11 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-05-25】[github / relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard <time> element.
+* 【2024-05-25】[imputnet / cobalt](https://github.com/imputnet/cobalt) - save what you love
+* 【2024-05-25】[PavelDoGreat / WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
+* 【2024-05-25】[aframevr / aframe](https://github.com/aframevr/aframe) - 🅰️Web framework for building virtual reality experiences.
+* 【2024-05-25】[yylive / YYEVA](https://github.com/yylive/YYEVA) - YYEVA（YY Effect Video Animate）是YYLive推出的一个开源的支持可插入动态元素的MP4动效播放器解决方案，包含设计资源输出的AE插件，客户端渲染引擎，在线预览工具。
 * 【2024-05-24】[ibrahimaitech / BMW-MD](https://github.com/ibrahimaitech/BMW-MD) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-24】[krausest / js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
 * 【2024-05-23】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
@@ -4179,6 +4197,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-05-25】[psycopg / psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 * 【2024-05-24】[rui314 / chibicc](https://github.com/rui314/chibicc) - A small C compiler
 * 【2024-05-24】[hmgle / graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 * 【2024-05-22】[rovertronic / Mario-Builder-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in-game.
@@ -4814,6 +4833,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-05-25】[sysown / proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 * 【2024-05-23】[mrousavy / react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 * 【2024-05-22】[triton-lang / triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 * 【2024-05-22】[SaadAhla / IP-Hunter](https://github.com/SaadAhla/IP-Hunter) - Hunt for C2 servers and phishing web sites using VirusTotal API , you can modify code to kill the malicious process
@@ -5451,6 +5471,10 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-05-25】[cybersectroll / TrollUAC](https://github.com/cybersectroll/TrollUAC) - 
+* 【2024-05-25】[dotnet / ai-samples](https://github.com/dotnet/ai-samples) - 
+* 【2024-05-25】[NuGet / NuGet.Client](https://github.com/NuGet/NuGet.Client) - Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)
+* 【2024-05-25】[killkimno / MORT](https://github.com/killkimno/MORT) - MORT 번역기 프로젝트 - Real-time game translator with OCR
 * 【2024-05-24】[builtbybel / privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 * 【2024-05-23】[MicrosoftLearning / mslearn-ai-services](https://github.com/MicrosoftLearning/mslearn-ai-services) - Lab files for Azure AI Services modules
 * 【2024-05-22】[thangchung / clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - 🛁 Clean Code concepts and tools adapted for .NET
@@ -6092,6 +6116,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-05-25】[nextcloud / documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
+* 【2024-05-25】[elementary-data / elementary](https://github.com/elementary-data/elementary) - The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
 * 【2024-05-24】[frontend-joe / es6-components](https://github.com/frontend-joe/es6-components) - Collection of components built with HTML, CSS and JavaScript (ES6)
 * 【2024-05-24】[receptron / graphai](https://github.com/receptron/graphai) - 
 * 【2024-05-24】[esphome / firmware](https://github.com/esphome/firmware) - Holds firmware configuration files for projects that the ESPHome team provides.
@@ -6680,6 +6706,10 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-05-25】[readtedium / udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain.
+* 【2024-05-25】[Heatblur-Simulations / f-4e-manual](https://github.com/Heatblur-Simulations/f-4e-manual) - Manual of the F-4E Phantom by Heatblur Simulations
+* 【2024-05-25】[dicodingacademy / asclepius](https://github.com/dicodingacademy/asclepius) - 
+* 【2024-05-25】[rjc1704 / st-4th-hw](https://github.com/rjc1704/st-4th-hw) - 
 * 【2024-05-24】[gittyapp / gittyapp.com-version-1.0](https://github.com/gittyapp/gittyapp.com-version-1.0) - website for http://gittyapp.com
 * 【2024-05-24】[sebastiandro / Portfolio](https://github.com/sebastiandro/Portfolio) - Min tuffa portfolio
 * 【2024-05-24】[mgportada / repaso](https://github.com/mgportada/repaso) - 
@@ -7348,6 +7378,10 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-05-25】[igorbarinov / awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
+* 【2024-05-25】[datastacktv / data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
+* 【2024-05-25】[gunnarmorling / awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open-Source Data Engineering Projects
+* 【2024-05-25】[h9-tect / 100days_AI](https://github.com/h9-tect/100days_AI) - 
 * 【2024-05-23】[lidlGalaxy / Crypto-Robot](https://github.com/lidlGalaxy/Crypto-Robot) - Create a Crypto Robot for yourself
 * 【2024-05-23】[shreyaschavhan / advanced-sql-injection-for-awae](https://github.com/shreyaschavhan/advanced-sql-injection-for-awae) - 
 * 【2024-05-23】[the-web3 / layer2](https://github.com/the-web3/layer2) - 最全面的 Layer2 资料汇总
