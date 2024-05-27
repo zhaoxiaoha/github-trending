@@ -1,6 +1,12 @@
 ### Github热门项目
 ## All language
 
+* 【2024-05-27】[THU-MIG / yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
+* 【2024-05-27】[mistralai / mistral-finetune](https://github.com/mistralai/mistral-finetune) - 
+* 【2024-05-27】[HITsz-TMG / UMOE-Scaling-Unified-Multimodal-LLMs](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs) - The codes about "Uni-MoE: Scaling Unified Multimodal Models with Mixture of Experts"
+* 【2024-05-27】[maitrix-org / Pandora](https://github.com/maitrix-org/Pandora) - Pandora: Towards General World Model with Natural Language Actions and Video States
+* 【2024-05-27】[termux / termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
+* 【2024-05-27】[ys1231 / MoveCertificate](https://github.com/ys1231/MoveCertificate) - 支持Android7-14移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-14, compatible with magiskv20.4+/kernelsu/APatch
 * 【2024-05-26】[W01fh4cker / CVE-2024-21683-RCE](https://github.com/W01fh4cker/CVE-2024-21683-RCE) - CVE-2024-21683 Confluence Post Auth RCE
 * 【2024-05-26】[ragapp / ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 * 【2024-05-25】[Ph0enixKM / Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
@@ -1004,6 +1010,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-05-27】[Kei-Luna / LunaGC_4.6.0](https://github.com/Kei-Luna/LunaGC_4.6.0) - Grassutter 4.6.0 Update
+* 【2024-05-27】[GrimAnticheat / Grim](https://github.com/GrimAnticheat/Grim) - Fully async, multithreaded, predictive, open source, 3.01 reach, 1.005 timer, 0.01% speed, 99.99% antikb, "bypassable" 1.8-1.20 anticheat.
+* 【2024-05-27】[Earthcomputer / EnchantmentCracker](https://github.com/Earthcomputer/EnchantmentCracker) - Cracking the XP seed in Minecraft and choosing your enchantments
 * 【2024-05-25】[camunda / camunda](https://github.com/camunda/camunda) - Distributed Workflow Engine for Microservices Orchestration
 * 【2024-05-25】[cryptomator / cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 * 【2024-05-24】[apache / hbase](https://github.com/apache/hbase) - Apache HBase
@@ -1640,6 +1649,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-05-27】[shamhi / HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot) - Bot that mines coins in HamsterKombat
+* 【2024-05-27】[eloialonso / diamond](https://github.com/eloialonso/diamond) - DIAMOND (DIffusion As a Model Of eNvironment Dreams) is a reinforcement learning agent trained in a diffusion world model.
+* 【2024-05-27】[bellingcat / telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 * 【2024-05-26】[google-research / omniglue](https://github.com/google-research/omniglue) - Code release for CVPR'24 submission 'OmniGlue'
 * 【2024-05-26】[ungoogled-software / ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 * 【2024-05-26】[nvaccess / nvda](https://github.com/nvaccess/nvda) - NVDA, the free and open source Screen Reader for Microsoft Windows
@@ -2657,6 +2669,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-05-27】[maboloshi / github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 * 【2024-05-26】[apple / password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
 * 【2024-05-26】[mickael-kerjean / filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 * 【2024-05-25】[github / relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard <time> element.
@@ -3456,6 +3469,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-05-27】[roblillack / spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go
+* 【2024-05-27】[zuoyebang / bitalostored](https://github.com/zuoyebang/bitalostored) - Bitalostored is a high-performance distributed storage system, core engine based on bitalosdb(self-developed), compatible with Redis protocol.
+* 【2024-05-27】[Threadfin / Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
 * 【2024-05-26】[edgelesssys / contrast](https://github.com/edgelesssys/contrast) - Deploy and manage confidential containers on Kubernetes
 * 【2024-05-26】[pagefaultgames / rogueserver](https://github.com/pagefaultgames/rogueserver) - Game server backend and API for PokéRogue
 * 【2024-05-24】[defenseunicorns / zarf](https://github.com/defenseunicorns/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
@@ -4209,6 +4225,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-05-27】[Encryqed / Dumper-7](https://github.com/Encryqed/Dumper-7) - 
+* 【2024-05-27】[apache / guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 * 【2024-05-26】[lanceewing / agi](https://github.com/lanceewing/agi) - Original source code of Sierra On-Line's AGI adventure game interpreter.
 * 【2024-05-26】[koute / bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
 * 【2024-05-26】[antirez / kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
@@ -4848,6 +4866,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-05-27】[sorayuki / obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
 * 【2024-05-26】[es3n1n / no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender. (through the WSC api)
 * 【2024-05-26】[pcg-mlp / KsanaLLM](https://github.com/pcg-mlp/KsanaLLM) - 
 * 【2024-05-26】[M2Team / NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
@@ -5489,6 +5508,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-05-27】[Sehyn / Wuwa_fpsunlocker](https://github.com/Sehyn/Wuwa_fpsunlocker) - Unlocking Wuwa FPS Limits for PC version.
+* 【2024-05-27】[Leo-Corporation / InternetTest](https://github.com/Leo-Corporation/InternetTest) - InternetTest is a modern connection utility for Windows. It can locate IP addresses, send ping request, recover your WiFi passwords and more!
 * 【2024-05-25】[cybersectroll / TrollUAC](https://github.com/cybersectroll/TrollUAC) - 
 * 【2024-05-25】[dotnet / ai-samples](https://github.com/dotnet/ai-samples) - 
 * 【2024-05-25】[NuGet / NuGet.Client](https://github.com/NuGet/NuGet.Client) - Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)
@@ -6134,6 +6155,9 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-05-27】[lowlighter / matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS.
+* 【2024-05-27】[ajitpal / BookBank](https://github.com/ajitpal/BookBank) - Books
+* 【2024-05-27】[fcwu / docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 * 【2024-05-26】[TommyBoi-TB / Blooket-Cheats](https://github.com/TommyBoi-TB/Blooket-Cheats) - 
 * 【2024-05-25】[nextcloud / documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
 * 【2024-05-25】[elementary-data / elementary](https://github.com/elementary-data/elementary) - The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
@@ -6725,6 +6749,8 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-05-27】[codervivek5 / VigyBag](https://github.com/codervivek5/VigyBag) - A location-based shopping website uses GPS to show users nearby businesses offering products/services they search for. Users can compare prices and make purchases through the site, making it helpful for local shopping and finding location-specific items.
+* 【2024-05-27】[RituKumari98 / imgIN](https://github.com/RituKumari98/imgIN) - 
 * 【2024-05-26】[microsoft / prompty](https://github.com/microsoft/prompty) - 
 * 【2024-05-25】[readtedium / udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain.
 * 【2024-05-25】[Heatblur-Simulations / f-4e-manual](https://github.com/Heatblur-Simulations/f-4e-manual) - Manual of the F-4E Phantom by Heatblur Simulations
@@ -7398,6 +7424,10 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-05-27】[endingwithali / boyfriendlist](https://github.com/endingwithali/boyfriendlist) - submit pr to join the boyfriend list
+* 【2024-05-27】[midudev / libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis) - 📚 Lista de libros sobre programación en Español y gratis
+* 【2024-05-27】[alfa155518 / API-s-collection-free](https://github.com/alfa155518/API-s-collection-free) - The API's collection is free to Any One and Open source
+* 【2024-05-27】[hyperai / awesome-ai4s](https://github.com/hyperai/awesome-ai4s) - AI for Science 论文解读合集（持续更新ing），论文/数据集/教程下载：hyper.ai
 * 【2024-05-26】[mlops-discord / gpu-optimization-workshop](https://github.com/mlops-discord/gpu-optimization-workshop) - Slides, notes, and materials for the workshop
 * 【2024-05-26】[awesome-doge / breaking-gfw-book](https://github.com/awesome-doge/breaking-gfw-book) - 本书介绍的方法涵盖了 Shadowsocks 以及与 Shadowsocks 相关的各种插件，ShadowsocksR, ShadowsocksRR, V2ray，以及 Telegram 通讯软件的 Proxy。
 * 【2024-05-26】[aviatbet / Aviator-predictor-app](https://github.com/aviatbet/Aviator-predictor-app) - Aviator Predictor is a tool designed for predicting multipliers in the Aviator betting game, helping players secure their earnings.
