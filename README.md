@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2024-05-29】[didi / xiaoju-survey](https://github.com/didi/xiaoju-survey) - 「快速」打造「专属」问卷系统, 让调研「更轻松」
+* 【2024-05-29】[iyaja / llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
+* 【2024-05-29】[lihaoyun6 / QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 * 【2024-05-28】[wintermute-cell / ngrrram](https://github.com/wintermute-cell/ngrrram) - A TUI tool to help you type faster and learn new layouts. Includes a free cat.
 * 【2024-05-28】[ccbikai / Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 * 【2024-05-28】[zakirkun / arsip-gorengan-is](https://github.com/zakirkun/arsip-gorengan-is) - Arsip gorengan full konteks
@@ -1655,6 +1658,11 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-05-29】[lks-ai / anynode](https://github.com/lks-ai/anynode) - A Node for ComfyUI that does what you ask it to do
+* 【2024-05-29】[dbrojas / optlib](https://github.com/dbrojas/optlib) - A library for financial options pricing written in Python.
+* 【2024-05-29】[RUC-NLPIR / FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - ⚡FlashRAG: A Python Toolkit for Efficient RAG Research
+* 【2024-05-29】[princeton-nlp / SimPO](https://github.com/princeton-nlp/SimPO) - SimPO: Simple Preference Optimization with a Reference-Free Reward
+* 【2024-05-29】[transcriptionstream / transcriptionstream](https://github.com/transcriptionstream/transcriptionstream) - turnkey self-hosted offline transcription and diarization service with llm summary
 * 【2024-05-28】[vb000 / LookOnceToHear](https://github.com/vb000/LookOnceToHear) - A novel human-interaction method for real-time speech extraction on headphones.
 * 【2024-05-28】[talkdai / dialog](https://github.com/talkdai/dialog) - RAG LLM Ops App for easy deployment and testing
 * 【2024-05-27】[shamhi / HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot) - Bot that mines coins in HamsterKombat
@@ -2677,6 +2685,11 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-05-29】[WasperAI / Wasper](https://github.com/WasperAI/Wasper) - 
+* 【2024-05-29】[frappe / gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
+* 【2024-05-29】[VincentGarreau / particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
+* 【2024-05-29】[stylelint / stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
+* 【2024-05-29】[Kingjux / Venocyber-md](https://github.com/Kingjux/Venocyber-md) - Introducing Venocyber md bot your personal chuddybuddy md you were looking for this is most powerful Whatsapp chat bot created to ensure your WhatsApp personal requirements you are all in one ✍️👋👋
 * 【2024-05-27】[maboloshi / github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 * 【2024-05-26】[apple / password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
 * 【2024-05-26】[mickael-kerjean / filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
@@ -3477,6 +3490,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-05-29】[bxcodec / go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 * 【2024-05-28】[ouqiang / gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 * 【2024-05-28】[hardentools / hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 * 【2024-05-27】[roblillack / spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go
@@ -4235,6 +4249,10 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-05-29】[CDSoft / luax](https://github.com/CDSoft/luax) - luax is a Lua interpreter and REPL based on Lua 5.4, augmented with some useful packages. It is also a "compiler" that produces standalone executables from Lua scripts.
+* 【2024-05-29】[null-luo / btrace](https://github.com/null-luo/btrace) - btrace：binder_transaction+eBPF+Golang实现通用的Android APP动态行为追踪工具
+* 【2024-05-29】[miloyip / json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
+* 【2024-05-29】[pytorch / cpuinfo](https://github.com/pytorch/cpuinfo) - CPU INFOrmation library (x86/x86-64/ARM/ARM64, Linux/Windows/Android/macOS/iOS)
 * 【2024-05-27】[Encryqed / Dumper-7](https://github.com/Encryqed/Dumper-7) - 
 * 【2024-05-27】[apache / guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 * 【2024-05-26】[lanceewing / agi](https://github.com/lanceewing/agi) - Original source code of Sierra On-Line's AGI adventure game interpreter.
@@ -4876,6 +4894,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-05-29】[DiscoGrad / DiscoGrad](https://github.com/DiscoGrad/DiscoGrad) - DiscoGrad - automatically differentiate across conditional branches in C++ programs
+* 【2024-05-29】[microsoft / GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
+* 【2024-05-29】[tnodir / fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
 * 【2024-05-28】[MaaXYZ / MaaFramework](https://github.com/MaaXYZ/MaaFramework) - 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition
 * 【2024-05-28】[intel / openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity®.
 * 【2024-05-27】[sorayuki / obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
@@ -5520,6 +5541,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-05-29】[babalae / better-wuthering-waves](https://github.com/babalae/better-wuthering-waves) - 🌊更好的鸣潮 - 后台自动剧情
 * 【2024-05-28】[jonathanpeppers / dotnes](https://github.com/jonathanpeppers/dotnes) - .NET for the NES game console
 * 【2024-05-28】[runevision / LayerProcGen](https://github.com/runevision/LayerProcGen) - Layer-based infinite procedural generation
 * 【2024-05-28】[Jessecar96 / SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
@@ -6170,6 +6192,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-05-29】[akshetP / robotics-resources](https://github.com/akshetP/robotics-resources) - A complete library of resources that caters to all levels of Roboticists.
 * 【2024-05-27】[lowlighter / matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS.
 * 【2024-05-27】[ajitpal / BookBank](https://github.com/ajitpal/BookBank) - Books
 * 【2024-05-27】[fcwu / docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
@@ -6764,6 +6787,10 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-05-29】[PacktPublishing / Django-5-By-Example](https://github.com/PacktPublishing/Django-5-By-Example) - Django 5 By Example (5th Edition) published by Packt
+* 【2024-05-29】[OpenLake / GitStartedWithUs](https://github.com/OpenLake/GitStartedWithUs) - 
+* 【2024-05-29】[Poooooooo01 / sirusa](https://github.com/Poooooooo01/sirusa) - Buat Project Sistem Rumah Sakit
+* 【2024-05-29】[Samadeen / intro-component-with-signup](https://github.com/Samadeen/intro-component-with-signup) - 
 * 【2024-05-28】[UnivMinho / F501_FE](https://github.com/UnivMinho/F501_FE) - 
 * 【2024-05-28】[nakov / Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 * 【2024-05-28】[secure-77 / Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
@@ -7442,6 +7469,13 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-05-29】[Fankouzu / solana-basic-ui](https://github.com/Fankouzu/solana-basic-ui) - Solana中文大全-由崔棉大师@mastercui和捕鲸船社区小伙伴共建的Solana学习社区
+* 【2024-05-29】[xForeSwitchEz / hamster-coin-tools-v1.2](https://github.com/xForeSwitchEz/hamster-coin-tools-v1.2) - 
+* 【2024-05-29】[zHex4z / ERDP](https://github.com/zHex4z/ERDP) - 
+* 【2024-05-29】[zHex4z / zHex4z1](https://github.com/zHex4z/zHex4z1) - apex-legends apex-hack apex-legends-hack apex-legends-cheat apex-legends-aimbot apex-legends-wallhack apex-free-hack apex-hacks apex-legends-hacks apex-legends-cheats apex-cheat apex-aimbot hacks-apex-legends hack-apex apex-hack-download download-apex-hack apex-legends-hack-pc apex-legends-hacker apex-legends-esp apex-legends-free-hack
+* 【2024-05-29】[Z4ee / Pipsi-WW-Releases](https://github.com/Z4ee/Pipsi-WW-Releases) - 
+* 【2024-05-29】[MatthewScould / MatthewScould](https://github.com/MatthewScould/MatthewScould) - 
+* 【2024-05-29】[kotlin-magazine / kotlin-magazine](https://github.com/kotlin-magazine/kotlin-magazine) - fun code() – A magazine for Kotlin™ developers
 * 【2024-05-28】[ruesandora / Rivalz](https://github.com/ruesandora/Rivalz) - 
 * 【2024-05-28】[mrcodedev / frontend-developer-resources](https://github.com/mrcodedev/frontend-developer-resources) - Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos
 * 【2024-05-27】[endingwithali / boyfriendlist](https://github.com/endingwithali/boyfriendlist) - submit pr to join the boyfriend list
