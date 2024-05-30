@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-05-30】[vladmandic / automatic](https://github.com/vladmandic/automatic) - SD.Next: Advanced Implementation of Stable Diffusion and other Diffusion-based generative image models
+* 【2024-05-30】[quickwit-oss / tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 * 【2024-05-29】[didi / xiaoju-survey](https://github.com/didi/xiaoju-survey) - 「快速」打造「专属」问卷系统, 让调研「更轻松」
 * 【2024-05-29】[iyaja / llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 * 【2024-05-29】[lihaoyun6 / QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
@@ -1016,6 +1018,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-05-30】[spring-projects / spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) - Spring Authorization Server
 * 【2024-05-28】[solana-mobile / mobile-wallet-adapter](https://github.com/solana-mobile/mobile-wallet-adapter) - 
 * 【2024-05-28】[janishar / mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 * 【2024-05-28】[ZTFtrue / MonsterMusic](https://github.com/ZTFtrue/MonsterMusic) - A music player on android platform, developed by Andoroid composer
@@ -1658,6 +1661,11 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-05-30】[Tele-AI / TeleSpeech-ASR](https://github.com/Tele-AI/TeleSpeech-ASR) - 
+* 【2024-05-30】[octo-models / octo](https://github.com/octo-models/octo) - Octo is a transformer-based robot policy trained on a diverse mix of 800k robot trajectories.
+* 【2024-05-30】[ambionics / cnext-exploits](https://github.com/ambionics/cnext-exploits) - Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv()
+* 【2024-05-30】[modelscope / FunASR](https://github.com/modelscope/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
+* 【2024-05-30】[tencent-ailab / V-Express](https://github.com/tencent-ailab/V-Express) - V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
 * 【2024-05-29】[lks-ai / anynode](https://github.com/lks-ai/anynode) - A Node for ComfyUI that does what you ask it to do
 * 【2024-05-29】[dbrojas / optlib](https://github.com/dbrojas/optlib) - A library for financial options pricing written in Python.
 * 【2024-05-29】[RUC-NLPIR / FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - ⚡FlashRAG: A Python Toolkit for Efficient RAG Research
@@ -3490,6 +3498,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-05-30】[yorukot / superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+* 【2024-05-30】[jetify-com / devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 * 【2024-05-29】[bxcodec / go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 * 【2024-05-28】[ouqiang / gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 * 【2024-05-28】[hardentools / hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
@@ -4249,6 +4259,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-05-30】[HarbourMasters / 2ship2harkinian](https://github.com/HarbourMasters/2ship2harkinian) - 
+* 【2024-05-30】[No-Chicken / OV-Watch](https://github.com/No-Chicken/OV-Watch) - A powerful Smart Watch based on STM32, FreeRTOS, LVGL. It only cost ￥80 RMB ( $12 USD ).
 * 【2024-05-29】[CDSoft / luax](https://github.com/CDSoft/luax) - luax is a Lua interpreter and REPL based on Lua 5.4, augmented with some useful packages. It is also a "compiler" that produces standalone executables from Lua scripts.
 * 【2024-05-29】[null-luo / btrace](https://github.com/null-luo/btrace) - btrace：binder_transaction+eBPF+Golang实现通用的Android APP动态行为追踪工具
 * 【2024-05-29】[miloyip / json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
@@ -4894,6 +4906,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-05-30】[mongodb / mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+* 【2024-05-30】[chinosk6 / gakuen-imas-localify](https://github.com/chinosk6/gakuen-imas-localify) - 学园偶像大师 本地化插件（开发中...） / Gakumas localify plugin (Developing...)
 * 【2024-05-29】[DiscoGrad / DiscoGrad](https://github.com/DiscoGrad/DiscoGrad) - DiscoGrad - automatically differentiate across conditional branches in C++ programs
 * 【2024-05-29】[microsoft / GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
 * 【2024-05-29】[tnodir / fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
@@ -6192,6 +6206,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-05-30】[xyhelper / chatgpt-share-server](https://github.com/xyhelper/chatgpt-share-server) - 
+* 【2024-05-30】[wangyuchi369 / InstructAvatar](https://github.com/wangyuchi369/InstructAvatar) - Official implementation of the paper 'InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation'
 * 【2024-05-29】[akshetP / robotics-resources](https://github.com/akshetP/robotics-resources) - A complete library of resources that caters to all levels of Roboticists.
 * 【2024-05-27】[lowlighter / matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS.
 * 【2024-05-27】[ajitpal / BookBank](https://github.com/ajitpal/BookBank) - Books
@@ -6787,6 +6803,12 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-05-30】[abbysheksharma / code-hub](https://github.com/abbysheksharma/code-hub) - 
+* 【2024-05-30】[murtuja43 / murtuja43.github.io](https://github.com/murtuja43/murtuja43.github.io) - This is my web dev portfolio. You may fork it and I'd also appriciate if you star this repo.😄 Visit this to see it live-⬇
+* 【2024-05-30】[jfmartinz / ResourceHub](https://github.com/jfmartinz/ResourceHub) - ResourceHub is an open-source project that serves as a one-stop repository of valuable resources curated by the amazing contributors in the community🚀
+* 【2024-05-30】[sbchou / sbchou.github.io](https://github.com/sbchou/sbchou.github.io) - wuts going on
+* 【2024-05-30】[idgaram / projet1_wild_code_school](https://github.com/idgaram/projet1_wild_code_school) - 
+* 【2024-05-30】[woowacourse / react-basecamp](https://github.com/woowacourse/react-basecamp) - 
 * 【2024-05-29】[PacktPublishing / Django-5-By-Example](https://github.com/PacktPublishing/Django-5-By-Example) - Django 5 By Example (5th Edition) published by Packt
 * 【2024-05-29】[OpenLake / GitStartedWithUs](https://github.com/OpenLake/GitStartedWithUs) - 
 * 【2024-05-29】[Poooooooo01 / sirusa](https://github.com/Poooooooo01/sirusa) - Buat Project Sistem Rumah Sakit
@@ -7469,6 +7491,10 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-05-30】[DNM-Bible / DNM-Bible](https://github.com/DNM-Bible/DNM-Bible) - Hey, this is verified list of darknet resources
+* 【2024-05-30】[hichemfelouat / ML_DL_Course](https://github.com/hichemfelouat/ML_DL_Course) - Machine Learning and Deep Learning Course
+* 【2024-05-30】[adysec / nuclei_poc](https://github.com/adysec/nuclei_poc) - Nuclei POC，每日更新
+* 【2024-05-30】[ravynsoft / ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 * 【2024-05-29】[Fankouzu / solana-basic-ui](https://github.com/Fankouzu/solana-basic-ui) - Solana中文大全-由崔棉大师@mastercui和捕鲸船社区小伙伴共建的Solana学习社区
 * 【2024-05-29】[xForeSwitchEz / hamster-coin-tools-v1.2](https://github.com/xForeSwitchEz/hamster-coin-tools-v1.2) - 
 * 【2024-05-29】[zHex4z / ERDP](https://github.com/zHex4z/ERDP) - 
