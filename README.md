@@ -1,6 +1,12 @@
 ### Github热门项目
 ## All language
 
+* 【2024-06-03】[lllyasviel / Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
+* 【2024-06-03】[face-hh / webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
+* 【2024-06-03】[ishaan1013 / sandbox](https://github.com/ishaan1013/sandbox) - A cloud-based code editing environment with an AI copilot and real-time collaboration.
+* 【2024-06-03】[anthropics / courses](https://github.com/anthropics/courses) - Anthropic's educational courses
+* 【2024-06-03】[warpstreamlabs / bento](https://github.com/warpstreamlabs/bento) - 
+* 【2024-06-03】[leanprover-community / mathlib4](https://github.com/leanprover-community/mathlib4) - The math library of Lean 4
 * 【2024-06-02】[jianchang512 / ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。
 * 【2024-06-02】[StasPlov / docker-unlock](https://github.com/StasPlov/docker-unlock) - Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria
 * 【2024-06-02】[ToonCrafter / ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation
@@ -1039,6 +1045,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-06-03】[w2016561536 / android_virtual_cam](https://github.com/w2016561536/android_virtual_cam) - xposed安卓虚拟摄像头 android virtual camera on xposed hook
+* 【2024-06-03】[nining377 / dolby_beta](https://github.com/nining377/dolby_beta) - 杜比大喇叭的β版迎来了重大的革新，合并了UnblockMusic Pro的所有功能且更加强大，同时UnblockMusicPro_Xposed项目将会停止维护，让我们欢送这位老朋友！
+* 【2024-06-03】[SNWCreations / KookBC](https://github.com/SNWCreations/KookBC) - The Kook Bot Client & JKook API standard implementation for Java.
 * 【2024-06-02】[eclipse-edc / Connector](https://github.com/eclipse-edc/Connector) - EDC core services including data plane and control plane
 * 【2024-05-31】[openkoda / openkoda](https://github.com/openkoda/openkoda) - Open source business application platform for fast development
 * 【2024-05-31】[blossom-editor / blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
@@ -1686,6 +1695,10 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-06-03】[G-U-N / Phased-Consistency-Model](https://github.com/G-U-N/Phased-Consistency-Model) - Boosting the performance of consistency models with PCM!
+* 【2024-06-03】[fofr / cog-consistent-character](https://github.com/fofr/cog-consistent-character) - Create images of a given character in different poses
+* 【2024-06-03】[Bklieger / groqbook](https://github.com/Bklieger/groqbook) - Groqbook: Generate entire books in seconds using Groq and Llama3
+* 【2024-06-03】[isaac-sim / IsaacLab](https://github.com/isaac-sim/IsaacLab) - Unified framework for robot learning built on NVIDIA Isaac Sim
 * 【2024-06-02】[huggingface / peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 * 【2024-06-02】[pengHTYX / Era3D](https://github.com/pengHTYX/Era3D) - 
 * 【2024-06-02】[abetlen / llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
@@ -2735,6 +2748,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-06-03】[Muskansahuincredible / StudyNotion-An-Online-Education-Platform](https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform) - 
+* 【2024-06-03】[SyedImtiyaz-1 / GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects) - Make your first Pull Request on this Repo. Don't forget to spread love and give us a ⭐️
 * 【2024-06-02】[feiyun0112 / Gradio.Net](https://github.com/feiyun0112/Gradio.Net) - Gradio for .NET – a port of Gradio, an open-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitrary Python function. Gradio for .NET – 基于 Gradio 的 .NET 移植，Gradio 是一个开源 Python 包，允许你为机器学习模型、API 或任何任意 Python 函数快速构建演示或 Web 应用程序。
 * 【2024-06-01】[adysec / cf-mirror](https://github.com/adysec/cf-mirror) - AdySec CF拉平镜像站 | 官方源可信度和稳定性最高，但国内访问速度较慢，通过众生平等Cloudflare，利用全球的边缘节点，将用户请求转发到离用户距离最近的节点，同时缓存静态内容加速，减少网络延迟和下载速度，使用Cloudflare Workers配置反代实现
 * 【2024-06-01】[QiuChenlyOpenSource / 91QiuChen](https://github.com/QiuChenlyOpenSource/91QiuChen) - 91 Sex asm code asian cosplay hexinhex porn big dick 花Q
@@ -3548,6 +3563,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-06-03】[fruitbars / simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.
+* 【2024-06-03】[getseabird / seabird](https://github.com/getseabird/seabird) - Native Kubernetes desktop client.
+* 【2024-06-03】[redpanda-data / benthos](https://github.com/redpanda-data/benthos) - 
 * 【2024-06-02】[google / cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
 * 【2024-06-02】[openkruise / kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
 * 【2024-05-31】[klauspost / compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
@@ -4314,6 +4332,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-06-03】[Pzqqt / android_kernel_xiaomi_marble](https://github.com/Pzqqt/android_kernel_xiaomi_marble) - Melt Kernel For Redmi Note 12 Turbo (marble) / Poco F5 (marblein)
 * 【2024-06-02】[cococry / leif](https://github.com/cococry/leif) - Minimal, configurable & GPU accelerated Immediate Mode UI Library written with modern OpenGL
 * 【2024-06-02】[cloudberrydb / cloudberrydb](https://github.com/cloudberrydb/cloudberrydb) - Cloudberry Database - Next generation unified database for Analytics and AI
 * 【2024-06-02】[Waterdish / Shipwright-Android](https://github.com/Waterdish/Shipwright-Android) - Ship of Harkinian Android Port
@@ -4970,6 +4989,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-06-03】[defold / defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
+* 【2024-06-03】[ZDoom / gzdoom](https://github.com/ZDoom/gzdoom) - GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities
+* 【2024-06-03】[NVIDIA-Omniverse / PhysX](https://github.com/NVIDIA-Omniverse/PhysX) - NVIDIA PhysX SDK
 * 【2024-06-01】[Cambricon / triton-linalg](https://github.com/Cambricon/triton-linalg) - Development repository for the Triton-Linalg conversion
 * 【2024-06-01】[baidu / babylon](https://github.com/baidu/babylon) - High-Performance C++ Fundamental Library
 * 【2024-05-31】[Offensive-Panda / RWX_MEMEORY_HUNT_AND_INJECTION_DV](https://github.com/Offensive-Panda/RWX_MEMEORY_HUNT_AND_INJECTION_DV) - Abusing Windows fork API and OneDrive.exe process to inject the malicious shellcode without allocating new RWX memory region.
@@ -5622,6 +5644,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-06-03】[fullstackhero / dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
 * 【2024-06-02】[Unity-Technologies / ECSGalaxySample](https://github.com/Unity-Technologies/ECSGalaxySample) - ECS sample demonstrating an automated simulation of teams of spaceships fighting for the control of planets
 * 【2024-06-01】[WalletWasabi / WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 * 【2024-05-29】[babalae / better-wuthering-waves](https://github.com/babalae/better-wuthering-waves) - 🌊更好的鸣潮 - 后台自动剧情
@@ -6275,6 +6298,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-06-03】[Huxpro / huxblog-boilerplate](https://github.com/Huxpro/huxblog-boilerplate) - Boilerplate of Hux Blog
 * 【2024-06-02】[karpathy / calorie](https://github.com/karpathy/calorie) - nice and effective super simple calorie counter web app
 * 【2024-06-02】[w3c / webauthn](https://github.com/w3c/webauthn) - Web Authentication: An API for accessing Public Key Credentials
 * 【2024-06-02】[joshhighet / ransomwatch](https://github.com/joshhighet/ransomwatch) - the transparent ransomware claim tracker 🥷🏼🧅🖥️
@@ -7574,6 +7598,8 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-06-03】[moest-np / incubator](https://github.com/moest-np/incubator) - Problem statements, discussions and prototypes
+* 【2024-06-03】[magic-research / InstaDrag](https://github.com/magic-research/InstaDrag) - Experiencing lightning fast (~1s) and accurate drag-based image editing
 * 【2024-06-02】[LzhDreamcc / Blum-auto-bot](https://github.com/LzhDreamcc/Blum-auto-bot) - Blum auto bot free download for windows / blum auto farm bot Hi everyone today we present you our bot for crypto game Blum with which you can automate the whole process in the game which is possible
 * 【2024-06-02】[DavidS95 / Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 * 【2024-06-01】[malvuln / RansomLord](https://github.com/malvuln/RansomLord) - RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise ransomware pre-encryption.
