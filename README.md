@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-06-09】[idootop / mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
+* 【2024-06-09】[hackerb9 / lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 * 【2024-06-08】[jordanbaird / Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 * 【2024-06-08】[google / mesop](https://github.com/google/mesop) - 
 * 【2024-06-08】[microsoft / vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -1055,6 +1057,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-06-09】[tjake / Jlama](https://github.com/tjake/Jlama) - Jlama is a modern Java inference engine for LLMs
+* 【2024-06-09】[confluentinc / parallel-consumer](https://github.com/confluentinc/parallel-consumer) - Parallel Apache Kafka client wrapper with per message ACK, client side queueing, a simpler consumer/producer API with key concurrency and extendable non-blocking IO processing.
+* 【2024-06-09】[youtube / cobalt](https://github.com/youtube/cobalt) - Cobalt is a lightweight HTML5 application container
 * 【2024-06-08】[tencentmusic / supersonic](https://github.com/tencentmusic/supersonic) - SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
 * 【2024-06-08】[alibaba / QLExpress](https://github.com/alibaba/QLExpress) - QLExpress is a powerful, lightweight, dynamic language for the Java platform aimed at improving developers’ productivity in different business scenes.
 * 【2024-06-08】[jacoco / jacoco](https://github.com/jacoco/jacoco) - 🔬 Java Code Coverage Library
@@ -2776,6 +2781,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-06-09】[olifolkerd / tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
 * 【2024-06-07】[xaboy / form-create](https://github.com/xaboy/form-create) - 🔥🔥🔥 强大的动态表单生成器，通过数据驱动表单渲染，支持可视化设计。提高开发者对表单的开发效率。目前在OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 * 【2024-06-07】[mishoo / UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 * 【2024-06-07】[pablokbs / peladonerd](https://github.com/pablokbs/peladonerd) - Repo con los archivos que uso para mi videos en youtube
@@ -3599,6 +3605,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-06-09】[playwright-community / playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
+* 【2024-06-09】[rabbitmq / cluster-operator](https://github.com/rabbitmq/cluster-operator) - RabbitMQ Cluster Kubernetes Operator
 * 【2024-06-08】[eksctl-io / eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 * 【2024-06-08】[google / osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 * 【2024-06-05】[kubernetes / enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes
@@ -4376,6 +4384,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-06-09】[ARMmbed / mbed-os](https://github.com/ARMmbed/mbed-os) - Arm Mbed OS is a platform operating system designed for the internet of things
 * 【2024-06-06】[riscv-software-src / riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
 * 【2024-06-06】[universal-ctags / ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 * 【2024-06-06】[AlkaMotors / AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors
@@ -5037,6 +5046,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-06-09】[microsoft / onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
+* 【2024-06-09】[jellyfin / jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player
 * 【2024-06-08】[zealdocs / zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 * 【2024-06-07】[ByConity / ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud data warehouse
 * 【2024-06-07】[FEX-Emu / FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
@@ -5702,6 +5713,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-06-09】[RageAgainstThePixel / OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - A Non-Official OpenAI RESTful API Client for DotNet
 * 【2024-06-08】[uxmal / reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
 * 【2024-06-06】[nomi-san / parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect 4K@240Hz Virtual Display
 * 【2024-06-05】[Cysharp / ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework) - Zero Dependency, Zero Overhead, Zero Reflection, Zero Allocation, AOT Safe CLI Framework powered by C# Source Generator.
