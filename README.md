@@ -1728,6 +1728,11 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-06-16】[ddgth / cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
+* 【2024-06-16】[reorx / httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+* 【2024-06-16】[CollegesChat / university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+* 【2024-06-16】[autogluon / autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
+* 【2024-06-16】[oceanbase / obdiag](https://github.com/oceanbase/obdiag) - obdiag (OceanBase Diagnostic Tool) is designed to help OceanBase users quickly gather necessary information and analyze the root cause of the problem.
 * 【2024-06-14】[camel-ai / camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
 * 【2024-06-14】[open-mmlab / mmsegmentation](https://github.com/open-mmlab/mmsegmentation) - OpenMMLab Semantic Segmentation Toolbox and Benchmark.
 * 【2024-06-08】[mategol / PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
@@ -4401,6 +4406,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-06-16】[KhronosGroup / Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
+* 【2024-06-16】[a0rtega / pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 * 【2024-06-14】[RubyMetric / chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具. Change Source for every software on every platform from the command line.
 * 【2024-06-09】[ARMmbed / mbed-os](https://github.com/ARMmbed/mbed-os) - Arm Mbed OS is a platform operating system designed for the internet of things
 * 【2024-06-06】[riscv-software-src / riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
@@ -5732,6 +5739,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-06-16】[ElPumpo / TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - Open sourced tool for keeping NVIDIA GPUs updated, featuring fully customizable driver installs for complete control, multi-GPU support, and more!
 * 【2024-06-14】[MediaBrowser / Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
 * 【2024-06-09】[RageAgainstThePixel / OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - A Non-Official OpenAI RESTful API Client for DotNet
 * 【2024-06-08】[uxmal / reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
@@ -7006,6 +7014,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-06-16】[apu52 / METAVERSE](https://github.com/apu52/METAVERSE) - 🚀 Welcome to our GitHub repository, Officially accepted for GSSOC'24 🌟& SSOC'24🌟 Explore a dynamic collection of front-end projects, powered by HTML, CSS, JavaScript, and React. Join our community to contribute your creations 🎨, add features 🛠️, or squash bugs 🐛 in existing projects.
 * 【2024-06-08】[AcademySoftwareFoundation / OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) - Specification and reference implementation for the OpenPBR Surface shading model
 * 【2024-06-05】[mdazfar2 / HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub) - Welcome to HelpOps-Hub: your go-to resource for essential DevOps tools and technologies. Simplify your DevOps journey with curated guides, tools, and best practices. Never get stuck again!⚡
 * 【2024-06-05】[horizon-ui / shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS Boilerplate ⚡️ Free Open-source ChatGPT UI Dashboard Template - Horizon AI Boilerplate
@@ -7706,6 +7715,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-06-16】[0voice / from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
 * 【2024-06-05】[Crispher / MathlibExplorer](https://github.com/Crispher/MathlibExplorer) - A visualization tool for Lean's mathlib library.
 * 【2024-06-05】[coffinxp / payloads](https://github.com/coffinxp/payloads) - 
 * 【2024-06-05】[biowarrior72mactep / Crusader-Kings-III-byb4f34](https://github.com/biowarrior72mactep/Crusader-Kings-III-byb4f34) - Crusader Kings III Crusader Kings III cheat Crusader Kings III cheats Crusader Kings III aim Crusader Kings III aimbot Crusader Kings III hack Crusader Kings III hacks Crusader Kings III esp Crusader Kings III wallhack Crusader Kings III wh Crusader Kings III softaim cheat Crusader Kings III cheats Crusader Kings III hack Crusader Kings III hacks
