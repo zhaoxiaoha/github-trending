@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-06-18】[zxwk1998 / vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 * 【2024-06-14】[fchollet / ARC-AGI](https://github.com/fchollet/ARC-AGI) - The Abstraction and Reasoning Corpus
 * 【2024-06-14】[goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 * 【2024-06-11】[DaoCloud / public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
@@ -1061,6 +1062,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-06-18】[uber / NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
+* 【2024-06-18】[apache / incubator-xtable](https://github.com/apache/incubator-xtable) - Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query engines.
 * 【2024-06-14】[spacious-team / investbook](https://github.com/spacious-team/investbook) - Оценка эффективности инвестиций с учетом комиссий, налогов (удержанных и ожидающихся), дивидендов и купонов.
 * 【2024-06-11】[batfish / batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evolve their network, without fear of outages or security breaches.
 * 【2024-06-11】[APIJSON / APIJSON-Demo](https://github.com/APIJSON/APIJSON-Demo) - 腾讯 APIJSON 各种语言、各种框架 的 使用示例项目、上手文档、测试数据 SQL 文件 等。Demo projects with document and SQL files for Tencent APIJSON with different programming languages and different frameworks.
@@ -1728,6 +1731,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-06-18】[satwikkansal / wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
+* 【2024-06-18】[kovidgoyal / calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+* 【2024-06-18】[numpy / numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 * 【2024-06-16】[ddgth / cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
 * 【2024-06-16】[reorx / httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 * 【2024-06-16】[CollegesChat / university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
@@ -2795,6 +2801,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-06-18】[docsifyjs / docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 * 【2024-06-14】[paulmillr / chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 * 【2024-06-14】[airbnb / lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 * 【2024-06-09】[olifolkerd / tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
@@ -3621,6 +3628,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-06-18】[simulot / immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 * 【2024-06-14】[Azure / azure-storage-fuse](https://github.com/Azure/azure-storage-fuse) - A virtual file system adapter for Azure Blob storage
 * 【2024-06-14】[hashicorp / raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 * 【2024-06-11】[wzshiming / crproxy](https://github.com/wzshiming/crproxy) - CRProxy (Container Registry Proxy)
@@ -5071,6 +5079,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-06-18】[Nevcairiel / LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
 * 【2024-06-14】[s3fs-fuse / s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 * 【2024-06-09】[microsoft / onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 * 【2024-06-09】[jellyfin / jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player
@@ -5739,6 +5748,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-06-18】[notscuffed / repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
+* 【2024-06-18】[atom0s / Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants. The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
 * 【2024-06-16】[ElPumpo / TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - Open sourced tool for keeping NVIDIA GPUs updated, featuring fully customizable driver installs for complete control, multi-GPU support, and more!
 * 【2024-06-14】[MediaBrowser / Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
 * 【2024-06-09】[RageAgainstThePixel / OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - A Non-Official OpenAI RESTful API Client for DotNet
@@ -6403,6 +6414,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-06-18】[ShreyamMaity / student-offers](https://github.com/ShreyamMaity/student-offers) - A Collection Of All Free Student Offers & Discount while you are a student.
 * 【2024-06-08】[foundation / foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 * 【2024-06-05】[chrispsn / mesh-spreadsheet](https://github.com/chrispsn/mesh-spreadsheet) - A data and code editor that feels like a spreadsheet.
 * 【2024-06-05】[SAP / ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
@@ -7014,6 +7026,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-06-18】[BNDong / Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme _ Basic theme : SimpleMemory
 * 【2024-06-16】[apu52 / METAVERSE](https://github.com/apu52/METAVERSE) - 🚀 Welcome to our GitHub repository, Officially accepted for GSSOC'24 🌟& SSOC'24🌟 Explore a dynamic collection of front-end projects, powered by HTML, CSS, JavaScript, and React. Join our community to contribute your creations 🎨, add features 🛠️, or squash bugs 🐛 in existing projects.
 * 【2024-06-08】[AcademySoftwareFoundation / OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) - Specification and reference implementation for the OpenPBR Surface shading model
 * 【2024-06-05】[mdazfar2 / HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub) - Welcome to HelpOps-Hub: your go-to resource for essential DevOps tools and technologies. Simplify your DevOps journey with curated guides, tools, and best practices. Never get stuck again!⚡
