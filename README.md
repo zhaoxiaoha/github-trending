@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-06-26】[typescript-eslint / typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
 * 【2024-06-25】[modelscope / DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 * 【2024-06-24】[SimplifyJobs / Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-06-23】[niedev / RTranslator](https://github.com/niedev/RTranslator) - RTranslator is the world's first open source real-time translation app.
@@ -1073,6 +1074,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-06-26】[xwiki / xwiki-platform](https://github.com/xwiki/xwiki-platform) - The XWiki platform
 * 【2024-06-25】[apache / maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
 * 【2024-06-24】[DSheirer / sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR). Website:
 * 【2024-06-24】[gsantner / markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
@@ -1747,6 +1749,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-06-26】[microsoft / table-transformer](https://github.com/microsoft/table-transformer) - Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images). This is also the official repository for the PubTables-1M dataset and GriTS evaluation metric.
+* 【2024-06-26】[cluic / wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
+* 【2024-06-26】[google / flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 * 【2024-06-25】[w-okada / voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 * 【2024-06-25】[google / google-ctf](https://github.com/google/google-ctf) - Google CTF
 * 【2024-06-24】[Kosinkadink / ComfyUI-AnimateDiff-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved) - Improved AnimateDiff for ComfyUI and Advanced Sampling Support
@@ -3662,6 +3667,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-06-26】[allegro / bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
 * 【2024-06-24】[alecthomas / kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
 * 【2024-06-24】[k1LoW / tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 * 【2024-06-23】[google / go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
@@ -4454,6 +4460,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-06-26】[bol-van / zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
+* 【2024-06-26】[tporadowski / redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
 * 【2024-06-23】[PCRE2Project / pcre2](https://github.com/PCRE2Project/pcre2) - PCRE2 development is now based here.
 * 【2024-06-23】[robertdavidgraham / wc2](https://github.com/robertdavidgraham/wc2) - Investigates optimizing 'wc', the Unix word count program
 * 【2024-06-20】[coreutils / coreutils](https://github.com/coreutils/coreutils) - upstream mirror
@@ -5123,6 +5131,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-06-26】[maplibre / maplibre-native](https://github.com/maplibre/maplibre-native) - MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.
+* 【2024-06-26】[swoole / swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 * 【2024-06-25】[soulsmods / ModEngine2](https://github.com/soulsmods/ModEngine2) - Runtime injection library for modding Souls games. WIP
 * 【2024-06-24】[geektcp / UeCore](https://github.com/geektcp/UeCore) - UeCore wow game server c++ 开源魔兽世界 https://uewow.com
 * 【2024-06-21】[vnotex / vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
@@ -5797,6 +5807,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-06-26】[sharpbrowser / SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) - A full featured web-browser built using C# and CefSharp
 * 【2024-06-24】[soulsmods / DSMapStudio](https://github.com/soulsmods/DSMapStudio) - A standalone map/level editor for Demon's Souls, Dark Souls 1/2/3, Bloodborne, Sekiro, and Elden Ring.
 * 【2024-06-24】[Mzying2001 / CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) - Flash浏览器 / Flash Browser
 * 【2024-06-23】[BenGrn / EldenRingSaveCopier](https://github.com/BenGrn/EldenRingSaveCopier) - 
@@ -7087,6 +7098,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-06-26】[bencentra / centrarium](https://github.com/bencentra/centrarium) - A simple yet classy theme for your Jekyll website or blog.
 * 【2024-06-19】[microsoft / azuredevopslabs](https://github.com/microsoft/azuredevopslabs) - Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.
 * 【2024-06-18】[BNDong / Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme _ Basic theme : SimpleMemory
 * 【2024-06-16】[apu52 / METAVERSE](https://github.com/apu52/METAVERSE) - 🚀 Welcome to our GitHub repository, Officially accepted for GSSOC'24 🌟& SSOC'24🌟 Explore a dynamic collection of front-end projects, powered by HTML, CSS, JavaScript, and React. Join our community to contribute your creations 🎨, add features 🛠️, or squash bugs 🐛 in existing projects.
