@@ -1,6 +1,10 @@
 ### Github热门项目
 ## All language
 
+* 【2024-07-01】[ClayAmore / ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor) - Elden Ring Save Editor. Compatible with PC and Playstation saves.
+* 【2024-07-01】[starship / starship](https://github.com/starship/starship) - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+* 【2024-07-01】[mrdbourke / pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
+* 【2024-07-01】[ruffle-rs / ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 * 【2024-06-30】[snakers4 / silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 * 【2024-06-30】[ZuodaoTech / everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 * 【2024-06-29】[stacks-network / stacks-core](https://github.com/stacks-network/stacks-core) - The Stacks blockchain implementation
@@ -1077,6 +1081,11 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-07-01】[SkriptLang / Skript](https://github.com/SkriptLang/Skript) - Skript is a Spigot plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them.
+* 【2024-07-01】[unicode-org / cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
+* 【2024-07-01】[dropwizard / dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
+* 【2024-07-01】[runtimeverification / k](https://github.com/runtimeverification/k) - K Framework Tools 7.0
+* 【2024-07-01】[confluentinc / ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
 * 【2024-06-26】[xwiki / xwiki-platform](https://github.com/xwiki/xwiki-platform) - The XWiki platform
 * 【2024-06-25】[apache / maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
 * 【2024-06-24】[DSheirer / sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR). Website:
@@ -1752,6 +1761,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-07-01】[bkerler / mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 * 【2024-06-29】[yzhao062 / pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
 * 【2024-06-28】[bunkerity / bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 * 【2024-06-27】[frappe / hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
@@ -2841,6 +2851,10 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-07-01】[overleaf / overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
+* 【2024-07-01】[antfu / vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
+* 【2024-07-01】[pythongosssss / ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) - Enhancements & experiments for ComfyUI, mostly focusing on UI features
+* 【2024-07-01】[twbs / icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 * 【2024-06-30】[blueedgetechno / win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 * 【2024-06-29】[dotenvx / dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 * 【2024-06-28】[ciiiii / cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
@@ -3679,6 +3693,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-07-01】[botlabs-gg / yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
+* 【2024-07-01】[ThreeDotsLabs / wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
+* 【2024-07-01】[cloudfoundry / cf-deployment](https://github.com/cloudfoundry/cf-deployment) - The canonical open source deployment manifest for Cloud Foundry
 * 【2024-06-30】[ThreeDotsLabs / watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 * 【2024-06-30】[DataDog / dd-trace-go](https://github.com/DataDog/dd-trace-go) - Datadog Go Library including APM tracing, profiling, and security monitoring.
 * 【2024-06-29】[SpecterOps / BloodHound](https://github.com/SpecterOps/BloodHound) - Six Degrees of Domain Admin
@@ -4476,6 +4493,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-07-01】[aws / s2n-tls](https://github.com/aws/s2n-tls) - An implementation of the TLS/SSL protocols
 * 【2024-06-26】[bol-van / zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 * 【2024-06-26】[tporadowski / redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
 * 【2024-06-23】[PCRE2Project / pcre2](https://github.com/PCRE2Project/pcre2) - PCRE2 development is now based here.
@@ -5147,6 +5165,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-07-01】[multitheftauto / mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 * 【2024-06-30】[zhuzichu520 / FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
 * 【2024-06-26】[maplibre / maplibre-native](https://github.com/maplibre/maplibre-native) - MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.
 * 【2024-06-26】[swoole / swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
@@ -5824,6 +5843,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-07-01】[sn4k3 / UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+* 【2024-07-01】[SamboyCoding / Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) - Work-in-progress tool to reverse unity's IL2CPP toolchain.
 * 【2024-06-30】[codebude / QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation
 * 【2024-06-29】[SonarSource / sonar-dotnet](https://github.com/SonarSource/sonar-dotnet) - Code analyzer for C# and VB.NET projects
 * 【2024-06-28】[dotnetcore / CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
@@ -6503,6 +6524,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-07-01】[elastic / ecs-dotnet](https://github.com/elastic/ecs-dotnet) - 
 * 【2024-06-30】[wppconnect-team / wa-version](https://github.com/wppconnect-team/wa-version) - 
 * 【2024-06-30】[bobbyiliev / introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 * 【2024-06-27】[grassmunk / Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
@@ -7827,6 +7849,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-07-01】[raspberrypi / firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.
 * 【2024-06-29】[arch3rPro / Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows) - Windows11 Penetration Suite Toolkit 一个开箱即用的windows渗透测试环境
 * 【2024-06-28】[ros2 / ros2](https://github.com/ros2/ros2) - The Robot Operating System, is a meta operating system for robots.
 * 【2024-06-24】[LukeYui / EldenRingSeamlessCoopRelease](https://github.com/LukeYui/EldenRingSeamlessCoopRelease) - 
