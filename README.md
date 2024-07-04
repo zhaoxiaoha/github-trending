@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-07-04】[BLAKE3-team / BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 * 【2024-07-03】[NVIDIA / gpu-operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
 * 【2024-07-02】[YaLTeR / niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 * 【2024-07-01】[ClayAmore / ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor) - Elden Ring Save Editor. Compatible with PC and Playstation saves.
@@ -1083,6 +1084,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-07-04】[apache / gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
 * 【2024-07-03】[kermitt2 / grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 * 【2024-07-01】[SkriptLang / Skript](https://github.com/SkriptLang/Skript) - Skript is a Spigot plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them.
 * 【2024-07-01】[unicode-org / cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
@@ -1764,6 +1766,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-07-04】[coreruleset / coreruleset](https://github.com/coreruleset/coreruleset) - OWASP CRS (Official Repository)
+* 【2024-07-04】[MiuLab / Taiwan-LLM](https://github.com/MiuLab/Taiwan-LLM) - Traditional Mandarin LLMs for Taiwan
 * 【2024-07-03】[pydata / xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
 * 【2024-07-03】[huggingface / trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 * 【2024-07-02】[zilliztech / GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
@@ -2857,6 +2861,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-07-04】[microsoft / botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 * 【2024-07-02】[toncenter / tonweb](https://github.com/toncenter/tonweb) - JavaScript SDK for TON (The Open Network)
 * 【2024-07-01】[overleaf / overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 * 【2024-07-01】[antfu / vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
@@ -3700,6 +3705,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-07-04】[mr-karan / doggo](https://github.com/mr-karan/doggo) - 🐶 Command-line DNS Client for Humans. Written in Golang
+* 【2024-07-04】[sylabs / singularity](https://github.com/sylabs/singularity) - SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.
 * 【2024-07-02】[slimtoolkit / slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 * 【2024-07-02】[GoogleCloudPlatform / microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 * 【2024-07-01】[botlabs-gg / yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
@@ -5858,6 +5865,9 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-07-04】[IgorMundstein / WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
+* 【2024-07-04】[paolosalvatori / ServiceBusExplorer](https://github.com/paolosalvatori/ServiceBusExplorer) - The Service Bus Explorer allows users to connect to a Service Bus namespace and administer messaging entities in an easy manner. The tool provides advanced features like import/export functionality or the ability to test topic, queues, subscriptions, relay services, notification hubs and events hubs.
+* 【2024-07-04】[Nik-Potokar / XIVSlothCombo](https://github.com/Nik-Potokar/XIVSlothCombo) - XivCombo for very lazy gamers
 * 【2024-07-03】[Nordgaren / Elden-Ring-Debug-Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool) - Debug tool for Elden Ring modding
 * 【2024-07-03】[Kinnara / ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
 * 【2024-07-01】[sn4k3 / UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
@@ -7161,6 +7171,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-07-04】[koaning / tuilwindcss](https://github.com/koaning/tuilwindcss) - Very much like Tailwind, but for TUI frameworks in Textual.
 * 【2024-07-02】[devlikeapro / waha](https://github.com/devlikeapro/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click!
 * 【2024-06-30】[Dalufishe / palserver-GUI](https://github.com/Dalufishe/palserver-GUI) - GUI support, one-click Palworld dedicated server management tool. 可視化界面，一鍵式帕魯 (Palworld) 伺服器建立、管理工具。
 * 【2024-06-26】[bencentra / centrarium](https://github.com/bencentra/centrarium) - A simple yet classy theme for your Jekyll website or blog.
