@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-07-07】[aome510 / spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
+* 【2024-07-07】[albertobsd / keyhunt](https://github.com/albertobsd/keyhunt) - privkey hunt for crypto currencies that use secp256k1 elliptic curve
 * 【2024-07-05】[microsoft / graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 * 【2024-07-05】[Azure-Samples / graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
 * 【2024-07-05】[kuizuo / blog](https://github.com/kuizuo/blog) - A Blog on Customizing Docusaurus
@@ -1087,6 +1089,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-07-07】[apache / cloudstack](https://github.com/apache/cloudstack) - Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
 * 【2024-07-04】[apache / gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
 * 【2024-07-03】[kermitt2 / grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 * 【2024-07-01】[SkriptLang / Skript](https://github.com/SkriptLang/Skript) - Skript is a Spigot plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them.
@@ -1769,6 +1772,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-07-07】[freelabz / secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
+* 【2024-07-07】[tanelpoder / 0xtools](https://github.com/tanelpoder/0xtools) - 0x.Tools: X-Ray vision for Linux systems
+* 【2024-07-07】[qdrant / fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 * 【2024-07-05】[Kedreamix / Linly-Talker](https://github.com/Kedreamix/Linly-Talker) - Digital Avatar Conversational System - Linly-Talker. 😄✨ Linly-Talker is an intelligent AI system that combines large language models (LLMs) with visual models to create a novel human-AI interaction method. 🤝🤖 It integrates various technologies like Whisper, Linly, Microsoft Speech Services, and SadTalker talking head generation system. 🌟🔬
 * 【2024-07-04】[coreruleset / coreruleset](https://github.com/coreruleset/coreruleset) - OWASP CRS (Official Repository)
 * 【2024-07-04】[MiuLab / Taiwan-LLM](https://github.com/MiuLab/Taiwan-LLM) - Traditional Mandarin LLMs for Taiwan
@@ -2865,6 +2871,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-07-07】[Tencent / cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
+* 【2024-07-07】[metafloor / bwip-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
 * 【2024-07-04】[microsoft / botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 * 【2024-07-02】[toncenter / tonweb](https://github.com/toncenter/tonweb) - JavaScript SDK for TON (The Open Network)
 * 【2024-07-01】[overleaf / overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
@@ -3709,6 +3717,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-07-07】[go-swagger / go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
+* 【2024-07-07】[hahwul / dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 * 【2024-07-05】[KusionStack / karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.
 * 【2024-07-04】[mr-karan / doggo](https://github.com/mr-karan/doggo) - 🐶 Command-line DNS Client for Humans. Written in Golang
 * 【2024-07-04】[sylabs / singularity](https://github.com/sylabs/singularity) - SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.
@@ -4514,6 +4524,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-07-07】[andmarti1424 / sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 * 【2024-07-05】[rui314 / 8cc](https://github.com/rui314/8cc) - A Small C Compiler
 * 【2024-07-03】[libimobiledevice / libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 * 【2024-07-03】[shalxmva / modxo](https://github.com/shalxmva/modxo) - Xbox LPC Port modchip using a Raspberry Pi Pico
@@ -5873,6 +5884,9 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-07-07】[attickdoor / XIVComboPlugin](https://github.com/attickdoor/XIVComboPlugin) - Plugin version of the icon replacement features in dalamud
+* 【2024-07-07】[xivdev / Penumbra](https://github.com/xivdev/Penumbra) - FINAL FANTASY XIV modding, but actually good this time
+* 【2024-07-07】[File-New-Project / EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 * 【2024-07-05】[marticliment / UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 * 【2024-07-05】[xunit / xunit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for .NET.
 * 【2024-07-04】[IgorMundstein / WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
@@ -7181,6 +7195,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-07-07】[nicejade / markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。https://niceshare.site/
 * 【2024-07-04】[koaning / tuilwindcss](https://github.com/koaning/tuilwindcss) - Very much like Tailwind, but for TUI frameworks in Textual.
 * 【2024-07-02】[devlikeapro / waha](https://github.com/devlikeapro/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click!
 * 【2024-06-30】[Dalufishe / palserver-GUI](https://github.com/Dalufishe/palserver-GUI) - GUI support, one-click Palworld dedicated server management tool. 可視化界面，一鍵式帕魯 (Palworld) 伺服器建立、管理工具。
@@ -7888,6 +7903,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-07-07】[Consensys / ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
 * 【2024-07-02】[The-Cool-Coders / Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 * 【2024-07-01】[raspberrypi / firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.
 * 【2024-06-29】[arch3rPro / Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows) - Windows11 Penetration Suite Toolkit 一个开箱即用的windows渗透测试环境
