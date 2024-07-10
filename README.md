@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-07-10】[pi-hole / pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 * 【2024-07-07】[aome510 / spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 * 【2024-07-07】[albertobsd / keyhunt](https://github.com/albertobsd/keyhunt) - privkey hunt for crypto currencies that use secp256k1 elliptic curve
 * 【2024-07-05】[microsoft / graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
@@ -1089,6 +1090,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-07-10】[open-telemetry / opentelemetry-java](https://github.com/open-telemetry/opentelemetry-java) - OpenTelemetry Java SDK
+* 【2024-07-10】[tuituidan / team-nav](https://github.com/tuituidan/team-nav) - 前后端完整的网址导航服务，相较一般的靠配置生成的网址导航服务，本系统具有更强的后台管理能力，技术上主打一个轻量级，无任何依赖服务。
 * 【2024-07-07】[apache / cloudstack](https://github.com/apache/cloudstack) - Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
 * 【2024-07-04】[apache / gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
 * 【2024-07-03】[kermitt2 / grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
@@ -1772,6 +1775,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-07-10】[Xpra-org / xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 * 【2024-07-07】[freelabz / secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 * 【2024-07-07】[tanelpoder / 0xtools](https://github.com/tanelpoder/0xtools) - 0x.Tools: X-Ray vision for Linux systems
 * 【2024-07-07】[qdrant / fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
@@ -2871,6 +2875,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-07-10】[foliojs / pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser
 * 【2024-07-07】[Tencent / cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 * 【2024-07-07】[metafloor / bwip-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
 * 【2024-07-04】[microsoft / botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
@@ -3717,6 +3722,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-07-10】[github / gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
 * 【2024-07-07】[go-swagger / go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 * 【2024-07-07】[hahwul / dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 * 【2024-07-05】[KusionStack / karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.
@@ -4524,6 +4530,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-07-10】[firedancer-io / firedancer](https://github.com/firedancer-io/firedancer) - Firedancer is Jump Crypto's Solana consensus node implementation.
+* 【2024-07-10】[virtualsquare / vde-2](https://github.com/virtualsquare/vde-2) - 
 * 【2024-07-07】[andmarti1424 / sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 * 【2024-07-05】[rui314 / 8cc](https://github.com/rui314/8cc) - A Small C Compiler
 * 【2024-07-03】[libimobiledevice / libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
@@ -5201,6 +5209,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-07-10】[sqlitebrowser / sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 * 【2024-07-05】[vslavik / diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 * 【2024-07-05】[HKUST-Aerial-Robotics / VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
 * 【2024-07-03】[openthread / openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
@@ -6575,6 +6584,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-07-10】[paulirish / lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 * 【2024-07-01】[elastic / ecs-dotnet](https://github.com/elastic/ecs-dotnet) - 
 * 【2024-06-30】[wppconnect-team / wa-version](https://github.com/wppconnect-team/wa-version) - 
 * 【2024-06-30】[bobbyiliev / introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
@@ -7195,6 +7205,8 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-07-10】[primary-theme / obsidian](https://github.com/primary-theme/obsidian) - Comfy, playful but productive theme for Obsidian. "Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,"
+* 【2024-07-10】[codeguy / php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 * 【2024-07-07】[nicejade / markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。https://niceshare.site/
 * 【2024-07-04】[koaning / tuilwindcss](https://github.com/koaning/tuilwindcss) - Very much like Tailwind, but for TUI frameworks in Textual.
 * 【2024-07-02】[devlikeapro / waha](https://github.com/devlikeapro/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click!
@@ -7903,6 +7915,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-07-10】[yanue / V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 * 【2024-07-07】[Consensys / ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
 * 【2024-07-02】[The-Cool-Coders / Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 * 【2024-07-01】[raspberrypi / firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.
