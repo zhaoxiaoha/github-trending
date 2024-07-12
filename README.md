@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2024-07-12】[swiftlang / swift](https://github.com/swiftlang/swift) - The Swift Programming Language
+* 【2024-07-12】[RocketChat / Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
+* 【2024-07-12】[ueberdosis / tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 * 【2024-07-10】[pi-hole / pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 * 【2024-07-07】[aome510 / spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 * 【2024-07-07】[albertobsd / keyhunt](https://github.com/albertobsd/keyhunt) - privkey hunt for crypto currencies that use secp256k1 elliptic curve
@@ -1775,6 +1778,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-07-12】[milesial / Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
+* 【2024-07-12】[urchade / GLiNER](https://github.com/urchade/GLiNER) - Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts) @ NAACL 2024
 * 【2024-07-10】[Xpra-org / xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 * 【2024-07-07】[freelabz / secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 * 【2024-07-07】[tanelpoder / 0xtools](https://github.com/tanelpoder/0xtools) - 0x.Tools: X-Ray vision for Linux systems
@@ -2875,6 +2880,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-07-12】[DataDog / dd-trace-js](https://github.com/DataDog/dd-trace-js) - JavaScript APM Tracer
 * 【2024-07-10】[foliojs / pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser
 * 【2024-07-07】[Tencent / cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 * 【2024-07-07】[metafloor / bwip-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
@@ -3722,6 +3728,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-07-12】[nerdswords / yet-another-cloudwatch-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) - Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
+* 【2024-07-12】[boltdb / bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
+* 【2024-07-12】[bufbuild / buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 * 【2024-07-10】[github / gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
 * 【2024-07-07】[go-swagger / go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 * 【2024-07-07】[hahwul / dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
@@ -4530,6 +4539,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-07-12】[zherczeg / sljit](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler
+* 【2024-07-12】[yarrick / iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 * 【2024-07-10】[firedancer-io / firedancer](https://github.com/firedancer-io/firedancer) - Firedancer is Jump Crypto's Solana consensus node implementation.
 * 【2024-07-10】[virtualsquare / vde-2](https://github.com/virtualsquare/vde-2) - 
 * 【2024-07-07】[andmarti1424 / sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
@@ -5209,6 +5220,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-07-12】[sebastianstarke / AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 * 【2024-07-10】[sqlitebrowser / sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 * 【2024-07-05】[vslavik / diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 * 【2024-07-05】[HKUST-Aerial-Robotics / VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
@@ -5893,6 +5905,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-07-12】[cairoshell / cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
 * 【2024-07-07】[attickdoor / XIVComboPlugin](https://github.com/attickdoor/XIVComboPlugin) - Plugin version of the icon replacement features in dalamud
 * 【2024-07-07】[xivdev / Penumbra](https://github.com/xivdev/Penumbra) - FINAL FANTASY XIV modding, but actually good this time
 * 【2024-07-07】[File-New-Project / EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
