@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-07-21】[TraceMachina / nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings.
 * 【2024-07-19】[sonofmagic / weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - bring tailwindcss to weapp ! 把 `tailwindcss` 原子化思想带入小程序开发吧 ! 原 `weapp-tailwindcss-webpack-plugin`
 * 【2024-07-18】[tokio-rs / tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 * 【2024-07-17】[supabase / supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -2897,6 +2898,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-07-21】[kevin-mizu / domloggerpp](https://github.com/kevin-mizu/domloggerpp) - A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations.
 * 【2024-07-19】[cavi-au / Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 * 【2024-07-19】[liriliri / eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 * 【2024-07-18】[wordshub / free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
@@ -3750,6 +3752,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-07-21】[quackduck / devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
+* 【2024-07-21】[oliver006 / redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for ValKey & Redis Metrics. Supports ValKey and Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x
 * 【2024-07-20】[GoogleCloudPlatform / golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
 * 【2024-07-20】[mindoc-org / mindoc](https://github.com/mindoc-org/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
 * 【2024-07-16】[edoardottt / scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
@@ -4566,6 +4570,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-07-21】[ahrm / sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 * 【2024-07-19】[siduck / chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 * 【2024-07-19】[nginx / njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
 * 【2024-07-19】[seL4 / seL4](https://github.com/seL4/seL4) - The seL4 microkernel
@@ -5255,6 +5260,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-07-21】[xournalpp / xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
+* 【2024-07-21】[onnx / onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
 * 【2024-07-20】[Livox-SDK / livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2) - Livox device driver under Ros(Compatible with ros and ros2), support Lidar HAP and Mid-360.
 * 【2024-07-19】[flameshot-org / flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software 🖥️ 📸
 * 【2024-07-17】[ROCm / HIP](https://github.com/ROCm/HIP) - HIP: C++ Heterogeneous-Compute Interface for Portability
@@ -7263,6 +7270,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-07-21】[rust-lang / reference](https://github.com/rust-lang/reference) - The Rust Reference
 * 【2024-07-19】[Wei-Xia / most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 * 【2024-07-13】[stripe-samples / checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) - Use Checkout to quickly collect one-time payments.
 * 【2024-07-10】[primary-theme / obsidian](https://github.com/primary-theme/obsidian) - Comfy, playful but productive theme for Obsidian. "Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,"
@@ -7975,6 +7983,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-07-21】[alebcay / awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * 【2024-07-19】[miss-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 * 【2024-07-16】[xlenore / ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 * 【2024-07-14】[laravel / docs](https://github.com/laravel/docs) - The Laravel documentation.
