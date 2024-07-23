@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-07-23】[openstatusHQ / openstatus](https://github.com/openstatusHQ/openstatus) - 🏓 The open-source synthetic monitoring platform 🏓
 * 【2024-07-22】[2dust / v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 * 【2024-07-22】[PathOfBuildingCommunity / PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) - Offline build planner for Path of Exile.
 * 【2024-07-21】[TraceMachina / nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings.
@@ -1791,6 +1792,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-07-23】[microsoft / Olive](https://github.com/microsoft/Olive) - Olive is an easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation.
+* 【2024-07-23】[crewAIInc / crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 * 【2024-07-22】[crewAIInc / crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - 
 * 【2024-07-19】[wenet-e2e / wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit
 * 【2024-07-19】[facebookresearch / detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
@@ -7276,6 +7279,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-07-23】[EthicalSource / contributor_covenant](https://github.com/EthicalSource/contributor_covenant) - Pledge your respect and appreciation for contributors of all kinds to your open source project.
 * 【2024-07-21】[rust-lang / reference](https://github.com/rust-lang/reference) - The Rust Reference
 * 【2024-07-19】[Wei-Xia / most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 * 【2024-07-13】[stripe-samples / checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) - Use Checkout to quickly collect one-time payments.
@@ -7989,6 +7993,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-07-23】[rothgar / awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 * 【2024-07-22】[Cyfrin / foundry-full-course-cu](https://github.com/Cyfrin/foundry-full-course-cu) - 
 * 【2024-07-21】[alebcay / awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * 【2024-07-19】[miss-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
