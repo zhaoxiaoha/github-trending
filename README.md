@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-07-28】[leanprover / lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
+* 【2024-07-28】[freeCodeCamp / devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 * 【2024-07-27】[FishHawk / auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * 【2024-07-25】[Netflix / maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 * 【2024-07-25】[hoppscotch / hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
@@ -1114,6 +1116,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-07-28】[apache / fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 * 【2024-07-27】[TimefoldAI / timefold-solver](https://github.com/TimefoldAI/timefold-solver) - The open source Solver AI for Java, Python and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.
 * 【2024-07-24】[oshi / oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 * 【2024-07-20】[pinpoint-apm / pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
@@ -1802,6 +1805,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-07-28】[Chenyme / Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT) - 这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
+* 【2024-07-28】[stamparm / maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
+* 【2024-07-28】[chidiwilliams / buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 * 【2024-07-26】[ollama / ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 * 【2024-07-26】[google-research / neuralgcm](https://github.com/google-research/neuralgcm) - Hybrid ML + physics model of the Earth's atmosphere
 * 【2024-07-23】[microsoft / Olive](https://github.com/microsoft/Olive) - Olive is an easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation.
@@ -2916,6 +2922,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-07-28】[jquery / jquery-ui](https://github.com/jquery/jquery-ui) - The official jQuery user interface library.
 * 【2024-07-27】[summernote / summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
 * 【2024-07-26】[orestbida / cookieconsent](https://github.com/orestbida/cookieconsent) - 🍪 Simple cross-browser cookie-consent plugin written in vanilla js
 * 【2024-07-25】[PrismJS / prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
@@ -3774,6 +3781,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-07-28】[cyclops-ui / cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 * 【2024-07-27】[rancher / local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
 * 【2024-07-25】[kubernetes-sigs / controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 * 【2024-07-25】[progrium / darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
@@ -5985,6 +5993,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-07-28】[T0biasCZe / AdbFileManager](https://github.com/T0biasCZe/AdbFileManager) - Fast Android <-> Windows file manager using ADB protocol
 * 【2024-07-25】[AvaloniaUI / Avalonia.Samples](https://github.com/AvaloniaUI/Avalonia.Samples) - Avalonia.Samples aims to provide some minimal samples focusing on a particular issue at a time. This should help getting new users started.
 * 【2024-07-22】[Cysharp / Ulid](https://github.com/Cysharp/Ulid) - Fast .NET C# Implementation of ULID for .NET and Unity.
 * 【2024-07-18】[sta / websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
