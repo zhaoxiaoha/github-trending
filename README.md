@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-07-30】[recloudstream / cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 * 【2024-07-29】[OpenGenerativeAI / llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM
 * 【2024-07-28】[leanprover / lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 * 【2024-07-28】[freeCodeCamp / devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -2925,6 +2926,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-07-30】[spicetify / cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 * 【2024-07-29】[electron / electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 * 【2024-07-28】[jquery / jquery-ui](https://github.com/jquery/jquery-ui) - The official jQuery user interface library.
 * 【2024-07-27】[summernote / summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
@@ -4610,6 +4612,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-07-30】[c3lang / c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 * 【2024-07-29】[hanwckf / bl-mt798x](https://github.com/hanwckf/bl-mt798x) - ATF and u-boot for mt798x.
 * 【2024-07-26】[jagt / clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 * 【2024-07-24】[microsoft / ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
@@ -5304,6 +5307,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-07-30】[zhongyang219 / MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
 * 【2024-07-29】[elfmz / far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
 * 【2024-07-27】[pytorch / FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
 * 【2024-07-22】[OGRECave / ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine (C++, Python, C#, Java)
