@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2024-08-04】[vbenjs / vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
+* 【2024-08-04】[xvzc / SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
+* 【2024-08-04】[apache / apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 * 【2024-08-03】[RSSNext / follow](https://github.com/RSSNext/follow) - 🧡 Next generation information browser
 * 【2024-08-03】[pytorch / torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 * 【2024-08-03】[sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -1123,6 +1126,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-08-04】[krlvm / PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti-censorship functionality
 * 【2024-08-03】[mcastillof / FakeTraveler](https://github.com/mcastillof/FakeTraveler) - Fake where your phone is located (Mock location for Android).
 * 【2024-08-03】[OpenRefine / OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 * 【2024-08-03】[krlvm / PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible proxy server with anti-censorship functionality for Android
@@ -1815,6 +1819,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-08-04】[InternLM / lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents
 * 【2024-08-03】[ckan / ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.
 * 【2024-08-03】[locustio / locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 * 【2024-08-03】[ChaozhongLiu / DyberPet](https://github.com/ChaozhongLiu/DyberPet) - Desktop Cyber Pet Framework based on PySide6
@@ -2939,6 +2944,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-08-04】[SadeghHayeri / GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 * 【2024-08-03】[CanadaHonk / porffor](https://github.com/CanadaHonk/porffor) - A from-scratch experimental AOT JS engine, written in JS
 * 【2024-08-03】[pcottle / learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 * 【2024-07-30】[spicetify / cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
@@ -3802,6 +3808,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-08-04】[SonicCloudOrg / sonic-ios-bridge](https://github.com/SonicCloudOrg/sonic-ios-bridge) - 🎉Bridge of iOS Devices by usbmuxd. 基于usbmuxd的iOS调试工具。
 * 【2024-08-03】[KindlingProject / kindling](https://github.com/KindlingProject/kindling) - eBPF-based Cloud Native Monitoring Tool
 * 【2024-07-29】[owasp-amass / amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 * 【2024-07-28】[cyclops-ui / cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
@@ -4628,6 +4635,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-08-04】[pr3y / Bruce](https://github.com/pr3y/Bruce) - Firmware for m5stack Cardputer, StickC and ESP32
+* 【2024-08-04】[hihkm / DanmakuFactory](https://github.com/hihkm/DanmakuFactory) - 支持特殊弹幕的xml转ass格式转换工具
 * 【2024-08-03】[basil00 / Divert](https://github.com/basil00/Divert) - WinDivert: Windows Packet Divert
 * 【2024-08-03】[kiddin9 / openwrt-packages](https://github.com/kiddin9/openwrt-packages) - openwrt packages
 * 【2024-07-31】[albfan / miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
@@ -5327,6 +5336,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-08-04】[cdcseacave / openMVS](https://github.com/cdcseacave/openMVS) - open Multi-View Stereo reconstruction library
+* 【2024-08-04】[wwmm / easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
+* 【2024-08-04】[introlab / rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
 * 【2024-08-03】[microsoft / SEAL](https://github.com/microsoft/SEAL) - Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
 * 【2024-08-03】[AcademySoftwareFoundation / openvdb](https://github.com/AcademySoftwareFoundation/openvdb) - OpenVDB - Sparse volume data structure and tools
 * 【2024-07-31】[margelo / react-native-filament](https://github.com/margelo/react-native-filament) - 🐧 A real-time physically based 3D rendering engine for React Native
