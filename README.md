@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-08-17】[chen08209 / FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 * 【2024-08-15】[grafana / grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 * 【2024-08-15】[timlrx / tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
 * 【2024-08-15】[starsliao / TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer&ECS/MySQL/Redis云监控指标采集&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
@@ -1148,6 +1149,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-08-17】[rtm516 / MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) - A simple Geyser extension that broadcasts the server over Xbox Live.
+* 【2024-08-17】[apache / logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is a versatile, feature-rich, efficient logging API and backend for Java.
 * 【2024-08-15】[jetlinks / jetlinks-community](https://github.com/jetlinks/jetlinks-community) - JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。
 * 【2024-08-15】[OpenLineage / OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 * 【2024-08-14】[KingContaria / seedqueue](https://github.com/KingContaria/seedqueue) - 
@@ -1850,6 +1853,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-08-17】[RasaHQ / rasa](https://github.com/RasaHQ/rasa) - 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
+* 【2024-08-17】[intelowlproject / IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
+* 【2024-08-17】[xaoyaoo / PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
 * 【2024-08-16】[sustcsonglin / flash-linear-attention](https://github.com/sustcsonglin/flash-linear-attention) - Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton
 * 【2024-08-16】[andrewyng / translation-agent](https://github.com/andrewyng/translation-agent) - 
 * 【2024-08-16】[pymc-devs / pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
@@ -2993,6 +2999,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-08-17】[marcelscruz / public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
+* 【2024-08-17】[d07RiV / diabloweb](https://github.com/d07RiV/diabloweb) - Diablo 1 for web browsers
 * 【2024-08-15】[tailwindlabs / tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 * 【2024-08-12】[RobinLinus / snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 * 【2024-08-12】[seanprashad / leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
@@ -4698,6 +4706,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-08-17】[zlib-ng / zlib-ng](https://github.com/zlib-ng/zlib-ng) - zlib replacement with optimizations for "next generation" systems.
 * 【2024-08-16】[libAudioFlux / audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 * 【2024-08-15】[kilograham / rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
 * 【2024-08-09】[openocd-org / openocd](https://github.com/openocd-org/openocd) - Official OpenOCD Read-Only Mirror (no pull requests)
@@ -6109,6 +6118,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-08-17】[ErsatzTV / ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
 * 【2024-08-12】[vrm-c / UniVRM](https://github.com/vrm-c/UniVRM) - UniVRM is a gltf-based VRM format implementation for Unity. English is here https://vrm.dev/en/ . 日本語 はこちら https://vrm.dev/
 * 【2024-08-11】[vawser / Smithbox](https://github.com/vawser/Smithbox) - Smithbox is a modding tool for Elden Ring, Armored Core VI, Sekiro, Dark Souls 3, Dark Souls 2, Dark Souls, Bloodborne and Demon's Souls.
 * 【2024-08-11】[arcusmaximus / YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - A tool for creating styled YouTube subtitles
@@ -8167,6 +8177,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-08-17】[base-org / brand-kit](https://github.com/base-org/brand-kit) - Brand guide and logos for the Base brand.
 * 【2024-08-10】[joebew42 / study-path](https://github.com/joebew42/study-path) - An organized learning path on Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
 * 【2024-08-09】[getcursor / cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 * 【2024-08-09】[microsoft / powerbi-desktop-samples](https://github.com/microsoft/powerbi-desktop-samples) - Power BI Desktop sample files for the monthly release. Here you can find the PBIX files used in the monthly release videos.
