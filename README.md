@@ -1,6 +1,11 @@
 ### Github热门项目
 ## All language
 
+* 【2024-08-20】[OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+* 【2024-08-20】[toss / es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+* 【2024-08-20】[keldaanCommunity / pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) - Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.
+* 【2024-08-20】[AriaLyy / Aria](https://github.com/AriaLyy/Aria) - 
+* 【2024-08-20】[SorellaLabs / brontes](https://github.com/SorellaLabs/brontes) - A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection
 * 【2024-08-18】[apify / crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 * 【2024-08-18】[makeplane / plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 * 【2024-08-17】[chen08209 / FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
@@ -1151,6 +1156,10 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-08-20】[PBH-BTN / PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)
+* 【2024-08-20】[REAndroid / APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
+* 【2024-08-20】[Minestom / Minestom](https://github.com/Minestom/Minestom) - 1.21 Lightweight Minecraft server
+* 【2024-08-20】[gahogg / Leetcode-Solutions](https://github.com/gahogg/Leetcode-Solutions) - The repository for all of the solutions to the Leetcode problems solved on my YouTube, Instagram and TikTok
 * 【2024-08-17】[rtm516 / MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) - A simple Geyser extension that broadcasts the server over Xbox Live.
 * 【2024-08-17】[apache / logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is a versatile, feature-rich, efficient logging API and backend for Java.
 * 【2024-08-15】[jetlinks / jetlinks-community](https://github.com/jetlinks/jetlinks-community) - JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。
@@ -1855,6 +1864,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-08-20】[magic-wormhole / magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
+* 【2024-08-20】[tornadoweb / tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
+* 【2024-08-20】[sagemath / sage](https://github.com/sagemath/sage) - Main repository of SageMath
 * 【2024-08-18】[opendatalab / labelU](https://github.com/opendatalab/labelU) - Data annotation toolbox supports image, audio and video data.
 * 【2024-08-17】[RasaHQ / rasa](https://github.com/RasaHQ/rasa) - 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 * 【2024-08-17】[intelowlproject / IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
@@ -3002,6 +3014,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-08-20】[TiddlyWiki / TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+* 【2024-08-20】[tobspr-games / shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 * 【2024-08-18】[shimohq / chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 * 【2024-08-17】[marcelscruz / public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 * 【2024-08-17】[d07RiV / diabloweb](https://github.com/d07RiV/diabloweb) - Diablo 1 for web browsers
@@ -3875,6 +3889,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-08-20】[amitshekhariitbhu / go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
+* 【2024-08-20】[rusq / slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 * 【2024-08-18】[erigontech / erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier https://erigon.gitbook.io
 * 【2024-08-16】[cloudwego / hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 * 【2024-08-16】[argoproj / argo-events](https://github.com/argoproj/argo-events) - Event-driven Automation Framework for Kubernetes
@@ -6124,6 +6140,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-08-20】[Tyrrrz / YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
+* 【2024-08-20】[RaidMax / IW4M-Admin](https://github.com/RaidMax/IW4M-Admin) - Complete administration tool for IW4x, Pluto T6, Pluto IW5, Pluto T5, Pluto T4, H1-Mod, CoD4x, IW6x, TeknoMW3, and most Call of Duty® dedicated servers.
 * 【2024-08-18】[DigitalRuby / IPBan](https://github.com/DigitalRuby/IPBan) - Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to IPBan Pro today and get a discount. Learn more at ↓
 * 【2024-08-17】[ErsatzTV / ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
 * 【2024-08-12】[vrm-c / UniVRM](https://github.com/vrm-c/UniVRM) - UniVRM is a gltf-based VRM format implementation for Unity. English is here https://vrm.dev/en/ . 日本語 はこちら https://vrm.dev/
@@ -8186,6 +8204,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-08-20】[ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 * 【2024-08-18】[yolain / ComfyUI-Yolain-Workflows](https://github.com/yolain/ComfyUI-Yolain-Workflows) - Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
 * 【2024-08-17】[base-org / brand-kit](https://github.com/base-org/brand-kit) - Brand guide and logos for the Base brand.
 * 【2024-08-10】[joebew42 / study-path](https://github.com/joebew42/study-path) - An organized learning path on Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
