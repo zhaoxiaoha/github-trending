@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-08-25】[PlatformLab / NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
+* 【2024-08-25】[flxzt / rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 * 【2024-08-23】[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 * 【2024-08-21】[LibreTranslate / LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 * 【2024-08-21】[thuml / Time-Series-Library](https://github.com/thuml/Time-Series-Library) - A Library for Advanced Deep Time Series Models.
@@ -1159,6 +1161,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-08-25】[nfcgate / nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
+* 【2024-08-25】[elastic / elasticsearch-java](https://github.com/elastic/elasticsearch-java) - Official Elasticsearch Java Client
 * 【2024-08-22】[spring-projects / spring-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
 * 【2024-08-21】[DImuthuUpe / AndroidPdfViewer](https://github.com/DImuthuUpe/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid
 * 【2024-08-20】[PBH-BTN / PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)
@@ -1869,6 +1873,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-08-25】[Lightning-AI / LitServe](https://github.com/Lightning-AI/LitServe) - High-throughput serving engine for AI models. Easy to use. Flexible. Enterprise scale.
+* 【2024-08-25】[bobbyiliev / 101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) - 101 Linux commands Open-source eBook
 * 【2024-08-24】[cookiecutter / cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 * 【2024-08-24】[SylphAI-Inc / AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The “PyTorch” library to auto-optimize any LLM tasks.
 * 【2024-08-23】[kubernetes-client / python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
@@ -3028,6 +3034,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-08-25】[EmulatorJS / EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
 * 【2024-08-24】[micromatch / micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github.com/jonschlinkert
 * 【2024-08-23】[mermaid-js / mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 * 【2024-08-23】[jfedor2 / hid-remapper](https://github.com/jfedor2/hid-remapper) - USB input remapping dongle
@@ -4748,6 +4755,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-08-25】[ntop / nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
 * 【2024-08-24】[pawelsalawa / sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 * 【2024-08-24】[open-telemetry / opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 * 【2024-08-21】[unbit / uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
@@ -5458,6 +5466,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-08-25】[srsran / srsRAN_4G](https://github.com/srsran/srsRAN_4G) - Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g
 * 【2024-08-23】[ros-controls / ros2_controllers](https://github.com/ros-controls/ros2_controllers) - Generic robotic controllers to accompany ros2_control
 * 【2024-08-21】[chrxh / alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
 * 【2024-08-15】[duckdb / pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps & analytics.
