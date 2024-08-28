@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2024-08-28】[khcrysalis / Feather](https://github.com/khcrysalis/Feather) - Feather is a free on-device iOS application manager/installer built with UIKit for quality.
+* 【2024-08-28】[umami-software / umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+* 【2024-08-28】[Pierian-Data / Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
 * 【2024-08-25】[PlatformLab / NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
 * 【2024-08-25】[flxzt / rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 * 【2024-08-23】[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -1873,6 +1876,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-08-28】[s0md3v / Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
+* 【2024-08-28】[NUS-HPC-AI-Lab / VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys: An easy and efficient system for video generation
 * 【2024-08-27】[PromtEngineer / Verbi](https://github.com/PromtEngineer/Verbi) - A modular voice assistant application for experimenting with state-of-the-art transcription, response generation, and text-to-speech models. Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepgram APIs, plus local models via Ollama. Ideal for research and development in voice technology.
 * 【2024-08-25】[Lightning-AI / LitServe](https://github.com/Lightning-AI/LitServe) - High-throughput serving engine for AI models. Easy to use. Flexible. Enterprise scale.
 * 【2024-08-25】[bobbyiliev / 101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) - 101 Linux commands Open-source eBook
@@ -3035,6 +3040,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-08-28】[evgeny-nadymov / telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
 * 【2024-08-25】[EmulatorJS / EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
 * 【2024-08-24】[micromatch / micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github.com/jonschlinkert
 * 【2024-08-23】[mermaid-js / mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
@@ -4757,6 +4763,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-08-28】[Foundry376 / Mailspring](https://github.com/Foundry376/Mailspring) - 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 * 【2024-08-25】[ntop / nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
 * 【2024-08-24】[pawelsalawa / sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 * 【2024-08-24】[open-telemetry / opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
@@ -5468,6 +5475,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-08-28】[unitreerobotics / unitree_ros](https://github.com/unitreerobotics/unitree_ros) - 
 * 【2024-08-27】[man-group / ArcticDB](https://github.com/man-group/ArcticDB) - ArcticDB is a high performance, serverless DataFrame database built for the Python Data Science ecosystem.
 * 【2024-08-27】[dpjudas / SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
 * 【2024-08-25】[srsran / srsRAN_4G](https://github.com/srsran/srsRAN_4G) - Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g
@@ -6179,6 +6187,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-08-28】[ExcelDataReader / ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files
 * 【2024-08-27】[mxgmn / MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 * 【2024-08-27】[vpnhood / VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
 * 【2024-08-24】[ElevenPaths / FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
@@ -7534,6 +7543,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-08-28】[obsidianmd / obsidian-help](https://github.com/obsidianmd/obsidian-help) - Help documentation for Obsidian.
 * 【2024-08-23】[ardalis / pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals) - Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith
 * 【2024-08-18】[delaneyj / datastar](https://github.com/delaneyj/datastar) - 
 * 【2024-08-16】[bradtraversy / tailwind-landing-page](https://github.com/bradtraversy/tailwind-landing-page) - 
