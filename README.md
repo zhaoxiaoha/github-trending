@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-08-31】[frappe / frappe_docker](https://github.com/frappe/frappe_docker) - Docker images for production and development setups of the Frappe framework and ERPNext
+* 【2024-08-31】[elastic / kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 * 【2024-08-30】[Cinnamon / kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 * 【2024-08-30】[dokku / dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 * 【2024-08-30】[nocodb / nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -1168,6 +1170,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-08-31】[in28minutes / JavaInterviewQuestionsAndAnswers](https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers) - Java Interview Questions and Answers
 * 【2024-08-25】[nfcgate / nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
 * 【2024-08-25】[elastic / elasticsearch-java](https://github.com/elastic/elasticsearch-java) - Official Elasticsearch Java Client
 * 【2024-08-22】[spring-projects / spring-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
@@ -3046,6 +3049,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-08-31】[knownsec / KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team.
 * 【2024-08-30】[remarkjs / react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 * 【2024-08-28】[evgeny-nadymov / telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
 * 【2024-08-25】[EmulatorJS / EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
@@ -3929,6 +3933,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-08-31】[opentofu / registry](https://github.com/opentofu/registry) - The all-new opentofu.org registry!
+* 【2024-08-31】[gotify / server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+* 【2024-08-31】[langgenius / dify-sandbox](https://github.com/langgenius/dify-sandbox) - A lightweight, fast, and secure code execution environment that supports multiple programming languages
 * 【2024-08-27】[rabilrbl / jiotv_go](https://github.com/rabilrbl/jiotv_go) - Unlock the magic of JioTV across all your devices, without the need for the JioTV App. Crafted with love in Golang for a delightful blend of speed and efficiency! 🌟✨
 * 【2024-08-22】[sourcegraph / sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 * 【2024-08-22】[adnanh / webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -6196,6 +6203,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-08-31】[ElectronNET / Electron.NET](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
 * 【2024-08-30】[gusmanb / logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 * 【2024-08-30】[AElfProject / AElf](https://github.com/AElfProject/AElf) - An AI-enhanced cloud-native layer-1 blockchain network.
 * 【2024-08-30】[Azure / azure-sdk-tools](https://github.com/Azure/azure-sdk-tools) - Tools repository leveraged by the Azure SDK team.
@@ -7556,6 +7564,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-08-31】[MicrosoftDocs / mslearn-interact-with-data-blazor-web-apps](https://github.com/MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps) - Sample repo for Interact with Data for Blazor Web Apps Learn Module
 * 【2024-08-29】[Richard9394 / MingCute](https://github.com/Richard9394/MingCute) - Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
 * 【2024-08-28】[obsidianmd / obsidian-help](https://github.com/obsidianmd/obsidian-help) - Help documentation for Obsidian.
 * 【2024-08-23】[ardalis / pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals) - Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith
@@ -8280,6 +8289,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-08-31】[anitabi / anitabi.cn-document](https://github.com/anitabi/anitabi.cn-document) - 动画巡礼文档
 * 【2024-08-30】[dailydotdev / daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 * 【2024-08-20】[ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 * 【2024-08-18】[yolain / ComfyUI-Yolain-Workflows](https://github.com/yolain/ComfyUI-Yolain-Workflows) - Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
