@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-09-01】[Mereithhh / vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
 * 【2024-08-31】[frappe / frappe_docker](https://github.com/frappe/frappe_docker) - Docker images for production and development setups of the Frappe framework and ERPNext
 * 【2024-08-31】[elastic / kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 * 【2024-08-30】[Cinnamon / kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
@@ -1170,6 +1171,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-09-01】[rememberber / MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers. 开发者常备小工具
 * 【2024-08-31】[in28minutes / JavaInterviewQuestionsAndAnswers](https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers) - Java Interview Questions and Answers
 * 【2024-08-25】[nfcgate / nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
 * 【2024-08-25】[elastic / elasticsearch-java](https://github.com/elastic/elasticsearch-java) - Official Elasticsearch Java Client
@@ -1883,6 +1885,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-09-01】[scikit-image / scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
+* 【2024-09-01】[mlfoundations / open_clip](https://github.com/mlfoundations/open_clip) - An open source implementation of CLIP.
+* 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 * 【2024-08-30】[PyCQA / bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 * 【2024-08-29】[THUDM / GLM-4](https://github.com/THUDM/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型
 * 【2024-08-28】[s0md3v / Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
@@ -3933,6 +3938,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 * 【2024-08-31】[opentofu / registry](https://github.com/opentofu/registry) - The all-new opentofu.org registry!
 * 【2024-08-31】[gotify / server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 * 【2024-08-31】[langgenius / dify-sandbox](https://github.com/langgenius/dify-sandbox) - A lightweight, fast, and secure code execution environment that supports multiple programming languages
