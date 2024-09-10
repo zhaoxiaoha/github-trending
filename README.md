@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-09-10】[RSSNext / Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
+* 【2024-09-10】[johannesjo / super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 * 【2024-09-09】[afadil / wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 * 【2024-09-09】[HiEventsDev / Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform 🎟️
 * 【2024-09-08】[ChrisTitusTech / linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
@@ -3982,6 +3984,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-09-10】[arduino / arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 * 【2024-09-09】[dop251 / goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 * 【2024-09-06】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 * 【2024-09-04】[cbeuw / Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries
