@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-09-11】[josephburnett / jd](https://github.com/josephburnett/jd) - JSON diff and patch
 * 【2024-09-10】[RSSNext / Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 * 【2024-09-10】[johannesjo / super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 * 【2024-09-09】[afadil / wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
@@ -1907,6 +1908,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-09-11】[iryna-kondr / scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 * 【2024-09-09】[simonw / datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 * 【2024-09-09】[rossant / awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 * 【2024-09-09】[nvbn / thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -6276,6 +6278,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-09-11】[microsoftgraph / group-membership-management](https://github.com/microsoftgraph/group-membership-management) - Group Membership Management (GMM) is a service that dynamically manages the membership of AAD Groups. Groups managed by GMM can have their membership defined using existing AAD Groups and/or custom membership sources.
 * 【2024-09-09】[jie65535 / GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) - Command Generator and Gacha Banner Editor
 * 【2024-09-09】[nesrak1 / UABEA](https://github.com/nesrak1/UABEA) - c# uabe for newer versions of unity
 * 【2024-09-09】[MicaForEveryone / MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
@@ -8381,6 +8384,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-09-11】[dotnet / docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 * 【2024-09-02】[rwaldron / idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 * 【2024-08-31】[anitabi / anitabi.cn-document](https://github.com/anitabi/anitabi.cn-document) - 动画巡礼文档
 * 【2024-08-30】[dailydotdev / daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
