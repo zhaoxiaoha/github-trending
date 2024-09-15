@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-09-15】[sissbruecker / linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 * 【2024-09-12】[documenso / documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 * 【2024-09-11】[josephburnett / jd](https://github.com/josephburnett/jd) - JSON diff and patch
 * 【2024-09-10】[RSSNext / Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
@@ -3101,6 +3102,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-09-15】[cmliu / CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
+* 【2024-09-15】[SAP / openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
 * 【2024-09-12】[rabbitmq / rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 * 【2024-09-09】[lyfe00011 / whatsapp-bot](https://github.com/lyfe00011/whatsapp-bot) - A whatsapp bot based on baileys
 * 【2024-09-09】[bitfocus / companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment.
@@ -6294,6 +6297,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-09-15】[netwrix / pingcastle](https://github.com/netwrix/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 * 【2024-09-14】[laochiangx / Common.Utility](https://github.com/laochiangx/Common.Utility) - Various helper class
 * 【2024-09-13】[aws / aws-sdk-net](https://github.com/aws/aws-sdk-net) - The official AWS SDK for .NET. For more information on the AWS SDK for .NET, see our web site:
 * 【2024-09-11】[microsoftgraph / group-membership-management](https://github.com/microsoftgraph/group-membership-management) - Group Membership Management (GMM) is a service that dynamically manages the membership of AAD Groups. Groups managed by GMM can have their membership defined using existing AAD Groups and/or custom membership sources.
@@ -7671,6 +7675,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-09-15】[dohliam / dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 * 【2024-09-14】[dhulihan / hooligan](https://github.com/dhulihan/hooligan) - A low-lit fully responsive theme for Jekyll-Bootstrap.
 * 【2024-09-12】[connorferster / handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 * 【2024-09-09】[refact0r / system24](https://github.com/refact0r/system24) - a tui-style discord theme
@@ -8405,6 +8410,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-09-15】[oz123 / awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 * 【2024-09-14】[gayanvoice / top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 * 【2024-09-13】[gmelodie / awesome-wordlists](https://github.com/gmelodie/awesome-wordlists) - A curated list wordlists for bruteforcing and fuzzing
 * 【2024-09-12】[pushsecurity / saas-attacks](https://github.com/pushsecurity/saas-attacks) - Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
