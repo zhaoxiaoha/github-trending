@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-09-16】[frdel / agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 * 【2024-09-15】[sissbruecker / linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 * 【2024-09-12】[documenso / documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 * 【2024-09-11】[josephburnett / jd](https://github.com/josephburnett/jd) - JSON diff and patch
@@ -3997,6 +3998,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-09-16】[golang / example](https://github.com/golang/example) - Go example projects
 * 【2024-09-12】[openziti / ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @openziti
 * 【2024-09-10】[arduino / arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 * 【2024-09-09】[dop251 / goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
