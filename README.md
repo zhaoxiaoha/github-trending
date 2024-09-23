@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-09-23】[SharifiZarchi / Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) - دوره‌ی مقدمه‌ای بر یادگیری ماشین، برای دانشجویان
+* 【2024-09-23】[basecamp / kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 * 【2024-09-22】[QwenLM / Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2024-09-20】[achristmascarl / rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 * 【2024-09-19】[tungbq / devops-basics](https://github.com/tungbq/devops-basics) - 🚀 Practical and document place for DevOps toolchain
@@ -3119,6 +3121,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-09-23】[Neet-Nestor / Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 * 【2024-09-21】[bvaughn / react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 * 【2024-09-21】[Unitech / pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 * 【2024-09-18】[mjmlio / mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
@@ -4017,6 +4020,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-09-23】[konstructio / kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
 * 【2024-09-19】[getzep / zep](https://github.com/getzep/zep) - Zep: Long-Term Memory for ‍AI Assistants.
 * 【2024-09-19】[cloudflare / terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider
 * 【2024-09-16】[golang / example](https://github.com/golang/example) - Go example projects
@@ -4874,6 +4878,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-09-23】[TechUnRestricted / WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
 * 【2024-09-20】[klonyyy / MCUViewer](https://github.com/klonyyy/MCUViewer) - Real-time embedded variable & trace viewer
 * 【2024-09-17】[ProtonVPN / android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
 * 【2024-09-14】[raspberrypi / rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
@@ -5596,6 +5601,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-09-23】[DarthTon / Xenos](https://github.com/DarthTon/Xenos) - Windows dll injector
 * 【2024-09-22】[NVIDIA / cccl](https://github.com/NVIDIA/cccl) - CUDA Core Compute Libraries
 * 【2024-09-21】[exaloop / codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 * 【2024-09-19】[zufuliu / notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
@@ -7709,6 +7715,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-09-23】[panr / hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 * 【2024-09-21】[robb0wen / synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
 * 【2024-09-21】[zhaohuabing / hugo-theme-cleanwhite](https://github.com/zhaohuabing/hugo-theme-cleanwhite) - A clean, elegant blog theme for hugo
 * 【2024-09-21】[shanselman / firsttimersonly](https://github.com/shanselman/firsttimersonly) - The Repository for the FirstTimersOnly movement in Open Source. We want projects to reserve some issues for newbies.
@@ -8447,6 +8454,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-09-23】[n8n-io / self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 * 【2024-09-22】[zakirullin / cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 * 【2024-09-18】[avito-tech / playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
 * 【2024-09-18】[ouckah / Summer2025-Internships](https://github.com/ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
