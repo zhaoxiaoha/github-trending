@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-09-30】[shuding / nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 * 【2024-09-29】[mediar-ai / screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 * 【2024-09-29】[exo-explore / exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 * 【2024-09-29】[nikitabobko / AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
@@ -4914,6 +4915,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-09-30】[OpenPrinting / cups-browsed](https://github.com/OpenPrinting/cups-browsed) - 
 * 【2024-09-29】[orangeduck / Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 * 【2024-09-29】[OpenPrinting / cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 * 【2024-09-28】[dethrace-labs / dethrace](https://github.com/dethrace-labs/dethrace) - Reverse engineering the 1997 game "Carmageddon"
@@ -6378,6 +6380,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-09-30】[TASEmulators / BizHawk](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
+* 【2024-09-30】[HearthSim / Hearthstone-Deck-Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker) - A deck tracker and deck manager for Hearthstone on Windows
 * 【2024-09-24】[HotCakeX / Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
 * 【2024-09-24】[LAB02-Research / HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more.
 * 【2024-09-22】[thomhurst / TUnit](https://github.com/thomhurst/TUnit) - A modern, fast and flexible .NET testing framework
@@ -7120,6 +7124,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-09-30】[jenkins-infra / jenkins.io](https://github.com/jenkins-infra/jenkins.io) - A static site for the Jenkins automation server
 * 【2024-09-29】[tencentyun / qcloud-documents](https://github.com/tencentyun/qcloud-documents) - 腾讯云官方文档
 * 【2024-09-29】[steveseguin / vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 * 【2024-09-28】[vercel / geist-font](https://github.com/vercel/geist-font) - 
@@ -7765,6 +7770,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-09-30】[LIlGG / halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) - Halo 版本的樱花🌸主题
 * 【2024-09-23】[panr / hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 * 【2024-09-21】[robb0wen / synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
 * 【2024-09-21】[zhaohuabing / hugo-theme-cleanwhite](https://github.com/zhaohuabing/hugo-theme-cleanwhite) - A clean, elegant blog theme for hugo
