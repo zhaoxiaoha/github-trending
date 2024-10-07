@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-10-07】[onejs / one](https://github.com/onejs/one) - ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite.
+* 【2024-10-07】[ErikBjare / gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 * 【2024-10-04】[XengShi / materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
 * 【2024-10-04】[simplex-chat / simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 * 【2024-10-04】[mandiant / capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
@@ -1954,6 +1956,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-10-07】[vnpy / vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
+* 【2024-10-07】[karpathy / build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
+* 【2024-10-07】[AlfredoUen / JableTV](https://github.com/AlfredoUen/JableTV) - Jable.TV Download (GUI tool)
 * 【2024-10-05】[laramies / theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 * 【2024-10-05】[acl-org / aclpubcheck](https://github.com/acl-org/aclpubcheck) - Tools for checking ACL paper submissions
 * 【2024-10-04】[fedirz / faster-whisper-server](https://github.com/fedirz/faster-whisper-server) - 
@@ -4076,6 +4081,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-10-07】[chainflag / eth-faucet](https://github.com/chainflag/eth-faucet) - Ether faucet server built with Go and Svelte.
 * 【2024-10-03】[peer-calls / peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 * 【2024-10-03】[sensepost / gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 * 【2024-10-02】[childe / gohangout](https://github.com/childe/gohangout) - 使用 golang 模仿的 Logstash。用于消费 Kafka 数据，处理后写入 ES、Clickhouse 等。
@@ -7165,6 +7171,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-10-07】[iamrahulmahato / master-web-development](https://github.com/iamrahulmahato/master-web-development) - Learn to code by building projects.
 * 【2024-10-04】[AliceWonderland / hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) - Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first time contributors. #hacktoberfest
 * 【2024-10-04】[tushargupta1504 / Medical-Website](https://github.com/tushargupta1504/Medical-Website) - Very basic project for the beginner''s
 * 【2024-10-03】[edent / SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
