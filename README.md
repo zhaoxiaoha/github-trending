@@ -1,6 +1,10 @@
 ### Github热门项目
 ## All language
 
+* 【2024-10-11】[clinebot / cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+* 【2024-10-11】[vuejs / core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+* 【2024-10-11】[hcengineering / huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
+* 【2024-10-11】[openai / CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image
 * 【2024-10-09】[zotero-chinese / styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式
 * 【2024-10-07】[onejs / one](https://github.com/onejs/one) - ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite.
 * 【2024-10-07】[ErikBjare / gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
@@ -1957,6 +1961,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-10-11】[LiLittleCat / awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+* 【2024-10-11】[modelscope / ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to finetune 350+ LLMs or 100+ MLLMs. (LLM: Qwen2.5, Llama3.2, GLM4, Internlm2.5, Yi1.5, Mistral, Baichuan2, DeepSeek, Gemma2, ...; MLLM: Qwen2-VL, Qwen2-Audio, Llama3.2-Vision, Llava, InternVL2, MiniCPM-V-2.6, GLM4v, Xcomposer2.5, Yi-VL, DeepSeek-VL, Phi3.5-Vision, ...)
 * 【2024-10-09】[cvat-ai / cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 * 【2024-10-08】[alandtse / alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
 * 【2024-10-08】[KruxAI / ragbuilder](https://github.com/KruxAI/ragbuilder) - A toolkit to create optimal Production-ready RAG setup for your data
@@ -3179,6 +3185,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-10-11】[revoltchat / self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 * 【2024-10-05】[Pythagora-io / pythagora](https://github.com/Pythagora-io/pythagora) - Generate automated tests for your Node.js app via LLMs without developers having to write a single line of code.
 * 【2024-10-03】[software-mansion / radon-ide](https://github.com/software-mansion/radon-ide) - VSCode extension that turns your editor into a fully fledged IDE for React Native and Expo.
 * 【2024-10-02】[fineanmol / Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️
@@ -4086,6 +4093,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-10-11】[WuKongIM / WuKongIM](https://github.com/WuKongIM/WuKongIM) - 不只是即时通讯(IM)
 * 【2024-10-08】[Forceu / Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 * 【2024-10-07】[chainflag / eth-faucet](https://github.com/chainflag/eth-faucet) - Ether faucet server built with Go and Svelte.
 * 【2024-10-03】[peer-calls / peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
@@ -6435,6 +6443,9 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-10-11】[dotnet / extensions](https://github.com/dotnet/extensions) - This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
+* 【2024-10-11】[microsoft / DacFx](https://github.com/microsoft/DacFx) - DacFx, SqlPackage, and other SQL development libraries enable declarative database development and database portability across SQL versions and environments. Share feedback here on dacpacs, bacpacs, and SQL projects.
+* 【2024-10-11】[WireMock-Net / WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible product for stubbing and mocking web HTTP responses using advanced request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
 * 【2024-10-09】[PKBeam / AMWin-RP](https://github.com/PKBeam/AMWin-RP) - A Discord Rich Presence client for Apple Music's native Windows app.
 * 【2024-10-09】[microsoft / dev-proxy](https://github.com/microsoft/dev-proxy) - Dev Proxy is an API simulator that helps you effortlessly test your app beyond the happy path.
 * 【2024-10-03】[Unity-Technologies / arfoundation-samples](https://github.com/Unity-Technologies/arfoundation-samples) - Example content for Unity projects based on AR Foundation
@@ -7184,6 +7195,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-10-11】[tc39 / proposal-structs](https://github.com/tc39/proposal-structs) - JavaScript Structs: Fixed Layout Objects
+* 【2024-10-11】[tomfran / typo](https://github.com/tomfran/typo) - A simple Hugo theme
 * 【2024-10-08】[DharshiBalasubramaniyam / ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website) - This is a responsive user-friendly online ice cream store website using HTML, CSS and Vanilla JavaScript.
 * 【2024-10-07】[iamrahulmahato / master-web-development](https://github.com/iamrahulmahato/master-web-development) - Learn to code by building projects.
 * 【2024-10-04】[AliceWonderland / hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) - Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first time contributors. #hacktoberfest
@@ -7836,6 +7849,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-10-11】[appsecco / dvja](https://github.com/appsecco/dvja) - Damn Vulnerable Java (EE) Application
 * 【2024-10-08】[divyanshudhruv / Minifolio](https://github.com/divyanshudhruv/Minifolio) - ⚡ A minimal portfolio template for Developers | 2024
 * 【2024-10-08】[SurajPratap10 / Imagine_AI](https://github.com/SurajPratap10/Imagine_AI) - The IMAGINE - AI, which is built using the OpenAI API library DALL-E 2, aims to solve the problem of limited creativity and imagination. This is a fully mobile responsive image generator built with Node.js and Express that uses OpenAI's Dall-E models to generate images.
 * 【2024-10-04】[aslams2020 / Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio) - A tribute to Iron Man! This portfolio website is inspired by the iconic character Tony Stark and is designed to showcase various projects, skills, and experiences in a sleek and modern interface, reflecting the high-tech and innovative spirit of Stark Industries.
