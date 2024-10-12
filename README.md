@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-10-12】[formbricks / formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+* 【2024-10-12】[mfts / papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 * 【2024-10-11】[clinebot / cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 * 【2024-10-11】[vuejs / core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * 【2024-10-11】[hcengineering / huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
@@ -7195,6 +7197,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-10-12】[hugo-sid / hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support.
 * 【2024-10-11】[tc39 / proposal-structs](https://github.com/tc39/proposal-structs) - JavaScript Structs: Fixed Layout Objects
 * 【2024-10-11】[tomfran / typo](https://github.com/tomfran/typo) - A simple Hugo theme
 * 【2024-10-08】[DharshiBalasubramaniyam / ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website) - This is a responsive user-friendly online ice cream store website using HTML, CSS and Vanilla JavaScript.
@@ -7849,6 +7852,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-10-12】[tocttou / hacker-blog](https://github.com/tocttou/hacker-blog) - Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. https://ashishchaudhary.in/hacker-blog
 * 【2024-10-11】[appsecco / dvja](https://github.com/appsecco/dvja) - Damn Vulnerable Java (EE) Application
 * 【2024-10-08】[divyanshudhruv / Minifolio](https://github.com/divyanshudhruv/Minifolio) - ⚡ A minimal portfolio template for Developers | 2024
 * 【2024-10-08】[SurajPratap10 / Imagine_AI](https://github.com/SurajPratap10/Imagine_AI) - The IMAGINE - AI, which is built using the OpenAI API library DALL-E 2, aims to solve the problem of limited creativity and imagination. This is a fully mobile responsive image generator built with Node.js and Express that uses OpenAI's Dall-E models to generate images.
