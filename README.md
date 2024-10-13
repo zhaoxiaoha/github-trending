@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-10-13】[cline / cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+* 【2024-10-13】[nextcloud / server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 * 【2024-10-12】[formbricks / formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 * 【2024-10-12】[mfts / papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 * 【2024-10-11】[clinebot / cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
@@ -3187,6 +3189,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-10-13】[sindresorhus / eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 * 【2024-10-11】[revoltchat / self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 * 【2024-10-05】[Pythagora-io / pythagora](https://github.com/Pythagora-io/pythagora) - Generate automated tests for your Node.js app via LLMs without developers having to write a single line of code.
 * 【2024-10-03】[software-mansion / radon-ide](https://github.com/software-mansion/radon-ide) - VSCode extension that turns your editor into a fully fledged IDE for React Native and Expo.
@@ -4961,6 +4964,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-10-13】[rspamd / rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
 * 【2024-10-10】[google / XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
 * 【2024-10-09】[openresty / openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 * 【2024-10-09】[cage-kiosk / cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
@@ -6445,6 +6449,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-10-13】[apache / arrow-adbc](https://github.com/apache/arrow-adbc) - Database connectivity API standard and libraries for Apache Arrow
 * 【2024-10-11】[dotnet / extensions](https://github.com/dotnet/extensions) - This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
 * 【2024-10-11】[microsoft / DacFx](https://github.com/microsoft/DacFx) - DacFx, SqlPackage, and other SQL development libraries enable declarative database development and database portability across SQL versions and environments. Share feedback here on dacpacs, bacpacs, and SQL projects.
 * 【2024-10-11】[WireMock-Net / WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible product for stubbing and mocking web HTTP responses using advanced request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
@@ -7197,6 +7202,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-10-13】[tc39 / proposal-import-attributes](https://github.com/tc39/proposal-import-attributes) - Proposal for syntax to import ES modules with assertions
 * 【2024-10-12】[hugo-sid / hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support.
 * 【2024-10-11】[tc39 / proposal-structs](https://github.com/tc39/proposal-structs) - JavaScript Structs: Fixed Layout Objects
 * 【2024-10-11】[tomfran / typo](https://github.com/tomfran/typo) - A simple Hugo theme
