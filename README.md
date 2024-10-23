@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-10-23】[chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 * 【2024-10-22】[getomni-ai / zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
 * 【2024-10-22】[norvig / pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 * 【2024-10-21】[solana-developers / program-examples](https://github.com/solana-developers/program-examples) - A repository of Solana program examples
@@ -1254,6 +1255,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-10-23】[Catfriend1 / syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
+* 【2024-10-23】[akhilkammila / leetcode-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter) - screenshots leetcode editorials and problems
 * 【2024-10-22】[SoLegendary / reignofnether](https://github.com/SoLegendary/reignofnether) - 
 * 【2024-10-22】[VanceVagell / kv4p-ht](https://github.com/VanceVagell/kv4p-ht) - Open source handheld ham radio project KV4P-HT
 * 【2024-10-19】[adorsys / keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
@@ -1986,6 +1989,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-10-23】[electricitymaps / electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 * 【2024-10-21】[spesmilo / electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
 * 【2024-10-21】[qxresearch / qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) By @xiaowuc2
 * 【2024-10-21】[yjh0410 / PyTorch_YOLOv1](https://github.com/yjh0410/PyTorch_YOLOv1) - A new version of YOLOv1
@@ -3219,6 +3223,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-10-23】[torinmb / mediapipe-touchdesigner](https://github.com/torinmb/mediapipe-touchdesigner) - GPU Accelerated MediaPipe Plugin for TouchDesigner
+* 【2024-10-23】[statsd / statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 * 【2024-10-21】[PranshulGG / WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 * 【2024-10-20】[huggingface / transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 * 【2024-10-20】[BrasilAPI / BrasilAPI](https://github.com/BrasilAPI/BrasilAPI) - Vamos transformar o Brasil em uma API?
@@ -5007,6 +5013,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-10-23】[samtools / bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools. See installation instructions and other documentation here http://samtools.github.io/bcftools/howtos/install.html
 * 【2024-10-18】[espressif / esp-iot-solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library. IoT Device Drivers, Documentations And Solutions.
 * 【2024-10-18】[xicodomingues / francinette](https://github.com/xicodomingues/francinette) - An easy to use testing framework for the 42 projects
 * 【2024-10-17】[CodeWithHarry / The-Ultimate-C-Programming-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course) - This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry
@@ -5750,6 +5757,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-10-23】[microsoft / T-MAC](https://github.com/microsoft/T-MAC) - Low-bit LLM inference on CPU with lookup table
 * 【2024-10-21】[k4yt3x / video2x](https://github.com/k4yt3x/video2x) - A machine learning-based lossless video super resolution framework. Est. Hack the Valley II, 2018.
 * 【2024-10-19】[zxing-cpp / zxing-cpp](https://github.com/zxing-cpp/zxing-cpp) - C++ port of ZXing
 * 【2024-10-19】[shader-slang / slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
@@ -6501,6 +6509,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-10-23】[Suprcode / Crystal](https://github.com/Suprcode/Crystal) - Legend of Mir 2 - Official Public Crystal Source
 * 【2024-10-22】[codeproject / CodeProject.AI-Server](https://github.com/codeproject/CodeProject.AI-Server) - CodeProject.AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI.
 * 【2024-10-22】[Macro-Deck-App / Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamlessly with just a single tap.
 * 【2024-10-19】[ErikEJ / EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI
@@ -7920,6 +7929,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-10-23】[orf / simple](https://github.com/orf/simple) - Simple is a clone of Obtvse written in Python running on Flask.
 * 【2024-10-20】[iamparas0 / TIC-TAC-TOE](https://github.com/iamparas0/TIC-TAC-TOE) - take a preview
 * 【2024-10-18】[aws-samples / amplify-next-template](https://github.com/aws-samples/amplify-next-template) - This is a Next.js starter for building a fullstack app with AWS Amplify.
 * 【2024-10-15】[lemonmade / bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
@@ -8669,6 +8679,9 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-10-23】[Cryakl / Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, samples of 400+ classic/modern trojan builders including screenshots.
+* 【2024-10-23】[othneildrew / Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
+* 【2024-10-23】[SkipToTheEndpoint / OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) - Community-driven baseline to accelerate Intune adoption and learning.
 * 【2024-10-22】[hiddify / awesome-freedom](https://github.com/hiddify/awesome-freedom) - In this repository we have collected all awesome tools for iranian people
 * 【2024-10-21】[AZeC4 / TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 * 【2024-10-20】[cyberspacedk / Git-commands](https://github.com/cyberspacedk/Git-commands) - Шпаргалка по консольным командам Git
