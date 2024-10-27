@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-10-27】[asterinas / asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 * 【2024-10-26】[dittofeed / dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 * 【2024-10-26】[vfsfitvnm / ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 * 【2024-10-23】[chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
@@ -1992,6 +1993,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-10-27】[Netflix / metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 * 【2024-10-26】[sergree / matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 * 【2024-10-26】[pyvista / pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 * 【2024-10-25】[DeepLabCut / DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans
@@ -4150,6 +4152,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-10-27】[diggerhq / digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
+* 【2024-10-27】[thomaspoignant / go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 * 【2024-10-26】[hacdias / webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
 * 【2024-10-22】[lucaslorentz / caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 * 【2024-10-19】[GreenmaskIO / greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool
@@ -5025,6 +5029,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-10-27】[lwip-tcpip / lwip](https://github.com/lwip-tcpip/lwip) - lwIP mirror from http://git.savannah.gnu.org/cgit/lwip.git
 * 【2024-10-25】[HDFGroup / hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
 * 【2024-10-25】[jordansissel / xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 * 【2024-10-23】[samtools / bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools. See installation instructions and other documentation here http://samtools.github.io/bcftools/howtos/install.html
@@ -7283,6 +7288,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-10-27】[openfoodfacts / openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) - Open Food Facts database, API server and web interface - 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy-editor
 * 【2024-10-26】[ANSHIKA-26 / WordWise](https://github.com/ANSHIKA-26/WordWise) - Blogging website
 * 【2024-10-22】[vishanurag / Canvas-Editor](https://github.com/vishanurag/Canvas-Editor) - This is a simple web project that is made with an aim to learn about canvas element of html. Now, this project is open to all of the amazing contributors.
 * 【2024-10-22】[hugo-fixit / FixIt](https://github.com/hugo-fixit/FixIt) - 🔧 A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
@@ -8696,6 +8702,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-10-27】[FUE5BASE / FUE5](https://github.com/FUE5BASE/FUE5) - FUE5 is a fan-made project with the goal to see what would Factorio look like and behave in 3D. This project has no affiliation with the official Factorio game.
 * 【2024-10-26】[yujiangshui / A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 ->
 * 【2024-10-24】[potatoqualitee / eol-dr](https://github.com/potatoqualitee/eol-dr) - A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
 * 【2024-10-23】[Cryakl / Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, samples of 400+ classic/modern trojan builders including screenshots.
