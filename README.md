@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-10-31】[Spooks4576 / Ghost_ESP](https://github.com/Spooks4576/Ghost_ESP) - Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect
 * 【2024-10-30】[naver / mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
 * 【2024-10-29】[ai16z / eliza](https://github.com/ai16z/eliza) - Conversational Agent for Twitter and Discord
 * 【2024-10-27】[asterinas / asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
@@ -1260,6 +1261,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-10-31】[qaiu / netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等. 预览地址 https://lz.qaiu.top
 * 【2024-10-30】[EnterpriseQualityCoding / FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 * 【2024-10-29】[CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 * 【2024-10-25】[eclipse-jdtls / eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
@@ -3241,6 +3243,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-10-31】[poloclub / transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
+* 【2024-10-31】[medic / cht-core](https://github.com/medic/cht-core) - The CHT Core Framework makes it faster to build responsive, offline-first digital health apps that equip health workers to provide better care in their communities. It is a central resource of the Community Health Toolkit.
 * 【2024-10-30】[vogler / free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 * 【2024-10-28】[dotnet / eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
 * 【2024-10-28】[FilipePS / Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
@@ -5045,6 +5049,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-10-31】[imbushuo / mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
+* 【2024-10-31】[unikraft / unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 * 【2024-10-29】[eadmaster / pcrown](https://github.com/eadmaster/pcrown) - Princess Crown Translation Project Unofficial Redux
 * 【2024-10-27】[lwip-tcpip / lwip](https://github.com/lwip-tcpip/lwip) - lwIP mirror from http://git.savannah.gnu.org/cgit/lwip.git
 * 【2024-10-25】[HDFGroup / hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
@@ -6551,6 +6557,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-10-31】[frankodoom / CountryData.Net](https://github.com/frankodoom/CountryData.Net) - An offline crossplatform .NET library for getting Global Country , iso3166 Short-code and Region Data
 * 【2024-10-23】[Suprcode / Crystal](https://github.com/Suprcode/Crystal) - Legend of Mir 2 - Official Public Crystal Source
 * 【2024-10-22】[codeproject / CodeProject.AI-Server](https://github.com/codeproject/CodeProject.AI-Server) - CodeProject.AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI.
 * 【2024-10-22】[Macro-Deck-App / Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamlessly with just a single tap.
