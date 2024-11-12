@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-11-12】[vercel / ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 * 【2024-11-10】[payloadcms / payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 * 【2024-11-08】[zmh-program / chatnio](https://github.com/zmh-program/chatnio) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
 * 【2024-11-04】[DS4SD / docling](https://github.com/DS4SD/docling) - Get your docs ready for gen AI
@@ -1270,6 +1271,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-11-12】[Dar9586 / NClientV2](https://github.com/Dar9586/NClientV2) - An unofficial NHentai android client
 * 【2024-11-10】[opensource4you / astraea](https://github.com/opensource4you/astraea) - 釋放kafka的無限潛能
 * 【2024-11-06】[TNG / ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java
 * 【2024-11-06】[AnyLifeZLB / FaceVerificationSDK](https://github.com/AnyLifeZLB/FaceVerificationSDK) - Android On_device 1:1 Face Recognition And Alive Detect；1:N & M:N Face Search SDK 。 🧒 离线版设备端Android1:1人脸识别动作活体检测，静默活体检测 以及1:N M:N 人脸搜索 SDK 封装
@@ -2012,6 +2014,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-11-12】[darrenburns / posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 * 【2024-11-10】[letta-ai / letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
 * 【2024-11-10】[google-gemini / generative-ai-python](https://github.com/google-gemini/generative-ai-python) - The official Python library for the Google Gemini API
 * 【2024-11-08】[Shpota / github-activity-generator](https://github.com/Shpota/github-activity-generator) - A script that helps generate a rich GitHub Contribution Graph for your account 🤖
@@ -4189,6 +4192,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-11-12】[JohannesKaufmann / html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 * 【2024-11-04】[MightyMoud / sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 * 【2024-11-03】[hashicorp / go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 * 【2024-10-30】[gonum / gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
@@ -5826,6 +5830,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-11-12】[NASA-SW-VnV / ikos](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
 * 【2024-11-10】[ComodoSecurity / openedr](https://github.com/ComodoSecurity/openedr) - Open EDR public repository
 * 【2024-11-08】[UniversalRobots / Universal_Robots_ROS2_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - Universal Robots ROS2 driver supporting CB3 and e-Series
 * 【2024-11-06】[lailongwei / llbc](https://github.com/lailongwei/llbc) - 一个简洁、高效、跨平台、多语言支持的服务端开发框架，面向Service及Component，底层c++实现。
@@ -6588,6 +6593,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-11-12】[countincognito / Zametek.ProjectPlan](https://github.com/countincognito/Zametek.ProjectPlan) - A basic desktop alternative to Microsoft Project to help automate project design.
 * 【2024-11-06】[dotnet / SqlClient](https://github.com/dotnet/SqlClient) - Microsoft.Data.SqlClient provides database connectivity to SQL Server for .NET applications.
 * 【2024-11-06】[dotnetcore / BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) - Bootstrap Blazor is an enterprise-level UI component library based on Bootstrap and Blazor.
 * 【2024-11-04】[angularsen / UnitsNet](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
