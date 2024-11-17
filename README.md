@@ -2024,6 +2024,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-11-17】[fixie-ai / ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
+* 【2024-11-17】[apache / polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg
 * 【2024-11-16】[g0ldyy / comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add-on.
 * 【2024-11-15】[aigc-apps / EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 📺 An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion
 * 【2024-11-13】[confident-ai / deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
@@ -4210,6 +4212,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-11-17】[ethereum-optimism / supersim](https://github.com/ethereum-optimism/supersim) - Local Multi-L2 Development Environment
 * 【2024-11-16】[openai / openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
 * 【2024-11-16】[telepresenceio / telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 * 【2024-11-12】[JohannesKaufmann / html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
@@ -5853,6 +5856,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-11-17】[daijro / camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
+* 【2024-11-17】[microsoft / BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 * 【2024-11-16】[cra-ros-pkg / robot_localization](https://github.com/cra-ros-pkg/robot_localization) - robot_localization is a package of nonlinear state estimation nodes. The package was developed by Charles River Analytics, Inc. Please ask questions on answers.ros.org.
 * 【2024-11-13】[lava / matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 * 【2024-11-12】[NASA-SW-VnV / ikos](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
@@ -7384,6 +7389,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2024-11-17】[Blobby-Boi / ExtHang3r](https://github.com/Blobby-Boi/ExtHang3r) - An exploit that allows ChromeOS users to kill extensions after the LTMEAT patch.
 * 【2024-11-08】[github / training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 * 【2024-11-04】[department-of-veterans-affairs / vets-design-system-documentation](https://github.com/department-of-veterans-affairs/vets-design-system-documentation) - Repository for design.va.gov website
 * 【2024-11-03】[w3c / wcag](https://github.com/w3c/wcag) - Web Content Accessibility Guidelines
@@ -8806,6 +8812,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-11-17】[0x90n / InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 * 【2024-11-16】[langchain-ai / langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally.
 * 【2024-11-16】[trungdq88 / Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
 * 【2024-11-16】[izackwu / TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS
