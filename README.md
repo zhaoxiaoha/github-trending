@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-11-19】[olimorris / codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs
 * 【2024-11-18】[epasveer / seer](https://github.com/epasveer/seer) - Seer - a gui frontend to gdb
 * 【2024-11-18】[docusealco / docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 * 【2024-11-16】[bluesky-social / pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
@@ -2026,6 +2027,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-11-19】[openwrt-xiaomi / xmir-patcher](https://github.com/openwrt-xiaomi/xmir-patcher) - Firmware patcher for Xiaomi routers
+* 【2024-11-19】[pyro-ppl / numpyro](https://github.com/pyro-ppl/numpyro) - Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU.
+* 【2024-11-19】[PaddlePaddle / PaddleRS](https://github.com/PaddlePaddle/PaddleRS) - Awesome Remote Sensing Toolkit based on PaddlePaddle.
 * 【2024-11-18】[NexaAI / nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Nexa SDK is a comprehensive toolkit for supporting ONNX and GGML models. It supports text generation, image generation, vision-language models (VLM), auto-speech-recognition (ASR), and text-to-speech (TTS) capabilities.
 * 【2024-11-18】[NVIDIA / garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 * 【2024-11-17】[fixie-ai / ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
@@ -3285,6 +3289,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-11-19】[metowolf / vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 * 【2024-11-16】[lucahammer / tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
 * 【2024-11-15】[InternLM / MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 * 【2024-11-13】[qeeqbox / social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
@@ -5105,6 +5110,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-11-19】[libsndfile / libsndfile](https://github.com/libsndfile/libsndfile) - A C library for reading and writing sound files containing sampled audio data.
+* 【2024-11-19】[mpc-hc / mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository. For support use our Trac: https://trac.mpc-hc.org/
 * 【2024-11-18】[AdAway / AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 * 【2024-11-16】[soedinglab / MMseqs2](https://github.com/soedinglab/MMseqs2) - MMseqs2: ultra fast and sensitive search and clustering suite
 * 【2024-11-15】[eclipse-mosquitto / mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
@@ -5863,6 +5870,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-11-19】[crawl / crawl](https://github.com/crawl/crawl) - Dungeon Crawl: Stone Soup official repository
 * 【2024-11-18】[ValveSoftware / source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
 * 【2024-11-18】[kth-competitive-programming / kactl](https://github.com/kth-competitive-programming/kactl) - KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)
 * 【2024-11-18】[nillerusr / source-engine](https://github.com/nillerusr/source-engine) - Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses
@@ -6633,6 +6641,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-11-19】[ncalc / ncalc](https://github.com/ncalc/ncalc) - NCalc is a fast and lightweight expression evaluator library for .NET, designed for flexibility and high performance. It supports a wide range of mathematical and logical operations.
 * 【2024-11-18】[PunishXIV / Artisan](https://github.com/PunishXIV/Artisan) - A 'simple' crafting plugin.
 * 【2024-11-15】[CommunityToolkit / Aspire](https://github.com/CommunityToolkit/Aspire) - A community project with additional components and extensions for .NET Aspire
 * 【2024-11-12】[countincognito / Zametek.ProjectPlan](https://github.com/countincognito/Zametek.ProjectPlan) - A basic desktop alternative to Microsoft Project to help automate project design.
@@ -8069,6 +8078,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-11-19】[Anonym-tsk / nfqws-keenetic](https://github.com/Anonym-tsk/nfqws-keenetic) - 
 * 【2024-11-18】[nisarhassan12 / portfolio-template](https://github.com/nisarhassan12/portfolio-template) - A beautiful minimal and accessible portfolio template for Developers. Give it a star 🌟 if you find it useful.
 * 【2024-11-10】[primefaces / primevue-examples](https://github.com/primefaces/primevue-examples) - PrimeVue Example Projects
 * 【2024-11-08】[GameGodS3 / DropPoint](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows
@@ -8824,6 +8834,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-11-19】[CSS-Next / css-next](https://github.com/CSS-Next/css-next) - Admin repo for meetings, charter, and action items for the CSS-Next community group, a part of the w3c.
 * 【2024-11-18】[fishttp / awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 * 【2024-11-17】[0x90n / InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 * 【2024-11-16】[langchain-ai / langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally.
