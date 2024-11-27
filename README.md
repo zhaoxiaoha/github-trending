@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-11-27】[ant-design / x](https://github.com/ant-design/x) - Craft AI-driven interfaces effortlessly 🤖
 * 【2024-11-25】[pingcap / autoflow](https://github.com/pingcap/autoflow) - pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai
 * 【2024-11-25】[surrealdb / surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 * 【2024-11-24】[black-forest-labs / flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
@@ -2040,6 +2041,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-11-27】[canonical / cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
+* 【2024-11-27】[microsoft / playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+* 【2024-11-27】[cvg / LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
 * 【2024-11-26】[Guovin / IPTV](https://github.com/Guovin/IPTV) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool
 * 【2024-11-26】[Bambu-Research-Group / RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags
 * 【2024-11-23】[encode / starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
@@ -4247,6 +4251,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-11-27】[sqshq / sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 * 【2024-11-26】[bluesky-social / indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services.
 * 【2024-11-21】[hugomd / ascii-live](https://github.com/hugomd/ascii-live) - An extension to parrot.live, with support for more animations! http://ascii.live
 * 【2024-11-18】[adonovan / gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
@@ -5138,6 +5143,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2024-11-27】[phpredis / phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
+* 【2024-11-27】[FreeRADIUS / freeradius-server](https://github.com/FreeRADIUS/freeradius-server) - FreeRADIUS - A multi-protocol policy server.
 * 【2024-11-26】[Ysurac / openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 * 【2024-11-25】[apache / cloudberry](https://github.com/apache/cloudberry) - One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.
 * 【2024-11-24】[quickjs-ng / quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
@@ -5904,6 +5911,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-11-27】[mitsuba-renderer / mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
 * 【2024-11-24】[rl-tools / rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library
 * 【2024-11-22】[NVIDIA / cuda-quantum](https://github.com/NVIDIA/cuda-quantum) - C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows
 * 【2024-11-20】[fritzing / fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
@@ -8880,6 +8888,8 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-11-27】[futurice / ios-good-practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers.
+* 【2024-11-27】[ONLYOFFICE / DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
 * 【2024-11-24】[deepseek-ai / DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 * 【2024-11-23】[svcvit / Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 * 【2024-11-19】[CSS-Next / css-next](https://github.com/CSS-Next/css-next) - Admin repo for meetings, charter, and action items for the CSS-Next community group, a part of the w3c.
