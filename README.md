@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-12-03】[anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
+* 【2024-12-03】[leptos-rs / leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 * 【2024-12-02】[epicweb-dev / epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
 * 【2024-12-02】[itzg / docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
 * 【2024-12-02】[moshstudio / TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
@@ -1300,6 +1302,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-12-03】[xoureldeen / Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
+* 【2024-12-03】[webbukkit / dynmap](https://github.com/webbukkit/dynmap) - A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations.
 * 【2024-12-01】[react-native-webrtc / react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native
 * 【2024-11-30】[freeplane / freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 * 【2024-11-30】[react-native-share / react-native-share](https://github.com/react-native-share/react-native-share) - Social share, sending simple data to other apps.
@@ -2054,6 +2058,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-12-03】[superlinear-ai / raglite](https://github.com/superlinear-ai/raglite) - 🥤 RAGLite is a Python toolkit for Retrieval-Augmented Generation (RAG) with PostgreSQL or SQLite
+* 【2024-12-03】[lllyasviel / ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 * 【2024-12-02】[Agenta-AI / agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place.
 * 【2024-12-02】[t41372 / Open-LLM-VTuber](https://github.com/t41372/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, Live2D taking face, and long-term memory running locally across platforms
 * 【2024-12-02】[gaogaotiantian / viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
@@ -5941,6 +5947,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-12-03】[jpudysz / react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
 * 【2024-12-01】[LANDrop / LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 * 【2024-12-01】[elalish / manifold](https://github.com/elalish/manifold) - Geometry library for topological robustness
 * 【2024-12-01】[ninja-build / ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
@@ -8927,6 +8934,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2024-12-03】[skills / copilot-codespaces-vscode](https://github.com/skills/copilot-codespaces-vscode) - Develop with AI-powered code suggestions using GitHub Copilot and VS Code
 * 【2024-12-02】[Bogdanp / awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
 * 【2024-12-01】[NeoVertex1 / SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 * 【2024-11-29】[skills / github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
