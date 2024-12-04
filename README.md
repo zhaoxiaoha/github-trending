@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2024-12-04】[vercel / next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code
 * 【2024-12-03】[anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 * 【2024-12-03】[leptos-rs / leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 * 【2024-12-02】[epicweb-dev / epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
@@ -3344,6 +3345,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-12-04】[up-for-grabs / up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!
 * 【2024-12-01】[xanderfrangos / twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 * 【2024-11-30】[besuper / TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
 * 【2024-11-30】[copy / v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
