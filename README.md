@@ -1309,6 +1309,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-12-09】[magefree / mage](https://github.com/magefree/mage) - Magic Another Game Engine
+* 【2024-12-09】[NEZNAMY / TAB](https://github.com/NEZNAMY/TAB) - "That" TAB plugin.
 * 【2024-12-03】[xoureldeen / Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2024-12-03】[webbukkit / dynmap](https://github.com/webbukkit/dynmap) - A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations.
 * 【2024-12-01】[react-native-webrtc / react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native
@@ -4299,6 +4301,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-12-09】[go-pay / gopay](https://github.com/go-pay/gopay) - 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 * 【2024-12-06】[dgraph-io / badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 * 【2024-12-05】[ddev / ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 * 【2024-12-02】[sysadminsmedia / homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
@@ -5970,6 +5973,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-12-09】[ares-emulator / ares](https://github.com/ares-emulator/ares) - ares is a cross-platform, open source, multi-system emulator, focusing on accuracy and preservation.
 * 【2024-12-05】[shadps4-emu / shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 * 【2024-12-05】[wuye9036 / CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
 * 【2024-12-03】[jpudysz / react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
