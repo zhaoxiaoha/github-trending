@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2024-12-24】[malmeloo / FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
+* 【2024-12-24】[rivet-gg / rivet](https://github.com/rivet-gg/rivet) - 🔩 Run and scale realtime applications with Rivet Actors.
 * 【2024-12-23】[bytedance / monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System
 * 【2024-12-23】[browserbase / stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
 * 【2024-12-22】[apankrat / nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
@@ -1340,6 +1342,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2024-12-24】[mekanism / Mekanism](https://github.com/mekanism/Mekanism) - A mod for Minecraft
 * 【2024-12-23】[etianl / Trouser-Streak](https://github.com/etianl/Trouser-Streak) - A compilation of modules optimized for maximum grief. Featuring powerful mods & exploits for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Check the Github for credits and updates!
 * 【2024-12-16】[opentripplanner / OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - An open source multi-modal trip planner
 * 【2024-12-16】[ssssssss-team / spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
@@ -2105,6 +2108,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-12-24】[AgentOps-AI / AgentStack](https://github.com/AgentOps-AI/AgentStack) - The fastest way to build robust AI agents
 * 【2024-12-23】[haosulab / ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, a open source GPU parallelized robotics simulator and benchmark, led by Hillbot, Inc.
 * 【2024-12-23】[codelion / optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
 * 【2024-12-22】[AnswerDotAI / ModernBERT](https://github.com/AnswerDotAI/ModernBERT) - Bringing BERT into modernity via both architecture changes and scaling
@@ -4372,6 +4376,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-12-24】[future-architect / vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+* 【2024-12-24】[bbernhard / signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 * 【2024-12-23】[eatmoreapple / openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
 * 【2024-12-22】[charmbracelet / lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 * 【2024-12-20】[mailru / easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
@@ -6060,6 +6066,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-12-24】[ClassicOldSong / Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork
+* 【2024-12-24】[mdias / rs_asio](https://github.com/mdias/rs_asio) - ASIO for Rocksmith 2014
+* 【2024-12-24】[cifertech / nRFBox](https://github.com/cifertech/nRFBox) - All-in-One Gadget for Dominating BLE and 2.4GHz Networks
 * 【2024-12-22】[randombit / botan](https://github.com/randombit/botan) - Cryptography Toolkit
 * 【2024-12-22】[LuisaGroup / LuisaCompute](https://github.com/LuisaGroup/LuisaCompute) - High-Performance Rendering Framework on Stream Architectures
 * 【2024-12-19】[dillongoostudios / goo-engine](https://github.com/dillongoostudios/goo-engine) - Custom build of blender with some extra NPR features.
@@ -6854,6 +6863,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2024-12-24】[dotnet / ClangSharp](https://github.com/dotnet/ClangSharp) - Clang bindings for .NET written in C#
 * 【2024-12-21】[getsentry / sentry-dotnet](https://github.com/getsentry/sentry-dotnet) - Sentry SDK for .NET
 * 【2024-12-19】[dotnet / Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) - Open XML SDK by Microsoft
 * 【2024-12-18】[dotnet / docker-tools](https://github.com/dotnet/docker-tools) - This is a repo to house some common tools for our various docker repos.
