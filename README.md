@@ -2108,6 +2108,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-12-25】[princeton-vl / infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
 * 【2024-12-24】[AgentOps-AI / AgentStack](https://github.com/AgentOps-AI/AgentStack) - The fastest way to build robust AI agents
 * 【2024-12-23】[haosulab / ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, a open source GPU parallelized robotics simulator and benchmark, led by Hillbot, Inc.
 * 【2024-12-23】[codelion / optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
@@ -8328,6 +8329,8 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2024-12-25】[jd-opensource / micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
+* 【2024-12-25】[CTalvio / Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga!
 * 【2024-12-18】[leptos-rs / book](https://github.com/leptos-rs/book) - The home for the Leptos book, which can be found deployed at https://book.leptos.dev
 * 【2024-12-16】[SpaceTheme / Steam](https://github.com/SpaceTheme/Steam) - SpaceTheme for Steam
 * 【2024-12-14】[avinash201199 / Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates) - Collection of free courses with certificates
