@@ -2111,6 +2111,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2024-12-27】[freqtrade / freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
+* 【2024-12-27】[lipku / LiveTalking](https://github.com/lipku/LiveTalking) - Real time interactive streaming digital human
 * 【2024-12-25】[princeton-vl / infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
 * 【2024-12-24】[AgentOps-AI / AgentStack](https://github.com/AgentOps-AI/AgentStack) - The fastest way to build robust AI agents
 * 【2024-12-23】[haosulab / ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, a open source GPU parallelized robotics simulator and benchmark, led by Hillbot, Inc.
@@ -3428,6 +3430,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2024-12-27】[moshang-ax / lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
 * 【2024-12-23】[violentmonkey / violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 * 【2024-12-21】[huggingface / transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
 * 【2024-12-19】[dbt-labs / docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com) - The code behind docs.getdbt.com
@@ -4380,6 +4383,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2024-12-27】[Mikaelemmmm / go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - 🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
 * 【2024-12-24】[future-architect / vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 * 【2024-12-24】[bbernhard / signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 * 【2024-12-23】[eatmoreapple / openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
@@ -6071,6 +6075,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-12-27】[HKUST-Aerial-Robotics / VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - An optimization-based multi-sensor state estimator
 * 【2024-12-24】[ClassicOldSong / Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork
 * 【2024-12-24】[mdias / rs_asio](https://github.com/mdias/rs_asio) - ASIO for Rocksmith 2014
 * 【2024-12-24】[cifertech / nRFBox](https://github.com/cifertech/nRFBox) - All-in-One Gadget for Dominating BLE and 2.4GHz Networks
