@@ -2117,6 +2117,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-01-02】[facebookresearch / Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
 * 【2025-01-01】[neuraloperator / neuraloperator](https://github.com/neuraloperator/neuraloperator) - Learning in infinite dimension with neural operators.
 * 【2024-12-30】[bottlesdevs / Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 * 【2024-12-30】[jingyaogong / minimind](https://github.com/jingyaogong/minimind) - 「大模型」3小时完全从0训练26M的小参数GPT，个人显卡即可推理训练！
@@ -3441,6 +3442,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-01-02】[GoogleChrome / workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 * 【2024-12-31】[NARKOZ / hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 * 【2024-12-31】[notwaldorf / emoji-translate](https://github.com/notwaldorf/emoji-translate) - 📚 Translate text to ✨emoji ✨!
 * 【2024-12-30】[amarullz / AnimeTV](https://github.com/amarullz/AnimeTV) - Watch Anime in Your AndroidTV
@@ -4401,6 +4403,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-01-02】[tnb-labs / panel](https://github.com/tnb-labs/panel) - 企业级服务器运维管理面板。简单轻量，高效运维。
 * 【2024-12-30】[cadence-workflow / cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 * 【2024-12-30】[prysmaticlabs / prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of Ethereum proof of stake
 * 【2024-12-30】[qdm12 / ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
@@ -6903,6 +6906,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-01-02】[NoelFB / Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
+* 【2025-01-02】[neo-project / neo](https://github.com/neo-project/neo) - NEO Smart Economy
 * 【2025-01-01】[tylercamp / palcalc](https://github.com/tylercamp/palcalc) - 
 * 【2024-12-30】[msasanmh / DNSveil](https://github.com/msasanmh/DNSveil) - A DNS Client Supporting DNSCrypt, Anonymized DNSCrypt, DoH, DoT, UDP And TCP.
 * 【2024-12-29】[indiff / qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer. https://www.yuque.com/indiff/qttabbar
