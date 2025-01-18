@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2025-01-18】[metabase / metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
 * 【2025-01-17】[pixelfed / pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 * 【2025-01-16】[spree / spree](https://github.com/spree/spree) - An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev
 * 【2025-01-14】[JoshuaC215 / agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
@@ -8473,6 +8474,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-01-18】[felix-bohlin / ui](https://github.com/felix-bohlin/ui) - A modern, cutting edge UI library. So modern you might need browser feature flags enabled. Designed to suit professional teams as well as tinkering hobbyists.
 * 【2025-01-13】[athul / archie](https://github.com/athul/archie) - A minimal Hugo Theme
 * 【2025-01-08】[remy / mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
 * 【2025-01-07】[LunaPixelStudios / Better-MC](https://github.com/LunaPixelStudios/Better-MC) - https://lunapixel.studio/discord
