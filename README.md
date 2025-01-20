@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2025-01-20】[frappe / helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software
+* 【2025-01-20】[emcie-co / parlant](https://github.com/emcie-co/parlant) - The behavior guidance framework for customer-facing LLM agents
+* 【2025-01-20】[echasnovski / mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 * 【2025-01-19】[unionlabs / union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 * 【2025-01-19】[linuxserver / docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 * 【2025-01-18】[metabase / metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
@@ -1373,6 +1376,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-01-20】[oliexdev / openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
+* 【2025-01-20】[PhotonVision / photonvision](https://github.com/PhotonVision/photonvision) - PhotonVision is the free, fast, and easy-to-use computer vision solution for the FIRST Robotics Competition.
+* 【2025-01-20】[AsamK / signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 * 【2025-01-19】[scottyab / rootbeer](https://github.com/scottyab/rootbeer) - Simple to use root checking Android library and sample app
 * 【2025-01-13】[Gedsh / InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 * 【2025-01-13】[chainbase-labs / manuscript-core](https://github.com/chainbase-labs/manuscript-core) - 
@@ -2147,6 +2153,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-01-20】[jxxghp / MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
 * 【2025-01-19】[databrickslabs / dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames
 * 【2025-01-19】[AutoGPTQ / AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
 * 【2025-01-19】[ArchipelagoMW / Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
@@ -3493,6 +3500,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-01-20】[bluewave-labs / Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 * 【2025-01-19】[tengbao / vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 * 【2025-01-17】[pixelfed / pixelfed-rn](https://github.com/pixelfed/pixelfed-rn) - Pixelfed mobile app
 * 【2025-01-15】[i-am-shodan / USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
@@ -4463,6 +4471,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-01-20】[stonith404 / pocket-id](https://github.com/stonith404/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+* 【2025-01-20】[harvester / harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
+* 【2025-01-20】[koho / frpmgr](https://github.com/koho/frpmgr) - Windows 平台的 FRP GUI 客户端 / A user-friendly desktop GUI client for FRP on Windows.
 * 【2025-01-19】[aquasecurity / tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 * 【2025-01-14】[yusing / go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration
 * 【2025-01-13】[dlvhdr / gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -5387,6 +5398,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-01-20】[YTEC-info / CH341A-Softwares](https://github.com/YTEC-info/CH341A-Softwares) - CH341A Softwares (Windows, Linux, Mac and Android)
 * 【2025-01-15】[atc1441 / ATC_MiThermometer](https://github.com/atc1441/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter
 * 【2025-01-11】[riscv-software-src / opensbi](https://github.com/riscv-software-src/opensbi) - RISC-V Open Source Supervisor Binary Interface
 * 【2025-01-09】[ericstoneking / 42](https://github.com/ericstoneking/42) - Simulation for spacecraft attitude control system analysis and design
@@ -6185,6 +6197,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-01-20】[WiseLibs / better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
+* 【2025-01-20】[LeelaChessZero / lc0](https://github.com/LeelaChessZero/lc0) - The rewritten engine, originally for tensorflow. Now all other backends have been ported here.
+* 【2025-01-20】[aliyun / SimAI](https://github.com/aliyun/SimAI) - 
 * 【2025-01-17】[GuijiAI / duix.ai](https://github.com/GuijiAI/duix.ai) - 
 * 【2025-01-17】[windirstat / windirstat](https://github.com/windirstat/windirstat) - WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows
 * 【2025-01-14】[jank-lang / jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM
@@ -6994,6 +7009,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-01-20】[builtbybel / Flyby11](https://github.com/builtbybel/Flyby11) - Windows 11 Upgrading Assistant
 * 【2025-01-17】[shouldly / shouldly](https://github.com/shouldly/shouldly) - Should testing for .NET—the way assertions should be!
 * 【2025-01-17】[googlesamples / unity-jar-resolver](https://github.com/googlesamples/unity-jar-resolver) - Unity plugin which resolves Android & iOS dependencies and performs version management
 * 【2025-01-16】[fluentassertions / fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
@@ -7791,6 +7807,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-01-20】[xlang-ai / Spider2](https://github.com/xlang-ai/Spider2) - Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows
 * 【2025-01-19】[platzi / git-github](https://github.com/platzi/git-github) - Repositorio del Curso de Git y GitHub
 * 【2025-01-17】[Born2Root / Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
 * 【2025-01-15】[IBM / data-prep-kit](https://github.com/IBM/data-prep-kit) - Open source project for data preparation of LLM application builders
@@ -9258,6 +9275,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-01-20】[Bo0oM / fuzz.txt](https://github.com/Bo0oM/fuzz.txt) - Potentially dangerous files
 * 【2025-01-19】[sger / RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 * 【2025-01-17】[GAIR-NLP / O1-Journey](https://github.com/GAIR-NLP/O1-Journey) - O1 Replication Journey
 * 【2025-01-14】[morrownr / USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
