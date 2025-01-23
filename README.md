@@ -1377,6 +1377,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-01-23】[OpenLiberty / open-liberty](https://github.com/OpenLiberty/open-liberty) - Open Liberty is a highly composable, fast to start, dynamic application server runtime environment
 * 【2025-01-21】[apache / ozone](https://github.com/apache/ozone) - Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.
 * 【2025-01-20】[oliexdev / openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 * 【2025-01-20】[PhotonVision / photonvision](https://github.com/PhotonVision/photonvision) - PhotonVision is the free, fast, and easy-to-use computer vision solution for the FIRST Robotics Competition.
@@ -3504,6 +3505,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-01-23】[koaning / drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Jupyter.
 * 【2025-01-21】[jesse-ai / jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 * 【2025-01-20】[bluewave-labs / Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 * 【2025-01-19】[tengbao / vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
@@ -5404,6 +5406,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-01-23】[oxters168 / Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android
 * 【2025-01-22】[nuta / operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
 * 【2025-01-22】[am32-firmware / AM32](https://github.com/am32-firmware/AM32) - 
 * 【2025-01-21】[i486 / VxKex](https://github.com/i486/VxKex) - Windows 7 API Extensions
@@ -6208,6 +6211,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-01-23】[moudey / Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 * 【2025-01-22】[borglab / gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
 * 【2025-01-21】[TDesktop-x64 / tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
 * 【2025-01-20】[WiseLibs / better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
@@ -7022,6 +7026,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-01-23】[dnnsoftware / Dnn.Platform](https://github.com/dnnsoftware/Dnn.Platform) - DNN (formerly DotNetNuke) is the leading open source web content management platform (CMS) in the Microsoft ecosystem.
 * 【2025-01-22】[odedshimon / BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
 * 【2025-01-20】[builtbybel / Flyby11](https://github.com/builtbybel/Flyby11) - Windows 11 Upgrading Assistant
 * 【2025-01-17】[shouldly / shouldly](https://github.com/shouldly/shouldly) - Should testing for .NET—the way assertions should be!
@@ -8515,6 +8520,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-01-23】[mecha-org / mecha-docs](https://github.com/mecha-org/mecha-docs) - Open Docs for Mecha Stack
 * 【2025-01-19】[tkashkin / Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam) - A skin to make Steam look more like a native GNOME app
 * 【2025-01-18】[felix-bohlin / ui](https://github.com/felix-bohlin/ui) - A modern, cutting edge UI library. So modern you might need browser feature flags enabled. Designed to suit professional teams as well as tinkering hobbyists.
 * 【2025-01-13】[athul / archie](https://github.com/athul/archie) - A minimal Hugo Theme
