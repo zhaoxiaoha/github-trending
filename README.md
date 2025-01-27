@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2025-01-27】[onlook-dev / onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
 * 【2025-01-26】[lightpanda-io / browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 * 【2025-01-26】[nextjs / saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 * 【2025-01-26】[yassinebenaid / bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
@@ -1382,6 +1383,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-01-27】[PurpurMC / Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
 * 【2025-01-26】[aeron-io / aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 * 【2025-01-23】[OpenLiberty / open-liberty](https://github.com/OpenLiberty/open-liberty) - Open Liberty is a highly composable, fast to start, dynamic application server runtime environment
 * 【2025-01-21】[apache / ozone](https://github.com/apache/ozone) - Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.
@@ -5422,6 +5424,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-01-27】[da-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 * 【2025-01-26】[RealNeGate / Cuik](https://github.com/RealNeGate/Cuik) - A Modern C11 compiler (STILL EARLY)
 * 【2025-01-26】[RMerl / asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 * 【2025-01-23】[oxters168 / Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android
@@ -7846,6 +7849,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-01-27】[hanwenguo / hugo-theme-nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease) - a (nearly) no-CSS, fast, minimalist Hugo theme ported from riggraz/no-style-please.
 * 【2025-01-26】[18F / handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS.
 * 【2025-01-26】[valiantlynx / ollama-docker](https://github.com/valiantlynx/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
 * 【2025-01-22】[OCA / pos](https://github.com/OCA/pos) - 
@@ -8542,6 +8546,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-01-27】[sakofchit / system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
 * 【2025-01-23】[mecha-org / mecha-docs](https://github.com/mecha-org/mecha-docs) - Open Docs for Mecha Stack
 * 【2025-01-19】[tkashkin / Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam) - A skin to make Steam look more like a native GNOME app
 * 【2025-01-18】[felix-bohlin / ui](https://github.com/felix-bohlin/ui) - A modern, cutting edge UI library. So modern you might need browser feature flags enabled. Designed to suit professional teams as well as tinkering hobbyists.
