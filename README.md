@@ -1383,6 +1383,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-01-28】[anonfaded / FadCam](https://github.com/anonfaded/FadCam) - Seamless background video recorder for Android – ad-free and open-source, with customizable options.
 * 【2025-01-27】[PurpurMC / Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
 * 【2025-01-26】[aeron-io / aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 * 【2025-01-23】[OpenLiberty / open-liberty](https://github.com/OpenLiberty/open-liberty) - Open Liberty is a highly composable, fast to start, dynamic application server runtime environment
@@ -3517,6 +3518,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-01-28】[IQEngine / WebFFT](https://github.com/IQEngine/WebFFT) - The Fastest Fourier Transform on the Web!
+* 【2025-01-28】[bosichong / PrimarySchoolMathematics](https://github.com/bosichong/PrimarySchoolMathematics) - 孩子上小学一年级了，加减乘除的口算就要开始练习了，估计老师肯定会让家长出题，所以提前准备一下，利用Python开发了一套自动生成小学生口算题的小应用。而且今天是程序员节，撸200行代码庆祝一下。：）
 * 【2025-01-26】[XRPLF / xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal) - Source code for xrpl.org including developer documentation
 * 【2025-01-24】[hotwired / turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 * 【2025-01-23】[koaning / drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Jupyter.
@@ -4492,6 +4495,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-01-28】[nevalang / neva](https://github.com/nevalang/neva) - 🌊 Next-generation programming language that solves programmers' problems
+* 【2025-01-28】[garethgeorge / backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 * 【2025-01-26】[mk6i / retro-aim-server](https://github.com/mk6i/retro-aim-server) - Open-source instant messaging server that makes classic AIM and ICQ clients work again.
 * 【2025-01-26】[cubefs / cubefs](https://github.com/cubefs/cubefs) - cloud-native distributed storage
 * 【2025-01-26】[putyy / res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
@@ -5424,6 +5429,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-01-28】[xiph / opus](https://github.com/xiph/opus) - Modern audio compression for the internet.
 * 【2025-01-27】[da-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 * 【2025-01-26】[RealNeGate / Cuik](https://github.com/RealNeGate/Cuik) - A Modern C11 compiler (STILL EARLY)
 * 【2025-01-26】[RMerl / asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
@@ -6232,6 +6238,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-01-28】[cdozdil / OptiScaler](https://github.com/cdozdil/OptiScaler) - OptiScaler is middleware that enables various upscaling technologies in DLSS2-only games. It allows non-Nvidia users to use upscaling by applying DLSS2 inputs to XeSS, FSR2, or FSR3.
 * 【2025-01-23】[moudey / Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 * 【2025-01-22】[borglab / gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
 * 【2025-01-21】[TDesktop-x64 / tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
@@ -7047,6 +7054,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-01-28】[AutoDarkMode / Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 * 【2025-01-26】[ivanpaulovich / clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - 🌀 Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 * 【2025-01-26】[NYAN-x-CAT / AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) - Open-Source Remote Administration Tool For Windows C# (RAT)
 * 【2025-01-23】[dnnsoftware / Dnn.Platform](https://github.com/dnnsoftware/Dnn.Platform) - DNN (formerly DotNetNuke) is the leading open source web content management platform (CMS) in the Microsoft ecosystem.
@@ -9323,6 +9331,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-01-28】[Eltirosto / Degrees-of-Lewdity-Chinese-Localization](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization) - Degrees of Lewdity 游戏的授权中文社区本地化版本
 * 【2025-01-26】[jlopp / physical-bitcoin-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.
 * 【2025-01-24】[mercari / ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
 * 【2025-01-24】[jamesmurdza / awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
