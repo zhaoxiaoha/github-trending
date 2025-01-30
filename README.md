@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2025-01-30】[QwenLM / Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+* 【2025-01-30】[deepseek-ai / ESFT](https://github.com/deepseek-ai/ESFT) - Expert Specialized Fine-Tuning
 * 【2025-01-29】[deepseek-ai / Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 * 【2025-01-27】[onlook-dev / onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
 * 【2025-01-26】[lightpanda-io / browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
@@ -1384,6 +1386,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-01-30】[infinispan / infinispan](https://github.com/infinispan/infinispan) - Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.
 * 【2025-01-29】[fabric8io / kubernetes-client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift
 * 【2025-01-29】[wso2 / product-is](https://github.com/wso2/product-is) - Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.
 * 【2025-01-28】[anonfaded / FadCam](https://github.com/anonfaded/FadCam) - Seamless background video recorder for Android – ad-free and open-source, with customizable options.
@@ -3522,6 +3525,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-01-30】[DeepLifeStudio / DeepSeekAI](https://github.com/DeepLifeStudio/DeepSeekAI) - Browser extension for invoking the DeepSeek AI large model.
 * 【2025-01-28】[IQEngine / WebFFT](https://github.com/IQEngine/WebFFT) - The Fastest Fourier Transform on the Web!
 * 【2025-01-28】[bosichong / PrimarySchoolMathematics](https://github.com/bosichong/PrimarySchoolMathematics) - 孩子上小学一年级了，加减乘除的口算就要开始练习了，估计老师肯定会让家长出题，所以提前准备一下，利用Python开发了一套自动生成小学生口算题的小应用。而且今天是程序员节，撸200行代码庆祝一下。：）
 * 【2025-01-26】[XRPLF / xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal) - Source code for xrpl.org including developer documentation
@@ -4499,6 +4503,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-01-30】[ekristen / aws-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account
 * 【2025-01-28】[nevalang / neva](https://github.com/nevalang/neva) - 🌊 Next-generation programming language that solves programmers' problems
 * 【2025-01-28】[garethgeorge / backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 * 【2025-01-26】[mk6i / retro-aim-server](https://github.com/mk6i/retro-aim-server) - Open-source instant messaging server that makes classic AIM and ICQ clients work again.
@@ -5433,6 +5438,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-01-30】[samtools / htslib](https://github.com/samtools/htslib) - C library for high-throughput sequencing data formats
 * 【2025-01-29】[HarbourMasters / Starship](https://github.com/HarbourMasters/Starship) - SF64 PC Port
 * 【2025-01-28】[xiph / opus](https://github.com/xiph/opus) - Modern audio compression for the internet.
 * 【2025-01-27】[da-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
@@ -6243,6 +6249,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-01-30】[mozilla / DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 * 【2025-01-28】[cdozdil / OptiScaler](https://github.com/cdozdil/OptiScaler) - OptiScaler is middleware that enables various upscaling technologies in DLSS2-only games. It allows non-Nvidia users to use upscaling by applying DLSS2 inputs to XeSS, FSR2, or FSR3.
 * 【2025-01-23】[moudey / Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 * 【2025-01-22】[borglab / gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
@@ -9337,6 +9344,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-01-30】[may215 / awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 * 【2025-01-28】[Eltirosto / Degrees-of-Lewdity-Chinese-Localization](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization) - Degrees of Lewdity 游戏的授权中文社区本地化版本
 * 【2025-01-26】[jlopp / physical-bitcoin-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.
 * 【2025-01-24】[mercari / ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
