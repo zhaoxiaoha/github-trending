@@ -2187,6 +2187,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-02-10】[potpie-ai / potpie](https://github.com/potpie-ai/potpie) - Prompt-To-Agent : Create custom engineering agents for your codebase
+* 【2025-02-10】[iscyy / ultralyticsPro](https://github.com/iscyy/ultralyticsPro) - 🔥🔥🔥 专注于YOLO11，YOLOv8、YOLOv10、RT-DETR、YOLOv7、YOLOv5改进模型，Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
 * 【2025-02-09】[roboflow / maestro](https://github.com/roboflow/maestro) - streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL
 * 【2025-02-06】[redis / redis-py](https://github.com/redis/redis-py) - Redis Python client
 * 【2025-02-05】[facebookresearch / xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
@@ -4531,6 +4533,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-02-10】[mayswind / ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight personal bookkeeping app hosted by yourself.
 * 【2025-02-09】[fastenhealth / fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
 * 【2025-02-05】[terraform-linters / tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
 * 【2025-02-04】[starfederation / datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
