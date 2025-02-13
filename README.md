@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2025-02-13】[MystenLabs / walrus-docs](https://github.com/MystenLabs/walrus-docs) - Documentation and examples for the Walrus decentralized storage system
+* 【2025-02-13】[datawhalechina / llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+* 【2025-02-13】[antonputra / tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
 * 【2025-02-12】[microsoft / data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 * 【2025-02-11】[browser-use / browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 * 【2025-02-11】[n0-computer / iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
@@ -2192,6 +2195,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-02-13】[WEIFENG2333 / VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
+* 【2025-02-13】[greghesp / ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers
 * 【2025-02-11】[homarr-labs / dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
 * 【2025-02-11】[SWivid / F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 * 【2025-02-10】[potpie-ai / potpie](https://github.com/potpie-ai/potpie) - Prompt-To-Agent : Create custom engineering agents for your codebase
@@ -4541,6 +4546,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-02-13】[FerretDB / FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 * 【2025-02-11】[turbot / tailpipe](https://github.com/turbot/tailpipe) - select * from logs; Tailpipe is an open source SIEM for instant log insights, powered by DuckDB. Analyze millions of events in seconds, right from your terminal.
 * 【2025-02-10】[mayswind / ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight personal bookkeeping app hosted by yourself.
 * 【2025-02-09】[fastenhealth / fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
@@ -7933,6 +7939,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-02-13】[SuperSimpleDev / html-css-course](https://github.com/SuperSimpleDev/html-css-course) - Watch the course: https://youtu.be/G3e-cpL7ofc
 * 【2025-02-09】[n8n-io / n8n-docs](https://github.com/n8n-io/n8n-docs) - Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.
 * 【2025-02-07】[7h30th3r0n3 / Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) - Evil-M5Project is an innovative tool developed for ethical testing and exploration of WiFi networks. It's compatible with Cardputer, Atoms3, Fire, core2. You can scan, monitor, and interact with WiFi networks in a controlled environment. This project is designed for educational purposes, aiding in understanding network security and vulnerabilities.
 * 【2025-02-02】[uswds / uswds-site](https://github.com/uswds/uswds-site) - USWDS website and documentation
