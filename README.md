@@ -2203,6 +2203,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-02-19】[commaai / opendbc](https://github.com/commaai/opendbc) - a Python API for your car
 * 【2025-02-18】[cocktailpeanut / fluxgym](https://github.com/cocktailpeanut/fluxgym) - Dead simple FLUX LoRA training UI with LOW VRAM support
 * 【2025-02-17】[opendatalab / PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 * 【2025-02-17】[av / harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
@@ -3577,6 +3578,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-02-19】[damianeickhoff / HaCasa](https://github.com/damianeickhoff/HaCasa) - Custom theme and cards for Home Assistant
 * 【2025-02-17】[enatega / food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
 * 【2025-02-11】[ftde0 / yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend.
 * 【2025-02-05】[Lumon-Industries / Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
@@ -7959,6 +7961,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-02-19】[hackingthemarkets / interactive-brokers-web-api](https://github.com/hackingthemarkets/interactive-brokers-web-api) - A docker container and flask app for use with the Interactive Brokers Web API 1.0
 * 【2025-02-17】[usds / website](https://github.com/usds/website) - 
 * 【2025-02-16】[mlfoundations / evalchemy](https://github.com/mlfoundations/evalchemy) - Automatic Evals for LLMs
 * 【2025-02-16】[lm-rebooter / NuggetsBooklet](https://github.com/lm-rebooter/NuggetsBooklet) - 掘金小册
@@ -9446,6 +9449,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-02-19】[icon11-community / Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon.
 * 【2025-02-16】[GoogleChrome / ip-protection](https://github.com/GoogleChrome/ip-protection) - 
 * 【2025-02-07】[koobzaar / lol-skins](https://github.com/koobzaar/lol-skins) - [⭐] A community-maintained repository featuring all 7,669 official League of Legends skins and chromas models as custom skins.
 * 【2025-01-30】[may215 / awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
