@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2025-02-25】[vllm-project / aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
+* 【2025-02-25】[Flowseal / zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - 
+* 【2025-02-25】[langchain-ai / open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
 * 【2025-02-23】[koide3 / glim](https://github.com/koide3/glim) - GLIM: versatile and extensible range-based 3D localization and mapping framework
 * 【2025-02-22】[sinaptik-ai / pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 * 【2025-02-22】[fastapi / full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
@@ -2214,6 +2217,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-02-25】[crossbario / autobahn-testsuite](https://github.com/crossbario/autobahn-testsuite) - Autobahn WebSocket protocol testsuite
 * 【2025-02-23】[fastapi / sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 * 【2025-02-22】[microsoft / PIKE-RAG](https://github.com/microsoft/PIKE-RAG) - PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation
 * 【2025-02-21】[conan-io / conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
@@ -3594,6 +3598,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-02-25】[steveseguin / social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 * 【2025-02-21】[DavidHDev / react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
 * 【2025-02-19】[damianeickhoff / HaCasa](https://github.com/damianeickhoff/HaCasa) - Custom theme and cards for Home Assistant
 * 【2025-02-17】[enatega / food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
@@ -4578,6 +4583,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-02-25】[AvaProtocol / EigenLayer-AVS](https://github.com/AvaProtocol/EigenLayer-AVS) - AvaProtocol Ethereum Automation Build on EigenLayer
+* 【2025-02-25】[googleapis / genai-toolbox](https://github.com/googleapis/genai-toolbox) - Gen AI Toolbox for Databases is an open source server that makes it easier to build Gen AI tools for interacting with databases.
 * 【2025-02-24】[uber / kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 * 【2025-02-22】[subtrace / subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers
 * 【2025-02-16】[kubernetes-sigs / lws](https://github.com/kubernetes-sigs/lws) - LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
@@ -5525,6 +5532,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-02-25】[pi-hole / FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
 * 【2025-02-24】[stlink-org / stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
 * 【2025-02-21】[ghaerr / elks](https://github.com/ghaerr/elks) - Embeddable Linux Kernel Subset - Linux for 8086
 * 【2025-02-09】[eclipse-paho / paho.mqtt.c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse-paho.github.io/paho.mqtt.c/
@@ -8696,6 +8704,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-02-25】[polyfractal / elasticsearch-segmentspy](https://github.com/polyfractal/elasticsearch-segmentspy) - ElasticSearch plugin to watch segment dynamics (additions, merges, deletes)
 * 【2025-02-21】[open-falcon-archive / agent](https://github.com/open-falcon-archive/agent) - linux monitor agent
 * 【2025-02-12】[creativetimofficial / black-dashboard](https://github.com/creativetimofficial/black-dashboard) - 
 * 【2025-02-11】[adriankarlen / textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast
@@ -9477,6 +9486,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-02-25】[ZitaoTech / Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
 * 【2025-02-22】[pi-apps / pi-platform-docs](https://github.com/pi-apps/pi-platform-docs) - 
 * 【2025-02-19】[icon11-community / Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon.
 * 【2025-02-16】[GoogleChrome / ip-protection](https://github.com/GoogleChrome/ip-protection) - 
