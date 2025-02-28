@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2025-02-28】[allenai / olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
+* 【2025-02-28】[freddyaboulton / fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real-time communication
 * 【2025-02-27】[ggerganov / ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 * 【2025-02-26】[NirDiamant / GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 * 【2025-02-25】[vllm-project / aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
@@ -8718,6 +8720,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-02-28】[JaKooLit / Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme
 * 【2025-02-26】[flick9000 / winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows 10/11 script from scratch. It includes debloat, privacy, performance & app installing scripts.
 * 【2025-02-25】[polyfractal / elasticsearch-segmentspy](https://github.com/polyfractal/elasticsearch-segmentspy) - ElasticSearch plugin to watch segment dynamics (additions, merges, deletes)
 * 【2025-02-21】[open-falcon-archive / agent](https://github.com/open-falcon-archive/agent) - linux monitor agent
@@ -9501,6 +9504,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-02-28】[microsoft / vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
 * 【2025-02-25】[ZitaoTech / Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
 * 【2025-02-22】[pi-apps / pi-platform-docs](https://github.com/pi-apps/pi-platform-docs) - 
 * 【2025-02-19】[icon11-community / Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon.
