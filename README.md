@@ -1431,6 +1431,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-03-02】[synthetichealth / synthea](https://github.com/synthetichealth/synthea) - Synthetic Patient Population Simulator
 * 【2025-03-01】[noties / Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
 * 【2025-02-27】[TyCoding / langchat](https://github.com/TyCoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
 * 【2025-02-26】[apache / netbeans](https://github.com/apache/netbeans) - Apache NetBeans
@@ -2224,6 +2225,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-03-02】[LazoCoder / Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
 * 【2025-03-01】[HKUDS / LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 * 【2025-02-26】[fla-org / flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models in Torch and Triton
 * 【2025-02-26】[Upsonic / Upsonic](https://github.com/Upsonic/Upsonic) - Most Reliable AI Agent Framework
@@ -3608,6 +3610,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-03-02】[klaudiosinani / hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
 * 【2025-02-27】[cyb3rfox / Aurora-Incident-Response](https://github.com/cyb3rfox/Aurora-Incident-Response) - Incident Response Documentation made easy. Developed by Incident Responders for Incident Responders
 * 【2025-02-27】[LimeSurvey / LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.
 * 【2025-02-26】[pollinations / pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
