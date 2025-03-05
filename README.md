@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2025-03-05】[virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
+* 【2025-03-05】[acmesh-official / acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 * 【2025-02-28】[allenai / olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 * 【2025-02-28】[freddyaboulton / fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real-time communication
 * 【2025-02-27】[ggerganov / ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
@@ -3615,6 +3617,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-03-05】[typicode / lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 * 【2025-03-03】[lyfe00011 / levanter](https://github.com/lyfe00011/levanter) - 
 * 【2025-03-02】[klaudiosinani / hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
 * 【2025-02-27】[cyb3rfox / Aurora-Incident-Response](https://github.com/cyb3rfox/Aurora-Incident-Response) - Incident Response Documentation made easy. Developed by Incident Responders for Incident Responders
@@ -7212,6 +7215,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-03-05】[hedge-dev / HedgeModManager](https://github.com/hedge-dev/HedgeModManager) - Multiplatform rewrite of Hedge Mod Manager
 * 【2025-03-03】[DeltaV-Station / Delta-v](https://github.com/DeltaV-Station/Delta-v) - A fork of Space Station 14, embracing a mixture of classic SS13 chaos and experimentation only possible with the new engine
 * 【2025-03-03】[p-org / P](https://github.com/p-org/P) - The P programming language.
 * 【2025-03-01】[dotnet / yarp](https://github.com/dotnet/yarp) - A toolkit for developing high-performance HTTP reverse proxy applications.
@@ -8743,6 +8747,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-03-05】[accordproject / techdocs](https://github.com/accordproject/techdocs) - Accord Project Documentation
 * 【2025-03-04】[18F / identity-saml-sinatra](https://github.com/18F/identity-saml-sinatra) - Mock relying party (user app) to send requests to ID server
 * 【2025-03-03】[cayxc / Mdmdt](https://github.com/cayxc/Mdmdt) - Typora极简文档主题Mdmdt，包含亮色和暗色两种主题，是深度定制的个性化Typora主题；Typora minimalist document theme Mdmdt. Featuring both light and dark themes, it is a deeply customized personalized Typora theme.
 * 【2025-03-01】[dtinth / vxchrome](https://github.com/dtinth/vxchrome) - A Chrome extension that listens to my voice, converts to text, and copies it to the clipboard.
