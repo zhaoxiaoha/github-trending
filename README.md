@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2025-03-15】[yuaotian / go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+* 【2025-03-15】[kern / filepizza](https://github.com/kern/filepizza) - 🍕 Peer-to-peer file transfers in your browser
 * 【2025-03-14】[johnbean393 / Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
 * 【2025-03-14】[microsoft / TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 * 【2025-03-14】[JackHopkins / factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non-saturating, open-ended environment for evaluating LLMs in Factorio
@@ -2250,6 +2252,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-03-15】[simular-ai / Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 * 【2025-03-14】[microsoft / TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25).
 * 【2025-03-11】[ElectricAlexis / NotaGen](https://github.com/ElectricAlexis/NotaGen) - NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms
 * 【2025-03-11】[kijai / ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper) - 
@@ -4644,6 +4647,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-03-15】[go-vgo / robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation @vcaesar
 * 【2025-03-14】[dstotijn / hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 * 【2025-03-11】[cockroachdb / pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
 * 【2025-03-10】[Aylur / ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
@@ -5605,6 +5609,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-03-15】[open-quantum-safe / oqs-provider](https://github.com/open-quantum-safe/oqs-provider) - OpenSSL 3 provider containing post-quantum algorithms
 * 【2025-03-12】[MrGlockenspiel / activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 * 【2025-03-09】[easychen / pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 * 【2025-02-27】[espressif / esp-sr](https://github.com/espressif/esp-sr) - Speech recognition
@@ -8802,6 +8807,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-03-15】[teacat / chaturbate-dvr](https://github.com/teacat/chaturbate-dvr) - 😎 Chaturbate DVR - auto records the stream when it goes online!
 * 【2025-03-06】[uvdesk / community-skeleton](https://github.com/uvdesk/community-skeleton) - UVdesk Opensource Community Helpdesk Project built for all to make a Full Ticketing Support System along with many more other features.
 * 【2025-03-05】[accordproject / techdocs](https://github.com/accordproject/techdocs) - Accord Project Documentation
 * 【2025-03-04】[18F / identity-saml-sinatra](https://github.com/18F/identity-saml-sinatra) - Mock relying party (user app) to send requests to ID server
