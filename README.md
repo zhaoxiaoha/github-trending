@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2025-03-17】[ai-christianson / RA.Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously.
+* 【2025-03-17】[tj-actions / changed-files](https://github.com/tj-actions/changed-files) - Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
+* 【2025-03-17】[RIP-Comm / sossoldi](https://github.com/RIP-Comm/sossoldi) - "Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.
 * 【2025-03-16】[nvim-lualine / lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 * 【2025-03-16】[langchain-ai / ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher) - Fully local web research and report writing assistant
 * 【2025-03-15】[yuaotian / go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
@@ -1453,6 +1456,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-03-17】[sqlancer / sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
 * 【2025-03-16】[HbmMods / Hbm-s-Nuclear-Tech-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) - A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
 * 【2025-03-14】[sleuthkit / autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
 * 【2025-03-14】[freeok / so-novel](https://github.com/freeok/so-novel) - 小说下载器 | 小说下载工具 | 小说下载神器 | 免费小说 | 网络小说 | 免费下载 | 网文下载
@@ -2255,6 +2259,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-03-17】[subframe7536 / maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+* 【2025-03-17】[exo-lang / exo](https://github.com/exo-lang/exo) - Exocompilation for productive programming of hardware accelerators
 * 【2025-03-16】[QiuChenly / InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
 * 【2025-03-16】[jiji262 / douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
 * 【2025-03-16】[tensortrade-org / tensortrade](https://github.com/tensortrade-org/tensortrade) - An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
@@ -3657,6 +3663,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-03-17】[googleworkspace / apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
 * 【2025-03-16】[learnk8s / xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
 * 【2025-03-12】[Flux159 / mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
 * 【2025-03-11】[mendableai / firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
@@ -5616,6 +5623,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-03-17】[lwfinger / rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless-next repo.
 * 【2025-03-15】[open-quantum-safe / oqs-provider](https://github.com/open-quantum-safe/oqs-provider) - OpenSSL 3 provider containing post-quantum algorithms
 * 【2025-03-12】[MrGlockenspiel / activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 * 【2025-03-09】[easychen / pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
@@ -8099,6 +8107,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-03-17】[smaranjitghose / awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavors.
+* 【2025-03-17】[OWASP-BLT / BLT](https://github.com/OWASP-BLT/BLT) - OWASP BLT is a collection of security tools.
 * 【2025-03-16】[Tencent / tdesign-miniprogram](https://github.com/Tencent/tdesign-miniprogram) - A Wechat MiniProgram UI components lib for TDesign.
 * 【2025-03-12】[allwefantasy / auto-coder](https://github.com/allwefantasy/auto-coder) - 
 * 【2025-03-10】[ClickHouse / ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
