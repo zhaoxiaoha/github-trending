@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2025-03-23】[RSSNext / Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 * 【2025-03-21】[SakanaAI / AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
 * 【2025-03-21】[sinclairtarget / git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 * 【2025-03-21】[hotheadhacker / awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
@@ -1461,6 +1462,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-03-23】[uyuni-project / uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni
 * 【2025-03-21】[ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 * 【2025-03-20】[dji-sdk / Mobile-SDK-Android-V5](https://github.com/dji-sdk/Mobile-SDK-Android-V5) - MSDK V5 Sample
 * 【2025-03-18】[kooritea / fcmfix](https://github.com/kooritea/fcmfix) - [xposed]让fcm唤醒已完全停止的应用
@@ -5643,6 +5645,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-03-23】[tuya / TuyaOpen](https://github.com/tuya/TuyaOpen) - Tuya open source AI+IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n
 * 【2025-03-21】[gozfree / gear-lib](https://github.com/gozfree/gear-lib) - Gear-Lib, C library for IOT Embedded Multimedia and Network
 * 【2025-03-20】[intel / xess](https://github.com/intel/xess) - Intel XeSS SDK
 * 【2025-03-17】[lwfinger / rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless-next repo.
@@ -6469,6 +6472,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-03-23】[namazso / OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
 * 【2025-03-21】[autowarefoundation / autoware_universe](https://github.com/autowarefoundation/autoware_universe) - 
 * 【2025-03-20】[YimMenu / YimMenuV2](https://github.com/YimMenu/YimMenuV2) - Unfinished WIP
 * 【2025-03-18】[sipeed / NanoKVM](https://github.com/sipeed/NanoKVM) - Affordable, Multifunctional, Nano RISC-V IP-KVM
@@ -7312,6 +7316,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-03-23】[cyanfish / naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 * 【2025-03-21】[kangyu-california / PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update
 * 【2025-03-20】[Cysharp / ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with Span and LINQ to SIMD, LINQ to Tree (FileSystem, Json, GameObject, etc.) for all .NET platforms and Unity.
 * 【2025-03-06】[MichaelGrafnetter / DSInternals](https://github.com/MichaelGrafnetter/DSInternals) - Directory Services Internals (DSInternals) PowerShell Module and Framework
