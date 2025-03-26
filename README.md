@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2025-03-26】[ourongxing / newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 * 【2025-03-24】[wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er/ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 * 【2025-03-24】[Devolutions / IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 * 【2025-03-24】[joanrod / star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
@@ -2273,6 +2274,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-03-26】[mikel-brostrom / boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
 * 【2025-03-25】[MarkusPfundstein / mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
 * 【2025-03-25】[Zulko / moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 * 【2025-03-25】[amd / gaia](https://github.com/amd/gaia) - Run LLM Agents on Ryzen AI PCs in Minutes
@@ -3687,6 +3689,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-03-26】[prateek-chaubey / YTPro](https://github.com/prateek-chaubey/YTPro) - All in one YouTube App with downloader , background player , Google Gemini ✨ and many more features.
 * 【2025-03-24】[pi-hole / web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
 * 【2025-03-20】[NB-Group / NB_Music](https://github.com/NB-Group/NB_Music) - A nearly perfect music player.
 * 【2025-03-18】[exa-labs / exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Claude can perform Web Search | Exa with MCP (Model Context Protocol)
@@ -4688,6 +4691,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-03-26】[helm-unittest / helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
 * 【2025-03-24】[lovelaze / nebula-sync](https://github.com/lovelaze/nebula-sync) - Synchronize configuration of multiple Pi-hole v6.x instances.
 * 【2025-03-22】[pulumi / pulumi-aws](https://github.com/pulumi/pulumi-aws) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
 * 【2025-03-21】[cloudwego / eino-examples](https://github.com/cloudwego/eino-examples) - Examples and demonstrations for using the Eino framework
@@ -5655,6 +5659,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-03-26】[GuijiAI / HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai) - 
 * 【2025-03-25】[bootchk / resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
 * 【2025-03-24】[bitaxeorg / ESP-Miner](https://github.com/bitaxeorg/ESP-Miner) - A bitcoin ASIC miner for the ESP32
 * 【2025-03-23】[tuya / TuyaOpen](https://github.com/tuya/TuyaOpen) - Tuya open source AI+IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n
@@ -6484,6 +6489,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-03-26】[TarsCloud / Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 * 【2025-03-24】[FlagBrew / PKSM](https://github.com/FlagBrew/PKSM) - Gen I to GenVIII save manager.
 * 【2025-03-23】[namazso / OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
 * 【2025-03-21】[autowarefoundation / autoware_universe](https://github.com/autowarefoundation/autoware_universe) - 
@@ -7329,6 +7335,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-03-26】[elastic / elasticsearch-net](https://github.com/elastic/elasticsearch-net) - This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic.
 * 【2025-03-23】[cyanfish / naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 * 【2025-03-21】[kangyu-california / PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update
 * 【2025-03-20】[Cysharp / ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with Span and LINQ to SIMD, LINQ to Tree (FileSystem, Json, GameObject, etc.) for all .NET platforms and Unity.
@@ -8875,6 +8882,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-03-26】[Yavuzlar / VulnLab](https://github.com/Yavuzlar/VulnLab) - 
 * 【2025-03-24】[littleosbook / littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
 * 【2025-03-22】[Diolinux / PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 * 【2025-03-15】[teacat / chaturbate-dvr](https://github.com/teacat/chaturbate-dvr) - 😎 Chaturbate DVR - auto records the stream when it goes online!
