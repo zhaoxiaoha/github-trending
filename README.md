@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2025-03-28】[signalapp / libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 * 【2025-03-27】[deepseek-ai / DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 * 【2025-03-27】[Akkudoktor-EOS / EOS](https://github.com/Akkudoktor-EOS/EOS) - This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
 * 【2025-03-26】[ourongxing / newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
@@ -2276,6 +2277,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-03-28】[PeterL1n / RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 * 【2025-03-27】[awslabs / amazon-bedrock-agent-samples](https://github.com/awslabs/amazon-bedrock-agent-samples) - Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities
 * 【2025-03-26】[mikel-brostrom / boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
 * 【2025-03-25】[MarkusPfundstein / mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
@@ -4694,6 +4696,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-03-28】[kgateway-dev / kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
 * 【2025-03-27】[Wox-launcher / Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 * 【2025-03-26】[helm-unittest / helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
 * 【2025-03-24】[lovelaze / nebula-sync](https://github.com/lovelaze/nebula-sync) - Synchronize configuration of multiple Pi-hole v6.x instances.
@@ -5663,6 +5666,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-03-28】[espressif / esp-drone](https://github.com/espressif/esp-drone) - Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.
 * 【2025-03-26】[GuijiAI / HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai) - 
 * 【2025-03-25】[bootchk / resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
 * 【2025-03-24】[bitaxeorg / ESP-Miner](https://github.com/bitaxeorg/ESP-Miner) - A bitcoin ASIC miner for the ESP32
@@ -7340,6 +7344,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-03-28】[b-editor / beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
 * 【2025-03-26】[elastic / elasticsearch-net](https://github.com/elastic/elasticsearch-net) - This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic.
 * 【2025-03-23】[cyanfish / naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 * 【2025-03-21】[kangyu-california / PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update
@@ -8164,6 +8169,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-03-28】[harvesthq / chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 * 【2025-03-25】[m4tinbeigi-official / freemovie](https://github.com/m4tinbeigi-official/freemovie) - 
 * 【2025-03-21】[apache / grails-core](https://github.com/apache/grails-core) - The Grails Web Application Framework
 * 【2025-03-21】[ONLYOFFICE / web-apps](https://github.com/ONLYOFFICE/web-apps) - The frontend for ONLYOFFICE Document Server which builds the program interface
