@@ -2277,6 +2277,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-03-29】[chengazhen / cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 * 【2025-03-28】[PeterL1n / RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 * 【2025-03-27】[awslabs / amazon-bedrock-agent-samples](https://github.com/awslabs/amazon-bedrock-agent-samples) - Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities
 * 【2025-03-26】[mikel-brostrom / boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
@@ -4696,6 +4697,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-03-29】[mailhog / MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 * 【2025-03-28】[kgateway-dev / kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
 * 【2025-03-27】[Wox-launcher / Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 * 【2025-03-26】[helm-unittest / helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
@@ -5666,6 +5668,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-03-29】[zinongli / KeyCopier](https://github.com/zinongli/KeyCopier) - Key Copier App for Flipper Zero
 * 【2025-03-28】[espressif / esp-drone](https://github.com/espressif/esp-drone) - Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.
 * 【2025-03-26】[GuijiAI / HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai) - 
 * 【2025-03-25】[bootchk / resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
@@ -7344,6 +7347,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-03-29】[dexyfex / CodeWalker](https://github.com/dexyfex/CodeWalker) - 
 * 【2025-03-28】[b-editor / beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
 * 【2025-03-26】[elastic / elasticsearch-net](https://github.com/elastic/elasticsearch-net) - This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic.
 * 【2025-03-23】[cyanfish / naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
@@ -8169,6 +8173,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-03-29】[canonical / ubuntu.com](https://github.com/canonical/ubuntu.com) - The official website for the Ubuntu operating system
 * 【2025-03-28】[harvesthq / chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 * 【2025-03-25】[m4tinbeigi-official / freemovie](https://github.com/m4tinbeigi-official/freemovie) - 
 * 【2025-03-21】[apache / grails-core](https://github.com/apache/grails-core) - The Grails Web Application Framework
