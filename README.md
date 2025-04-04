@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2025-04-04】[symfony / symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 * 【2025-04-03】[elie222 / inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 * 【2025-04-03】[inkonchain / ink-kit](https://github.com/inkonchain/ink-kit) - Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨
 * 【2025-04-03】[chiphuyen / aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
@@ -2290,6 +2291,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-04-04】[run-llama / llama_cloud_services](https://github.com/run-llama/llama_cloud_services) - Knowledge Agents and Management in the Cloud
 * 【2025-04-03】[dreammis / social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 * 【2025-04-03】[apirrone / Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini) - Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe
 * 【2025-03-31】[blazickjp / arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
@@ -3719,6 +3721,9 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-04-04】[adobe / aem-guides-wknd](https://github.com/adobe/aem-guides-wknd) - Tutorial Code companion for Getting Started Developing with AEM Sites WKND Tutorial
+* 【2025-04-04】[dillonzq / LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
+* 【2025-04-04】[Rocketseat / frontend-challenge](https://github.com/Rocketseat/frontend-challenge) - 
 * 【2025-04-03】[JetBrains / mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 * 【2025-03-26】[prateek-chaubey / YTPro](https://github.com/prateek-chaubey/YTPro) - All in one YouTube App with downloader , background player , Google Gemini ✨ and many more features.
 * 【2025-03-24】[pi-hole / web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
@@ -5697,6 +5702,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-04-04】[vial-kb / vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
 * 【2025-04-01】[Johannes4Linux / Linux_Driver_Tutorial_legacy](https://github.com/Johannes4Linux/Linux_Driver_Tutorial_legacy) - A Tutorial how to get started with Linux Kernel Modules and Linux Drivers.
 * 【2025-03-29】[zinongli / KeyCopier](https://github.com/zinongli/KeyCopier) - Key Copier App for Flipper Zero
 * 【2025-03-28】[espressif / esp-drone](https://github.com/espressif/esp-drone) - Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.
@@ -8936,6 +8942,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-04-04】[CapnKitten / Translucence](https://github.com/CapnKitten/Translucence) - A translucent/frosted glass theme for Discord
 * 【2025-04-03】[catppuccin / jupyterlab](https://github.com/catppuccin/jupyterlab) - 📊 Soothing pastel theme for JupyterLab
 * 【2025-04-03】[vinaysomawat / vinaysomawat.github.io](https://github.com/vinaysomawat/vinaysomawat.github.io) - A cutting-edge portfolio web page utilizing vanilla JavaScript.
 * 【2025-04-02】[lscambo13 / ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI.
