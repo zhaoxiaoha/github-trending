@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2025-04-07】[supabase-community / supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
 * 【2025-04-06】[kubernetes-sigs / headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 * 【2025-04-06】[funstory-ai / BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 * 【2025-04-05】[browser-use / web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
@@ -2297,6 +2298,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-04-07】[stephengpope / no-code-architects-toolkit](https://github.com/stephengpope/no-code-architects-toolkit) - The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalities into a single FREE API. Designed for businesses, creators, and developers, it streamlines advanced media processing, including video editing and captioning, image transformations, cloud storage, and Python code execution.
+* 【2025-04-07】[camel-ai / oasis](https://github.com/camel-ai/oasis) - 🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents. https://oasis.camel-ai.org
 * 【2025-04-06】[NVIDIA / cuda-python](https://github.com/NVIDIA/cuda-python) - CUDA Python: Performance meets Productivity
 * 【2025-04-06】[lwthiker / curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 * 【2025-04-05】[coleam00 / ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
@@ -4737,6 +4740,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-04-07】[Septrum101 / zteOnu](https://github.com/Septrum101/zteOnu) - A tool that can open ZTE onu device factory mode
+* 【2025-04-07】[krillinai / KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 * 【2025-04-06】[grafana / mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
 * 【2025-04-03】[infracost / infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 * 【2025-04-02】[mgechev / revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
@@ -6549,6 +6554,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-04-07】[PerformanC / ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
+* 【2025-04-07】[kuzudb / kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
+* 【2025-04-07】[NVIDIA-RTX / NVRHI](https://github.com/NVIDIA-RTX/NVRHI) - 
 * 【2025-04-06】[ggml-org / whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 * 【2025-04-06】[microsoft / DiskANN](https://github.com/microsoft/DiskANN) - Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search
 * 【2025-04-01】[shdwmtr / millennium](https://github.com/shdwmtr/millennium) - Apply themes/skins/customize Steam® after the 2023-04-27 Chromium UI update
@@ -8234,6 +8242,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-04-07】[rbuckton / proposal-enum](https://github.com/rbuckton/proposal-enum) - Proposal for ECMAScript enums
 * 【2025-04-05】[sunnyoggcp / github-slideshow](https://github.com/sunnyoggcp/github-slideshow) - A robot powered training repository 🤖
 * 【2025-04-03】[dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 * 【2025-03-29】[canonical / ubuntu.com](https://github.com/canonical/ubuntu.com) - The official website for the Ubuntu operating system
