@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2025-04-16】[jlevy / og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
+* 【2025-04-16】[fuma-nama / fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
+* 【2025-04-16】[Budibase / budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 * 【2025-04-13】[colinhacks / zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 * 【2025-04-12】[yeongpin / cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 * 【2025-04-12】[aws-samples / amazon-nova-samples](https://github.com/aws-samples/amazon-nova-samples) - 
@@ -2309,6 +2312,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-04-16】[AI-Hypercomputer / RecML](https://github.com/AI-Hypercomputer/RecML) - 
+* 【2025-04-16】[jixiaozhong / Sonic](https://github.com/jixiaozhong/Sonic) - Official implementation of "Sonic: Shifting Focus to Global Audio Perception in Portrait Animation"
 * 【2025-04-12】[crestalnetwork / intentkit](https://github.com/crestalnetwork/intentkit) - An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!
 * 【2025-04-12】[huggingface / smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.
 * 【2025-04-10】[marketcalls / openalgo](https://github.com/marketcalls/openalgo) - Open Source Algo Trading Platform for Everyone
@@ -3749,6 +3754,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-04-16】[KelvinTegelaar / CIPP](https://github.com/KelvinTegelaar/CIPP) - CIPP is a M365 multitenant management solution
 * 【2025-04-11】[goldbergyoni / nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 * 【2025-04-10】[jerhadf / linear-mcp-server](https://github.com/jerhadf/linear-mcp-server) - A server that integrates Linear's project management system with the Model Context Protocol (MCP) to allow LLMs to interact with Linear.
 * 【2025-04-09】[its-a-feature / Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
@@ -5738,6 +5744,9 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-04-16】[debevv / nanoMODBUS](https://github.com/debevv/nanoMODBUS) - A compact MODBUS RTU/TCP C library for embedded/microcontrollers
+* 【2025-04-16】[joshr120 / PD-Stepper](https://github.com/joshr120/PD-Stepper) - 
+* 【2025-04-16】[samdenty / Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
 * 【2025-04-13】[OpenCPN / OpenCPN](https://github.com/OpenCPN/OpenCPN) - A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation
 * 【2025-04-11】[mydumper / mydumper](https://github.com/mydumper/mydumper) - Official MyDumper Project
 * 【2025-04-09】[Xilinx / dma_ip_drivers](https://github.com/Xilinx/dma_ip_drivers) - Xilinx QDMA IP Drivers
@@ -7439,6 +7448,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-04-16】[SebLague / Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
 * 【2025-04-12】[wisedev-code / MaIN.NET](https://github.com/wisedev-code/MaIN.NET) - NuGet package designed to make LLMs, RAG, and Agents first-class citizens in .NET
 * 【2025-04-10】[pylorak / TinyWall](https://github.com/pylorak/TinyWall) - TinyWall is a free, non-intrusive, secure-by-default firewall for Windows.
 * 【2025-04-09】[FlorianButz / DynamicWin](https://github.com/FlorianButz/DynamicWin) - A Dynamic Island inspired app for Windows machines.
@@ -9805,6 +9815,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-04-16】[OnePlusOSS / kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest) - 
 * 【2025-04-12】[sebaxakerhtc / rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini) - RDPWrap.ini for RDP Wrapper Library by Stas'M
 * 【2025-04-11】[FFmpeg / asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 * 【2025-04-08】[NeverSinkDev / NeverSink-Filter-for-PoE2](https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2) - This is a lootfilter for the game "Path of Exile 2". It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user
