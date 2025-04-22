@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2025-04-22】[007revad / Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
 * 【2025-04-21】[ashvardanian / less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
 * 【2025-04-18】[elastic / detection-rules](https://github.com/elastic/detection-rules) - 
 * 【2025-04-17】[Anxcye / anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
@@ -1501,6 +1502,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-04-22】[aws-containers / retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 * 【2025-04-21】[CatimaLoyalty / Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 * 【2025-04-18】[ClickHouse / clickhouse-java](https://github.com/ClickHouse/clickhouse-java) - ClickHouse Java Clients & JDBC Driver
 * 【2025-04-15】[Audiveris / audiveris](https://github.com/Audiveris/audiveris) - Latest generation of Audiveris OMR engine
@@ -3768,6 +3770,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-04-22】[discord / discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 * 【2025-04-21】[satellitecomponent / Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 * 【2025-04-20】[modstart-lib / ueditor-plus](https://github.com/modstart-lib/ueditor-plus) - 基于 UEditor 二次开发的富文本编辑器
 * 【2025-04-19】[gradio-app / fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
@@ -4785,6 +4788,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-04-22】[ltaoo / wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
 * 【2025-04-21】[ncruces / go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero
 * 【2025-04-21】[OWASP / Go-SCP](https://github.com/OWASP/Go-SCP) - Golang Secure Coding Practices guide
 * 【2025-04-20】[anthropics / anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety-first language model APIs via Go
@@ -9851,6 +9855,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-04-22】[PanXProject / awesome-certificates](https://github.com/PanXProject/awesome-certificates) - Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business.
 * 【2025-04-19】[darkseal-org / lol-skins](https://github.com/darkseal-org/lol-skins) - [⭐] A community-maintained repository featuring all official League of Legends skins and chromas as custom skin format.
 * 【2025-04-18】[MicrosoftDocs / entra-docs](https://github.com/MicrosoftDocs/entra-docs) - This is the public repo for Microsoft Entra documentation
 * 【2025-04-16】[OnePlusOSS / kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest) - 
