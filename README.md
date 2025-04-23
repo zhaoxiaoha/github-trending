@@ -1502,6 +1502,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-04-23】[baomidou / dynamic-datasource](https://github.com/baomidou/dynamic-datasource) - dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务
 * 【2025-04-22】[aws-containers / retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 * 【2025-04-21】[CatimaLoyalty / Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 * 【2025-04-18】[ClickHouse / clickhouse-java](https://github.com/ClickHouse/clickhouse-java) - ClickHouse Java Clients & JDBC Driver
@@ -3770,6 +3771,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-04-23】[yagop / node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
+* 【2025-04-23】[Worklenz / worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 * 【2025-04-22】[discord / discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 * 【2025-04-21】[satellitecomponent / Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 * 【2025-04-20】[modstart-lib / ueditor-plus](https://github.com/modstart-lib/ueditor-plus) - 基于 UEditor 二次开发的富文本编辑器
@@ -4788,6 +4791,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-04-23】[cloudwego / eino-ext](https://github.com/cloudwego/eino-ext) - Various extensions for the Eino framework: https://github.com/cloudwego/eino
 * 【2025-04-22】[ltaoo / wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
 * 【2025-04-21】[ncruces / go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero
 * 【2025-04-21】[OWASP / Go-SCP](https://github.com/OWASP/Go-SCP) - Golang Secure Coding Practices guide
@@ -5773,6 +5777,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-04-23】[vgmstream / vgmstream](https://github.com/vgmstream/vgmstream) - vgmstream - A library for playback of various streamed audio formats used in video games.
 * 【2025-04-21】[oerg866 / win98-quickinstall](https://github.com/oerg866/win98-quickinstall) - A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a modern system
 * 【2025-04-20】[GermanAizek / WinRing0](https://github.com/GermanAizek/WinRing0) - WinRing0 is a hardware access library for Windows.
 * 【2025-04-19】[marcoroth / herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB parsing and tooling.
@@ -6623,6 +6628,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-04-23】[RCInet / LastEpoch_Mods](https://github.com/RCInet/LastEpoch_Mods) - MelonLoader Mods for LastEpoch
 * 【2025-04-18】[Lizonghang / prima.cpp](https://github.com/Lizonghang/prima.cpp) - prima.cpp: Speeding up 70B-scale LLM inference on low-resource everyday home clusters
 * 【2025-04-15】[HanGuo97 / flute](https://github.com/HanGuo97/flute) - Fast Matrix Multiplications for Lookup Table-Quantized LLMs
 * 【2025-04-13】[ezEngine / ezEngine](https://github.com/ezEngine/ezEngine) - An open source C++ game engine.
@@ -9855,6 +9861,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-04-23】[EmenstaNougat / ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) - The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing.
 * 【2025-04-22】[PanXProject / awesome-certificates](https://github.com/PanXProject/awesome-certificates) - Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business.
 * 【2025-04-19】[darkseal-org / lol-skins](https://github.com/darkseal-org/lol-skins) - [⭐] A community-maintained repository featuring all official League of Legends skins and chromas as custom skin format.
 * 【2025-04-18】[MicrosoftDocs / entra-docs](https://github.com/MicrosoftDocs/entra-docs) - This is the public repo for Microsoft Entra documentation
