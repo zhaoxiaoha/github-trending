@@ -1508,6 +1508,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-04-28】[oasisfeng / island](https://github.com/oasisfeng/island) - Island for Android
+* 【2025-04-28】[littlehorse-enterprises / littlehorse](https://github.com/littlehorse-enterprises/littlehorse) - LittleHorse Kernel: Open-Source Platform for Distributed Applications.
+* 【2025-04-28】[opensolon / solon](https://github.com/opensolon/solon) - 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java24. (Replaceable spring)
 * 【2025-04-26】[eclipse / openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 * 【2025-04-26】[msfroh / lucene-university](https://github.com/msfroh/lucene-university) - Self-contained worked examples of Apache Lucene features and functionality
 * 【2025-04-25】[metasfresh / metasfresh](https://github.com/metasfresh/metasfresh) - We do Open Source ERP - Fast, Flexible & Free Software to scale your Business.
@@ -3785,6 +3788,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-04-28】[tavily-ai / tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - 
 * 【2025-04-27】[Moustachauve / cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 * 【2025-04-24】[abhiz123 / todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server) - MCP server for Todoist integration enabling natural language task management with Claude
 * 【2025-04-23】[yagop / node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
@@ -4807,6 +4811,10 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-04-28】[GoogleCloudPlatform / kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
+* 【2025-04-28】[pterodactyl / wings](https://github.com/pterodactyl/wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
+* 【2025-04-28】[go-vikunja / vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
+* 【2025-04-28】[tilt-dev / tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 * 【2025-04-26】[cloudflare / cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 * 【2025-04-25】[autokitteh / autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
 * 【2025-04-25】[yannh / kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
@@ -6650,6 +6658,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-04-28】[AutoHotkey / AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 * 【2025-04-27】[intel / pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
 * 【2025-04-27】[libigl / libigl](https://github.com/libigl/libigl) - Simple MPL-2.0-licensed C++ geometry processing library.
 * 【2025-04-27】[ETLCPP / etl](https://github.com/ETLCPP/etl) - Embedded Template Library
@@ -7516,6 +7525,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-04-28】[Goob-Station / Goob-Station](https://github.com/Goob-Station/Goob-Station) - Wizden, but more random.
 * 【2025-04-24】[microsoft / Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Five lessons, learn how to really apply AI to your .NET Applications
 * 【2025-04-19】[BlendLog / MinerSearch](https://github.com/BlendLog/MinerSearch) - Program designed for search and kill silent miners
 * 【2025-04-19】[replaysMike / Binner](https://github.com/replaysMike/Binner) - Open source parts inventory system for makers, electronics hobby, and professional engineers
