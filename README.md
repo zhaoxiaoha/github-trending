@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2025-05-01】[QwenLM / Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2025-04-30】[carykh / jes](https://github.com/carykh/jes) - Jelly Evolution Simulator
 * 【2025-04-27】[rowboatlabs / rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
 * 【2025-04-27】[skypilot-org / skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
@@ -1509,6 +1510,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-05-01】[lavalink-devs / youtube-source](https://github.com/lavalink-devs/youtube-source) - A rewritten YouTube source manager for Lavaplayer.
 * 【2025-04-28】[oasisfeng / island](https://github.com/oasisfeng/island) - Island for Android
 * 【2025-04-28】[littlehorse-enterprises / littlehorse](https://github.com/littlehorse-enterprises/littlehorse) - LittleHorse Kernel: Open-Source Platform for Distributed Applications.
 * 【2025-04-28】[opensolon / solon](https://github.com/opensolon/solon) - 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java24. (Replaceable spring)
@@ -2335,6 +2337,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-05-01】[vllm-project / vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
+* 【2025-05-01】[aipotheosis-labs / aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
 * 【2025-04-29】[Blaizzy / mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS) and Speech-to-Speech (STS) library built on Apple's MLX framework, providing efficient speech synthesis on Apple Silicon.
 * 【2025-04-27】[Tencent / Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 * 【2025-04-26】[potamides / DeTikZify](https://github.com/potamides/DeTikZify) - Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ
@@ -4815,6 +4819,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-05-01】[kubernetes-sigs / aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) - CSI driver for Amazon EBS https://aws.amazon.com/ebs/
 * 【2025-04-30】[Tencent / AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.
 * 【2025-04-29】[metoro-io / mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
 * 【2025-04-28】[GoogleCloudPlatform / kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
@@ -5812,6 +5817,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-05-01】[torvalds / uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
 * 【2025-04-25】[microsoft / winfile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
 * 【2025-04-23】[vgmstream / vgmstream](https://github.com/vgmstream/vgmstream) - vgmstream - A library for playback of various streamed audio formats used in video games.
 * 【2025-04-21】[oerg866 / win98-quickinstall](https://github.com/oerg866/win98-quickinstall) - A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a modern system
@@ -6664,6 +6670,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-05-01】[MuShibo / Micro-Wheeled_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
 * 【2025-04-30】[googleapis / google-cloud-cpp](https://github.com/googleapis/google-cloud-cpp) - C++ Client Libraries for Google Cloud Services
 * 【2025-04-28】[AutoHotkey / AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 * 【2025-04-27】[intel / pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
@@ -8375,6 +8382,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-05-01】[dendianugerah / reubah](https://github.com/dendianugerah/reubah) - a web-based tool for processing images and converting documents with a simple interface
 * 【2025-04-29】[EmptyLibra / Configure-Xray-with-VLESS-Reality-on-VPS-server](https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server) - Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray-VPS-сервера (с протоколом VLESS XTLS-Reality через панель 3x-ui), а также настройке клиентских приложений (ПК и телефон)
 * 【2025-04-27】[john-friedman / datamule-python](https://github.com/john-friedman/datamule-python) - A package to work with SEC data. Incorporates datamule endpoints.
 * 【2025-04-18】[tc39 / proposal-enum](https://github.com/tc39/proposal-enum) - Proposal for ECMAScript enums
@@ -9910,6 +9918,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-05-01】[hzpt-inet-club / english-note](https://github.com/hzpt-inet-club/english-note) - 从0开始学习英语语法
 * 【2025-04-30】[hhhrrrttt222111 / Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
 * 【2025-04-29】[TianxingChen / Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
 * 【2025-04-27】[ZJU-LLMs / Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
