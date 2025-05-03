@@ -1,6 +1,10 @@
 ### Github热门项目
 ## All language
 
+* 【2025-05-03】[MODSetter / SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+* 【2025-05-03】[wonderwhy-er / DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+* 【2025-05-03】[cloudflare / agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
+* 【2025-05-03】[langwatch / langwatch](https://github.com/langwatch/langwatch) - The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨
 * 【2025-05-02】[transformerlab / transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
 * 【2025-05-02】[TheRobotStudio / SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100
 * 【2025-05-01】[QwenLM / Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
@@ -3796,6 +3800,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-05-03】[ubuntu / gnome-shell-extension-appindicator](https://github.com/ubuntu/gnome-shell-extension-appindicator) - Adds KStatusNotifierItem support to the Shell
 * 【2025-05-02】[muyoou / st-memory-enhancement](https://github.com/muyoou/st-memory-enhancement) - SillyTavern酒馆的长期记忆增强插件
 * 【2025-05-02】[json-schema-org / json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
 * 【2025-05-02】[department-of-veterans-affairs / vets-website](https://github.com/department-of-veterans-affairs/vets-website) - Frontend for VA.gov
@@ -4824,6 +4829,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-05-03】[benbjohnson / litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 * 【2025-05-02】[ibnaleem / gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 * 【2025-05-01】[kubernetes-sigs / aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) - CSI driver for Amazon EBS https://aws.amazon.com/ebs/
 * 【2025-04-30】[Tencent / AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.
@@ -5823,6 +5829,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-05-03】[cnlohr / mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
 * 【2025-05-01】[torvalds / uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
 * 【2025-04-25】[microsoft / winfile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
 * 【2025-04-23】[vgmstream / vgmstream](https://github.com/vgmstream/vgmstream) - vgmstream - A library for playback of various streamed audio formats used in video games.
@@ -6676,6 +6683,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-05-03】[jeremy-rifkin / cpptrace](https://github.com/jeremy-rifkin/cpptrace) - Simple, portable, and self-contained stacktrace library for C++11 and newer
+* 【2025-05-03】[Oneflow-Inc / oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
 * 【2025-05-02】[ramensoftware / windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 * 【2025-05-01】[MuShibo / Micro-Wheeled_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
 * 【2025-04-30】[googleapis / google-cloud-cpp](https://github.com/googleapis/google-cloud-cpp) - C++ Client Libraries for Google Cloud Services
@@ -7546,6 +7555,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-05-03】[meysamhadeli / monolith-to-cloud-architecture](https://github.com/meysamhadeli/monolith-to-cloud-architecture) - A practical architecture styles for migrating from monolith to modern cloud native application with the latest technologies and architectures like Vertical Slice Architecture, Event Sourcing, CQRS, DDD, gRpc, MongoDB, RabbitMq, and Masstransit in .Net 9.
+* 【2025-05-03】[SpaceTimee / Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 * 【2025-04-30】[xceedsoftware / wpftoolkit](https://github.com/xceedsoftware/wpftoolkit) - All the controls missing in WPF. Over 1 million downloads.
 * 【2025-04-29】[intro-skipper / intro-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 * 【2025-04-28】[Goob-Station / Goob-Station](https://github.com/Goob-Station/Goob-Station) - Wizden, but more random.
@@ -8389,6 +8400,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-05-03】[EltonChou / TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one-click.
 * 【2025-05-01】[dendianugerah / reubah](https://github.com/dendianugerah/reubah) - a web-based tool for processing images and converting documents with a simple interface
 * 【2025-04-29】[EmptyLibra / Configure-Xray-with-VLESS-Reality-on-VPS-server](https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server) - Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray-VPS-сервера (с протоколом VLESS XTLS-Reality через панель 3x-ui), а также настройке клиентских приложений (ПК и телефон)
 * 【2025-04-27】[john-friedman / datamule-python](https://github.com/john-friedman/datamule-python) - A package to work with SEC data. Incorporates datamule endpoints.
