@@ -2346,6 +2346,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-05-06】[trycua / cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 * 【2025-05-05】[jaakkopasanen / AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 * 【2025-05-04】[DachunKai / Ev-DeblurVSR](https://github.com/DachunKai/Ev-DeblurVSR) - [AAAI 2025] Event-Enhanced Blurry Video Super-Resolution
 * 【2025-05-01】[vllm-project / vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
@@ -3805,6 +3806,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-05-06】[serverless-dns / serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+* 【2025-05-06】[git-tips / tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 * 【2025-05-05】[ilyhalight / voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 * 【2025-05-03】[ubuntu / gnome-shell-extension-appindicator](https://github.com/ubuntu/gnome-shell-extension-appindicator) - Adds KStatusNotifierItem support to the Shell
 * 【2025-05-02】[muyoou / st-memory-enhancement](https://github.com/muyoou/st-memory-enhancement) - SillyTavern酒馆的长期记忆增强插件
@@ -4835,6 +4838,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-05-06】[sozercan / kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
 * 【2025-05-05】[googleapis / go-genai](https://github.com/googleapis/go-genai) - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
 * 【2025-05-05】[blacktop / ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 * 【2025-05-04】[helmfile / helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
