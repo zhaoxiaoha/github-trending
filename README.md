@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2025-05-11】[shane-mason / FieldStation42](https://github.com/shane-mason/FieldStation42) - Broadcast TV simulator
+* 【2025-05-11】[panaversity / learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
 * 【2025-05-10】[longbridge / gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
 * 【2025-05-10】[element-plus / element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 * 【2025-05-10】[mason-org / mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -2357,6 +2359,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-05-11】[langgenius / dify-official-plugins](https://github.com/langgenius/dify-official-plugins) - 
 * 【2025-05-10】[bee-san / Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * 【2025-05-07】[Capsize-Games / airunner](https://github.com/Capsize-Games/airunner) - Privacy focused, local-first, multi-modal inference engine and agent platform for running LLMs, image generation, speech processing, and tool-based automation
 * 【2025-05-07】[HarrisonKramer / optiland](https://github.com/HarrisonKramer/optiland) - Comprehensive optical design, optimization, and analysis in Python, including GPU-accelerated and differentiable ray tracing via PyTorch.
@@ -3823,6 +3826,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-05-11】[certd / certd](https://github.com/certd/certd) - 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署
 * 【2025-05-09】[zhaoolee / ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 * 【2025-05-09】[webpack / webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
 * 【2025-05-08】[modelcontextprotocol / servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -8449,6 +8453,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-05-11】[DhanushNehru / Ultimate-Web-Development-Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) - A collection of web development resources for most of your development needs
 * 【2025-05-10】[NightProxy / Space](https://github.com/NightProxy/Space) - Space is a modern, and clean web proxy with many games, apps and features.
 * 【2025-05-07】[Blobby-Boi / ExtPrint3r](https://github.com/Blobby-Boi/ExtPrint3r) - An exploit that allows ChromeOS users to kill extensions by printing iframes. The successor to ExtHang3r.
 * 【2025-05-03】[EltonChou / TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one-click.
@@ -9187,6 +9192,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-05-11】[xiangjianan / lks](https://github.com/xiangjianan/lks) - 
 * 【2025-05-05】[fauzanmy / pehtheme-hugo](https://github.com/fauzanmy/pehtheme-hugo) - The Hugo theme is inspired by Material Design version 3, built with love using Tailwind CSS.
 * 【2025-04-18】[carbonwallet / carbonwallet.github.io](https://github.com/carbonwallet/carbonwallet.github.io) - 
 * 【2025-04-11】[dhg / Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
@@ -9989,6 +9995,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-05-11】[fudan-generative-vision / OpenHumanVid](https://github.com/fudan-generative-vision/OpenHumanVid) - [CVPR 2025] A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation
 * 【2025-05-10】[logpai / loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
 * 【2025-05-10】[cipher387 / API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 * 【2025-05-01】[hzpt-inet-club / english-note](https://github.com/hzpt-inet-club/english-note) - 从0开始学习英语语法
