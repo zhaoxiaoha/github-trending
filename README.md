@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2025-05-20】[facebook / pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 * 【2025-05-19】[ed-donner / llm_engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course
 * 【2025-05-18】[itdoginfo / podkop](https://github.com/itdoginfo/podkop) - Dev podkop
 * 【2025-05-17】[git-bug / git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
@@ -3846,6 +3847,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-05-20】[kmeps4 / PSFree](https://github.com/kmeps4/PSFree) - PSFree WebKit Exploit & Lapse Kernel Exploit For PS4 9.00 [WIP] By abc
 * 【2025-05-15】[OpenZeppelin / openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) - Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts.
 * 【2025-05-14】[evalstate / fast-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows
 * 【2025-05-13】[tidalcycles / strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
@@ -6765,6 +6767,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-05-20】[supercollider / supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 * 【2025-05-17】[berthrage / Devil-May-Cry-3-Crimson](https://github.com/berthrage/Devil-May-Cry-3-Crimson) - New Gameplay Options, Visual/Sound updates, Multiplayer, Fixes and more for Devil May Cry 3 (HD Collection version), based on DDMK.
 * 【2025-05-16】[chromiumembedded / cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
 * 【2025-05-10】[isledecomp / isle](https://github.com/isledecomp/isle) - A functionally complete decompilation of LEGO Island (1997)
