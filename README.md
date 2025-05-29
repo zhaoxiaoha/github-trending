@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2025-05-29】[NomicFoundation / hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
+* 【2025-05-29】[Lagrange-Labs / deep-prove](https://github.com/Lagrange-Labs/deep-prove) - Framework to prove inference of ML models blazingly fast
 * 【2025-05-28】[stalwartlabs / stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 * 【2025-05-27】[nvim-treesitter / nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 * 【2025-05-27】[slowlydev / f1-dash](https://github.com/slowlydev/f1-dash) - A real-time F1 dashboard
@@ -4922,6 +4924,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-05-29】[manusa / kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 * 【2025-05-28】[mark3labs / mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) - Go server implementing Model Context Protocol (MCP) for filesystem operations.
 * 【2025-05-27】[applejag / kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 * 【2025-05-26】[Xpl0itU / WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - Allows to download encrypted wiiu files from nintendo's official servers
@@ -5943,6 +5946,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-05-29】[FlyGoat / csmwrap](https://github.com/FlyGoat/csmwrap) - Get PC BIOS back on UEFI only system
 * 【2025-05-24】[jniebuhr / gaggimate](https://github.com/jniebuhr/gaggimate) - This project upgrades a Gaggia espresso machine with smart controls to improve your coffee-making experience. By adding a display and custom electronics, you can monitor and control the machine more easily.
 * 【2025-05-24】[FDio / vpp](https://github.com/FDio/vpp) - Mirror of VPP code base hosted at git.fd.io
 * 【2025-05-23】[vanilla-wiiu / vanilla](https://github.com/vanilla-wiiu/vanilla) - 
@@ -9295,6 +9299,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-05-29】[wso2 / docs-apim](https://github.com/wso2/docs-apim) - 
 * 【2025-05-27】[mattermost / mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation) - Mattermost developer documentation.
 * 【2025-05-27】[cormullion / juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 * 【2025-05-22】[sameerasw / my-internet](https://github.com/sameerasw/my-internet) - Custom CSS to make the web transparent, beautiful and zen. Main style repo for the Zen Internet add-on
