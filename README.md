@@ -1581,6 +1581,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-06-21】[alibaba / fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics.
 * 【2025-06-20】[pixelsdb / pixels](https://github.com/pixelsdb/pixels) - An efficient storage and compute engine for both on-prem and cloud-native data analytics.
 * 【2025-06-09】[GeyserMC / Hydraulic](https://github.com/GeyserMC/Hydraulic) - A companion mod to Geyser which allows for Bedrock players to join modded Minecraft: Java Edition servers.
 * 【2025-06-07】[DragonKingpin / Hydra](https://github.com/DragonKingpin/Hydra) - Hydra九头龙，面向PB级别知识库取数、情报系统、数据平台、大规模控制调度系统。建设云计算资源管理、任务/服务统一调度、数仓、微服务化、中台基建系统化能力。——以实现大规模分布式爬虫搜索引擎为例。
@@ -2417,6 +2418,11 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-06-21】[hiyouga / EasyR1](https://github.com/hiyouga/EasyR1) - EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL
+* 【2025-06-21】[dottxt-ai / outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
+* 【2025-06-21】[tadata-org / fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+* 【2025-06-21】[e-p-armstrong / augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create Custom LLMs
+* 【2025-06-21】[facebookresearch / ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 * 【2025-06-20】[NVIDIA / TransformerEngine](https://github.com/NVIDIA/TransformerEngine) - A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper, Ada and Blackwell GPUs, to provide better performance with lower memory utilization in both training and inference.
 * 【2025-06-18】[facebookresearch / vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
 * 【2025-06-17】[pixeltable / pixeltable](https://github.com/pixeltable/pixeltable) - Pixeltable — AI Data infrastructure providing a declarative, incremental approach for multimodal workloads.
@@ -6904,6 +6910,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-06-21】[lynx-family / lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 * 【2025-06-20】[stereolabs / zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper for the ZED SDK
 * 【2025-06-12】[ml-explore / mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 * 【2025-06-11】[gabrielsoule / resonarium](https://github.com/gabrielsoule/resonarium) - An expressive, semi-modular, and comprehensive physical modeling/waveguide synthesizer.
@@ -7801,6 +7808,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-06-21】[CoderGamester / mcp-unity](https://github.com/CoderGamester/mcp-unity) - Unity plugin for integrating Model Context Protocol (MCP) with the Unity Editor — designed for AI-assisted development and OpenAI, Gemini and Claude interoperability
 * 【2025-06-17】[modelcontextprotocol / csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
 * 【2025-06-13】[fluentcms / FluentCMS](https://github.com/fluentcms/FluentCMS) - ASP.NET Core Blazor Content Management System (CMS)
 * 【2025-06-13】[not-nullptr / Aerochat](https://github.com/not-nullptr/Aerochat) - Native rewrite of Aerochat, a WLM 09 themed Discord client
@@ -9419,6 +9427,8 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-06-21】[keploy / student-program](https://github.com/keploy/student-program) - 
+* 【2025-06-21】[selkies-project / selkies](https://github.com/selkies-project/selkies) - Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
 * 【2025-06-13】[rust-lang / rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 * 【2025-06-13】[google-gemini / gemini-api-quickstart](https://github.com/google-gemini/gemini-api-quickstart) - Get up and running with the Gemini API in under 5 minutes (with Python)
 * 【2025-06-11】[B00merang-Project / Windows-XP](https://github.com/B00merang-Project/Windows-XP) - Windows XP themes
