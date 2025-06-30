@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2025-06-30】[octra-labs / wallet-gen](https://github.com/octra-labs/wallet-gen) - 
+* 【2025-06-30】[jnsahaj / tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
+* 【2025-06-30】[zyronon / typing-word](https://github.com/zyronon/typing-word) - 在网页上背单词
 * 【2025-06-29】[rommapp / romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 * 【2025-06-27】[nexus-xyz / nexus-cli](https://github.com/nexus-xyz/nexus-cli) - Command line interface for supplying proofs to the Nexus network.
 * 【2025-06-26】[vitejs / vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -1591,6 +1594,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-06-30】[ReSo7200 / InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 * 【2025-06-29】[Alovoa / alovoa](https://github.com/Alovoa/alovoa) - Free and open-source dating platform that respects your privacy
 * 【2025-06-28】[LianjiaTech / retrofit-spring-boot-starter](https://github.com/LianjiaTech/retrofit-spring-boot-starter) - A spring-boot starter for retrofit, supports rapid integration and feature enhancements.（适用于retrofit的spring-boot-starter，支持快速集成和功能增强）
 * 【2025-06-27】[openid / AppAuth-Android](https://github.com/openid/AppAuth-Android) - Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
@@ -2435,6 +2439,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-06-30】[neo4j-contrib / mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) - Model Context Protocol with Neo4j
 * 【2025-06-29】[google-deepmind / alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 * 【2025-06-29】[huangjunsen0406 / py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人,如果可以请点个小星星！在重构！重构完会合并到main
 * 【2025-06-27】[LearningCircuit / local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources including academic databases, scientific repositories, web content, and private document collections.
@@ -5036,6 +5041,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-06-30】[Dyneteq / reconya](https://github.com/Dyneteq/reconya) - Network reconnaissance and asset discovery tool
+* 【2025-06-30】[blampe / rreading-glasses](https://github.com/blampe/rreading-glasses) - Corrective lenses for curmudgeonly readars in your life
 * 【2025-06-27】[nxtrace / NTrace-core](https://github.com/nxtrace/NTrace-core) - NextTrace, an open source visual route tracking CLI tool
 * 【2025-06-26】[oras-project / oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 * 【2025-06-25】[weibaohui / k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
@@ -6956,6 +6963,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-06-30】[anthwlock / untrunc](https://github.com/anthwlock/untrunc) - Restore a truncated mp4/mov. Improved version of ponchio/untrunc
+* 【2025-06-30】[Mahdi-zarei / nekoray](https://github.com/Mahdi-zarei/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 * 【2025-06-26】[MrNeRF / gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
 * 【2025-06-26】[airockchip / rknn-llm](https://github.com/airockchip/rknn-llm) - 
 * 【2025-06-24】[badaix / snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
@@ -7858,6 +7867,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-06-30】[justinpbarnett / unity-mcp](https://github.com/justinpbarnett/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
 * 【2025-06-28】[miroslavpejic85 / p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
 * 【2025-06-22】[syncfusion / maui-toolkit](https://github.com/syncfusion/maui-toolkit) - Syncfusion Toolkit for .NET MAUI offers high-quality UI controls to help you build rich, high-performance applications for iOS, Android, macOS, and Windows from a single codebase
 * 【2025-06-21】[CoderGamester / mcp-unity](https://github.com/CoderGamester/mcp-unity) - Unity plugin for integrating Model Context Protocol (MCP) with the Unity Editor — designed for AI-assisted development and OpenAI, Gemini and Claude interoperability
@@ -10301,6 +10311,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-06-30】[biliticket / BHYG](https://github.com/biliticket/BHYG) - B站 BW bilibiliworld 会员购 抢票 脚本
 * 【2025-06-29】[Makerr-Studio / CentrifugalDustSeparator-](https://github.com/Makerr-Studio/CentrifugalDustSeparator-) - Centrifugal Dust Separator - 3D Files for printing
 * 【2025-06-29】[tc39 / proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
 * 【2025-06-27】[btw-so / open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products.
