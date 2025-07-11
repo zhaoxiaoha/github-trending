@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2025-07-11】[WordPress / wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
+* 【2025-07-11】[snap-stanford / Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
+* 【2025-07-11】[flutter / packages](https://github.com/flutter/packages) - A collection of useful packages maintained by the Flutter team
 * 【2025-07-10】[ed-donner / agents](https://github.com/ed-donner/agents) - Repo for the Complete Agentic AI Engineering Course
 * 【2025-07-10】[wanghongenpin / proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems
 * 【2025-07-10】[strapi / strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -2457,6 +2460,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-07-11】[ali-vilab / VACE](https://github.com/ali-vilab/VACE) - Official implementations for paper: VACE: All-in-One Video Creation and Editing
+* 【2025-07-11】[huggingface / smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
 * 【2025-07-10】[awslabs / mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
 * 【2025-07-10】[D4Vinci / Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 * 【2025-07-10】[coleam00 / ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass) - Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!
@@ -5077,6 +5082,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-07-11】[beam-cloud / beta9](https://github.com/beam-cloud/beta9) - Secure, high-performance AI infrastructure in Python.
 * 【2025-07-08】[PlakarKorp / plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 * 【2025-07-07】[qichiyuhub / rule](https://github.com/qichiyuhub/rule) - Clash、Sing-box、等分流规则
 * 【2025-07-05】[yusing / godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
@@ -6126,6 +6132,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-07-11】[rbaron / b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 An open source DIY soil moisture sensor
 * 【2025-07-09】[geany / geany](https://github.com/geany/geany) - A fast and lightweight IDE
 * 【2025-07-08】[ripplebiz / MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 * 【2025-07-08】[manaskamal / XenevaOS](https://github.com/manaskamal/XenevaOS) - The Xeneva Operating System
@@ -7012,6 +7019,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-07-11】[f3d-app / f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 * 【2025-07-08】[LeagueToolkit / cslol-manager](https://github.com/LeagueToolkit/cslol-manager) - 
 * 【2025-07-08】[nomacs / nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
 * 【2025-07-05】[prajna-lang / prajna](https://github.com/prajna-lang/prajna) - a simple general program language
@@ -7922,6 +7930,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-07-11】[pnp / powershell](https://github.com/pnp/powershell) - PnP PowerShell
 * 【2025-07-10】[ipodtouch0218 / NSMB-MarioVsLuigi](https://github.com/ipodtouch0218/NSMB-MarioVsLuigi) - Standalone Unity remake of New Super Mario Bros DS' multiplayer gamemode, "Mario vs Luigi"
 * 【2025-07-08】[cschneegans / unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 * 【2025-07-08】[Maassoft / ColorControl](https://github.com/Maassoft/ColorControl) - Easily change NVIDIA display settings and/or control LG TV's
