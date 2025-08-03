@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2025-08-03】[tonsky / FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 * 【2025-08-02】[dyad-sh / dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
 * 【2025-08-02】[playcanvas / editor](https://github.com/playcanvas/editor) - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
 * 【2025-08-02】[TideDra / zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) - Recommend new arxiv papers of your interest daily according to your Zotero libarary.
@@ -1637,6 +1638,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-08-03】[OWASP-Benchmark / BenchmarkJava](https://github.com/OWASP-Benchmark/BenchmarkJava) - OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually expl…
 * 【2025-08-01】[gravitee-io / gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management
 * 【2025-08-01】[opensearch-project / data-prepper](https://github.com/opensearch-project/data-prepper) - OpenSearch Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale.
 * 【2025-07-29】[NemProject / nem](https://github.com/NemProject/nem) - number go up 💹
@@ -2495,6 +2497,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-08-03】[GongRzhe / Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) - A MCP (Model Context Protocol) server for PowerPoint manipulation using python-pptx. This server provides tools for creating, editing, and manipulating PowerPoint presentations through the MCP protocol.
+* 【2025-08-03】[nerfstudio-project / viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization + Python
 * 【2025-08-02】[chu23465 / VT-PR](https://github.com/chu23465/VT-PR) - VineTrimmer with PlayReady and WideVine support, WIP. A DRM Removal Framework for Streaming Services.
 * 【2025-08-01】[microsoft / mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
 * 【2025-08-01】[nikmcfly / ANUS](https://github.com/nikmcfly/ANUS) - 
@@ -4072,6 +4076,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-08-03】[google / earthengine-api](https://github.com/google/earthengine-api) - Python and JavaScript bindings for calling the Earth Engine API.
 * 【2025-08-01】[viatsko / awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 * 【2025-08-01】[josdejong / jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 * 【2025-07-30】[zumerlab / snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
@@ -5160,6 +5165,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-08-03】[hypermodeinc / dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
 * 【2025-08-01】[sst / opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 * 【2025-07-31】[envoyproxy / ai-gateway](https://github.com/envoyproxy/ai-gateway) - Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.
 * 【2025-07-30】[inngest / inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.
@@ -7126,6 +7132,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-08-03】[google / longfellow-zk](https://github.com/google/longfellow-zk) - Implementation of the Google Zero-Knowledge library for Identity Protocols.
+* 【2025-08-03】[paullouisageneau / libdatachannel](https://github.com/paullouisageneau/libdatachannel) - C/C++ WebRTC network library featuring Data Channels, Media Transport, and WebSockets
 * 【2025-07-29】[facebook / watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 * 【2025-07-29】[OHF-Voice / piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
 * 【2025-07-24】[SatDump / SatDump](https://github.com/SatDump/SatDump) - A generic satellite data processing software.
@@ -8943,6 +8951,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-08-03】[Azure-Samples / SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
 * 【2025-07-28】[AOSC-Dev / aosc-os-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration, scripts, and patches
 * 【2025-07-27】[ant-design / pro-components](https://github.com/ant-design/pro-components) - 🏆 Use Ant Design like a Pro!
 * 【2025-07-24】[jolibrain / colette](https://github.com/jolibrain/colette) - Multimodal RAG to search and interact locally with technical documents of any kind
