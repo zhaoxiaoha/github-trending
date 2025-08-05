@@ -2500,6 +2500,10 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-08-05】[resemble-ai / chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
+* 【2025-08-05】[google / adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development (ADK)
+* 【2025-08-05】[Tautulli / Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
+* 【2025-08-05】[stanford-cs336 / spring2025-lectures](https://github.com/stanford-cs336/spring2025-lectures) - 
 * 【2025-08-03】[GongRzhe / Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) - A MCP (Model Context Protocol) server for PowerPoint manipulation using python-pptx. This server provides tools for creating, editing, and manipulating PowerPoint presentations through the MCP protocol.
 * 【2025-08-03】[nerfstudio-project / viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization + Python
 * 【2025-08-02】[chu23465 / VT-PR](https://github.com/chu23465/VT-PR) - VineTrimmer with PlayReady and WideVine support, WIP. A DRM Removal Framework for Streaming Services.
@@ -8057,6 +8061,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-08-05】[pixeltris / YgoMaster](https://github.com/pixeltris/YgoMaster) - Offline Yu-Gi-Oh! Master Duel
 * 【2025-08-02】[Arcenox-co / TickerQ](https://github.com/Arcenox-co/TickerQ) - TickerQ is a fast, reflection-free background task scheduler for .NET — built with source generators, EF Core integration, cron + time-based execution, and a real-time dashboard.
 * 【2025-08-02】[PixiEditor / PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 * 【2025-08-01】[Luca3317 / TMPEffects](https://github.com/Luca3317/TMPEffects) - Easily animate Unity text and apply other effects with custom tags
