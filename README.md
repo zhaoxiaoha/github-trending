@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2025-08-10】[lfnovo / open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 * 【2025-08-09】[openai / codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 * 【2025-08-08】[xiaoyaocz / dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
 * 【2025-08-07】[themactep / thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras
@@ -1645,6 +1646,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-08-10】[FrosSky / Chevstrap](https://github.com/FrosSky/Chevstrap) - Chevstrap is an enhanced Roblox and Roblox VN launcher, built specifically for Android and inspired by Bloxstrap.
 * 【2025-08-08】[google / adk-java](https://github.com/google/adk-java) - An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 * 【2025-08-06】[babyfish-ct / jimmer](https://github.com/babyfish-ct/jimmer) - The most advanced ORM of JVM, for both java & kotlin
 * 【2025-08-04】[Wurst-Imperium / Wurst7](https://github.com/Wurst-Imperium/Wurst7) - Minecraft Wurst Hacked Client v7
@@ -2508,6 +2510,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-08-10】[Pointcept / Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
+* 【2025-08-10】[dataease / SQLBot](https://github.com/dataease/SQLBot) - 基于大模型和 RAG 的智能问数系统
 * 【2025-08-08】[google / adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 * 【2025-08-07】[hao-ai-lab / FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post-training framework for accelerated video generation.
 * 【2025-08-07】[JudgmentLabs / judgeval](https://github.com/JudgmentLabs/judgeval) - The open source post-building layer for agents. Our traces + evals power agent post-training (RL, SFT), monitoring, and regression testing.
