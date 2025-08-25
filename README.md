@@ -2540,6 +2540,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-08-25】[openai / mle-bench](https://github.com/openai/mle-bench) - MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering
 * 【2025-08-24】[1rgs / claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
 * 【2025-08-24】[SamuelSchmidgall / AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
 * 【2025-08-24】[Arindam200 / awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
@@ -5259,6 +5260,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-08-25】[google / mangle](https://github.com/google/mangle) - 
 * 【2025-08-24】[flexprice / flexprice](https://github.com/flexprice/flexprice) - Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature access
 * 【2025-08-23】[OpenCSGs / csghub-server](https://github.com/OpenCSGs/csghub-server) - csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.
 * 【2025-08-23】[korotovsky / slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, multiple transports Stdio and SSE, DMs, Group DMs and smart history fetch logic.
@@ -7250,6 +7252,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-08-25】[2swap / swaptube](https://github.com/2swap/swaptube) - youtube video renderer
+* 【2025-08-25】[Ardour / ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
 * 【2025-08-21】[ROCm / rocm-systems](https://github.com/ROCm/rocm-systems) - super repo for rocm systems projects
 * 【2025-08-18】[DS-Homebrew / TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
 * 【2025-08-17】[PanosK92 / SpartanEngine](https://github.com/PanosK92/SpartanEngine) - A game engine with an emphasis on real-time cutting-edge solutions
@@ -8181,6 +8185,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-08-25】[NickvisionApps / Denaro](https://github.com/NickvisionApps/Denaro) - Manage your personal finances
 * 【2025-08-24】[Ottermandias / Glamourer](https://github.com/Ottermandias/Glamourer) - Change outside appearance of actors using Penumbra.
 * 【2025-08-23】[microsoft / mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
 * 【2025-08-21】[microsoftgraph / msgraph-sdk-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) - Powershell SDK for Microsoft Graph
@@ -9864,6 +9869,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-08-25】[sameemul-haque / dotfiles](https://github.com/sameemul-haque/dotfiles) - ✨ Hyprland + Waybar with Catppuccin theme • Arch Linux
 * 【2025-08-21】[Nayanika1402 / RuRal-ReTreats](https://github.com/Nayanika1402/RuRal-ReTreats) - RuralRetreats is a unique website designed to connect travelers with the charm of rural life.
 * 【2025-08-20】[Parnab03 / WallGodds](https://github.com/Parnab03/WallGodds) - A modern wallpaper website offering high-quality wallpapers for mobile, tablet, and desktop devices. Features include user uploads, categorization, and profile management.
 * 【2025-08-17】[bigskysoftware / missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
