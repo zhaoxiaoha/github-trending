@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2025-09-04】[oraios / serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+* 【2025-09-04】[carthage-software / mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 * 【2025-09-03】[LukeGus / Termix](https://github.com/LukeGus/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 * 【2025-08-31】[elixir-lang / expert](https://github.com/elixir-lang/expert) - Official Elixir Language Server Protocol implementation
 * 【2025-08-31】[bin456789 / reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
@@ -2551,6 +2553,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-09-04】[murtaza-nasir / maestro](https://github.com/murtaza-nasir/maestro) - MAESTRO is an AI-powered research application designed to streamline complex research tasks.
+* 【2025-09-04】[microsoft / rStar](https://github.com/microsoft/rStar) - 
+* 【2025-09-04】[JefferyHcool / BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 * 【2025-09-03】[allenai / OLMoASR](https://github.com/allenai/OLMoASR) - An open-source implementation of Whisper
 * 【2025-09-01】[llamastack / llama-stack](https://github.com/llamastack/llama-stack) - Composable building blocks to build Llama Apps
 * 【2025-09-01】[pwndbg / pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
@@ -7299,6 +7304,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-09-04】[CloudCompare / CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare main repository
 * 【2025-09-02】[ITotalJustice / sphaira](https://github.com/ITotalJustice/sphaira) - A homebrew menu for the Nintendo Switch
 * 【2025-09-01】[underpig1 / octos](https://github.com/underpig1/octos) - Create and share web-based interactive, animated wallpapers on Windows 🚀 Available on the Microsoft Store
 * 【2025-08-31】[unitreerobotics / unitree_ros2](https://github.com/unitreerobotics/unitree_ros2) - 
