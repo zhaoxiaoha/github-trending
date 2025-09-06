@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2025-09-06】[nukeop / nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+* 【2025-09-06】[EvolutionAPI / evolution-api](https://github.com/EvolutionAPI/evolution-api) - Evolution API is an open-source WhatsApp integration API
 * 【2025-09-05】[weaviate / elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app.
 * 【2025-09-05】[socfortress / Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
 * 【2025-09-04】[oraios / serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
@@ -2555,6 +2557,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-09-06】[qwersyk / Newelle](https://github.com/qwersyk/Newelle) - Newelle - Your Ultimate Virtual Assistant
 * 【2025-09-05】[slavakurilyak / awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 * 【2025-09-04】[murtaza-nasir / maestro](https://github.com/murtaza-nasir/maestro) - MAESTRO is an AI-powered research application designed to streamline complex research tasks.
 * 【2025-09-04】[microsoft / rStar](https://github.com/microsoft/rStar) - 
@@ -7310,6 +7313,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-09-06】[haoel / leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 * 【2025-09-04】[CloudCompare / CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare main repository
 * 【2025-09-02】[ITotalJustice / sphaira](https://github.com/ITotalJustice/sphaira) - A homebrew menu for the Nintendo Switch
 * 【2025-09-01】[underpig1 / octos](https://github.com/underpig1/octos) - Create and share web-based interactive, animated wallpapers on Windows 🚀 Available on the Microsoft Store
@@ -8248,6 +8252,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-09-06】[teelur / budget-board](https://github.com/teelur/budget-board) - A simple app for tracking monthly spending and working towards financial goals.
 * 【2025-09-05】[jbogard / ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - With Razor Pages
 * 【2025-09-03】[Planshit / ProjectEye](https://github.com/Planshit/ProjectEye) - 😎 一个基于20-20-20规则的用眼休息提醒Windows软件
 * 【2025-09-03】[Achuan-2 / SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT plugin, supports one-click to add image titles, copy and paste positions, one-click image alignment, and one-click to insert Markdown (including bold, hyperlinks, and other inline styles, as well as code blocks, LaTeX, and other block-level styles)! PPT插件，支持一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！
@@ -9165,6 +9170,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-09-06】[polarsys / b612](https://github.com/polarsys/b612) - Eclipse B612
 * 【2025-09-02】[ArjanCodes / examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos
 * 【2025-08-31】[MonkeyGG2 / monkeygg2.github.io](https://github.com/MonkeyGG2/monkeygg2.github.io) - Feature-rich games site with 150+ games. Can be easily deployed with a proxy.
 * 【2025-08-28】[quinlan-lab / applied-computational-genomics](https://github.com/quinlan-lab/applied-computational-genomics) - Applied Computational Genomics Course at UU: Spring 2020
@@ -10795,6 +10801,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-09-06】[jaw9c / awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - Remote MCP Servers
 * 【2025-08-31】[zju3dv / MatchAnything](https://github.com/zju3dv/MatchAnything) - Code for "MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training", Arxiv 2025.
 * 【2025-08-30】[microsoft / PowerAppsCodeApps](https://github.com/microsoft/PowerAppsCodeApps) - Create custom web application to run within Power Apps!
 * 【2025-08-24】[Arudjreis / awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
