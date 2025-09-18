@@ -1,6 +1,11 @@
 ### Github热门项目
 ## All language
 
+* 【2025-09-18】[category-labs / monad](https://github.com/category-labs/monad) - 
+* 【2025-09-18】[category-labs / monad-bft](https://github.com/category-labs/monad-bft) - 
+* 【2025-09-18】[Alibaba-NLP / DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
+* 【2025-09-18】[nanobrowser / nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+* 【2025-09-18】[facebookresearch / detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 * 【2025-09-17】[ArthurBrussee / brush](https://github.com/ArthurBrussee/brush) - 3D Reconstruction for all
 * 【2025-09-16】[mnh-jansson / open-battery-information](https://github.com/mnh-jansson/open-battery-information) - 
 * 【2025-09-15】[docker / mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
@@ -4222,6 +4227,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-09-18】[httptoolkit / frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
 * 【2025-09-17】[arkime / arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
 * 【2025-09-16】[bloodorca / hollow](https://github.com/bloodorca/hollow) - Online Hollow Knight save file editor .
 * 【2025-09-15】[home-sweet-gnome / dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
@@ -9238,6 +9244,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-09-18】[whatwg / fetch](https://github.com/whatwg/fetch) - Fetch Standard
 * 【2025-09-17】[FlowFuse / node-red-dashboard](https://github.com/FlowFuse/node-red-dashboard) - 
 * 【2025-09-15】[DigitalPlatDev / FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 * 【2025-09-06】[polarsys / b612](https://github.com/polarsys/b612) - Eclipse B612
@@ -10877,6 +10884,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-09-18】[SpotCompiled / SpotC-Plus-Plus](https://github.com/SpotCompiled/SpotC-Plus-Plus) - Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement.
 * 【2025-09-16】[snarktank / ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 * 【2025-09-14】[Azure / AI-Landing-Zones](https://github.com/Azure/AI-Landing-Zones) - The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform and portal
 * 【2025-09-13】[ujjwalkarn / Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
