@@ -8330,6 +8330,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-09-22】[openhardwaremonitor / openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) - Open Hardware Monitor
 * 【2025-09-19】[Escartem / AnimeStudio](https://github.com/Escartem/AnimeStudio) - Updated AssetStudio, supports GI 6.0+, HSR 3.5+, ZZZ 2.2+, with improvements and new features (*ﾟ∀ﾟ*)
 * 【2025-09-19】[s1t5 / mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration and a dashboard.
 * 【2025-09-16】[ramjke / Translumo](https://github.com/ramjke/Translumo) - Advanced real-time screen translator for games, hardcoded subtitles in videos, static text and etc.
