@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2025-09-25】[cloudflare / capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
+* 【2025-09-25】[HKUDS / RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
+* 【2025-09-25】[bytedance / Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 * 【2025-09-24】[foundry-rs / foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 * 【2025-09-24】[Kludex / uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python. 🦄
 * 【2025-09-21】[winfunc / opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
@@ -2590,6 +2593,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-09-25】[Klavis-AI / klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25): MCP integration layers that let AI agents use thousands of tools reliably.
 * 【2025-09-24】[Olow304 / memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 * 【2025-09-23】[kaixxx / noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
 * 【2025-09-21】[google-agentic-commerce / a2a-x402](https://github.com/google-agentic-commerce/a2a-x402) - The A2A x402 Extension brings cryptocurrency payments to the Agent-to-Agent (A2A) protocol, enabling agents to monetize their services through on-chain payments. This extension revives the spirit of HTTP 402 "Payment Required" for the decentralized agent ecosystem.
@@ -4242,6 +4246,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-09-25】[asterdex / api-docs](https://github.com/asterdex/api-docs) - 
 * 【2025-09-23】[andrepimenta / claude-code-chat](https://github.com/andrepimenta/claude-code-chat) - Beautiful Claude Code Chat Interface for VS Code
 * 【2025-09-19】[angular / angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 * 【2025-09-18】[httptoolkit / frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
@@ -5372,6 +5377,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-09-25】[base / node](https://github.com/base/node) - Everything required to run your own Base node
 * 【2025-09-16】[tbphp / gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 * 【2025-09-15】[hteen / apple-store-helper](https://github.com/hteen/apple-store-helper) - Apple Store iPhone预约助手
 * 【2025-09-15】[docker / mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
@@ -7393,6 +7399,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-09-25】[Byrom90 / XeUnshackle](https://github.com/Byrom90/XeUnshackle) - Custom Xbox 360 app designed to be used with the Xbox360BadUpdate exploit. Applies a set of HV/Kernel patches & loads the Dashlaunch system module (launch.xex).
 * 【2025-09-16】[skift-org / skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system
 * 【2025-09-13】[argotorg / solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 * 【2025-09-12】[ashtf8 / PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
@@ -8337,6 +8344,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2025-09-25】[studyzy / imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
 * 【2025-09-24】[GermanCoding / SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
 * 【2025-09-24】[litedb-org / LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 * 【2025-09-22】[openhardwaremonitor / openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) - Open Hardware Monitor
@@ -9269,6 +9277,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-09-25】[OCA / account-invoicing](https://github.com/OCA/account-invoicing) - Odoo Invoicing Extension Addons
 * 【2025-09-24】[aave / aave-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1.0 - Decentralized Lending Pools
 * 【2025-09-18】[whatwg / fetch](https://github.com/whatwg/fetch) - Fetch Standard
 * 【2025-09-17】[FlowFuse / node-red-dashboard](https://github.com/FlowFuse/node-red-dashboard) - 
