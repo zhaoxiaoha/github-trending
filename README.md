@@ -2636,6 +2636,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-10-13】[LuckyOne7777 / ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 * 【2025-10-12】[Ksuriuri / index-tts-vllm](https://github.com/Ksuriuri/index-tts-vllm) - Added vLLM support to IndexTTS for faster inference.
 * 【2025-10-12】[cython / cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 * 【2025-10-12】[OpenRLHF / OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework based on Ray (PPO & GRPO & REINFORCE++ & vLLM & Ray & Dynamic Sampling & Async Agentic RL)
@@ -4311,6 +4312,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-10-13】[scribeocr / scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully-digitized documents.
 * 【2025-10-11】[davila7 / claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 * 【2025-10-11】[kairi003 / Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies.txt, NEVER send information outside.
 * 【2025-10-09】[fineanmol / Hacktoberfest2025](https://github.com/fineanmol/Hacktoberfest2025) - Make your first Pull Request on Hacktoberfest 2025. Don't forget to spread love and if you like give us a ⭐️
@@ -5454,6 +5456,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-10-13】[OffchainLabs / prysm](https://github.com/OffchainLabs/prysm) - Go implementation of Ethereum proof of stake
 * 【2025-10-07】[yonahd / kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 * 【2025-10-02】[crawlab-team / crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 * 【2025-10-02】[charlie0129 / batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks.
@@ -7491,6 +7494,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-10-13】[ayoubfaouzi / al-khaser](https://github.com/ayoubfaouzi/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 * 【2025-10-08】[trilinos / Trilinos](https://github.com/trilinos/Trilinos) - Primary repository for the Trilinos Project
 * 【2025-10-07】[google-ai-edge / LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - 
 * 【2025-10-04】[frankarobotics / franka_ros2](https://github.com/frankarobotics/franka_ros2) - ROS 2 integration for Franka research robots
@@ -10178,6 +10182,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-10-13】[zen-browser / theme-store](https://github.com/zen-browser/theme-store) - 🎨 Theme repository for @zen-browser!
 * 【2025-10-10】[avinash201199 / stopwatch](https://github.com/avinash201199/stopwatch) - Stop watch using javascript
 * 【2025-10-06】[Gonzalo-D-Sales / obsidian-velocity](https://github.com/Gonzalo-D-Sales/obsidian-velocity) - A radically modern theme for Obsidian.
 * 【2025-10-04】[supabase / supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
@@ -11040,6 +11045,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-10-13】[RipplePiam / MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
 * 【2025-10-11】[kirodotdev / Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
 * 【2025-10-10】[filipecalegario / awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
 * 【2025-10-07】[hyprland-community / awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
