@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2025-10-14】[nitrojs / nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 * 【2025-10-12】[QwenLM / Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 * 【2025-10-11】[supermemoryai / supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 * 【2025-10-11】[coze-dev / coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
@@ -1747,6 +1748,9 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-10-14】[Geniusay / ChopperBot](https://github.com/Geniusay/ChopperBot) - 虎牙，斗鱼，抖音，BiliBili，TikTok，Twitch🔥热门🔥智能直播视频剪辑发布AI机器人，自动化🤖，全智能化⚙（智能生成切片，标题，封面，简介），可视化👓，平台热门监控🌡，丰富插件随意扩展🕹，快速部署⚡，视频账号打造自动发布🌟，支持DIY🎮
+* 【2025-10-14】[apache / ofbiz-framework](https://github.com/apache/ofbiz-framework) - Apache OFBiz is an open source product for the automation of enterprise processes. It includes framework components and business applications for ERP, CRM, E-Business/E-Commerce, Supply Chain Management and Manufacturing Resource Planning. OFBiz provides a foundation and starting point for reliable, secure and scalable enterprise solutions.
+* 【2025-10-14】[gnembon / fabric-carpet](https://github.com/gnembon/fabric-carpet) - Fabric Carpet
 * 【2025-10-12】[java-decompiler / jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 * 【2025-10-12】[Sketchware-Pro / Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) - Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.
 * 【2025-10-09】[timestored / qstudio](https://github.com/timestored/qstudio) - qStudio - Free SQL Analysis Tool
@@ -2636,6 +2640,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-10-14】[harvard-edge / cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
 * 【2025-10-13】[LuckyOne7777 / ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 * 【2025-10-12】[Ksuriuri / index-tts-vllm](https://github.com/Ksuriuri/index-tts-vllm) - Added vLLM support to IndexTTS for faster inference.
 * 【2025-10-12】[cython / cython](https://github.com/cython/cython) - The most widely used Python to C compiler
@@ -4312,6 +4317,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-10-14】[renmu123 / biliLive-tools](https://github.com/renmu123/biliLive-tools) - 直播一站式处理工具，支持直播录制&视频处理&弹幕处理&录播姬自动上传
 * 【2025-10-13】[scribeocr / scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully-digitized documents.
 * 【2025-10-11】[davila7 / claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 * 【2025-10-11】[kairi003 / Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies.txt, NEVER send information outside.
@@ -7494,6 +7500,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-10-14】[ByteWelder / Tactility](https://github.com/ByteWelder/Tactility) - An operating system for ESP32 devices.
+* 【2025-10-14】[relativty / Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
+* 【2025-10-14】[LibreSprite / LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 * 【2025-10-13】[ayoubfaouzi / al-khaser](https://github.com/ayoubfaouzi/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 * 【2025-10-08】[trilinos / Trilinos](https://github.com/trilinos/Trilinos) - Primary repository for the Trilinos Project
 * 【2025-10-07】[google-ai-edge / LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - 
@@ -10182,6 +10191,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-10-14】[avinash201199 / To-Do-List](https://github.com/avinash201199/To-Do-List) - To-Do-List javascript project
 * 【2025-10-13】[zen-browser / theme-store](https://github.com/zen-browser/theme-store) - 🎨 Theme repository for @zen-browser!
 * 【2025-10-10】[avinash201199 / stopwatch](https://github.com/avinash201199/stopwatch) - Stop watch using javascript
 * 【2025-10-06】[Gonzalo-D-Sales / obsidian-velocity](https://github.com/Gonzalo-D-Sales/obsidian-velocity) - A radically modern theme for Obsidian.
@@ -11045,6 +11055,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-10-14】[Fl4sh9174 / Switch-Ultrawide-Mods](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) - 
 * 【2025-10-13】[RipplePiam / MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
 * 【2025-10-11】[kirodotdev / Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
 * 【2025-10-10】[filipecalegario / awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
