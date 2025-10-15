@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2025-10-15】[chili-chips-ba / wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!
+* 【2025-10-15】[volcengine / MineContext](https://github.com/volcengine/MineContext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
 * 【2025-10-14】[nitrojs / nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 * 【2025-10-12】[QwenLM / Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 * 【2025-10-11】[supermemoryai / supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
@@ -4317,6 +4319,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-10-15】[pickle-com / glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 * 【2025-10-14】[renmu123 / biliLive-tools](https://github.com/renmu123/biliLive-tools) - 直播一站式处理工具，支持直播录制&视频处理&弹幕处理&录播姬自动上传
 * 【2025-10-13】[scribeocr / scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully-digitized documents.
 * 【2025-10-11】[davila7 / claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
@@ -7500,6 +7503,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-10-15】[facebook / hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 * 【2025-10-14】[ByteWelder / Tactility](https://github.com/ByteWelder/Tactility) - An operating system for ESP32 devices.
 * 【2025-10-14】[relativty / Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
 * 【2025-10-14】[LibreSprite / LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
@@ -9396,6 +9400,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-10-15】[o8oo8o / WebCurl](https://github.com/o8oo8o/WebCurl) - 极简网页版API调试神器
 * 【2025-10-11】[xeefei / X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置】生成功能。
 * 【2025-10-04】[zaproxy / zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
 * 【2025-10-03】[bobbyiliev / 101-linux-commands](https://github.com/bobbyiliev/101-linux-commands) - 101 Linux commands Open-source eBook and CLI tool
@@ -10191,6 +10196,8 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-10-15】[egoist / hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
+* 【2025-10-15】[yesiamrajeev / Hacktoberfest2025-Portfolio](https://github.com/yesiamrajeev/Hacktoberfest2025-Portfolio) - Star˗ˏˋ ★ ˎˊ˗ this repo......... contribute to following repos as this repo is excluded................................ 1st) https://github.com/yesiamrajeev/FaceDetection_Prototype3 2nd)https://github.com/yesiamrajeev/Hacktoberfest2025-Pixelated-Draw
 * 【2025-10-14】[avinash201199 / To-Do-List](https://github.com/avinash201199/To-Do-List) - To-Do-List javascript project
 * 【2025-10-13】[zen-browser / theme-store](https://github.com/zen-browser/theme-store) - 🎨 Theme repository for @zen-browser!
 * 【2025-10-10】[avinash201199 / stopwatch](https://github.com/avinash201199/stopwatch) - Stop watch using javascript
