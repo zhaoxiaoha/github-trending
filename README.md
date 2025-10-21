@@ -4331,6 +4331,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-10-21】[vanzan01 / claude-code-sub-agent-collective](https://github.com/vanzan01/claude-code-sub-agent-collective) - 🧠 Context Engineering Research - Not just another agent collection, but using research and context engineering to function as a collective. Hub-and-spoke coordination through Claude Code.
 * 【2025-10-19】[xixu-me / Xget](https://github.com/xixu-me/Xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources whose performance far surpasses traditional accelerators, delivering a unified, efficient acceleration experience across multiple platforms | 超高性能、安全的一站式开发者资源加速引擎，其性能远超传统加速器，提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等
 * 【2025-10-19】[handlebars-lang / handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 * 【2025-10-17】[carboneio / carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt...
@@ -6593,6 +6594,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-10-21】[johnfanv2 / LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
 * 【2025-10-19】[DreamMaoMao / mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwl but no suckless)
 * 【2025-10-18】[duixcom / Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 * 【2025-10-16】[jetkvm / kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
@@ -7529,6 +7531,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-10-21】[PancakeTAS / lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
 * 【2025-10-20】[kcat / openal-soft](https://github.com/kcat/openal-soft) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 * 【2025-10-15】[facebook / hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 * 【2025-10-14】[ByteWelder / Tactility](https://github.com/ByteWelder/Tactility) - An operating system for ESP32 devices.
@@ -10227,6 +10230,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2025-10-21】[lossless1024 / StreaMonitor](https://github.com/lossless1024/StreaMonitor) - Adult live stream downloader for advanced people. I could have chosen a better name.
 * 【2025-10-19】[avinash201199 / My-Gallery-4u](https://github.com/avinash201199/My-Gallery-4u) - Photography website
 * 【2025-10-16】[wso2 / docs-is](https://github.com/wso2/docs-is) - 
 * 【2025-10-15】[egoist / hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
