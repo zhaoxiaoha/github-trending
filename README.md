@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2025-11-07】[ad-on-is / rachoon](https://github.com/ad-on-is/rachoon) - 🦝 Rachoon — A self-hostable way to handle invoices
+* 【2025-11-07】[KotatsuApp / Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
+* 【2025-11-07】[GuMengYu / music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格pc音乐播放器
 * 【2025-11-06】[GoogleCloudPlatform / vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.
 * 【2025-11-05】[mudler / edgevpn](https://github.com/mudler/edgevpn) - ⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 * 【2025-11-04】[sst / opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
@@ -2672,6 +2675,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-11-07】[usestrix / strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻
 * 【2025-11-03】[Pipelex / pipelex](https://github.com/Pipelex/pipelex) - Pipelex: open-source language for AI Agents to create and run repeatable AI workflows
 * 【2025-11-02】[unitreerobotics / unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) - This is a repository for reinforcement learning implementation for Unitree robots, based on IsaacLab.
 * 【2025-11-01】[langchain-ai / deepagents](https://github.com/langchain-ai/deepagents) - 
@@ -4369,6 +4373,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2025-11-07】[aleixrodriala / wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
 * 【2025-11-06】[meodai / color-names](https://github.com/meodai/color-names) - Large list of handpicked color names 🌈
 * 【2025-11-03】[reisxd / TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.
 * 【2025-11-01】[aldenhallak / fishes](https://github.com/aldenhallak/fishes) - 
@@ -5534,6 +5539,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2025-11-07】[ayn2op / discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 * 【2025-11-04】[raghavyuva / nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
 * 【2025-10-30】[trpc-group / trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.
 * 【2025-10-30】[Tencent / WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
@@ -6654,6 +6660,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2025-11-07】[xodiosx / XoDos](https://github.com/xodiosx/XoDos) - 
 * 【2025-11-04】[vtereshkov / umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
 * 【2025-11-02】[drh / lcc](https://github.com/drh/lcc) - The lcc retargetable ANSI C compiler
 * 【2025-10-21】[johnfanv2 / LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
@@ -9508,6 +9515,9 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-11-07】[Max-Eee / NeoPass](https://github.com/Max-Eee/NeoPass) - Your Essential Exam Companion for the Iamneo Portal & NPTEL Exams Disguised as NeoExamShield bypass
+* 【2025-11-07】[kevquirk / 512kb.club](https://github.com/kevquirk/512kb.club) - Website for the 512 KB Club
+* 【2025-11-07】[ovh / docs](https://github.com/ovh/docs) - Official repository containing all docs & guides of OVH Group
 * 【2025-11-06】[LangbaseInc / langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 * 【2025-11-05】[hillelkingqt / GeminiDesk](https://github.com/hillelkingqt/GeminiDesk) - An unofficial Electron-based Gemini Desktop App for Google Gemini – clean, fast, and always accessible.
 * 【2025-11-03】[github / personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
@@ -11189,6 +11199,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2025-11-07】[reqable / reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 * 【2025-11-06】[kakoni / awesome-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources.
 * 【2025-11-02】[seapear / AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) - A repository that helps users get affinity software working on GNU/Linux 🐧
 * 【2025-11-01】[PCJones / usenet-guide](https://github.com/PCJones/usenet-guide) - Ein deutscher Einsteiger-Guide für das Usenet
