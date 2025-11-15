@@ -2689,6 +2689,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-11-15】[RLinf / RLinf](https://github.com/RLinf/RLinf) - RLinf is a flexible and scalable open-source infrastructure designed for post-training foundation models (LLMs, VLMs, VLAs) via reinforcement learning.
 * 【2025-11-13】[googlefonts / googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 * 【2025-11-12】[GibsonAI / Memori](https://github.com/GibsonAI/Memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 * 【2025-11-12】[alibaba / ROLL](https://github.com/alibaba/ROLL) - An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models
