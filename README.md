@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2025-12-28】[agrinman / tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 * 【2025-12-27】[flowsurface-rs / flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
 * 【2025-12-25】[apurvsinghgautam / robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 * 【2025-12-25】[facebookresearch / dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3
@@ -1823,6 +1824,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2025-12-28】[higress-group / himarket](https://github.com/higress-group/himarket) - HiMarket is an enterprise-level "AI Capability Marketplace and Developer Ecosystem Hub." It is not merely a simple aggregation of traditional APIs, but rather a comprehensive platform that packages, publishes, manages, and operates core AI assets such as enterprise Model APIs, MCP Servers, Agent APIs, etc., through standardized product formats.
 * 【2025-12-26】[jlortiz0 / PlayerCollars](https://github.com/jlortiz0/PlayerCollars) - Minecraft mod that allows players to wear collars
 * 【2025-12-23】[19MisterX98 / SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX) - 
 * 【2025-12-23】[FabricMC / fabric-api](https://github.com/FabricMC/fabric-api) - Essential hooks for modding with Fabric.
@@ -2743,6 +2745,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2025-12-28】[vibrantlabsai / ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations 🚀
 * 【2025-12-27】[TauricResearch / TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 * 【2025-12-27】[HKUDS / VideoRAG](https://github.com/HKUDS/VideoRAG) - [KDD'2026] "VideoRAG: Chat with Your Videos"
 * 【2025-12-27】[laude-institute / harbor](https://github.com/laude-institute/harbor) - Harbor is a framework for running agent evaluations and creating and using RL environments.
@@ -7761,6 +7764,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2025-12-28】[azahar-emu / azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
 * 【2025-12-26】[alibaba / rtp-llm](https://github.com/alibaba/rtp-llm) - RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.
 * 【2025-12-26】[jd-opensource / xllm](https://github.com/jd-opensource/xllm) - A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
 * 【2025-12-25】[zeldaret / tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess
@@ -9713,6 +9717,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2025-12-28】[FrizzleM / BreakFree](https://github.com/FrizzleM/BreakFree) - A free iOS shortcut that lets you sideload unlimited apps on your iOS and iPadOS device using an exploit (involves DNSs and public certificates).
 * 【2025-12-23】[wujunwei928 / parse-video-py](https://github.com/wujunwei928/parse-video-py) - Python短视频去水印爬虫：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...
 * 【2025-12-23】[EllatharTheHalfling / DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books) - 
 * 【2025-12-19】[jonasstrehle / supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️Browser fingerprinting via favicon!
