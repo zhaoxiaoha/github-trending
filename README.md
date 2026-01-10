@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-01-10】[obra / superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 * 【2026-01-09】[NVlabs / alpasim](https://github.com/NVlabs/alpasim) - 
 * 【2026-01-09】[NevaMind-AI / memU](https://github.com/NevaMind-AI/memU) - Memory infrastructure for LLMs and AI agents
 * 【2026-01-08】[memvid / memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
@@ -2769,6 +2770,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-01-10】[Comfy-Org / ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 * 【2026-01-09】[hiyouga / LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 * 【2026-01-09】[MiroMindAI / MiroFlow](https://github.com/MiroMindAI/MiroFlow) - MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench.
 * 【2026-01-09】[datawhalechina / all-in-rag](https://github.com/datawhalechina/all-in-rag) - 🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/
@@ -4525,6 +4527,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-01-10】[w1249178256 / xyzw_web_helper](https://github.com/w1249178256/xyzw_web_helper) - 咸鱼之王web端
 * 【2026-01-04】[heyitsnoah / claudesidian](https://github.com/heyitsnoah/claudesidian) - 
 * 【2026-01-04】[ljharb / qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
 * 【2026-01-03】[mrrfv / cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) - Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and AdGuard
@@ -6869,6 +6872,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-01-10】[armink / EasyLogger](https://github.com/armink/EasyLogger) - An ultra-lightweight(ROM<1.6K, RAM<0.3k), high-performance C/C++ log library. | 一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库
 * 【2026-01-07】[HermanChen / mpp](https://github.com/HermanChen/mpp) - Rockchip MPP(Media Process Platfrom)
 * 【2026-01-01】[winfsp / sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 * 【2025-12-30】[mruby / mruby](https://github.com/mruby/mruby) - Lightweight Ruby
@@ -11511,6 +11515,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-01-10】[samuelmarina / is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 * 【2026-01-07】[anthropics / claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
 * 【2026-01-04】[kepano / kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
 * 【2026-01-03】[FoundationVision / Waver](https://github.com/FoundationVision/Waver) - Industry-level video foundation model for unified Text-to-Video (T2V) and Image-to-Video (I2V) generation.
