@@ -1842,6 +1842,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2026-01-11】[iflytek / astron-agent](https://github.com/iflytek/astron-agent) - Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 * 【2026-01-09】[OpenAEV-Platform / openaev](https://github.com/OpenAEV-Platform/openaev) - Open Adversarial Exposure Validation Platform
 * 【2026-01-07】[google / copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 * 【2026-01-05】[FiguraMC / Figura](https://github.com/FiguraMC/Figura) - Extensively customize your character with Figura!
@@ -2770,6 +2771,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-01-11】[EveryInc / compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 * 【2026-01-10】[Comfy-Org / ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 * 【2026-01-09】[hiyouga / LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 * 【2026-01-09】[MiroMindAI / MiroFlow](https://github.com/MiroMindAI/MiroFlow) - MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench.
@@ -5720,6 +5722,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-01-11】[ankitpokhrel / jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
+* 【2026-01-11】[sei-protocol / sei-chain](https://github.com/sei-protocol/sei-chain) - 
 * 【2026-01-07】[abhinavxd / libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted customer support desk. Single binary app.
 * 【2026-01-05】[johannesboyne / gofakes3](https://github.com/johannesboyne/gofakes3) - A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 * 【2026-01-03】[autobrr / qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.
@@ -7836,6 +7840,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-01-11】[livinamuk / Hell2025](https://github.com/livinamuk/Hell2025) - 
 * 【2026-01-09】[UPBGE / upbge](https://github.com/UPBGE/upbge) - UPBGE, the best integrated game engine in Blender
 * 【2026-01-07】[realsenseai / librealsense](https://github.com/realsenseai/librealsense) - RealSense SDK
 * 【2026-01-07】[univrsal / input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
