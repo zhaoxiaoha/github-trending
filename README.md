@@ -2773,6 +2773,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-01-14】[nunchaku-ai / ComfyUI-nunchaku](https://github.com/nunchaku-ai/ComfyUI-nunchaku) - ComfyUI Plugin of Nunchaku
 * 【2026-01-13】[leochlon / pythea](https://github.com/leochlon/pythea) - 
 * 【2026-01-11】[EveryInc / compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 * 【2026-01-10】[Comfy-Org / ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -4532,6 +4533,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-01-14】[yawiii / ComfyUI-Prompt-Assistant](https://github.com/yawiii/ComfyUI-Prompt-Assistant) - 提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one-click access to LLMs/VLMs for prompt translation, expansion, and image captioning. It also supports one-click preset insertion and historical prompt search.
 * 【2026-01-10】[w1249178256 / xyzw_web_helper](https://github.com/w1249178256/xyzw_web_helper) - 咸鱼之王web端
 * 【2026-01-04】[heyitsnoah / claudesidian](https://github.com/heyitsnoah/claudesidian) - 
 * 【2026-01-04】[ljharb / qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
@@ -7845,6 +7847,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-01-14】[eloqdata / eloqstore](https://github.com/eloqdata/eloqstore) - Hybrid-tier key-value storage engine built on object storage & local SSDs. Engineered for batch-write efficiency and read optimization with ultra-low tail latency.
+* 【2026-01-14】[Prayag2 / drawy](https://github.com/Prayag2/drawy) - Your handy, infinite, brainstorming tool! The project has now moved to KDE Invent.
 * 【2026-01-12】[xxnuo / MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
 * 【2026-01-11】[livinamuk / Hell2025](https://github.com/livinamuk/Hell2025) - 
 * 【2026-01-09】[UPBGE / upbge](https://github.com/UPBGE/upbge) - UPBGE, the best integrated game engine in Blender
@@ -9810,6 +9814,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-01-14】[fossology / fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit. As a toolkit you can run license, copyright and export control scans from the command line. As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow.
 * 【2026-01-09】[mgaudet / CompilerJobs](https://github.com/mgaudet/CompilerJobs) - A listing of compiler, language and runtime teams for people looking for jobs in this area
 * 【2026-01-07】[apache / ozone-site](https://github.com/apache/ozone-site) - Website for Apache Ozone
 * 【2026-01-03】[nisrulz / app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
