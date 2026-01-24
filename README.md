@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2026-01-24】[OpenBMB / UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+* 【2026-01-24】[lyogavin / airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 * 【2026-01-23】[remotion-dev / remotion](https://github.com/remotion-dev/remotion) - 🎥 Make videos programmatically with React
 * 【2026-01-23】[nexmoe / VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 * 【2026-01-23】[virattt / dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
@@ -2786,6 +2788,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-01-24】[ruvnet / wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
 * 【2026-01-22】[karpathy / nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 * 【2026-01-21】[verygoodplugins / automem](https://github.com/verygoodplugins/automem) - AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:
 * 【2026-01-21】[thu-ml / tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning library.
@@ -6920,6 +6923,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-01-24】[X11Libre / xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
+* 【2026-01-24】[sqfmi / Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 * 【2026-01-20】[voidtools / voidImageViewer](https://github.com/voidtools/voidImageViewer) - Lightweight image viewer for Windows with animated GIF/WEBP support
 * 【2026-01-18】[ValveSoftware / wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 * 【2026-01-16】[shorepine / tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer - a portable Python synthesizer for music and graphics
@@ -7887,6 +7892,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-01-24】[OpenXRay / xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)
 * 【2026-01-23】[KhronosGroup / SPIRV-Tools](https://github.com/KhronosGroup/SPIRV-Tools) - 
 * 【2026-01-20】[quickshell-mirror / quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 * 【2026-01-18】[Crementif / BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
@@ -9863,6 +9869,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-01-24】[Jeffallan / claude-skills](https://github.com/Jeffallan/claude-skills) - 65 Specialized Skills for Full-Stack Developers - Transform Claude Code into your expert pair programmer
 * 【2026-01-18】[rickstaa / awesome-adsb](https://github.com/rickstaa/awesome-adsb) - 📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.
 * 【2026-01-16】[duckdb / duckdb-web](https://github.com/duckdb/duckdb-web) - 🐤 DuckDB website and documentation
 * 【2026-01-14】[fossology / fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit. As a toolkit you can run license, copyright and export control scans from the command line. As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow.
