@@ -1856,6 +1856,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2026-01-25】[agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) - AgentScope Java: Agent-Oriented Programming for Building LLM Applications
 * 【2026-01-21】[gaul / s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 * 【2026-01-15】[nroduit / Weasis](https://github.com/nroduit/Weasis) - Weasis is a web-based DICOM viewer for advanced medical imaging and seamless PACS integration.
 * 【2026-01-12】[TrackerControl / tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
@@ -2788,6 +2789,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-01-25】[business-science / ai-data-science-team](https://github.com/business-science/ai-data-science-team) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
+* 【2026-01-25】[AI4Finance-Foundation / FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) - For trading. Please star.
 * 【2026-01-24】[ruvnet / wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
 * 【2026-01-22】[karpathy / nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 * 【2026-01-21】[verygoodplugins / automem](https://github.com/verygoodplugins/automem) - AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:
@@ -4566,6 +4569,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-01-25】[apinanaivot / IKEA-3D-Model-Download-Button](https://github.com/apinanaivot/IKEA-3D-Model-Download-Button) - Adds ability to download models from IKEA website
+* 【2026-01-25】[lackeyjb / playwright-skill](https://github.com/lackeyjb/playwright-skill) - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 * 【2026-01-23】[databricks-industry-solutions / pixels](https://github.com/databricks-industry-solutions/pixels) - Facilitates simple large scale processing of HLS Medical images, documents, zip files. OHIF Viewer, 2 segmentation models and interactive learning.
 * 【2026-01-19】[alam00000 / bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 * 【2026-01-16】[fex-team / kityminder](https://github.com/fex-team/kityminder) - 百度脑图
@@ -8901,6 +8906,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-01-25】[microsoft / winappCli](https://github.com/microsoft/winappCli) - winapp, the Windows App Development CLI, is a single command-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app framework.
 * 【2026-01-18】[dotnet / XAMLStudio](https://github.com/dotnet/XAMLStudio) - XAML Studio is a rapid prototyping tool for WinUI-based XAML that can then be easily copied into Visual Studio!
 * 【2026-01-18】[RawAccelOfficial / rawaccel](https://github.com/RawAccelOfficial/rawaccel) - kernel mode mouse accel
 * 【2026-01-15】[XKaguya / LenovoLegionToolkit](https://github.com/XKaguya/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
