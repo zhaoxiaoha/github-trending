@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-01-26】[Psiphon-Inc / conduit](https://github.com/Psiphon-Inc/conduit) - Conduit Client
 * 【2026-01-24】[OpenBMB / UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 * 【2026-01-24】[lyogavin / airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 * 【2026-01-23】[remotion-dev / remotion](https://github.com/remotion-dev/remotion) - 🎥 Make videos programmatically with React
@@ -1856,6 +1857,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2026-01-26】[jarvis2f / telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 * 【2026-01-25】[agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) - AgentScope Java: Agent-Oriented Programming for Building LLM Applications
 * 【2026-01-21】[gaul / s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 * 【2026-01-15】[nroduit / Weasis](https://github.com/nroduit/Weasis) - Weasis is a web-based DICOM viewer for advanced medical imaging and seamless PACS integration.
@@ -5768,6 +5770,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-01-26】[githubnext / gh-aw](https://github.com/githubnext/gh-aw) - GitHub Agentic Workflows
 * 【2026-01-23】[kubernetes-sigs / agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
 * 【2026-01-18】[kubernetes-sigs / ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
 * 【2026-01-17】[getarcaneapp / arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -9875,6 +9878,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-01-26】[sinavm / sinavm](https://github.com/sinavm/sinavm) - مواقعی که اینترنت ملی و محدود است، بدون نیاز به وی پی ان می‌توانید به محتوای کانال‌ها و کانفیگ‌های فیلترشکن دسترسی پیدا کنید
 * 【2026-01-24】[Jeffallan / claude-skills](https://github.com/Jeffallan/claude-skills) - 65 Specialized Skills for Full-Stack Developers - Transform Claude Code into your expert pair programmer
 * 【2026-01-18】[rickstaa / awesome-adsb](https://github.com/rickstaa/awesome-adsb) - 📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.
 * 【2026-01-16】[duckdb / duckdb-web](https://github.com/duckdb/duckdb-web) - 🐤 DuckDB website and documentation
