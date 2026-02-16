@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2026-02-16】[steipete / gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+* 【2026-02-16】[moonshine-ai / moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 * 【2026-02-15】[letta-ai / letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
 * 【2026-02-14】[SynkraAI / aios-core](https://github.com/SynkraAI/aios-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
 * 【2026-02-14】[google-deepmind / superhuman](https://github.com/google-deepmind/superhuman) - 
@@ -1895,6 +1897,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2026-02-16】[kousen / claude-code-training](https://github.com/kousen/claude-code-training) - Slides and demos for a training course on Claude Code
 * 【2026-02-13】[freerouting / freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
 * 【2026-02-11】[eddyizm / tempus](https://github.com/eddyizm/tempus) - An open source and lightweight music client for Subsonic, designed and built natively for Android.
 * 【2026-02-10】[realnnpg / Glazed](https://github.com/realnnpg/Glazed) - Meteor client addon for DonutSMP
@@ -2837,6 +2840,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-02-16】[mistralai / mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 * 【2026-02-14】[K-Dense-AI / claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use scientific skills for Claude
 * 【2026-02-14】[jamwithai / production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
 * 【2026-02-13】[Tencent / AngelSlim](https://github.com/Tencent/AngelSlim) - Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency.
@@ -4637,6 +4641,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-02-16】[dler-io / Rules](https://github.com/dler-io/Rules) - 
 * 【2026-02-15】[gsd-build / get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 * 【2026-02-12】[liuw1535 / antigravity2api-nodejs](https://github.com/liuw1535/antigravity2api-nodejs) - 
 * 【2026-02-11】[dwyl / learn-postgresql](https://github.com/dwyl/learn-postgresql) - 🐘 Learn how to use PostgreSQL and Structured Query Language (SQL) to store and query your relational data. 🔍
@@ -5852,6 +5857,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-02-16】[steipete / wacli](https://github.com/steipete/wacli) - WhatsApp CLI
 * 【2026-02-14】[hakwerk / labca](https://github.com/hakwerk/labca) - A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm).
 * 【2026-02-13】[bia-pain-bache / BPB-Wizard](https://github.com/bia-pain-bache/BPB-Wizard) - A wizard to facilitate BPB Panel deployment and management.
 * 【2026-02-12】[asheshgoplani / agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
@@ -7026,6 +7032,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-02-16】[paxx12 / SnapmakerU1-Extended-Firmware](https://github.com/paxx12/SnapmakerU1-Extended-Firmware) - Custom and repackaged Snapmaker U1 firmware
 * 【2026-02-15】[dorianborian / sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable mini quadruped robot based on ESP32.
 * 【2026-02-13】[xorvoid / sectorc](https://github.com/xorvoid/sectorc) - A C Compiler that fits in the 512 byte boot sector of an x86 machine
 * 【2026-02-08】[Snowflake-Labs / pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
@@ -8004,6 +8011,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-02-16】[RunanywhereAI / runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
+* 【2026-02-16】[hyperfield / ai-file-sorter](https://github.com/hyperfield/ai-file-sorter) - Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes.
 * 【2026-02-13】[huaweicloud / huaweicloud-sdk-cpp-v3](https://github.com/huaweicloud/huaweicloud-sdk-cpp-v3) - 
 * 【2026-02-12】[alibaba / zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 * 【2026-02-11】[PurpleI2P / i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
