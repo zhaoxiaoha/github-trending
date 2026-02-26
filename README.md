@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-02-26】[katanemo / plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).
 * 【2026-02-25】[ruvnet / ruvector](https://github.com/ruvnet/ruvector) - RuVector is a high performance Vector Graph & Ai System built in Rust, focsused on agentic systems, and real time analytics. It combines HNSW search, dynamic minimum cut coherence, graph intelligence, and self learning memory into one unified engine for scalable, low latency reasoning and structured retrieval.
 * 【2026-02-25】[GVCLab / PersonaLive](https://github.com/GVCLab/PersonaLive) - [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming
 * 【2026-02-24】[muratcankoylan / Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
@@ -5899,6 +5900,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-02-26】[xdevplatform / xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
+* 【2026-02-26】[Wei-Shaw / sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 * 【2026-02-25】[canopy-network / canopy](https://github.com/canopy-network/canopy) - The official go implementation of the Canopy Network protocol
 * 【2026-02-22】[steveyegge / gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager
 * 【2026-02-19】[XTLS / RealiTLScanner](https://github.com/XTLS/RealiTLScanner) - A TLS server scanner for Reality
@@ -8067,6 +8070,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-02-26】[NVlabs / GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC
 * 【2026-02-22】[Zylann / godot_voxel](https://github.com/Zylann/godot_voxel) - Voxel module for Godot Engine
 * 【2026-02-20】[blackboardsh / electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 * 【2026-02-19】[KhronosGroup / Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - Open-Source Vulkan C++ API
