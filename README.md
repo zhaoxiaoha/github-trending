@@ -7099,6 +7099,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-03-02】[heiher / hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A lightweight, fast and reliable tun2socks
+* 【2026-03-02】[Unidata / netcdf-c](https://github.com/Unidata/netcdf-c) - Official GitHub repository for netCDF-C libraries and utilities.
 * 【2026-02-25】[Vatuu / silent-hill-decomp](https://github.com/Vatuu/silent-hill-decomp) - An in-progress decompilation of the 1.1 US release of Silent Hill on the Playstation 1.
 * 【2026-02-24】[PKRoma / ProcessHacker](https://github.com/PKRoma/ProcessHacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware—mirror of https://github.com/processhacker2/processhacker.git
 * 【2026-02-20】[DragonMinded / libdragon](https://github.com/DragonMinded/libdragon) - Open source library for N64 development.
@@ -8087,6 +8089,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-03-02】[FastFlowLM / FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
 * 【2026-02-28】[autowarefoundation / autoware_vision_pilot](https://github.com/autowarefoundation/autoware_vision_pilot) - Free self-driving car stack - fully open-source ADAS and autonomous driving system
 * 【2026-02-26】[NVlabs / GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC
 * 【2026-02-22】[Zylann / godot_voxel](https://github.com/Zylann/godot_voxel) - Voxel module for Godot Engine
