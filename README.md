@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2026-03-07】[lingfengQAQ / webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) - 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
+* 【2026-03-07】[aidenybai / react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 * 【2026-03-06】[inclusionAI / AReaL](https://github.com/inclusionAI/AReaL) - Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
 * 【2026-03-06】[microsoft / hve-core](https://github.com/microsoft/hve-core) - A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
 * 【2026-03-05】[msitarzewski / agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
@@ -1926,6 +1928,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2026-03-07】[SonarSource / sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) - SonarQube MCP Server
 * 【2026-03-04】[Tornaco / Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
 * 【2026-02-20】[adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) - All Code of LLD Playlist
 * 【2026-02-19】[uber / uForwarder](https://github.com/uber/uForwarder) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
@@ -4701,6 +4704,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-03-07】[jarrodwatts / claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 * 【2026-03-06】[SynkraAI / aiox-core](https://github.com/SynkraAI/aiox-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
 * 【2026-03-05】[obsidianmd / obsidian-translations](https://github.com/obsidianmd/obsidian-translations) - Help translate Obsidian into your language.
 * 【2026-03-03】[tiagozip / cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
@@ -5931,6 +5935,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-03-07】[matlab / matlab-mcp-core-server](https://github.com/matlab/matlab-mcp-core-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code.
 * 【2026-03-06】[Ed1s0nZ / CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.
 * 【2026-03-04】[acepanel / panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
 * 【2026-02-28】[DanielLavrushin / b4](https://github.com/DanielLavrushin/b4) - Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems.
@@ -7117,6 +7122,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-03-07】[allkern / iris](https://github.com/allkern/iris) - Sony PlayStation 2 emulator for Windows, Linux and macOS
+* 【2026-03-07】[emersion / mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 * 【2026-03-05】[troydhanson / uthash](https://github.com/troydhanson/uthash) - C macros for hash tables and more
 * 【2026-03-04】[pret / pokefirered](https://github.com/pret/pokefirered) - Decompilation of Pokémon FireRed/LeafGreen
 * 【2026-03-03】[ps2homebrew / Open-PS2-Loader](https://github.com/ps2homebrew/Open-PS2-Loader) - Game and app loader for Sony PlayStation 2
@@ -8110,6 +8117,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-03-07】[opengisch / QField](https://github.com/opengisch/QField) - A simplified touch optimized interface for QGIS
 * 【2026-03-04】[GRAnimated / MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 11.210% - Decompilation of Minecraft: Legacy Console Edition
 * 【2026-03-03】[microsoft / MIDI](https://github.com/microsoft/MIDI) - Windows MIDI Services
 * 【2026-03-02】[FastFlowLM / FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
@@ -9140,6 +9148,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-03-07】[themidnightgospel / Imposter](https://github.com/themidnightgospel/Imposter) - Fast and Memory-Efficient Mocking Library
 * 【2026-03-04】[Justsenger / ExHyperV](https://github.com/Justsenger/ExHyperV) - The Excalibur of Hyper-V / Hyper-V 神器
 * 【2026-02-28】[fpindej / netrock](https://github.com/fpindej/netrock) - SaaS starter kit for small productions— .NET 10 Clean Architecture API + SvelteKit frontend, fully dockerized. Fork it, init it, ship your product.
 * 【2026-02-25】[IAmParadox27 / jellyfin-plugin-file-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation) - Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin-web without modifying the web source directly.
@@ -10968,6 +10977,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2026-03-07】[json-api / json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 * 【2026-02-22】[m-lab / mlab-speedtest](https://github.com/m-lab/mlab-speedtest) - The speed.measurementlab.net website
 * 【2026-02-22】[LunarLogic / starability](https://github.com/LunarLogic/starability) - Accessible rating forms with cute animations on top.
 * 【2026-02-20】[CMUCTAT / CTAT](https://github.com/CMUCTAT/CTAT) - Cognitive Tutor Authoring Tools
