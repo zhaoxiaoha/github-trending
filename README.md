@@ -1945,6 +1945,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2026-03-29】[JingMatrix / Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 * 【2026-03-24】[Snailclimb / interview-guide](https://github.com/Snailclimb/interview-guide) - 基于 Spring Boot 4.0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。
 * 【2026-03-23】[navinreddy20 / Javacode](https://github.com/navinreddy20/Javacode) - 
 * 【2026-03-19】[opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
@@ -9254,6 +9255,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-03-29】[SirDiabo / N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher) - A Launcher that Downloads and Updates N64 Recompilations
 * 【2026-03-26】[Cinchoo / ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Simple and powerful RoboCopy GUI
 * 【2026-03-26】[pungin / Beanfun](https://github.com/pungin/Beanfun) - 繽放 - 樂豆第三方客戶端
 * 【2026-03-23】[github / gh-gei](https://github.com/github/gh-gei) - Migration CLI for GitHub to GitHub migrations
@@ -10250,6 +10252,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-03-29】[IHP-GmbH / IHP-Open-PDK](https://github.com/IHP-GmbH/IHP-Open-PDK) - 130nm BiCMOS Open Source PDK, dedicated for Analog, Mixed Signal and RF Design. Documentation is here:
 * 【2026-03-28】[OCA / server-backend](https://github.com/OCA/server-backend) - 
 * 【2026-03-27】[itskovacs / trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 * 【2026-03-23】[QiuSimons / luci-app-daed](https://github.com/QiuSimons/luci-app-daed) - 
