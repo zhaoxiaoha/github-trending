@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2026-04-04】[Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+* 【2026-04-04】[siddharthvaddem / openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+* 【2026-04-04】[dmtrKovalenko / fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 * 【2026-04-01】[Dimillian / Skills](https://github.com/Dimillian/Skills) - My Codex Skills
 * 【2026-03-30】[luongnv89 / claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 * 【2026-03-28】[SakanaAI / AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
@@ -2912,6 +2915,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-04-04】[Alishahryar1 / free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 * 【2026-04-02】[NVIDIA / Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
 * 【2026-04-02】[allenai / OLMo-core](https://github.com/allenai/OLMo-core) - PyTorch building blocks for the OLMo ecosystem
 * 【2026-04-02】[gumyr / build123d](https://github.com/gumyr/build123d) - A python CAD programming library
@@ -4766,6 +4770,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-04-04】[ComposioHQ / open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
+* 【2026-04-04】[sgoudelis / ground-station](https://github.com/sgoudelis/ground-station) - Ground Station is all-in-one satellite monitoring suite
 * 【2026-04-01】[ChrisWiles / claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 * 【2026-04-01】[Dispatcharr / Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 * 【2026-04-01】[idinging / freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统 临时邮箱系统 domain mail tempmail
@@ -6023,6 +6029,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-04-04】[QuantumNous / new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 * 【2026-04-02】[electrikmilk / cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 * 【2026-04-02】[octelium / octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
 * 【2026-04-02】[joshmedeski / sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
@@ -9283,6 +9290,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-04-04】[dotnet / skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
 * 【2026-04-01】[Timmoth / RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 * 【2026-04-01】[builtbybel / Winslopr](https://github.com/builtbybel/Winslopr) - Windows Slop Remover
 * 【2026-04-01】[microsoft / aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
@@ -10286,6 +10294,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-04-04】[nirholas / XActions](https://github.com/nirholas/XActions) - ⚡ The Complete X/Twitter Automation Toolkit — Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open source. Unfollow people who don't follow back. Monitor real-time analytics. Auto follow, like, comment, scrape, without API.
 * 【2026-04-01】[Systems-Modeling / SysML-v2-Release](https://github.com/Systems-Modeling/SysML-v2-Release) - The latest incremental release of SysML v2. Start here.
 * 【2026-03-29】[IHP-GmbH / IHP-Open-PDK](https://github.com/IHP-GmbH/IHP-Open-PDK) - 130nm BiCMOS Open Source PDK, dedicated for Analog, Mixed Signal and RF Design. Documentation is here:
 * 【2026-03-28】[OCA / server-backend](https://github.com/OCA/server-backend) - 
@@ -12052,6 +12061,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-04-04】[Seeed-Projects / reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
 * 【2026-04-02】[shuaidaoya / FreeNodes](https://github.com/shuaidaoya/FreeNodes) - 因调整需要，项目暂时停更1-2个月，休整完毕后会如期回归，感谢理解与等待。过渡节点订阅已更新至下方链接！！！每4小时自动更新🤖，支持v2ray、clash等各种代理软件，利用SubsCheck-Win-GUI自动从节点池爬取免费节点分享
 * 【2026-04-01】[Kavex / GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - 🎮 🎲 A wonderful list of Game Development resources.
 * 【2026-04-01】[antonbabenko / terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
