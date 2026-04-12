@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-04-12】[alexpate / awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 * 【2026-04-11】[multica-ai / multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 * 【2026-04-08】[forrestchang / andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - 
 * 【2026-04-07】[aaif-goose / goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -2924,6 +2925,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-04-12】[aloshdenny / reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
+* 【2026-04-12】[K-Dense-AI / scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 * 【2026-04-11】[FloatingPragma / observer-patch-holography](https://github.com/FloatingPragma/observer-patch-holography) - OPH is an active research program aiming to construct a fundamental theory of physics from observer consistency.
 * 【2026-04-10】[z-lab / dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 * 【2026-04-08】[NVIDIA-NeMo / DataDesigner](https://github.com/NVIDIA-NeMo/DataDesigner) - 🎨 NeMo Data Designer: Generate high-quality synthetic data from scratch or from seed data.
@@ -6053,6 +6056,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-04-12】[googleapis / mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 * 【2026-04-09】[sivchari / kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
 * 【2026-04-05】[sipeed / picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 * 【2026-04-05】[rudrankriyam / App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
@@ -8273,6 +8277,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-04-12】[nvidia-isaac / cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - cuVSLAM: CUDA-Accelerated Visual Odometry and Mapping
 * 【2026-04-11】[Euro-Office / desktop-apps](https://github.com/Euro-Office/desktop-apps) - 
 * 【2026-04-09】[google / jsir](https://github.com/google/jsir) - Next-generation JavaScript analysis tooling
 * 【2026-04-02】[doodlum / skyrim-community-shaders](https://github.com/doodlum/skyrim-community-shaders) - Community-driven advanced graphics modifications for AE, SE and VR.
@@ -9319,6 +9324,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-04-12】[ErsatzTV / ErsatzTV-legacy](https://github.com/ErsatzTV/ErsatzTV-legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
+* 【2026-04-12】[NuGet / NuGetGallery](https://github.com/NuGet/NuGetGallery) - NuGet Gallery is a package repository that powers https://www.nuget.org. Use this repo for reporting NuGet.org issues.
 * 【2026-04-10】[KSP-CKAN / CKAN](https://github.com/KSP-CKAN/CKAN) - The Comprehensive Kerbal Archive Network
 * 【2026-04-04】[dotnet / skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
 * 【2026-04-01】[Timmoth / RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
@@ -11179,6 +11186,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2026-04-12】[KyleAMathews / typefaces](https://github.com/KyleAMathews/typefaces) - NPM packages for Open Source typefaces
 * 【2026-04-08】[PKM-er / Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css) - A blue theme for Obsidian.
 * 【2026-04-08】[seankross / the-unix-workbench](https://github.com/seankross/the-unix-workbench) - 🏡 A Book for Anyone to Get Started with Unix
 * 【2026-03-31】[hatnote / montage](https://github.com/hatnote/montage) - 📷 Photo evaluation tool for and by Wiki Loves competitions
@@ -12095,6 +12103,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-04-12】[Goochbeater / Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) - A repo for jailbreaking various LLMs, mainly Claude
 * 【2026-04-10】[noamseg / interview-coach-skill](https://github.com/noamseg/interview-coach-skill) - 
 * 【2026-04-10】[WICG / html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 * 【2026-04-10】[zai-org / GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering
