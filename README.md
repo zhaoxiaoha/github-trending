@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-04-14】[jamiepine / voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio
 * 【2026-04-13】[snarktank / ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 * 【2026-04-13】[zhayujie / CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
 * 【2026-04-12】[alexpate / awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
@@ -1959,6 +1960,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2026-04-14】[MegaMek / megamek](https://github.com/MegaMek/megamek) - MegaMek is a networked Java clone of BattleTech, a turn-based sci-fi boardgame for 2+ players. Fight using giant robots, tanks, and/or infantry on a hex-based map.
 * 【2026-04-11】[nageoffer / ragent](https://github.com/nageoffer/ragent) - 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。
 * 【2026-04-08】[DataDog / datadog-api-client-java](https://github.com/DataDog/datadog-api-client-java) - Java client for the Datadog API
 * 【2026-04-06】[TEAMMATES / teammates](https://github.com/TEAMMATES/teammates) - TEAMMATES is a feedback management tool for education
@@ -4791,6 +4793,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-04-14】[codebymitch / TitanBot](https://github.com/codebymitch/TitanBot) - A powerful, all-in-one Discord assistant built for every server. 🛠️
 * 【2026-04-13】[Anil-matcha / Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram). Self-hosted, customizable, MIT licensed.
 * 【2026-04-13】[robinebers / openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 * 【2026-04-11】[jo-inc / camofox-browser](https://github.com/jo-inc/camofox-browser) - Headless browser automation server for AI agents to visit sites that are usually blocked
@@ -6061,6 +6064,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-04-14】[cirruslabs / orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 * 【2026-04-13】[anthropics / anthropic-cli](https://github.com/anthropics/anthropic-cli) - The CLI for the Claude API
 * 【2026-04-13】[versity / versitygw](https://github.com/versity/versitygw) - versity s3 gateway
 * 【2026-04-12】[googleapis / mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -8285,6 +8289,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-04-14】[lightgbm-org / LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 * 【2026-04-12】[nvidia-isaac / cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - cuVSLAM: CUDA-Accelerated Visual Odometry and Mapping
 * 【2026-04-11】[Euro-Office / desktop-apps](https://github.com/Euro-Office/desktop-apps) - 
 * 【2026-04-09】[google / jsir](https://github.com/google/jsir) - Next-generation JavaScript analysis tooling
