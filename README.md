@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2026-04-18】[lukilabs / craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
+* 【2026-04-18】[pingdotgg / t3code](https://github.com/pingdotgg/t3code) - 
 * 【2026-04-17】[EvoMap / evolver](https://github.com/EvoMap/evolver) - The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
 * 【2026-04-17】[SimoneAvogadro / android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
 * 【2026-04-16】[vercel-labs / open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
@@ -1965,6 +1967,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2026-04-18】[niumoo / bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
+* 【2026-04-18】[PeterCxy / Shelter](https://github.com/PeterCxy/Shelter) - This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter
 * 【2026-04-14】[MegaMek / megamek](https://github.com/MegaMek/megamek) - MegaMek is a networked Java clone of BattleTech, a turn-based sci-fi boardgame for 2+ players. Fight using giant robots, tanks, and/or infantry on a hex-based map.
 * 【2026-04-11】[nageoffer / ragent](https://github.com/nageoffer/ragent) - 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。
 * 【2026-04-08】[DataDog / datadog-api-client-java](https://github.com/DataDog/datadog-api-client-java) - Java client for the Datadog API
@@ -2934,6 +2938,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-04-18】[nv-tlabs / lyra](https://github.com/nv-tlabs/lyra) - Project Lyra: Open Generative 3D World Models
 * 【2026-04-17】[jundot / omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 * 【2026-04-17】[oobabooga / textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
 * 【2026-04-15】[hugohe3 / ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed
@@ -4803,6 +4808,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-04-18】[cursor / plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 * 【2026-04-17】[0xsdeo / AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker) - JavaScript Reverse Tools -- JS逆向工具
 * 【2026-04-15】[antvis / chart-visualization-skills](https://github.com/antvis/chart-visualization-skills) - ⛏️ Turning data into a visual language for better thinking with Skills.
 * 【2026-04-14】[codebymitch / TitanBot](https://github.com/codebymitch/TitanBot) - A powerful, all-in-one Discord assistant built for every server. 🛠️
@@ -6076,6 +6082,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-04-18】[oisee / vibing-steampunk](https://github.com/oisee/vibing-steampunk) - vs-punk: ADT to MCP bridge - Vibe code in ABAP / AMDP
 * 【2026-04-17】[runkids / skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
 * 【2026-04-14】[cirruslabs / orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 * 【2026-04-13】[anthropics / anthropic-cli](https://github.com/anthropics/anthropic-cli) - The CLI for the Claude API
@@ -7293,6 +7300,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-04-18】[Filoppi / Luma-Framework](https://github.com/Filoppi/Luma-Framework) - Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e.g. adding HDR support, DLSS). Mod list here: https://github.com/Filoppi/Luma-Framework/wiki/Mods-List
 * 【2026-04-15】[bellard / mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 * 【2026-04-13】[Limine-Bootloader / Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 * 【2026-04-02】[ARM-software / CMSIS_6](https://github.com/ARM-software/CMSIS_6) - CMSIS version 6 (successor of CMSIS_5)
@@ -8303,6 +8311,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-04-18】[jarczakpawel / BMCU-C-PJARCZAK](https://github.com/jarczakpawel/BMCU-C-PJARCZAK) - BMCU 370C (Hall) firmware for Bambu Lab A1 / A1 mini / P1S with buffer calibration - all known issues fixed, 100% AMS-compatible behavior.
 * 【2026-04-17】[torch-spyre / torch-spyre](https://github.com/torch-spyre/torch-spyre) - 
 * 【2026-04-14】[lightgbm-org / LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 * 【2026-04-12】[nvidia-isaac / cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - cuVSLAM: CUDA-Accelerated Visual Odometry and Mapping
@@ -9352,6 +9361,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-04-18】[aelassas / servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service - Modern Alternative to NSSM, WinSW & FireDaemon Pro
 * 【2026-04-17】[FakeFishGames / Barotrauma](https://github.com/FakeFishGames/Barotrauma) - A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.
 * 【2026-04-12】[ErsatzTV / ErsatzTV-legacy](https://github.com/ErsatzTV/ErsatzTV-legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
 * 【2026-04-12】[NuGet / NuGetGallery](https://github.com/NuGet/NuGetGallery) - NuGet Gallery is a package repository that powers https://www.nuget.org. Use this repo for reporting NuGet.org issues.
@@ -10360,6 +10370,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-04-18】[xindoo / agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns) - 谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。
 * 【2026-04-17】[microsoft / zerotrustassessment](https://github.com/microsoft/zerotrustassessment) - Repository for the Zero Trust Assessment project
 * 【2026-04-11】[gn-math / gn-math-DONTDMCA](https://github.com/gn-math/gn-math-DONTDMCA) - PLEASE DO NOT DMCA THIS, NO GAME ASSETS ARE HOSTED HERE
 * 【2026-04-07】[mergisi / awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
