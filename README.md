@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-05-04】[Hmbown / DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
 * 【2026-04-30】[warpdotdev / warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 * 【2026-04-30】[1jehuang / jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 * 【2026-04-26】[mattpocock / skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory.
@@ -1984,6 +1985,10 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2026-05-04】[ljeng / cheat-sheet](https://github.com/ljeng/cheat-sheet) - Knowledge base for software engineers and research engineers
+* 【2026-05-04】[j-shelfwood / voxy-neoforge](https://github.com/j-shelfwood/voxy-neoforge) - Unofficial NeoForge 1.21.1 port of Voxy (LOD mod) by MCRcortex - Community maintained
+* 【2026-05-04】[jaygajera17 / E-commerce-project-springBoot](https://github.com/jaygajera17/E-commerce-project-springBoot) - This project serves as an easy-to-understand setup for beginners , providing a base foundation in Spring Boot , MVC & hibernate.
+* 【2026-05-04】[codecentric / spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
 * 【2026-05-03】[LiteLDev / LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid) - A launcher designed for Minecraft Bedrock Edition on Android
 * 【2026-05-02】[lax1dude / eaglerxserver](https://github.com/lax1dude/eaglerxserver) - 
 * 【2026-05-02】[aizhimou / pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili. Anywhere.
@@ -2963,6 +2968,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-05-04】[hiddify / Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
+* 【2026-05-04】[conorluddy / ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) - An IOS Simulator Skill for ClaudeCode. Use it to optimise Claude's ability to build, run and interact with your apps. I mainly use it as an xcodebuild wrapper to save context.
 * 【2026-05-03】[tirth8205 / code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 * 【2026-05-03】[Q00 / ouroboros](https://github.com/Q00/ouroboros) - Agent OS: Stop prompting. Start specifying.
 * 【2026-05-02】[Lightricks / LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
@@ -6138,6 +6145,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-05-04】[Gentleman-Programming / gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - 
 * 【2026-04-30】[richkuo / go-trader](https://github.com/richkuo/go-trader) - Crypto trading bot — backtesting, paper trading, live trading with risk management
 * 【2026-04-29】[chenhg5 / cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
 * 【2026-04-28】[shridarpatil / whatomate](https://github.com/shridarpatil/whatomate) - Whatomate is an open-source WhatsApp integration
@@ -9446,6 +9454,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-05-04】[Facepunch / sbox-scenestaging](https://github.com/Facepunch/sbox-scenestaging) - A staging area for the scene system
+* 【2026-05-04】[voidstrap / Voidstrap](https://github.com/voidstrap/Voidstrap) - Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.
 * 【2026-05-03】[erikdarlingdata / PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor) - Free, open-source SQL Server performance monitoring — 32 collectors, real-time alerts, graphical plan viewer, MCP server for AI analysis. Supports SQL 2016-2025, Azure SQL, AWS RDS.
 * 【2026-04-30】[Facepunch / sandbox](https://github.com/Facepunch/sandbox) - Sandbox mode for s&box
 * 【2026-04-29】[MattParkerDev / SharpIDE](https://github.com/MattParkerDev/SharpIDE) - A modern, cross platform IDE for .NET, built with .NET & Godot
