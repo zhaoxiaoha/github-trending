@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2026-05-07】[addyosmani / agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
+* 【2026-05-07】[anthropics / financial-services](https://github.com/anthropics/financial-services) - 
 * 【2026-05-06】[bwya77 / vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
 * 【2026-05-04】[Hmbown / DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
 * 【2026-04-30】[warpdotdev / warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -2971,6 +2973,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-05-07】[kyutai-labs / pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 * 【2026-05-06】[CloakHQ / CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 * 【2026-05-06】[ahujasid / ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 
 * 【2026-05-05】[raullenchai / Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
@@ -6152,6 +6155,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-05-07】[bjarneo / cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 * 【2026-05-05】[pranshuparmar / witr](https://github.com/pranshuparmar/witr) - Why is this running?
 * 【2026-05-05】[clidey / whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 * 【2026-05-05】[floatpane / matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
@@ -8410,6 +8414,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-05-07】[awalol / DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle.
 * 【2026-05-02】[sirius-db / sirius](https://github.com/sirius-db/sirius) - 
 * 【2026-05-01】[lemonade-sdk / lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 * 【2026-04-28】[BruceDevices / firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
@@ -12275,6 +12280,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-05-07】[jim-schwoebel / awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
 * 【2026-05-05】[VoltAgent / awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 * 【2026-05-03】[vanshb03 / Summer2027-Internships](https://github.com/vanshb03/Summer2027-Internships) - Collection of Summer 2026 tech internships!
 * 【2026-04-29】[andyrewlee / awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
