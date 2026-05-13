@@ -2980,6 +2980,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-05-13】[Imbad0202 / academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
+* 【2026-05-13】[openinterpreter / open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+* 【2026-05-13】[zhangfengcdt / memoir](https://github.com/zhangfengcdt/memoir) - Hierarchical Agent Memory with Git-Like Version Control
 * 【2026-05-11】[zai-org / GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate × Fast × Comprehensive
 * 【2026-05-08】[Open-LLM-VTuber / Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
 * 【2026-05-08】[openai / plugins](https://github.com/openai/plugins) - OpenAI Plugins
@@ -7411,6 +7414,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-05-13】[AcademySoftwareFoundation / openexr](https://github.com/AcademySoftwareFoundation/openexr) - The OpenEXR project provides the specification and reference implementation of the EXR file format, the professional-grade image storage format of the motion picture industry.
 * 【2026-05-12】[MrPowerGamerBR / Butterscotch](https://github.com/MrPowerGamerBR/Butterscotch) - 🥧 An open source re-implementation of GameMaker: Studio's runner (YoYo Runner), targeting Undertale v1.08 (Bytecode Version 16)
 * 【2026-05-12】[meshcore-dev / MeshCore](https://github.com/meshcore-dev/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 * 【2026-05-11】[facebook / openzl](https://github.com/facebook/openzl) - A novel data compression framework
@@ -8436,6 +8440,10 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-05-13】[encounter / aurora](https://github.com/encounter/aurora) - A source-level GameCube & Wii compatibility layer
+* 【2026-05-13】[k4zmu2a / SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
+* 【2026-05-13】[zeldaret / tww](https://github.com/zeldaret/tww) - Decompilation of The Legend of Zelda: The Wind Waker
+* 【2026-05-13】[ros-controls / ros2_control](https://github.com/ros-controls/ros2_control) - Generic and simple controls framework for ROS 2
 * 【2026-05-11】[gazebosim / gz-sim](https://github.com/gazebosim/gz-sim) - Open source robotics simulator. The latest version of Gazebo.
 * 【2026-05-10】[kamyu104 / LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 3920 LeetCode Problems (Weekly Update)
 * 【2026-05-07】[awalol / DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle.
@@ -9495,6 +9503,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-05-13】[Greedeks / GTweak](https://github.com/Greedeks/GTweak) - Portable Tool for an Ideal Windows Setup
+* 【2026-05-13】[microsoft / Power-CAT-Copilot-Studio-Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit) - 
 * 【2026-05-10】[Alchyr / BaseLib-StS2](https://github.com/Alchyr/BaseLib-StS2) - Mod for Slay the Spire 2 to standardize content additions
 * 【2026-05-08】[Pronwan / rustplus-desktop](https://github.com/Pronwan/rustplus-desktop) - Rust+ Desktop App (unofficial)
 * 【2026-05-06】[mcp-servers-for-revit / mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) - 🔥💧🤖 Sparx fork of the mcp-servers-for-revit/revit-mcp project
@@ -12309,6 +12319,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-05-13】[ParthJadhav / app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
 * 【2026-05-10】[vinegarhq / sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
 * 【2026-05-07】[jim-schwoebel / awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
 * 【2026-05-05】[VoltAgent / awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
