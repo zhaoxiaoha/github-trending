@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-05-17】[colbymchenry / codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local
 * 【2026-05-16】[joeseesun / qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
 * 【2026-05-15】[NVIDIA-AI-Blueprints / video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
 * 【2026-05-15】[garrytan / gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -2000,6 +2001,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2026-05-17】[adobe / aem-core-wcm-components](https://github.com/adobe/aem-core-wcm-components) - Standardized components to build websites with AEM.
 * 【2026-05-16】[iflytek / skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.
 * 【2026-05-14】[Konloch / bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 * 【2026-05-06】[AidanPark / openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
@@ -2987,6 +2989,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-05-17】[HKUDS / CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+* 【2026-05-17】[dograh-hq / dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
+* 【2026-05-17】[BigBodyCobain / Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
 * 【2026-05-16】[CodeBoarding / CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
 * 【2026-05-15】[wanshuiyin / Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
 * 【2026-05-15】[zubair-trabzada / geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community
@@ -4890,6 +4895,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-05-17】[adobe / skills](https://github.com/adobe/skills) - Adobe Skills for Agents
+* 【2026-05-17】[renatoasse / opensquad](https://github.com/renatoasse/opensquad) - 
 * 【2026-05-16】[ykdojo / claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.
 * 【2026-05-16】[phuc-nt / my-translator](https://github.com/phuc-nt/my-translator) - Real-time speech translation — macOS & Windows, free TTS, no server, your API keys only
 * 【2026-05-16】[oracle / skills](https://github.com/oracle/skills) - Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain
@@ -6191,6 +6198,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-05-17】[gastownhall / gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
 * 【2026-05-16】[komari-monitor / komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
 * 【2026-05-16】[llm-d / llm-d-router](https://github.com/llm-d/llm-d-router) - llm-d Router: The intelligent entry point for inference requests
 * 【2026-05-12】[BenedictKing / ccx](https://github.com/BenedictKing/ccx) - Claude / Codex / Gemini API Proxy - CCX
@@ -7436,6 +7444,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-05-17】[CrazyCritic89 / SteamHapticsSinger](https://github.com/CrazyCritic89/SteamHapticsSinger) - This project is a fork of SteamControllerSinger which aims to be a successor.
 * 【2026-05-14】[hzqst / VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader) - Vmware Hardened VM detection mitigation loader (anti anti-vm)
 * 【2026-05-14】[bdth-7777777 / OLED_UI](https://github.com/bdth-7777777/OLED_UI) - 一个丝滑的、可以轻松部署的OLED UI界面，包含基本的多级菜单，窗口等组件。
 * 【2026-05-13】[AcademySoftwareFoundation / openexr](https://github.com/AcademySoftwareFoundation/openexr) - The OpenEXR project provides the specification and reference implementation of the EXR file format, the professional-grade image storage format of the motion picture industry.
@@ -11426,6 +11435,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2026-05-17】[adobe / adobe.github.com](https://github.com/adobe/adobe.github.com) - Adobe central hub for open source
 * 【2026-05-16】[rust-lang / const-eval](https://github.com/rust-lang/const-eval) - home for proposals in and around compile-time function evaluation
 * 【2026-05-10】[imjuya / juya-ai-daily](https://github.com/imjuya/juya-ai-daily) - 记录人类完蛋全过程。
 * 【2026-05-05】[puckzxz / NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme) - A easily customizable and automatically updating theme for Discord
@@ -12348,6 +12358,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-05-17】[hyperspaceai / agi](https://github.com/hyperspaceai/agi) - The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.
 * 【2026-05-15】[caramaschiHG / awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) - 🤖 The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources · 20+ categories · Updated monthly.
 * 【2026-05-15】[0PandaDEV / awesome-windows](https://github.com/0PandaDEV/awesome-windows) - An awesome & curated list of tools and apps for Windows 10/11.
 * 【2026-05-13】[ParthJadhav / app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
