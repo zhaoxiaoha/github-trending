@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2026-05-24】[mukul975 / Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+* 【2026-05-24】[NVlabs / LongLive](https://github.com/NVlabs/LongLive) - LongLive 2.0: Infra - Long Video Gen
+* 【2026-05-24】[janestreet / magic-trace](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing
 * 【2026-05-22】[antoinezambelli / forge](https://github.com/antoinezambelli/forge) - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
 * 【2026-05-22】[Lum1104 / Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 * 【2026-05-21】[rohitg00 / ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
@@ -2014,6 +2017,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2026-05-24】[microsoft / copilot-for-eclipse](https://github.com/microsoft/copilot-for-eclipse) - GitHub Copilot plugin for Eclipse IDE
 * 【2026-05-23】[ArcadeData / arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.
 * 【2026-05-21】[201206030 / novel-plus](https://github.com/201206030/novel-plus) - novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说爬虫、会员中心、作家专区、充值订阅、新闻发布等功能。
 * 【2026-05-20】[mubashardev / WaEnhancerX](https://github.com/mubashardev/WaEnhancerX) - 1. Wa Enhancer X | WhatsApp tools for Android
@@ -7491,6 +7495,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-05-24】[vChewing / vChewing-macOS](https://github.com/vChewing/vChewing-macOS) - 唯音輸入法 macOS 版，恐怕是截至目前為止在功能多樣性方面最強的第三方免費 macOS 系統專用輸入法，採純 Swift 語言寫就。唯音的著力點是盡可能在力所能及的範圍內將整個產品的功能做得更好用，搭配特製的簡體中文與繁體中文專用辭庫。是純粹的簡體中文注音輸入法（也內贈原生繁體中文輸入模式），更具諸多唯音特色功能。目前研發管理工作均在 AtomGit 進行。
 * 【2026-05-22】[OpenTenBase / OpenTenBase](https://github.com/OpenTenBase/OpenTenBase) - OpenTenBase is an enterprise-level distributed HTAP open source database.
 * 【2026-05-22】[Boxingbruin / Pandemonium](https://github.com/Boxingbruin/Pandemonium) - Game jam!
 * 【2026-05-18】[Internet-Architecture-and-Security / PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) - 🎯 A general-purpose protocol stack analysis and debugging tool based on eBPF 🧰
@@ -8523,6 +8528,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-05-24】[JACoders / OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
 * 【2026-05-22】[OpenTenBase / TXSQL](https://github.com/OpenTenBase/TXSQL) - 
 * 【2026-05-22】[danielkrupinski / Osiris](https://github.com/danielkrupinski/Osiris) - Cross-platform game hack for Counter-Strike 2 with Panorama-based GUI.
 * 【2026-05-16】[electronicarts / mesh2splat](https://github.com/electronicarts/mesh2splat) - Fast mesh to 3D gaussian splat conversion
@@ -10624,6 +10630,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-05-24】[OCA / stock-logistics-warehouse](https://github.com/OCA/stock-logistics-warehouse) - Odoo Warehouse Management Addons
 * 【2026-05-23】[majiayu000 / claude-skill-registry](https://github.com/majiayu000/claude-skill-registry) - The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app
 * 【2026-05-23】[janavipandole / Cara](https://github.com/janavipandole/Cara) - E-Commerce Website is a modern, responsive, and fully functional online shopping platform built to deliver a smooth and user-friendly experience. This project allows users to browse products, add them to cart, and securely checkout. It features a clean UI, product search, categories, and order management.
 * 【2026-05-22】[karpathy / jobs](https://github.com/karpathy/jobs) - A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually.
