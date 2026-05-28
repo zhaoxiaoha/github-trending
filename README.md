@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2026-05-28】[Chachamaru127 / claude-code-harness](https://github.com/Chachamaru127/claude-code-harness) - Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
+* 【2026-05-28】[iii-hq / iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 * 【2026-05-27】[Open-Dev-Society / OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 * 【2026-05-26】[Leonxlnx / taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 * 【2026-05-25】[anthropics / knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
@@ -4938,6 +4940,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-05-28】[zarazhangrui / frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 * 【2026-05-27】[calesthio / Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 * 【2026-05-27】[KoStard / forgecad-public-kit](https://github.com/KoStard/forgecad-public-kit) - Public companion kit for ForgeCAD: examples, agent skills, docs links, and issue tracking. The hosted CAD app and core source live elsewhere.
 * 【2026-05-23】[zarazhangrui / follow-builders](https://github.com/zarazhangrui/follow-builders) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.
@@ -6253,6 +6256,9 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-05-28】[kulikov0 / whitelist-bypass](https://github.com/kulikov0/whitelist-bypass) - 
+* 【2026-05-28】[james-6-23 / codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
+* 【2026-05-28】[Infisical / agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
 * 【2026-05-27】[lich0821 / ccNexus](https://github.com/lich0821/ccNexus) - Intelligent API gateway for Claude Code and Codex CLI - rotate endpoints, monitor usage, and seamlessly integrate OpenAI, Gemini, and other platforms.
 * 【2026-05-26】[openclaw / gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 * 【2026-05-25】[mvanhorn / cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
@@ -8547,6 +8553,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-05-28】[simplefoc / Arduino-FOC](https://github.com/simplefoc/Arduino-FOC) - Arduino FOC for BLDC and Stepper motors - Arduino Based Field Oriented Control Algorithm Library
 * 【2026-05-26】[DamRsn / NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.
 * 【2026-05-25】[jtenniswood / espcontrol](https://github.com/jtenniswood/espcontrol) - Esphome based smart home control panel
 * 【2026-05-25】[ShizCalev / MGSHDFix](https://github.com/ShizCalev/MGSHDFix) - A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.
@@ -10655,6 +10662,9 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-05-28】[revfactory / harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+* 【2026-05-28】[lijigang / ljg-skills](https://github.com/lijigang/ljg-skills) - 
+* 【2026-05-28】[OCA / e-commerce](https://github.com/OCA/e-commerce) - Odoo E-Commerce server automation addons
 * 【2026-05-26】[whale-Yd00 / freeapp](https://github.com/whale-Yd00/freeapp) - 一个ai聊天项目
 * 【2026-05-24】[OCA / stock-logistics-warehouse](https://github.com/OCA/stock-logistics-warehouse) - Odoo Warehouse Management Addons
 * 【2026-05-23】[majiayu000 / claude-skill-registry](https://github.com/majiayu000/claude-skill-registry) - The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app
@@ -12453,6 +12463,8 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-05-28】[dair-ai / Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮 A collection of resources to learn mathematics for machine learning
+* 【2026-05-28】[KimYx0207 / AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - Claude Code + OpenClaw + Codex 中文教程 | 36篇完整教程 | 18万字 | 三线学习路径 | 小白到企业实战
 * 【2026-05-26】[google / eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 * 【2026-05-26】[anthropics / claude-plugins-community](https://github.com/anthropics/claude-plugins-community) - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
 * 【2026-05-21】[okcar-os / android](https://github.com/okcar-os/android) - An open-source system designed for in-car entertainment. Use the CarPlay protocol to enable audio and video transmission between an Android smartphone and in-car entertainment.
