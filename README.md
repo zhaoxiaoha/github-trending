@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-05-29】[OpenMOSS / MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
 * 【2026-05-28】[Chachamaru127 / claude-code-harness](https://github.com/Chachamaru127/claude-code-harness) - Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
 * 【2026-05-28】[iii-hq / iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 * 【2026-05-27】[Open-Dev-Society / OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
@@ -3019,6 +3020,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-05-29】[microsoft / RAMPART](https://github.com/microsoft/RAMPART) - A pytest-native safety and security testing framework for agentic AI applications
+* 【2026-05-29】[ariadng / metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server) - Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform
+* 【2026-05-29】[adithya-s-k / omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks
 * 【2026-05-27】[francescopace / espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 * 【2026-05-26】[st-tech / ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) - A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.
 * 【2026-05-25】[bleachbit / bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
@@ -6256,6 +6260,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-05-29】[kenn-io / roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 * 【2026-05-28】[kulikov0 / whitelist-bypass](https://github.com/kulikov0/whitelist-bypass) - 
 * 【2026-05-28】[james-6-23 / codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
 * 【2026-05-28】[Infisical / agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
@@ -10662,6 +10667,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-05-29】[rebane2001 / xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
+* 【2026-05-29】[S3DFX-CYBER / GSoC-Org-Finder-](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-) - Find your perfect GSoC 2026 organization- filter all 184 selected orgs by your tech stack, language, and domain. No install needed.
 * 【2026-05-28】[revfactory / harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 * 【2026-05-28】[lijigang / ljg-skills](https://github.com/lijigang/ljg-skills) - 
 * 【2026-05-28】[OCA / e-commerce](https://github.com/OCA/e-commerce) - Odoo E-Commerce server automation addons
@@ -11539,6 +11546,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2026-05-29】[AumGupta / abyss-jellyfin](https://github.com/AumGupta/abyss-jellyfin) - Minimal Dark Theme for Jellyfin [Customisable]
 * 【2026-05-23】[zarazhangrui / codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 * 【2026-05-17】[adobe / adobe.github.com](https://github.com/adobe/adobe.github.com) - Adobe central hub for open source
 * 【2026-05-16】[rust-lang / const-eval](https://github.com/rust-lang/const-eval) - home for proposals in and around compile-time function evaluation
