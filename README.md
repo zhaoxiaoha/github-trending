@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-06-03】[chopratejas / headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 * 【2026-06-02】[stefan-jansen / machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 * 【2026-06-02】[dmtrKovalenko / fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 * 【2026-06-01】[nesquena / hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
@@ -3031,6 +3032,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-06-03】[datalab-to / surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
+* 【2026-06-03】[HKUDS / Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 * 【2026-05-30】[zakirkun / deep-eye](https://github.com/zakirkun/deep-eye) - Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM, LM Studio) for intelligent payload generation, scans targets for 45+ vulnerability types, and produces professional reports with compliance mapping.
 * 【2026-05-30】[ai-boost / awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 * 【2026-05-30】[NVlabs / Eagle](https://github.com/NVlabs/Eagle) - Eagle: Frontier Vision-Language Models with Data-Centric Strategies
@@ -4958,6 +4961,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-06-03】[xuanyustudio / LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) - 🎬 seedance2接入 开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线
 * 【2026-06-02】[microsoft / skills-for-copilot-studio](https://github.com/microsoft/skills-for-copilot-studio) - A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI-powered skills. Suited for Claude Code, GitHub Copilot CLI, and more.
 * 【2026-06-01】[SandeepVashishtha / Eventra](https://github.com/SandeepVashishtha/Eventra) - Eventra is a comprehensive event management system that empowers organizers to create, manage, and track events seamlessly. Built with a modern tech stack featuring React frontend and Spring Boot backend, Eventra provides everything needed to run successful events from creation to post-event analytics.
 * 【2026-05-31】[JiyaBatra / CODEVIBE-](https://github.com/JiyaBatra/CODEVIBE-) - CodeVibe is an interactive learning platform designed to help beginners understand programming through simple lessons and hands-on practice. It includes structured course sections, coding examples, and a built-in HTML compiler that lets users write and test code directly in the browser, making learning web development practical, engaging.
@@ -6278,6 +6282,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-06-03】[sartoopjj / thefeed](https://github.com/sartoopjj/thefeed) - DNS-based feed reader for Telegram channels and public X accounts. Designed for environments where only DNS queries work.
 * 【2026-06-02】[charmbracelet / soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 * 【2026-06-01】[Panonim / dynacat](https://github.com/Panonim/dynacat) - Dynacat is a dashboard focused on dynamic reloading and easy integrity with external applications.
 * 【2026-06-01】[superplanehq / superplane](https://github.com/superplanehq/superplane) - The open source control plane for platform engineering.
@@ -8582,6 +8587,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-06-03】[CopterExpress / clover](https://github.com/CopterExpress/clover) - ROS-based framework and RPi image to control PX4-powered drones 🍀
+* 【2026-06-03】[aenu1 / aps3e](https://github.com/aenu1/aps3e) - An experimental Android PS3 emulator, ported and optimized based on RPCS3.
 * 【2026-05-28】[simplefoc / Arduino-FOC](https://github.com/simplefoc/Arduino-FOC) - Arduino FOC for BLDC and Stepper motors - Arduino Based Field Oriented Control Algorithm Library
 * 【2026-05-26】[DamRsn / NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.
 * 【2026-05-25】[jtenniswood / espcontrol](https://github.com/jtenniswood/espcontrol) - Esphome based smart home control panel
@@ -9654,6 +9661,8 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-06-03】[Dailin521 / codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) - Synchronize Codex session provider metadata across rollout files and SQLite state.
+* 【2026-06-03】[ValveResourceFormat / ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat) - Source 2 Viewer is an all-in-one tool to browse VPK archives, view, extract, and decompile Source 2 assets, including maps, models, materials, textures, sounds, and more.
 * 【2026-06-02】[openutau / OpenUtau](https://github.com/openutau/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
 * 【2026-06-02】[PizzaLovers007 / AdofaiTweaks](https://github.com/PizzaLovers007/AdofaiTweaks) - Helpful tweaks for A Dance of Fire and Ice
 * 【2026-05-30】[SirDiabo / GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - A Launcher that Downloads and Updates Applications from Github Releases
@@ -10694,6 +10703,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-06-03】[googleprojectzero / 0days-in-the-wild](https://github.com/googleprojectzero/0days-in-the-wild) - Repository for information about 0-days exploited in-the-wild.
 * 【2026-05-29】[rebane2001 / xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
 * 【2026-05-29】[S3DFX-CYBER / GSoC-Org-Finder-](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-) - Find your perfect GSoC 2026 organization- filter all 184 selected orgs by your tech stack, language, and domain. No install needed.
 * 【2026-05-28】[revfactory / harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
@@ -12500,6 +12510,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-06-03】[eeeeeeeeee-code / POC](https://github.com/eeeeeeeeee-code/POC) - 备份的漏洞库，3月开始我们来维护
 * 【2026-05-31】[EmergenceAI / Emergence-World](https://github.com/EmergenceAI/Emergence-World) - Emergence World: A world designed to reveal what no benchmark can: emergent intelligence.
 * 【2026-05-28】[dair-ai / Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮 A collection of resources to learn mathematics for machine learning
 * 【2026-05-28】[KimYx0207 / AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - Claude Code + OpenClaw + Codex 中文教程 | 36篇完整教程 | 18万字 | 三线学习路径 | 小白到企业实战
