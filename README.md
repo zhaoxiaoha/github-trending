@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-06-07】[microsoft / mxc](https://github.com/microsoft/mxc) - Policy-driven, layered isolation and containment
 * 【2026-06-06】[Panniantong / Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 * 【2026-06-06】[MemPalace / mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 * 【2026-06-06】[withastro / flue](https://github.com/withastro/flue) - The sandbox agent framework.
@@ -3037,6 +3038,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-06-07】[NKUCS-ICU / NKUCS.ICU](https://github.com/NKUCS-ICU/NKUCS.ICU) - 南开大学计网经验指北 | A website for courses of Major Computer Science | NKUCS DOCX | Since 2021
 * 【2026-06-05】[unilabsim / UniLab](https://github.com/unilabsim/UniLab) - UniLab: A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms
 * 【2026-06-04】[interviewstreet / hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes.
 * 【2026-06-03】[datalab-to / surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
@@ -4968,6 +4970,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-06-07】[Gracker / SmartPerfetto](https://github.com/Gracker/SmartPerfetto) - use ai analysis Performance issue with perfetto
+* 【2026-06-07】[ritesh-1918 / HELPDESK.AI](https://github.com/ritesh-1918/HELPDESK.AI) - A full-stack AI helpdesk platform that uses machine learning, NLP, and OCR to automatically analyze support requests, detect similar incidents, and help teams resolve technical issues faster.
 * 【2026-06-06】[santifer / career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 * 【2026-06-06】[eze-is / web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
 * 【2026-06-05】[JuliusBrussee / caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -12537,6 +12541,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-06-07】[phuryn / pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 * 【2026-06-06】[dair-ai / ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing machine learning course / lecture notes.
 * 【2026-06-06】[Orsoniks / scavgame-locale](https://github.com/Orsoniks/scavgame-locale) - Locale stuff for the scav game
 * 【2026-06-06】[VoltAgent / awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
