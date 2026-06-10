@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-06-10】[maziyarpanahi / openmed](https://github.com/maziyarpanahi/openmed) - open-source healthcare ai
 * 【2026-06-09】[RyanCodrai / turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
 * 【2026-06-09】[google / skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 * 【2026-06-09】[refactoringhq / tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
@@ -3041,6 +3042,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-06-10】[NVIDIA / SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
 * 【2026-06-09】[alistaitsacle / free-llm-api-keys](https://github.com/alistaitsacle/free-llm-api-keys) - Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.
 * 【2026-06-09】[magenta / magenta-realtime](https://github.com/magenta/magenta-realtime) - Magenta RealTime 2: An Open-Weights Live Music Model
 * 【2026-06-09】[xerrors / Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库、知识图谱管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
@@ -7579,6 +7581,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-06-10】[InterceptSuite / ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+* 【2026-06-10】[vayun-mathur / Modern-Apps](https://github.com/vayun-mathur/Modern-Apps) - A full mobile ecosystem of 19 apps
 * 【2026-06-06】[xarray / osgverse](https://github.com/xarray/osgverse) - osgVerse, a complete 3d engine solution based on OpenSceneGraph. It supports OpenGL/OpenGLES/Vulkan/DirectX/Metal backends, and also works on modern browsers using WASM.
 * 【2026-06-04】[zanfranceschi / rinha-de-backend-2026](https://github.com/zanfranceschi/rinha-de-backend-2026) - Rinha de Backend - Quarta Edição: Detecção de Fraude com Busca Vetorial
 * 【2026-06-04】[21cncstudio / project_aura](https://github.com/21cncstudio/project_aura) - ESP32‑S3 air‑quality station with LVGL UI, MQTT, Home Assistant
@@ -8620,6 +8624,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-06-10】[strukturag / libheif](https://github.com/strukturag/libheif) - libheif is an HEIF and AVIF file format decoder and encoder.
 * 【2026-06-06】[ElyPrismLauncher / Launcher](https://github.com/ElyPrismLauncher/Launcher) - This fork of Prism Launcher adds integrated support for Ely.by accounts.
 * 【2026-06-06】[sdatkinson / NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - Plugin for Neural Amp Modeler
 * 【2026-06-03】[CopterExpress / clover](https://github.com/CopterExpress/clover) - ROS-based framework and RPi image to control PX4-powered drones 🍀
