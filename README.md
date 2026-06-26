@@ -1,6 +1,9 @@
 ### Github热门项目
 ## All language
 
+* 【2026-06-26】[xbtlin / ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.
+* 【2026-06-26】[mauriceboe / TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
+* 【2026-06-26】[every-app / open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
 * 【2026-06-25】[stablyai / orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 * 【2026-06-25】[google-labs-code / design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 * 【2026-06-23】[heygen-com / hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
@@ -3069,6 +3072,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-06-26】[NVIDIA-NeMo / Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 * 【2026-06-24】[aws / agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
 * 【2026-06-24】[bradautomates / claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 * 【2026-06-23】[NVIDIA / skills](https://github.com/NVIDIA/skills) - AI agent skills published by NVIDIA
@@ -5023,6 +5027,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-06-26】[jnMetaCode / superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
 * 【2026-06-25】[arunbhardwaj / LeetHub-2.0](https://github.com/arunbhardwaj/LeetHub-2.0) - Automatically sync your leetcode solutions to your github account - with some updates to keep it working
 * 【2026-06-25】[Shopify / Shopify-AI-Toolkit](https://github.com/Shopify/Shopify-AI-Toolkit) - Agent plugins/extensions for CLIs and IDEs
 * 【2026-06-23】[FB208 / OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
@@ -7652,6 +7657,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-06-26】[winfsp / winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 * 【2026-06-22】[logicog / RTLPlayground](https://github.com/logicog/RTLPlayground) - A Playground for Firmware development for RTL8372/RTL8373 based 2.5GBit Switches
 * 【2026-06-19】[getsentry / sentry-native](https://github.com/getsentry/sentry-native) - Sentry SDK for C, C++ and native applications.
 * 【2026-06-17】[swoole / swoole-cli](https://github.com/swoole/swoole-cli) - SWOOLE-CLI is a php binary distribution composed swoole & php-core & cli & fpm and mostly of common extensions.
@@ -9788,6 +9794,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-06-26】[tui-cs / Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 * 【2026-06-21】[builtbybel / FluentCleaner](https://github.com/builtbybel/FluentCleaner) - A real WinUI desktop cleaner with terminal control and multi-database support
 * 【2026-06-21】[new-frontiers-14 / frontier-station-14](https://github.com/new-frontiers-14/frontier-station-14) - A 2D multiplayer sandbox survival game set in space. Based off from the cult-classic Space Station 13/14.
 * 【2026-06-20】[shrimqy / Sefirah](https://github.com/shrimqy/Sefirah) - Phone Link / KDE Connect alternative
@@ -10843,6 +10850,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-06-26】[op7418 / guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
+* 【2026-06-26】[alchaincyf / huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 * 【2026-06-23】[Y-Research-SBU / QuantAgent](https://github.com/Y-Research-SBU/QuantAgent) - Official Repository for QuantAgent
 * 【2026-06-19】[jax-ml / scaling-book](https://github.com/jax-ml/scaling-book) - Home for "How To Scale Your Model", a short blog-style textbook about scaling LLMs on TPUs
 * 【2026-06-18】[techjarves / USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM) - The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.
@@ -12677,6 +12686,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-06-26】[OWASP / AISVS](https://github.com/OWASP/AISVS) - The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security of AI-driven applications.
 * 【2026-06-25】[Hamed233 / Cybersecurity-Mastery-Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap) - A comprehensive, step-by-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance
 * 【2026-06-25】[MedivhTirisfal / csust_test_database](https://github.com/MedivhTirisfal/csust_test_database) - 长沙理工大学考试题库
 * 【2026-06-23】[iknowjason / Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs) - Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.
