@@ -3089,6 +3089,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-07-04】[NVlabs / ProtoMotions](https://github.com/NVlabs/ProtoMotions) - ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.
 * 【2026-07-02】[virgiliojr94 / book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 * 【2026-07-02】[HKUDS / VideoAgent](https://github.com/HKUDS/VideoAgent) - "VideoAgent: All-in-One Agentic Framework for Video Understanding, Editing, and Remaking"
 * 【2026-06-28】[browser-use / video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
@@ -5050,6 +5051,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-07-04】[GargantuaX / gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法
 * 【2026-07-03】[elder-plinius / P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3) - universal text transformation, translation, mutation, encoding/decoding, and promptcrafting
 * 【2026-07-02】[nadimtuhin / claude-token-optimizer](https://github.com/nadimtuhin/claude-token-optimizer) - Optimize token usage for Claude API calls
 * 【2026-07-01】[pashov / skills](https://github.com/pashov/skills) - Pashov Audit Group Skills
@@ -6402,6 +6404,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-07-04】[opencode-ai / opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 * 【2026-07-02】[leookun / cursor-byok](https://github.com/leookun/cursor-byok) - Infinite BYOK in Cursor https://github.com/leookun/cursor-byok/releases
 * 【2026-07-01】[palemoky / chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) - 📜 诗泉：高性能中国古诗词 API 服务
 * 【2026-06-30】[rilldata / rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents.
@@ -10902,6 +10905,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-07-04】[matlab / simulink-agentic-toolkit](https://github.com/matlab/simulink-agentic-toolkit) - The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effectively with Simulink and Model-Based Design.
 * 【2026-07-02】[cncf / toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation.
 * 【2026-06-30】[hasaneyldrm / exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
 * 【2026-06-29】[DataScienceSpecialization / courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1
@@ -12745,6 +12749,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-07-04】[grananqvist / Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning
 * 【2026-07-03】[ombharatiya / ai-system-design-guide](https://github.com/ombharatiya/ai-system-design-guide) - AI system design guide for engineers building production AI systems and evals.
 * 【2026-07-02】[yetone / voice-input-src](https://github.com/yetone/voice-input-src) - 
 * 【2026-06-30】[Fl4sh9174 / Switch-Emulator-Ultrawide-FPS-Mods](https://github.com/Fl4sh9174/Switch-Emulator-Ultrawide-FPS-Mods) - 
