@@ -2081,6 +2081,8 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2026-07-06】[SGUDestiny / PenumbraPhantasm](https://github.com/SGUDestiny/PenumbraPhantasm) - 
+* 【2026-07-06】[mateaix / matecloud](https://github.com/mateaix/matecloud) - 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 4.0.7、 SpringCloud 2025、Spring Cloud Alibaba 2025、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
 * 【2026-07-05】[mateaix / mateclaw](https://github.com/mateaix/mateclaw) - 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.
 * 【2026-07-05】[apache / flink-agents](https://github.com/apache/flink-agents) - Flink Agents is an Agentic AI framework based on Apache Flink
 * 【2026-06-30】[bytechefhq / bytechef](https://github.com/bytechefhq/bytechef) - Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform.
@@ -3094,6 +3096,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-07-06】[google-antigravity / antigravity-sdk-python](https://github.com/google-antigravity/antigravity-sdk-python) - A Python library for building AI agents that leverage the full power of Google Antigravity.
 * 【2026-07-05】[microsoft / skills-for-fabric](https://github.com/microsoft/skills-for-fabric) - A collection of skills and MCP systems to enable users of CLI, VSCode, Claude to operate over Microsoft Fabric
 * 【2026-07-04】[NVlabs / ProtoMotions](https://github.com/NVlabs/ProtoMotions) - ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.
 * 【2026-07-02】[virgiliojr94 / book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
@@ -6411,6 +6414,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-07-06】[asciimoo / hister](https://github.com/asciimoo/hister) - Your own search engine
+* 【2026-07-06】[openclaw / crabbox](https://github.com/openclaw/crabbox) - Crabbox: warm a box, sync the diff, run the suite.
 * 【2026-07-04】[opencode-ai / opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 * 【2026-07-02】[leookun / cursor-byok](https://github.com/leookun/cursor-byok) - Infinite BYOK in Cursor https://github.com/leookun/cursor-byok/releases
 * 【2026-07-01】[palemoky / chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) - 📜 诗泉：高性能中国古诗词 API 服务
@@ -8764,6 +8769,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-07-06】[xland / ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screen capture software with just a single executable file
 * 【2026-07-03】[fasiondog / hikyuu](https://github.com/fasiondog/hikyuu) - Hikyuu Quant Framework 基于C++/Python的超高速开源量化交易研究框架，同时可基于策略部件进行资产重用，快速累积策略资产。
 * 【2026-07-01】[The-Powder-Toy / The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) - Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.
 * 【2026-06-30】[twelvesec / PwnPad](https://github.com/twelvesec/PwnPad) - PwnPad is an affordable, hands-on hardware hacking platform built for practical learning. It features a range of challenges that walk users through key hardware security concepts, from PCB design to side-channel attacks.
@@ -11818,6 +11824,8 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2026-07-06】[rk192324217 / cubosapiens_world-tools](https://github.com/rk192324217/cubosapiens_world-tools) - 
+* 【2026-07-06】[jokecamp / FootballData](https://github.com/jokecamp/FootballData) - A hodgepodge of JSON and CSV Football/Soccer data
 * 【2026-07-03】[FlutterFlow / flutterflow-documentation](https://github.com/FlutterFlow/flutterflow-documentation) - 
 * 【2026-07-02】[Nutlope / hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 * 【2026-07-01】[anushkasark08 / The-Lighthouse](https://github.com/anushkasark08/The-Lighthouse) - 
