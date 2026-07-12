@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2026-07-12】[google-labs-code / stitch-skills](https://github.com/google-labs-code/stitch-skills) - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+* 【2026-07-12】[malisper / pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 * 【2026-07-10】[SmartlyDressedGames / U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) - Source code for Unturned, a free open-world zombie survival sandbox game.
 * 【2026-07-09】[TencentCloud / TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
 * 【2026-07-09】[huxingyi / autoremesher](https://github.com/huxingyi/autoremesher) - Automatic quad remeshing tool
@@ -3101,6 +3103,10 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-07-12】[FoundationAgents / OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground. OpenManus is Coming.
+* 【2026-07-12】[Soju06 / codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
+* 【2026-07-12】[cognizant-ai-lab / neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) - A playground for neuro-san
+* 【2026-07-12】[ATH-MaaS / Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 * 【2026-07-10】[fqscfqj / Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) - YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
 * 【2026-07-09】[microsoft / SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 * 【2026-07-09】[googleanalytics / google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) - 
@@ -5069,6 +5075,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-07-12】[ilysenko / codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.
 * 【2026-07-09】[byoungd / up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 * 【2026-07-08】[Piebald-AI / claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation). Updated for each Claude Code version.
 * 【2026-07-07】[webbrain-one / webbrain](https://github.com/webbrain-one/webbrain) - Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠
@@ -9877,6 +9884,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-07-12】[par274 / sharpemu](https://github.com/par274/sharpemu) - An experimental PlayStation 5 emulator project.
 * 【2026-07-10】[codewithmukesh / dotnet-claude-kit](https://github.com/codewithmukesh/dotnet-claude-kit) - Make Claude Code a .NET 10 Expert
 * 【2026-07-03】[PhoenixNil / XrayUI-dev](https://github.com/PhoenixNil/XrayUI-dev) - Lightweight native Windows GUI client for Xray core, built with WinUI 3
 * 【2026-06-30】[Seralyth / Seralyth-Menu](https://github.com/Seralyth/Seralyth-Menu) - A community driven mod menu for Gorilla Tag with over 1000+ mods
@@ -10937,6 +10945,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-07-12】[sohutv / cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports Standalone, Sentinel, and Cluster architectures for Redis, effectively reducing large-scale Redis operation and maintenance costs, and improving re…
+* 【2026-07-12】[cclank / cell-architecture-studio](https://github.com/cclank/cell-architecture-studio) - Interactive 3D cell architecture gallery built with React and Three.js
 * 【2026-07-08】[fernfei / OnlyofficePersonal](https://github.com/fernfei/OnlyofficePersonal) - ONLYOFFICE Personal 是一款基于wasm运行的Office办公套件，无需服务端直接运行。
 * 【2026-07-05】[fikrikarim / parlor](https://github.com/fikrikarim/parlor) - On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.
 * 【2026-07-04】[matlab / simulink-agentic-toolkit](https://github.com/matlab/simulink-agentic-toolkit) - The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effectively with Simulink and Model-Based Design.
@@ -12787,6 +12797,10 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-07-12】[ipfs / ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
+* 【2026-07-12】[brannondorsey / wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
+* 【2026-07-12】[nasa / NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
+* 【2026-07-12】[D3Ext / aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - An awesome collection of aesthetic wallpapers
 * 【2026-07-10】[hicccc77 / WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 * 【2026-07-10】[wowlusitong / awesome-education](https://github.com/wowlusitong/awesome-education) - 学生福利-收集支持教育优惠的软件与服务
 * 【2026-07-10】[ashuoAI / AI-CanvasPro](https://github.com/ashuoAI/AI-CanvasPro) - AI-CanvasPro
