@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2026-07-13】[Dicklesworthstone / destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+* 【2026-07-13】[ColeMurray / background-agents](https://github.com/ColeMurray/background-agents) - An open-source background agents coding system
 * 【2026-07-12】[google-labs-code / stitch-skills](https://github.com/google-labs-code/stitch-skills) - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 * 【2026-07-12】[malisper / pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 * 【2026-07-10】[SmartlyDressedGames / U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) - Source code for Unturned, a free open-world zombie survival sandbox game.
@@ -3103,6 +3105,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-07-13】[youtubediscord / zapret](https://github.com/youtubediscord/zapret) - Zapret (Запрет обход блокировки Дискорда и Ютуба)
+* 【2026-07-13】[microsoft / TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
 * 【2026-07-12】[FoundationAgents / OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground. OpenManus is Coming.
 * 【2026-07-12】[Soju06 / codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 * 【2026-07-12】[cognizant-ai-lab / neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) - A playground for neuro-san
@@ -5075,6 +5079,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-07-13】[venera-app / venera-configs](https://github.com/venera-app/venera-configs) - 
 * 【2026-07-12】[ilysenko / codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.
 * 【2026-07-09】[byoungd / up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 * 【2026-07-08】[Piebald-AI / claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation). Updated for each Claude Code version.
@@ -6433,6 +6438,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-07-13】[Mininglamp-OSS / octo-server](https://github.com/Mininglamp-OSS/octo-server) - 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane.
 * 【2026-07-10】[velero-io / velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 * 【2026-07-09】[karust / openserp](https://github.com/karust/openserp) - Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
 * 【2026-07-07】[micro / go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
@@ -8792,6 +8798,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-07-13】[InoriRus / Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
 * 【2026-07-10】[carbonengine / core](https://github.com/carbonengine/core) - Provides generic low-level functionality and cross-platform abstractions for system calls
 * 【2026-07-10】[Alex2772 / kuni](https://github.com/Alex2772/kuni) - character ai
 * 【2026-07-06】[xland / ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screen capture software with just a single executable file
@@ -10945,6 +10952,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-07-13】[GoogleCloudPlatform / knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 * 【2026-07-12】[sohutv / cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports Standalone, Sentinel, and Cluster architectures for Redis, effectively reducing large-scale Redis operation and maintenance costs, and improving re…
 * 【2026-07-12】[cclank / cell-architecture-studio](https://github.com/cclank/cell-architecture-studio) - Interactive 3D cell architecture gallery built with React and Three.js
 * 【2026-07-08】[fernfei / OnlyofficePersonal](https://github.com/fernfei/OnlyofficePersonal) - ONLYOFFICE Personal 是一款基于wasm运行的Office办公套件，无需服务端直接运行。
@@ -11854,6 +11862,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2026-07-13】[madoiscool / ltsteamplugin](https://github.com/madoiscool/ltsteamplugin) - ermm, YUP!
 * 【2026-07-09】[jszmajda / lid](https://github.com/jszmajda/lid) - Linked-Intent Development - a SDD methodology for agentic coding
 * 【2026-07-08】[XiaomingX / ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
 * 【2026-07-06】[rk192324217 / cubosapiens_world-tools](https://github.com/rk192324217/cubosapiens_world-tools) - 
@@ -12797,6 +12806,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-07-13】[Furthir / awesome-useful-projects](https://github.com/Furthir/awesome-useful-projects) - Curated List of 500+ Open Source Projects for Everyday Use
 * 【2026-07-12】[ipfs / ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 * 【2026-07-12】[brannondorsey / wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 * 【2026-07-12】[nasa / NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
