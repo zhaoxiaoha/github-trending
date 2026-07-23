@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2026-07-23】[dreamhunter2333 / cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
+* 【2026-07-23】[Pumpkin-MC / Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 * 【2026-07-22】[ayghri / i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 * 【2026-07-22】[AlexsJones / llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 * 【2026-07-22】[agegr / pi-web](https://github.com/agegr/pi-web) - Web UI for the pi coding agent
@@ -5109,6 +5111,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-07-23】[HughYau / qiushi-skill](https://github.com/HughYau/qiushi-skill) - 求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。Qiushi-Skill: Build agents that investigate first, focus on the main contradiction, validate in practice, and keep pushing until the work is actually done.
+* 【2026-07-23】[sandeco / reversa](https://github.com/sandeco/reversa) - Transform legacy systems into executable specifications for AI coding agents
 * 【2026-07-22】[conorbronsdon / avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.
 * 【2026-07-21】[OpenWhispr / openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 * 【2026-07-21】[magnusoverli / opencode](https://github.com/magnusoverli/opencode) - 
@@ -6475,6 +6479,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-07-23】[alibaba / open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 * 【2026-07-22】[agentscope-ai / AgentTeams](https://github.com/agentscope-ai/AgentTeams) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
 * 【2026-07-22】[openshift / hypershift](https://github.com/openshift/hypershift) - Hyperscale OpenShift - clusters with hosted control planes
 * 【2026-07-21】[open-telemetry / opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) - OpenTelemetry Go Compile Instrumentation
@@ -7784,6 +7789,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-07-23】[erincatto / box3d](https://github.com/erincatto/box3d) - Box3D is a 3D physics engine for games
 * 【2026-07-18】[floooh / chips](https://github.com/floooh/chips) - 8-bit chip and system emulators in standalone C headers
 * 【2026-07-17】[V4bel / dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 * 【2026-07-17】[HermannBjorgvin / Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage
@@ -9949,6 +9955,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-07-23】[Gurge44 / EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles) - EHR is the biggest host-only mod for Among Us, with 450+ roles / add-ons and 16 game modes, along with a Custom Team Assigner application to fully customize your games!
 * 【2026-07-21】[kimmknight / raweb](https://github.com/kimmknight/raweb) - A modern web interface for your RemoteApps hosted on Windows 10, 11 and Server.
 * 【2026-07-18】[TeamWheelWizard / WheelWizard](https://github.com/TeamWheelWizard/WheelWizard) - WheelWizard, Retro Rewind Launcher
 * 【2026-07-18】[DavidObando / gsharp](https://github.com/DavidObando/gsharp) - GSharp Programming Language
@@ -11014,6 +11021,8 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-07-23】[NomaDamas / slides-grab](https://github.com/NomaDamas/slides-grab) - Best harness + editor + linter for generating slides in Claude Code / Codex - Claude Design Open Source Alternative
+* 【2026-07-23】[Jstudner / jcorp-nomad](https://github.com/Jstudner/jcorp-nomad) - An extremely compact offline media server for Movies, Shows, Books, and Music.
 * 【2026-07-22】[mohitagw15856 / pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) - In Anthropic's official Claude plugin directory · 515 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.
 * 【2026-07-21】[Artzainnn / ClaudeUsageBar](https://github.com/Artzainnn/ClaudeUsageBar) - Track your Claude.ai usage right from your Mac menu bar
 * 【2026-07-18】[techjarves / OpenClaude-Portable](https://github.com/techjarves/OpenClaude-Portable) - Run Claude Code from a USB drive on any PC — no installation required.
