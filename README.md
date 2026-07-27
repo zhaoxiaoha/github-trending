@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-07-27】[permissionlesstech / bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
 * 【2026-07-26】[permissionlesstech / bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 * 【2026-07-24】[block / buzz](https://github.com/block/buzz) - A hive mind communication platform
 * 【2026-07-24】[Automattic / harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -3135,6 +3136,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-07-27】[sirkirby / unifi-mcp](https://github.com/sirkirby/unifi-mcp) - MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive
+* 【2026-07-27】[jgravelle / jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) - Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with Claude Code, Cursor & any MCP client. 313B+ tokens saved.
 * 【2026-07-26】[DedSecInside / TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 * 【2026-07-22】[NVIDIA / cosmos-framework](https://github.com/NVIDIA/cosmos-framework) - Our inference and training framework to run on the Cosmos Models
 * 【2026-07-19】[OpenSenseNova / SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1) - SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Principles
@@ -6492,6 +6495,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-07-27】[ikemen-engine / Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open-source fighting game engine that supports MUGEN resources.
 * 【2026-07-26】[evolution-foundation / evolution-go](https://github.com/evolution-foundation/evolution-go) - Evolution API / Evolution Go is an open-source WhatsApp integration API
 * 【2026-07-23】[alibaba / open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 * 【2026-07-22】[agentscope-ai / AgentTeams](https://github.com/agentscope-ai/AgentTeams) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
@@ -7803,6 +7807,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-07-27】[RakuenSoftware / aimee](https://github.com/RakuenSoftware/aimee) - 
+* 【2026-07-27】[torvalds / GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits
 * 【2026-07-25】[mkj / dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 * 【2026-07-24】[mvp / uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 * 【2026-07-23】[erincatto / box3d](https://github.com/erincatto/box3d) - Box3D is a 3D physics engine for games
@@ -12907,6 +12913,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-07-27】[trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 * 【2026-07-24】[straight-tamago / misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 * 【2026-07-24】[yzfly / Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
 * 【2026-07-21】[201853910 / VMwareWorkstation](https://github.com/201853910/VMwareWorkstation) - 手动上传官网的VMwareWorkstation安装包
