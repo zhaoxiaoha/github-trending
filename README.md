@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2026-07-28】[opengeos / GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
+* 【2026-07-28】[vudovn / ag-kit](https://github.com/vudovn/ag-kit) - 
 * 【2026-07-27】[permissionlesstech / bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
 * 【2026-07-26】[permissionlesstech / bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 * 【2026-07-24】[block / buzz](https://github.com/block/buzz) - A hive mind communication platform
@@ -5123,6 +5125,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-07-28】[faroukbmiled / RyukGram](https://github.com/faroukbmiled/RyukGram) - RyukGram, The Instagram tweak for iOS power users.
 * 【2026-07-26】[BazedFrog / SongGeneration-Studio](https://github.com/BazedFrog/SongGeneration-Studio) - Clean, polished interface for Tencent’s SongGeneration. Create songs from text prompts or reference audio, with batch processing and smart model selection. Minimum Requirement: 10GB of VRAM
 * 【2026-07-26】[TechyCSR / OpenCluely](https://github.com/TechyCSR/OpenCluely) - OpenCluely is a free, open source Cluely (alternative), built for technical interviews like DSA, OAs, and CP. It offers an invisible overlay, real-time AI help, Smart Image Processing for question capture, and multi-language support : 100% customizable and private.
 * 【2026-07-24】[himself65 / finance-skills](https://github.com/himself65/finance-skills) - A collection of skills for AI financial analysis.
@@ -6495,6 +6498,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-07-28】[black-ant / Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
 * 【2026-07-27】[ikemen-engine / Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open-source fighting game engine that supports MUGEN resources.
 * 【2026-07-26】[evolution-foundation / evolution-go](https://github.com/evolution-foundation/evolution-go) - Evolution API / Evolution Go is an open-source WhatsApp integration API
 * 【2026-07-23】[alibaba / open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
@@ -7807,6 +7811,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-07-28】[Sor3nt / Flipper-Zero-ESP32-Port](https://github.com/Sor3nt/Flipper-Zero-ESP32-Port) - 
 * 【2026-07-27】[RakuenSoftware / aimee](https://github.com/RakuenSoftware/aimee) - 
 * 【2026-07-27】[torvalds / GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits
 * 【2026-07-25】[mkj / dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
@@ -8878,6 +8883,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-07-28】[microsoft / foundry-local](https://github.com/microsoft/foundry-local) - 
 * 【2026-07-26】[mosaic-group / openfpm](https://github.com/mosaic-group/openfpm) - OpenFPM: A scalable open framework for particle and particle-mesh codes on parallel computers
 * 【2026-07-25】[OpenLoco / OpenLoco](https://github.com/OpenLoco/OpenLoco) - An open source re-implementation of Chris Sawyer's Locomotion
 * 【2026-07-25】[xLLM-AI / xllm](https://github.com/xLLM-AI/xllm) - A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators. It is hosted in OpenAtom Foundation.
