@@ -1,6 +1,10 @@
 ### Github热门项目
 ## All language
 
+* 【2026-07-30】[grokability / snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
+* 【2026-07-30】[different-ai / openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
+* 【2026-07-30】[MoonshotAI / FlashKDA](https://github.com/MoonshotAI/FlashKDA) - FlashKDA: high-performance Kimi Delta Attention kernels
+* 【2026-07-30】[maderix / ANE](https://github.com/maderix/ANE) - Training neural networks on Apple Neural Engine via reverse-engineered private APIs
 * 【2026-07-29】[hello245m / free-stockdb](https://github.com/hello245m/free-stockdb) - 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。
 * 【2026-07-28】[opengeos / GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
 * 【2026-07-28】[vudovn / ag-kit](https://github.com/vudovn/ag-kit) - 
@@ -2116,6 +2120,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2026-07-30】[Mininglamp-OSS / octo-android](https://github.com/Mininglamp-OSS/octo-android) - OCTO Android Client — Open-source enterprise IM
 * 【2026-07-29】[icysymmetra / tiktok-patches-for-morphe](https://github.com/icysymmetra/tiktok-patches-for-morphe) - This repository is a Morphe patch source for TikTok. It continues the work from earlier community TikTok patch sets, including ReVanced, with the patches adapted for Morphe and tested against newer TikTok builds. The current target version is TikTok 43.8.3
 * 【2026-07-26】[jeandle / jeandle-jdk](https://github.com/jeandle/jeandle-jdk) - Jeandle is a Just-in-Time compiler for Java. It is built on OpenJDK and leverages the LLVM compiler infrastructure to generate machine code, aiming to provide powerful compilation optimizations and deliver high-performance code.
 * 【2026-07-26】[objectionary / eo](https://github.com/objectionary/eo) - EOLANG, an Experimental Pure Object-Oriented Programming Language Based on 𝜑-Calculus
@@ -5130,6 +5135,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-07-30】[kunchenguid / lavish-axi](https://github.com/kunchenguid/lavish-axi) - HTML is the new markdown. Lavish is the new editor for your HTML artifacts.
+* 【2026-07-30】[vrgamegirl19 / comfyui-vrgamedevgirl](https://github.com/vrgamegirl19/comfyui-vrgamedevgirl) - Custom ComfyUI nodes for film grain, color matching, and video enhancement.
 * 【2026-07-29】[visualbruno / 3DGenStudio](https://github.com/visualbruno/3DGenStudio) - 
 * 【2026-07-28】[faroukbmiled / RyukGram](https://github.com/faroukbmiled/RyukGram) - RyukGram, The Instagram tweak for iOS power users.
 * 【2026-07-26】[BazedFrog / SongGeneration-Studio](https://github.com/BazedFrog/SongGeneration-Studio) - Clean, polished interface for Tencent’s SongGeneration. Create songs from text prompts or reference audio, with batch processing and smart model selection. Minimum Requirement: 10GB of VRAM
@@ -6504,6 +6511,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-07-30】[rorkai / App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 * 【2026-07-29】[alibaba / skill-up](https://github.com/alibaba/skill-up) - An evaluation and evolution tool for Agent Skills.
 * 【2026-07-28】[black-ant / Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
 * 【2026-07-27】[ikemen-engine / Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open-source fighting game engine that supports MUGEN resources.
@@ -8891,6 +8899,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-07-30】[google / xls](https://github.com/google/xls) - XLS: Accelerated HW Synthesis
 * 【2026-07-29】[vicinaehq / vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 * 【2026-07-28】[microsoft / foundry-local](https://github.com/microsoft/foundry-local) - 
 * 【2026-07-26】[mosaic-group / openfpm](https://github.com/mosaic-group/openfpm) - OpenFPM: A scalable open framework for particle and particle-mesh codes on parallel computers
@@ -12929,6 +12938,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-07-30】[HQarroum / awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
 * 【2026-07-29】[emilkowalski / skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
 * 【2026-07-27】[trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 * 【2026-07-24】[straight-tamago / misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
