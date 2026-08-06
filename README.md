@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-08-06】[cloudflare / computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 * 【2026-08-05】[uber / ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 * 【2026-08-04】[firecrawl / pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 * 【2026-08-03】[HarbourMasters / Lighthouse](https://github.com/HarbourMasters/Lighthouse) - 
@@ -3156,6 +3157,10 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-08-06】[Comfy-Org / workflow_templates](https://github.com/Comfy-Org/workflow_templates) - ComfyUI template workflows
+* 【2026-08-06】[mpfaffenberger / code_puppy](https://github.com/mpfaffenberger/code_puppy) - Agentic AI for writing code
+* 【2026-08-06】[NovaSky-AI / SkyRL](https://github.com/NovaSky-AI/SkyRL) - SkyRL: A Modular Full-stack RL Library for LLMs
+* 【2026-08-06】[anandprtp / Antra](https://github.com/anandprtp/Antra) - A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local library in FLAC, ALAC, AAC, or MP3.
 * 【2026-08-05】[huangruiteng / loopx](https://github.com/huangruiteng/loopx) - Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
 * 【2026-08-05】[Coldcard / firmware](https://github.com/Coldcard/firmware) - ❄️ Firmware and simulator for Coldcard Hardware Wallet
 * 【2026-08-04】[vitali87 / code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
@@ -5151,6 +5156,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-08-06】[OWASP / threat-dragon](https://github.com/OWASP/threat-dragon) - An open source threat modeling tool from OWASP
 * 【2026-08-04】[techjarves / Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio) - Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text
 * 【2026-08-03】[LiberatedPixelCup / Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
 * 【2026-08-02】[open-gsd / gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
@@ -7853,6 +7859,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-08-06】[daos-stack / daos](https://github.com/daos-stack/daos) - DAOS Storage Stack (client libraries, storage engine, control plane)
 * 【2026-07-29】[mercedes-benz / ardep](https://github.com/mercedes-benz/ardep) - Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 * 【2026-07-28】[Sor3nt / Flipper-Zero-ESP32-Port](https://github.com/Sor3nt/Flipper-Zero-ESP32-Port) - 
 * 【2026-07-27】[RakuenSoftware / aimee](https://github.com/RakuenSoftware/aimee) - 
@@ -8926,6 +8933,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-08-06】[SwagSoftware / KisakCOD](https://github.com/SwagSoftware/KisakCOD) - COD4 Open Source Reimplementation
 * 【2026-08-05】[orailnoor / cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client) - A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
 * 【2026-07-30】[google / xls](https://github.com/google/xls) - XLS: Accelerated HW Synthesis
 * 【2026-07-29】[vicinaehq / vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -10034,6 +10042,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-08-06】[win-acme / win-acme](https://github.com/win-acme/win-acme) - Automate SSL/TLS certificates on Windows with ease
 * 【2026-08-04】[zhongkaifu / TensorSharp](https://github.com/zhongkaifu/TensorSharp) - A native .NET LLM inference engine for GGUF models. TensorSharp provides a console application, a web-based chatbot interface, and Ollama/OpenAI-compatible HTTP APIs for programmatic access. It supports Windows/MacOS/Linux with full GPU capability
 * 【2026-08-04】[OhKannaDuh / BOCCHI](https://github.com/OhKannaDuh/BOCCHI) - 
 * 【2026-08-04】[microsoft / PTVS](https://github.com/microsoft/PTVS) - Python Tools for Visual Studio
