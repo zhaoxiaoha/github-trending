@@ -3196,6 +3196,9 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-08-23】[shy3130 / tickflow-stock-panel](https://github.com/shy3130/tickflow-stock-panel) - TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目
+* 【2026-08-23】[debpalash / VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+* 【2026-08-23】[browser-use / browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 * 【2026-08-22】[forcedotcom / sf-skills](https://github.com/forcedotcom/sf-skills) - Salesforce's curated collection of agent skills for building applications. Optimized for Agentforce Vibes, compatible with all AI tools.
 * 【2026-08-21】[Osmantic / ODS](https://github.com/Osmantic/ODS) - Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
 * 【2026-08-20】[youssofal / MTPLX](https://github.com/youssofal/MTPLX) - 3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
@@ -5217,6 +5220,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-08-23】[dbgate / dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 * 【2026-08-22】[cloudflare / security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 * 【2026-08-21】[chuspeeism / dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
 * 【2026-08-20】[layer5io / layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
@@ -11245,6 +11249,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-08-23】[khaosdoctor / dontquotetheai](https://github.com/khaosdoctor/dontquotetheai) - Don't paste the ai response at me, please
 * 【2026-08-20】[MengTo / Skills](https://github.com/MengTo/Skills) - Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents
 * 【2026-08-16】[Arrow-air / project-quiver](https://github.com/Arrow-air/project-quiver) - Project Quiver documentation, designs, and project artifacts.
 * 【2026-08-16】[L1AD / claude-task-viewer](https://github.com/L1AD/claude-task-viewer) - A web-based Kanban board for viewing Claude Code tasks
@@ -12171,6 +12176,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2026-08-23】[fontsource / font-files](https://github.com/fontsource/font-files) - 2000+ open-source fonts bundled into neat packages.
 * 【2026-08-14】[justdeleteme / justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
 * 【2026-08-13】[CodeByZach / pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 * 【2026-08-11】[pors / reactionic](https://github.com/pors/reactionic) - React Ionic: We are looking for a new maintainer!
