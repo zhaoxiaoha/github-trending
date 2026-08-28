@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2026-08-28】[bilawalsidhu / gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+* 【2026-08-28】[tailscale / tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 * 【2026-08-27】[JetBrains / go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go
 * 【2026-08-25】[tashfeenahmed / freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 * 【2026-08-22】[apache / maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
@@ -7974,6 +7976,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-08-28】[sunblaze-ucb / exploitgym](https://github.com/sunblaze-ucb/exploitgym) - ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
 * 【2026-08-26】[OleksandrChekhovskyi / hax](https://github.com/OleksandrChekhovskyi/hax) - A minimalist, terminal-native coding agent written in C.
 * 【2026-08-25】[tqbf / mdv](https://github.com/tqbf/mdv) - Markdown Viewer
 * 【2026-08-24】[RxNaison / Epson-Waste-Reset](https://github.com/RxNaison/Epson-Waste-Reset) - A free, native, and completely open-source utility to reset the "Waste Ink Pad" counter on Epson printers
@@ -9055,6 +9058,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-08-28】[MatixYo / ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar) - Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.
+* 【2026-08-28】[react / yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards.
 * 【2026-08-25】[edin45 / simple_photogrammetry_gui](https://github.com/edin45/simple_photogrammetry_gui) - 
 * 【2026-08-22】[OpenHD / OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
 * 【2026-08-22】[charlie12345 / ROCmFPX](https://github.com/charlie12345/ROCmFPX) - ROCmFPX Family for AMD Hardware and Processors. More quants and special agent quants
@@ -12191,6 +12196,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2026-08-28】[apachecn / sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) - 📖 [译] scikit-learn（sklearn） 中文文档
 * 【2026-08-23】[fontsource / font-files](https://github.com/fontsource/font-files) - 2000+ open-source fonts bundled into neat packages.
 * 【2026-08-14】[justdeleteme / justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
 * 【2026-08-13】[CodeByZach / pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
