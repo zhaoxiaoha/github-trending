@@ -3221,6 +3221,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-09-09】[neka-nat / freecad-mcp](https://github.com/neka-nat/freecad-mcp) - FreeCAD MCP(Model Context Protocol) server
 * 【2026-09-07】[sooryathejas / METATRON](https://github.com/sooryathejas/METATRON) - AI-powered penetration testing assistant using local LLM on linux (Parrot OS)
 * 【2026-09-07】[experientiallabs / experiential](https://github.com/experientiallabs/experiential) - Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.
 * 【2026-09-06】[k2-fsa / OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
@@ -8021,6 +8022,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-09-09】[armory3d / armorpaint](https://github.com/armory3d/armorpaint) - Graphics Creation Tools
+* 【2026-09-09】[doldecomp / melee](https://github.com/doldecomp/melee) - A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.
 * 【2026-09-07】[Yuzhii0718 / bl-mt798x-dhcpd](https://github.com/Yuzhii0718/bl-mt798x-dhcpd) - A variant of hanwckf's u-boot by yuzhii, with support for dhcpd, and advance web ui, support i18n, more functions please see README.
 * 【2026-09-06】[NebuSec / CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) - PoCs and exploits for CVEs discovered by NebuSec.
 * 【2026-09-06】[maxsteeel / nomount](https://github.com/maxsteeel/nomount) - NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.
@@ -9110,6 +9113,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-09-09】[mattias800 / prosper](https://github.com/mattias800/prosper) - A user-space PlayStation 5 to PC compatibility layer for Linux, Windows, and macOS.
 * 【2026-09-07】[Diegiwg / PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - This project is a Fork of Prism Launcher which aims to 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account.
 * 【2026-09-06】[PlotJuggler / PlotJuggler](https://github.com/PlotJuggler/PlotJuggler) - The Time Series Visualization Tool that you deserve.
 * 【2026-09-04】[xoxor4d / gta4-rtx](https://github.com/xoxor4d/gta4-rtx) - GTAIV RTX Remix Compatibility Mod
@@ -11329,6 +11333,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-09-09】[omacom / omarchy-site](https://github.com/omacom/omarchy-site) - Beautiful, Modern & Opinionated Linux by DHH
 * 【2026-09-05】[dqev / reicon](https://github.com/dqev/reicon) - Reicon — Open-Source Icon Library for Designers & Developers
 * 【2026-09-04】[datawhalechina / Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub) - AI Agent 学习路线与资料库收集
 * 【2026-09-02】[isjiamu / gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) - 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
