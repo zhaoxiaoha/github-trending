@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-09-21】[vercel-labs / json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 * 【2026-09-20】[higgsfield-ai / higgsfield](https://github.com/higgsfield-ai/higgsfield) - Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
 * 【2026-09-20】[cloudflare / quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 * 【2026-09-20】[yynxxxxx / Codex-X](https://github.com/yynxxxxx/Codex-X) - OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。
@@ -3248,6 +3249,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-09-21】[zhouxiaoka / autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
+* 【2026-09-21】[bbfamily / abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
 * 【2026-09-20】[PenglongHuang / chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) - 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜AI novel writing skill
 * 【2026-09-20】[mcncarl / yichen-skills](https://github.com/mcncarl/yichen-skills) - 
 * 【2026-09-18】[arnegiacomo / fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
@@ -5306,6 +5309,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-09-21】[BuilderIO / skills](https://github.com/BuilderIO/skills) - Skills for agents
 * 【2026-09-20】[techjarves / Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio) - Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text
 * 【2026-09-18】[Joooook / 12306-mcp](https://github.com/Joooook/12306-mcp) - This is a 12306 ticket search server based on the Model Context Protocol (MCP).
 * 【2026-09-15】[yuliskov / SmartTubeLegacy](https://github.com/yuliskov/SmartTubeLegacy) - Watch YouTube videos on your TV and set-top-box with comfort
@@ -6723,6 +6727,8 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-09-21】[vshulcz / deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.
+* 【2026-09-21】[superdurable / dex](https://github.com/superdurable/dex) - Durable Execution (D-EX) framework built on Temporal/Cadence
 * 【2026-09-20】[openai / tunnel-client](https://github.com/openai/tunnel-client) - Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.
 * 【2026-09-20】[grafana / gcx](https://github.com/grafana/gcx) - A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.
 * 【2026-09-19】[felinics / Memoh](https://github.com/felinics/Memoh) - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. You can bring your own key, or host your coding agent like Claude Code, Codex and so on.
@@ -8082,6 +8088,8 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-09-21】[bryanthaboi / gen1recomp](https://github.com/bryanthaboi/gen1recomp) - Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 and 2 Poke
+* 【2026-09-21】[PlatformLab / HomaModule](https://github.com/PlatformLab/HomaModule) - A Linux kernel module that implements the Homa transport protocol.
 * 【2026-09-20】[HarbourMasters / PaperBoat](https://github.com/HarbourMasters/PaperBoat) - 
 * 【2026-09-20】[Rainchus / Donkey-Kong-64-Recompiled](https://github.com/Rainchus/Donkey-Kong-64-Recompiled) - 
 * 【2026-09-19】[matz / spinel](https://github.com/matz/spinel) - 
@@ -10322,6 +10330,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-09-21】[RankFTW / RHI](https://github.com/RankFTW/RHI) - ReShade HDR Installer
 * 【2026-09-17】[crazysmile-PhD / downkyicore](https://github.com/crazysmile-PhD/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 * 【2026-09-14】[vectorcmdr / NMSE](https://github.com/vectorcmdr/NMSE) - NMSE (NO MAN'S SAVE EDITOR) - Open source save editor for No Man's Sky, boasting the most complete editing features among save editors.
 * 【2026-09-12】[ProwlEngine / Prowl](https://github.com/ProwlEngine/Prowl) - An Open Source C# 3D Game Engine under MIT license, inspired by Unity and featuring a complete editor
@@ -13307,6 +13316,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-09-21】[KyleBing / rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema
 * 【2026-09-20】[docker / sbx-releases](https://github.com/docker/sbx-releases) - 
 * 【2026-09-15】[liangdabiao / Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) - 一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为多集视频。 为什么做这个？ 因为 seedance2 已经改变了一切，需要新的剧本剧情制作工具，更好的利用新AI的能力和更方便的制作短剧
 * 【2026-09-14】[LLMQuant / awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) - Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.
