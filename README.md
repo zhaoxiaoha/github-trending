@@ -1,6 +1,8 @@
 ### Github热门项目
 ## All language
 
+* 【2026-10-05】[tester-army / e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
+* 【2026-10-05】[michael-denyer / pstack-claude](https://github.com/michael-denyer/pstack-claude) - Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 * 【2026-10-04】[cloudflare / cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 * 【2026-10-02】[pablostanley / yoinks](https://github.com/pablostanley/yoinks) - yoink any video from your terminal. no shady ads.
 * 【2026-10-02】[Friedrich-M / UniMate](https://github.com/Friedrich-M/UniMate) - [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons
@@ -6771,6 +6773,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-10-05】[ys-ll / uniterm](https://github.com/ys-ll/uniterm) - A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.
 * 【2026-10-04】[Autumn-27 / ARTEX](https://github.com/Autumn-27/ARTEX) - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 * 【2026-09-29】[londek / ipadecrypt](https://github.com/londek/ipadecrypt) - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks
 * 【2026-09-28】[YoanWai / agent-manager](https://github.com/YoanWai/agent-manager) - The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.
@@ -9252,6 +9255,9 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-10-05】[noctalia-dev / umbriel](https://github.com/noctalia-dev/umbriel) - An independent compositor with scrolling, dwindle and master layouts, blur, shadows, and fluid animations.
+* 【2026-10-05】[kvoltmer / Audionaut](https://github.com/kvoltmer/Audionaut) - Audionaut professional audio editing and audio recording
+* 【2026-10-05】[ecruells / resident-evil-pc-decomp](https://github.com/ecruells/resident-evil-pc-decomp) - Resident Evil 1 PC Port Decomp
 * 【2026-10-02】[YesterMester / TheSimpsonsGameRecomp](https://github.com/YesterMester/TheSimpsonsGameRecomp) - A work in progress recomp of the The Simpsons Game 2007 from the Xbox 360 using the RexXGlue recomping tool to get the game running
 * 【2026-10-02】[LightningMods / Itemzflow](https://github.com/LightningMods/Itemzflow) - PS4 Game manager and Home menu alternative made using Open Source tools
 * 【2026-09-29】[ammaarreshi / Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
@@ -13408,6 +13414,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-10-05】[MobileGL-Dev / MobileGlues-release](https://github.com/MobileGL-Dev/MobileGlues-release) - MobileGlues, which stands for "(on) Mobile, GL uses ES", is a GL implementation running on top of host OpenGL ES 3.2, with running Minecraft Java Edition in mind.
 * 【2026-10-03】[LLMSecurity / awesome-agent-skills-security](https://github.com/LLMSecurity/awesome-agent-skills-security) - 🛡️ A curated list of resources on agent skills security: attacks, defenses, frameworks, and benchmarks for securing AI agent tool use and skill ecosystems
 * 【2026-10-02】[digitalinnovationone / dio-agent](https://github.com/digitalinnovationone/dio-agent) - Agente de IA criado pela DIO para apoiar seus estudos.
 * 【2026-10-01】[runelite / plugin-hub](https://github.com/runelite/plugin-hub) - External plugins for RuneLite
