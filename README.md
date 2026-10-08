@@ -3277,6 +3277,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-10-08】[MDX-Tom / gpt-instruct](https://github.com/MDX-Tom/gpt-instruct) - A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。
 * 【2026-10-06】[achillean / shodan-python](https://github.com/achillean/shodan-python) - The official Python library for Shodan
 * 【2026-10-06】[VictorTaelin / OptMem](https://github.com/VictorTaelin/OptMem) - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
 * 【2026-10-02】[hashgraph-online / awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace. See live plugins at: https://hol.org/plugins/best-codex-plugins
@@ -5350,6 +5351,7 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-10-08】[MiaAI-Lab / sparkDash](https://github.com/MiaAI-Lab/sparkDash) - sparkDash ⚡ — Multi-DGX Spark Monitoring Dashboard
 * 【2026-10-07】[eolix / photosuite](https://github.com/eolix/photosuite) - A desktop image editor, faithful to classic Adobe Photoshop, with native PSD/PSB compatibility
 * 【2026-10-06】[laoma528 / awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 * 【2026-10-06】[sebattfg / ZeroScript-Free](https://github.com/sebattfg/ZeroScript-Free) - ZeroScript Free: Turn ChatGPT, DeepSeek, Gemini, Kimi, GLM, Qwen, Arena or Meta AI into a Roblox Studio agent. Browser extension + local bridge. Read/edit scripts, run Luau, generate assets, all from chat. Robust agentic loop. No terminal needed.
@@ -9266,6 +9268,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-10-08】[Confetti3 / SF4-Ember-Netplay](https://github.com/Confetti3/SF4-Ember-Netplay) - Private rollback rooms and a controller-first overlay for Ultra Street Fighter IV. An unofficial experimental port of Anthony Danducci's sf4e.
 * 【2026-10-05】[noctalia-dev / umbriel](https://github.com/noctalia-dev/umbriel) - An independent compositor with scrolling, dwindle and master layouts, blur, shadows, and fluid animations.
 * 【2026-10-05】[kvoltmer / Audionaut](https://github.com/kvoltmer/Audionaut) - Audionaut professional audio editing and audio recording
 * 【2026-10-05】[ecruells / resident-evil-pc-decomp](https://github.com/ecruells/resident-evil-pc-decomp) - Resident Evil 1 PC Port Decomp
@@ -10420,6 +10423,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-10-08】[ggml-org / Llama-Windows](https://github.com/ggml-org/Llama-Windows) - Windows Llama App Companion
 * 【2026-09-30】[MikuLeaks / MikuSB](https://github.com/MikuLeaks/MikuSB) - Open-source C#/.NET research server emulator for local protocol and networking experimentation.
 * 【2026-09-29】[smartstore / Smartstore](https://github.com/smartstore/Smartstore) - A modular, scalable and ultra-fast open-source all-in-one eCommerce platform built on ASP.NET Core 10
 * 【2026-09-28】[Tianyu199509 / DeskBox](https://github.com/Tianyu199509/DeskBox) - A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
