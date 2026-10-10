@@ -2221,6 +2221,7 @@
 * 【2023-12-16】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 ## Java
 
+* 【2026-10-10】[Leclowndu93150 / Thaumaturge](https://github.com/Leclowndu93150/Thaumaturge) - 
 * 【2026-10-07】[lishuangqiang / AI-Meeting](https://github.com/lishuangqiang/AI-Meeting) - 基于 Spring Boot 3 + Java 17 + Spring AI + MySQL + MongoDB + Redis + SSE/WebSocket，实现 AI 对话、智能体会话、AI 模拟面试、实时语音转写、长文本语音合成等核心功能。架构清晰、文档完整，支持本地运行与 Docker 一键部署，非常适合作为 Spring Boot AI 应用开发、智能体后端设计与简历展示项目。
 * 【2026-10-04】[aleixrodriala / newtube](https://github.com/aleixrodriala/newtube) - SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
 * 【2026-10-04】[besu-eth / besu](https://github.com/besu-eth/besu) - An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://github.com/besu-eth/besu/wiki
@@ -3278,6 +3279,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-10-10】[Tencent-Hunyuan / Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2) - 
+* 【2026-10-10】[headroomlabs-ai / headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 * 【2026-10-09】[abrignoni / ALEAPP](https://github.com/abrignoni/ALEAPP) - Android Logs Events And Protobuf Parser
 * 【2026-10-09】[CursorTouch / Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
 * 【2026-10-08】[MDX-Tom / gpt-instruct](https://github.com/MDX-Tom/gpt-instruct) - A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。
@@ -5354,6 +5357,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-10-10】[chuspeeism / dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
+* 【2026-10-10】[chaolucky18 / xuexitongScript](https://github.com/chaolucky18/xuexitongScript) - 学习通自动刷课脚本
 * 【2026-10-08】[MiaAI-Lab / sparkDash](https://github.com/MiaAI-Lab/sparkDash) - sparkDash ⚡ — Multi-DGX Spark Monitoring Dashboard
 * 【2026-10-07】[eolix / photosuite](https://github.com/eolix/photosuite) - A desktop image editor, faithful to classic Adobe Photoshop, with native PSD/PSB compatibility
 * 【2026-10-06】[laoma528 / awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
@@ -6787,6 +6792,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-10-10】[Agent-Field / CodeAF](https://github.com/Agent-Field/CodeAF) - Open-Source Software factory for Open Models
 * 【2026-10-06】[stripe / stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 * 【2026-10-06】[vavallee / bindery](https://github.com/vavallee/bindery) - Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr.
 * 【2026-10-05】[ys-ll / uniterm](https://github.com/ys-ll/uniterm) - A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.
@@ -10429,6 +10435,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-10-10】[pearlxcore / PS4PKGTool](https://github.com/pearlxcore/PS4PKGTool) - Manage and perform various operations on PS4 PKG.
 * 【2026-10-08】[ggml-org / Llama-Windows](https://github.com/ggml-org/Llama-Windows) - Windows Llama App Companion
 * 【2026-09-30】[MikuLeaks / MikuSB](https://github.com/MikuLeaks/MikuSB) - Open-source C#/.NET research server emulator for local protocol and networking experimentation.
 * 【2026-09-29】[smartstore / Smartstore](https://github.com/smartstore/Smartstore) - A modular, scalable and ultra-fast open-source all-in-one eCommerce platform built on ASP.NET Core 10
@@ -11528,6 +11535,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-10-10】[EricTechPro / super-board](https://github.com/EricTechPro/super-board) - Autonomous GitHub Project build → QA → review loop for Claude Code. One-line install.
 * 【2026-10-04】[gn-math / html](https://github.com/gn-math/html) - used for statistics https://data.jsdelivr.com/v1/stats/packages/gh/gn-math/html@main/files?period=year
 * 【2026-10-03】[LingDong- / shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 * 【2026-09-29】[FinMind / FinMind](https://github.com/FinMind/FinMind) - Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https://finmind.github.io/
