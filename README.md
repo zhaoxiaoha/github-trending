@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-10-16】[xerj-org / xerj](https://github.com/xerj-org/xerj) - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
 * 【2026-10-14】[xtool-org / xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 * 【2026-10-09】[storytold / artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 * 【2026-10-07】[morluto / rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -3281,6 +3282,8 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-10-16】[ahujasid / mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
+* 【2026-10-16】[ShawnPana / phone-harness](https://github.com/ShawnPana/phone-harness) - let your agent control your phone
 * 【2026-10-15】[isair / jarvis](https://github.com/isair/jarvis) - Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux.
 * 【2026-10-14】[baidu / Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 * 【2026-10-12】[repowise-dev / repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
@@ -8181,6 +8184,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-10-16】[KernelSU-Next / KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
 * 【2026-10-14】[rogerbinns / apsw](https://github.com/rogerbinns/apsw) - Another Python SQLite wrapper
 * 【2026-10-13】[mbm110 / MSN-GUARD](https://github.com/mbm110/MSN-GUARD) - High-performance Rust-powered Android VPN — Full-device tunneling via SHARD (Custom Protocol), MASQUE/HTTP-3, WireGuard, WARP-on-WARP, Psiphon, and Tor.
 * 【2026-10-12】[tarwin / tinyjsapp](https://github.com/tarwin/tinyjsapp) - Build native apps in JS. Backend, frontend. ~5Mb.
@@ -9294,6 +9298,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-10-16】[Flare-Animate / Flare](https://github.com/Flare-Animate/Flare) - Flare - A Familiar, Open Source Animation Suite. Forked from OpenToonz.
 * 【2026-10-15】[pichenettes / eurorack](https://github.com/pichenettes/eurorack) - Eurorack modules
 * 【2026-10-13】[vittorioromeo / quakevr](https://github.com/vittorioromeo/quakevr) - Quake VR mod supporting room-scale movement, hand interactions, melee attacks, and much more.
 * 【2026-10-09】[facebook / rebalancer](https://github.com/facebook/rebalancer) - Rebalancer is a domain-specific language and tool for specifying and solving assignment problems (eg, putting balls in boxes with complex rules).
@@ -10454,6 +10459,7 @@
 * 【2023-12-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 ## C#
 
+* 【2026-10-16】[empira / PDFsharp](https://github.com/empira/PDFsharp) - PDFsharp and MigraDoc Foundation for .NET 6 and .NET Framework
 * 【2026-10-15】[thanhkeke97 / RSTGameTranslation](https://github.com/thanhkeke97/RSTGameTranslation) - 🎮 Real-time Game Translation Tool | OCR + AI Translation | Windows Gaming | Open Source
 * 【2026-10-14】[SplitScreen-Me / splitscreenme-nucleus](https://github.com/SplitScreen-Me/splitscreenme-nucleus) - Nucleus Co-op is an application that starts multiple instances of a game for split-screen multiplayer gaming!
 * 【2026-10-10】[pearlxcore / PS4PKGTool](https://github.com/pearlxcore/PS4PKGTool) - Manage and perform various operations on PS4 PKG.
