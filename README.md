@@ -3282,6 +3282,7 @@
 * 【2023-12-16】[TencentCloud / tencentcloud-sdk-java](https://github.com/TencentCloud/tencentcloud-sdk-java) - Tencent Cloud API 3.0 SDK for Java
 ## Python
 
+* 【2026-10-18】[ScrapeCreators / social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) - AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI.
 * 【2026-10-17】[elder-plinius / V3R1T4S](https://github.com/elder-plinius/V3R1T4S) - liberating known unknowns
 * 【2026-10-17】[google / artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.
 * 【2026-10-16】[ahujasid / mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
@@ -6804,6 +6805,7 @@
 * 【2023-12-16】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 ## Go
 
+* 【2026-10-18】[ygelfand / echolocal](https://github.com/ygelfand/echolocal) - Turn an Amazon Echo Dot or Echo Show into a fully local Home Assistant voice satellite, media player, display and Bluetooth proxy. No Amazon, no cloud.
 * 【2026-10-17】[tristenlammi / Arrmada](https://github.com/tristenlammi/Arrmada) - arrrrrrrr
 * 【2026-10-17】[jasonxu114514 / opencode2api](https://github.com/jasonxu114514/opencode2api) - A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.
 * 【2026-10-17】[GoogleCloudPlatform / scion](https://github.com/GoogleCloudPlatform/scion) - 
@@ -8190,6 +8192,7 @@
 * 【2023-12-16】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 ## C
 
+* 【2026-10-18】[shardulvs / xnotes-android](https://github.com/shardulvs/xnotes-android) - A handwriting notes and sketching app for Android with stylus support
 * 【2026-10-17】[timescale / pg_vectorsearch](https://github.com/timescale/pg_vectorsearch) - High-performance vector search for PostgreSQL
 * 【2026-10-16】[KernelSU-Next / KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
 * 【2026-10-14】[rogerbinns / apsw](https://github.com/rogerbinns/apsw) - Another Python SQLite wrapper
@@ -11572,6 +11575,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-10-18】[55gms / 55GMS](https://github.com/55gms/55GMS) - Your gateway to unblocked games and websites using our fast web proxy!
 * 【2026-10-15】[OCA / reporting-engine](https://github.com/OCA/reporting-engine) - Odoo Alternative Reporting Engine
 * 【2026-10-12】[SamidyFR / Game-Decompilations](https://github.com/SamidyFR/Game-Decompilations) - List of Game Decompilations i could gather from around the internet.
 * 【2026-10-12】[Hisn00w / ASu-skills](https://github.com/Hisn00w/ASu-skills) - 🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。
@@ -12521,6 +12525,8 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2026-10-18】[jerrykuku / luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) - Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.
+* 【2026-10-18】[prakhar1989 / docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - 🐬 A comprehensive tutorial on getting started with Docker!
 * 【2026-10-17】[tachyons-css / tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 * 【2026-10-12】[Astromations / Hazy](https://github.com/Astromations/Hazy) - A translucent spicetify theme
 * 【2026-10-03】[noctalia-dev / community-templates](https://github.com/noctalia-dev/community-templates) - Community templates
