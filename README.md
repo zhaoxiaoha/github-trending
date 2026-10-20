@@ -5372,6 +5372,8 @@
 * 【2023-12-16】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌
 ## Javascript
 
+* 【2026-10-20】[YuJunZhiXue / dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) - DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
+* 【2026-10-20】[flizzywine / dsh-tavern](https://github.com/flizzywine/dsh-tavern) - 基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。
 * 【2026-10-17】[superdesigndev / superdesign-skill](https://github.com/superdesigndev/superdesign-skill) - The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev
 * 【2026-10-10】[chuspeeism / dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
 * 【2026-10-10】[chaolucky18 / xuexitongScript](https://github.com/chaolucky18/xuexitongScript) - 学习通自动刷课脚本
@@ -12533,6 +12535,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2026-10-20】[rochacbruno / py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 * 【2026-10-18】[jerrykuku / luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) - Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.
 * 【2026-10-18】[prakhar1989 / docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - 🐬 A comprehensive tutorial on getting started with Docker!
 * 【2026-10-17】[tachyons-css / tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
