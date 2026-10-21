@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-10-21】[sickn33 / agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 * 【2026-10-19】[Kruk2 / jasna](https://github.com/Kruk2/jasna) - Video restoration tool
 * 【2026-10-16】[xerj-org / xerj](https://github.com/xerj-org/xerj) - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
 * 【2026-10-14】[xtool-org / xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
@@ -9315,6 +9316,8 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-10-21】[0x23 / MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper) - A sub-micrometer 3D motion control plattform.
+* 【2026-10-21】[iliasHDZ / Bismuth](https://github.com/iliasHDZ/Bismuth) - Optimization mod for Geometry Dash
 * 【2026-10-19】[mzzvxm / LARecomp](https://github.com/mzzvxm/LARecomp) - 
 * 【2026-10-17】[zeldaret / botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
 * 【2026-10-17】[LittleBitUA / DownpourRecomp](https://github.com/LittleBitUA/DownpourRecomp) - Silent Hill: Downpour — native Windows PC port via static recompilation of the Xbox 360 binary. v1.0 stable: 60 FPS unlocked, ROV warm-cache, standalone launcher, DualSense adaptive triggers, portable saves. Tested on USA + Europe X360 dumps.
@@ -11584,6 +11587,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-10-21】[tykimos / agent-native-agent](https://github.com/tykimos/agent-native-agent) - Self-hosted apps you operate by watching a dashboard and talking to a coding agent that IS the runtime — it proposes, applies, and evolves the app live. Built for Claude Code and MCP.
 * 【2026-10-19】[terkelg / awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 * 【2026-10-18】[55gms / 55GMS](https://github.com/55gms/55GMS) - Your gateway to unblocked games and websites using our fast web proxy!
 * 【2026-10-15】[OCA / reporting-engine](https://github.com/OCA/reporting-engine) - Odoo Alternative Reporting Engine
@@ -12535,6 +12539,7 @@
 * 【2023-12-16】[yuhuage / dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
 ## Css
 
+* 【2026-10-21】[EDMOK / blue-fish-archive](https://github.com/EDMOK/blue-fish-archive) - 蓝色大肥鱼档案馆
 * 【2026-10-20】[rochacbruno / py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 * 【2026-10-18】[jerrykuku / luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) - Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.
 * 【2026-10-18】[prakhar1989 / docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - 🐬 A comprehensive tutorial on getting started with Docker!
