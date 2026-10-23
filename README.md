@@ -1,6 +1,7 @@
 ### Github热门项目
 ## All language
 
+* 【2026-10-23】[Meloong-Git / PCL](https://github.com/Meloong-Git/PCL) - Minecraft 启动器 Plain Craft Launcher（PCL）。
 * 【2026-10-21】[sickn33 / agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 * 【2026-10-19】[Kruk2 / jasna](https://github.com/Kruk2/jasna) - Video restoration tool
 * 【2026-10-16】[xerj-org / xerj](https://github.com/xerj-org/xerj) - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
@@ -9321,6 +9322,7 @@
 * 【2023-12-16】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2026-10-23】[google-pytorch / torch_tpu](https://github.com/google-pytorch/torch_tpu) - 
 * 【2026-10-21】[0x23 / MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper) - A sub-micrometer 3D motion control plattform.
 * 【2026-10-21】[iliasHDZ / Bismuth](https://github.com/iliasHDZ/Bismuth) - Optimization mod for Geometry Dash
 * 【2026-10-19】[mzzvxm / LARecomp](https://github.com/mzzvxm/LARecomp) - 
@@ -11592,6 +11594,7 @@
 * 【2023-12-16】[nilaoda / N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 ## Html
 
+* 【2026-10-23】[MengTo / threeui](https://github.com/MengTo/threeui) - Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 * 【2026-10-21】[tykimos / agent-native-agent](https://github.com/tykimos/agent-native-agent) - Self-hosted apps you operate by watching a dashboard and talking to a coding agent that IS the runtime — it proposes, applies, and evolves the app live. Built for Claude Code and MCP.
 * 【2026-10-19】[terkelg / awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 * 【2026-10-18】[55gms / 55GMS](https://github.com/55gms/55GMS) - Your gateway to unblocked games and websites using our fast web proxy!
@@ -13514,6 +13517,7 @@
 * 【2023-12-16】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 ## Unknown
 
+* 【2026-10-23】[xdash / FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) - FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 * 【2026-10-19】[piomin / claude-ai-spring-boot](https://github.com/piomin/claude-ai-spring-boot) - Claude Code template for Spring Boot and other staff (included in the tags)
 * 【2026-10-19】[togg53192-cmd / jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS
 * 【2026-10-19】[wtsxDev / reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
